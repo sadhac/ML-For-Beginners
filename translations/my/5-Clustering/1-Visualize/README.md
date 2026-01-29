@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "730225ea274c9174fe688b21d421539d",
-  "translation_date": "2025-09-05T12:15:48+00:00",
-  "source_file": "5-Clustering/1-Visualize/README.md",
-  "language_code": "my"
-}
--->
 # Clustering ကိုမိတ်ဆက်ခြင်း
 
 Clustering သည် [Unsupervised Learning](https://wikipedia.org/wiki/Unsupervised_learning) အမျိုးအစားတစ်ခုဖြစ်ပြီး၊ dataset တွင် label မပါရှိခြင်း သို့မဟုတ် input များကို predefined output များနှင့်မတူညီခြင်းကိုယူဆသည်။ Clustering သည် unlabeled data များကိုစီစဉ်ရန်အတွက် အမျိုးမျိုးသော algorithm များကိုအသုံးပြုပြီး၊ data တွင်တွေ့ရှိသော pattern များအပေါ်အခြေခံ၍ အုပ်စုများကိုဖော်ထုတ်ပေးသည်။

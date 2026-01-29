@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-09-05T07:49:42+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "lt"
-}
--->
 # Laiko eilučių prognozavimas naudojant Support Vector Regressor
 
 Ankstesnėje pamokoje sužinojote, kaip naudoti ARIMA modelį laiko eilučių prognozėms. Dabar susipažinsite su Support Vector Regressor modeliu, kuris yra regresijos modelis, skirtas tęstiniams duomenims prognozuoti.

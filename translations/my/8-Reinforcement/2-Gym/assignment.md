@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-09-05T13:51:35+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "my"
-}
--->
 # တောင်တက်ကားကို လေ့ကျင့်ပါ
 
 [OpenAI Gym](http://gym.openai.com) ကို အားလုံးတူညီသော API - `reset`, `step` နှင့် `render` method များနှင့် **action space** နှင့် **observation space** အတွက် တူညီသော အခြေခံအဆင့်များကို ပံ့ပိုးပေးသော ပုံစံဖြင့် ဖန်တီးထားသည်။ ထို့ကြောင့် reinforcement learning algorithm များကို အခြေခံကုဒ်ပြောင်းလဲမှု အနည်းငယ်ဖြင့် အခြားသော environment များတွင် လွယ်ကူစွာ အသုံးပြုနိုင်သည်။

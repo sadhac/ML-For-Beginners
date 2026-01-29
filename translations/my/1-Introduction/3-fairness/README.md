@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9a6b702d1437c0467e3c5c28d763dac2",
-  "translation_date": "2025-09-05T12:40:56+00:00",
-  "source_file": "1-Introduction/3-fairness/README.md",
-  "language_code": "my"
-}
--->
 # တာဝန်ရှိသော AI ဖြင့် စက်မှုသင်ယူမှုဖြေရှင်းချက်များ တည်ဆောက်ခြင်း
 
 ![စက်မှုသင်ယူမှုတွင် တာဝန်ရှိသော AI အကြောင်းအရာကို ရှင်းပြထားသော ပုံ](../../../../sketchnotes/ml-fairness.png)

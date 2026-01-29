@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-05T11:30:53+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "my"
-}
--->
 # Scikit-learn ကို အသုံးပြု၍ Regression မော်ဒယ်တစ်ခု တည်ဆောက်ခြင်း: Regression လုပ်နည်း ၄ မျိုး
 
 ![Linear vs polynomial regression infographic](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -114,11 +105,11 @@ Linear Regression ရဲ့ သင်္ချာကို နားလည်ပ
 
 ယခင်သင်ခန်းစာမှ သင်မြင်ခဲ့သည်မှာ အမျိုးမျိုးသောလများအတွက် အလယ်ပျဉ်စျေးနှုန်းသည် အောက်ပါအတိုင်းဖြစ်သည်။
 
-<img alt="Average price by month" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="Average price by month" src="../../../../translated_images/my/barchart.a833ea9194346d76.webp" width="50%"/>
 
 ဒါက correlation ရှိနိုင်သည်ဟု အကြံပြုသည်။ Linear Regression မော်ဒယ်ကို `Month` နှင့် `Price` အကြား သို့မဟုတ် `DayOfYear` နှင့် `Price` အကြား ဆက်နွယ်မှုကို ခန့်မှန်းရန် လေ့ကျင့်ကြည့်နိုင်သည်။ အောက်ပါ scatter plot က `DayOfYear` နှင့် `Price` အကြား ဆက်နွယ်မှုကို ပြသည်။
 
-<img alt="Scatter plot of Price vs. Day of Year" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="Scatter plot of Price vs. Day of Year" src="../../../../translated_images/my/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 `corr` function ကို အသုံးပြု၍ correlation ရှိမရှိ ကြည့်ရအောင်။
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="Scatter plot of Price vs. Day of Year" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="Scatter plot of Price vs. Day of Year" src="../../../../translated_images/my/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 ကျွန်ုပ်တို့ရဲ့ စုံစမ်းမှုက variety က စျေးနှုန်းအပေါ် date ထက် ပိုမိုသက်ရောက်မှုရှိသည်ဟု အတည်ပြုသည်။ Bar graph ဖြင့်လည်း မြင်နိုင်သည်။
 
@@ -145,7 +136,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="Bar graph of price vs variety" src="images/price-by-variety.png" width="50%" /> 
+<img alt="Bar graph of price vs variety" src="../../../../translated_images/my/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 ယခုအချိန်မှာ 'pie type' ဟုခေါ်သော Pumpkin အမျိုးအစားတစ်ခုကိုသာ အာရုံစိုက်ပြီး date ရဲ့ စျေးနှုန်းအပေါ် သက်ရောက်မှုကို ကြည့်ရအောင်။
 
@@ -153,7 +144,7 @@ new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="Scatter plot of Price vs. Day of Year" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="Scatter plot of Price vs. Day of Year" src="../../../../translated_images/my/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 `corr` function ကို အသုံးပြု၍ `Price` နှင့် `DayOfYear` အကြား correlation ကို တွက်ချက်ပါက `-0.27` ရရှိမည် - ဒါက predictive model တစ်ခုကို လေ့ကျင့်ခြင်း make sense ဖြစ်သည်ဟု ဆိုလိုသည်။
 
@@ -211,7 +202,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```  
 
-<img alt="Linear regression" src="images/linear-results.png" width="50%" />
+<img alt="Linear regression" src="../../../../translated_images/my/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## Polynomial Regression  
 
@@ -240,7 +231,7 @@ pipeline.fit(X_train,y_train)
 
 Pipelines တွေကို original `LinearRegression` object နဲ့တူညီတဲ့နည်းလမ်းနဲ့အသုံးပြုနိုင်ပြီး၊ pipeline ကို `fit` လုပ်ပြီး၊ `predict` ကိုအသုံးပြုပြီး prediction results ရနိုင်ပါတယ်။ ဒီမှာ test data နဲ့ approximation curve ကိုပြသထားပါတယ်။
 
-<img alt="Polynomial regression" src="images/poly-results.png" width="50%" />
+<img alt="Polynomial regression" src="../../../../translated_images/my/poly-results.ee587348f0f1f60b.webp" width="50%" />
 
 Polynomial Regression ကိုအသုံးပြုပြီး MSE နည်းပြီး determination မြင့်တက်နိုင်ပေမယ့်၊ အတော်လေးမထူးခြားပါဘူး။ အခြား feature တွေကိုလည်းထည့်သွင်းစဉ်းစားဖို့လိုအပ်ပါတယ်။
 
@@ -258,7 +249,7 @@ Polynomial Regression ကိုအသုံးပြုပြီး MSE နည�
 
 ဒီမှာ variety အပေါ်မူတည်ပြီးပျမ်းမျှစျေးနှုန်းကိုမြင်နိုင်ပါတယ်။
 
-<img alt="Average price by variety" src="images/price-by-variety.png" width="50%" />
+<img alt="Average price by variety" src="../../../../translated_images/my/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 Variety ကိုစဉ်းစားဖို့အတွက်၊ variety ကို numeric form သို့မဟုတ် **encode** လုပ်ဖို့လိုအပ်ပါတယ်။ encode လုပ်နည်းအမျိုးမျိုးရှိပါတယ်-
 

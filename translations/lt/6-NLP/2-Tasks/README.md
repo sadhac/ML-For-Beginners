@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5f3cb462e3122e1afe7ab0050ccf2bd3",
-  "translation_date": "2025-09-05T08:04:19+00:00",
-  "source_file": "6-NLP/2-Tasks/README.md",
-  "language_code": "lt"
-}
--->
 # Dažniausios natūralios kalbos apdorojimo užduotys ir technikos
 
 Daugumai *natūralios kalbos apdorojimo* užduočių tekstas, kurį reikia apdoroti, turi būti suskaidytas, išanalizuotas, o rezultatai saugomi arba lyginami su taisyklėmis ir duomenų rinkiniais. Šios užduotys leidžia programuotojui išgauti _prasmę_, _ketinimą_ arba tiesiog _terminų ir žodžių dažnį_ tekste.

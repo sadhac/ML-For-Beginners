@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-09-05T13:32:51+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "my"
-}
--->
 # reinforcement learning အကြောင်းမိတ်ဆက်
 
 Reinforcement learning (RL) သည် supervised learning နှင့် unsupervised learning အနောက်တွင် machine learning ရဲ့ အခြေခံ paradigm တစ်ခုအဖြစ်လေ့လာခံရသော နည်းလမ်းတစ်ခုဖြစ်သည်။ RL သည် ဆုံးဖြတ်ချက်များနှင့်ပတ်သက်ပြီးဖြစ်သည်။ မှန်ကန်သော ဆုံးဖြတ်ချက်များပေးခြင်း သို့မဟုတ် အနည်းဆုံး အဲဒီဆုံးဖြတ်ချက်များမှ သင်ယူခြင်းကို အဓိကထားသည်။

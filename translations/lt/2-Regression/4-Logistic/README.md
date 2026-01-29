@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "abf86d845c84330bce205a46b382ec88",
-  "translation_date": "2025-09-05T07:45:13+00:00",
-  "source_file": "2-Regression/4-Logistic/README.md",
-  "language_code": "lt"
-}
--->
 # Logistinė regresija kategorijoms prognozuoti
 
 ![Logistinės ir linijinės regresijos infografika](../../../../2-Regression/4-Logistic/images/linear-vs-logistic.png)

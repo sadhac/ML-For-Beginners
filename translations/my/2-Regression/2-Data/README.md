@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "7c077988328ebfe33b24d07945f16eca",
-  "translation_date": "2025-09-05T11:47:48+00:00",
-  "source_file": "2-Regression/2-Data/README.md",
-  "language_code": "my"
-}
--->
 # Scikit-learn ကို အသုံးပြု၍ Regression Model တည်ဆောက်ခြင်း - ဒေတာကို ပြင်ဆင်ပြီး ရှင်းလင်းဖော်ပြခြင်း
 
 ![ဒေတာရှင်းလင်းဖော်ပြမှု infographic](../../../../2-Regression/2-Data/images/data-visualization.png)

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1c814013e10866dfd92cdb32caaae3ac",
-  "translation_date": "2025-09-05T11:57:27+00:00",
-  "source_file": "7-TimeSeries/2-ARIMA/assignment.md",
-  "language_code": "my"
-}
--->
 # ARIMA မော်ဒယ်အသစ်တစ်ခု
 
 ## လုပ်ဆောင်ရန်ညွှန်ကြားချက်များ

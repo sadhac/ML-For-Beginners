@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "aaf391d922bd6de5efba871d514c6d47",
-  "translation_date": "2025-09-05T08:00:35+00:00",
-  "source_file": "4-Classification/1-Introduction/README.md",
-  "language_code": "lt"
-}
--->
 # Įvadas į klasifikaciją
 
 Šiose keturiose pamokose jūs susipažinsite su pagrindiniu klasikinių mašininio mokymosi aspektu - _klasifikacija_. Mes išnagrinėsime įvairius klasifikacijos algoritmus naudodami duomenų rinkinį apie visus nuostabius Azijos ir Indijos virtuvių patiekalus. Tikimės, kad esate alkani!

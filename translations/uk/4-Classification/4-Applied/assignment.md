@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "799ed651e2af0a7cad17c6268db11578",
-  "translation_date": "2025-09-05T13:13:33+00:00",
-  "source_file": "4-Classification/4-Applied/assignment.md",
-  "language_code": "uk"
-}
--->
 # Створіть рекомендаційну систему
 
 ## Інструкції

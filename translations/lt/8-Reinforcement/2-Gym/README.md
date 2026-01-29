@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "107d5bb29da8a562e7ae72262d251a75",
-  "translation_date": "2025-09-05T08:03:21+00:00",
-  "source_file": "8-Reinforcement/2-Gym/README.md",
-  "language_code": "lt"
-}
--->
 # CartPole čiuožimas
 
 Problema, kurią sprendėme ankstesnėje pamokoje, gali atrodyti kaip žaislinė užduotis, neturinti realaus pritaikymo. Tačiau tai nėra tiesa, nes daugelis realaus pasaulio problemų taip pat turi panašų scenarijų – įskaitant šachmatų ar Go žaidimą. Jos yra panašios, nes taip pat turime lentą su tam tikromis taisyklėmis ir **diskretinę būseną**.

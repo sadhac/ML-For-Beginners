@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "be03c8182982b87ced155e4e9d1438e8",
-  "translation_date": "2025-09-05T08:07:13+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/README.md",
-  "language_code": "lt"
-}
--->
 # Vertimas ir nuotaikos analizė su ML
 
 Ankstesnėse pamokose išmokote sukurti pagrindinį botą naudojant `TextBlob`, biblioteką, kuri užkulisiuose naudoja ML, kad atliktų pagrindines NLP užduotis, tokias kaip daiktavardžių frazių ištraukimas. Kitas svarbus iššūkis kompiuterinėje lingvistikoje yra tiksli _sakinių vertimo_ iš vienos kalbos į kitą problema.

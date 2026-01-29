@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9836ff53cfef716ddfd70e06c5f43436",
-  "translation_date": "2025-09-03T17:53:15+00:00",
-  "source_file": "3-Web-App/README.md",
-  "language_code": "lt"
-}
--->
 # Sukurkite internetinę programą, kad galėtumėte naudoti savo ML modelį
 
 Šioje mokymo programos dalyje susipažinsite su praktiniu ML aspektu: kaip išsaugoti savo Scikit-learn modelį kaip failą, kurį galima naudoti prognozėms internetinėje programoje. Kai modelis bus išsaugotas, sužinosite, kaip jį naudoti internetinėje programoje, sukurtoje naudojant Flask. Pirmiausia sukursite modelį naudodami duomenis apie NSO stebėjimus! Tada sukursite internetinę programą, kuri leis įvesti sekundžių skaičių, platumos ir ilgumos reikšmes, kad būtų galima prognozuoti, kuri šalis pranešė apie NSO stebėjimą.

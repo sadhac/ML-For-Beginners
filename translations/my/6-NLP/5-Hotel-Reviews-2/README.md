@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "2c742993fe95d5bcbb2846eda3d442a1",
-  "translation_date": "2025-09-05T14:25:19+00:00",
-  "source_file": "6-NLP/5-Hotel-Reviews-2/README.md",
-  "language_code": "my"
-}
--->
 # ဟိုတယ်အကြောင်းအမြင်သုံးသပ်မှု (Sentiment Analysis)
 
 အခု dataset ကိုအသေးစိတ်လေ့လာပြီးပြီဆိုတော့၊ column တွေကို filter လုပ်ပြီးနောက်မှာ NLP နည်းလမ်းတွေကိုအသုံးပြုကာ ဟိုတယ်များအကြောင်းအသစ်အမြင်တွေ ရယူနိုင်ဖို့အချိန်ရောက်ပါပြီ။

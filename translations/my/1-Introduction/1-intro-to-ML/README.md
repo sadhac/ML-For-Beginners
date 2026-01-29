@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "69389392fa6346e0dfa30f664b7b6fec",
-  "translation_date": "2025-09-05T12:49:34+00:00",
-  "source_file": "1-Introduction/1-intro-to-ML/README.md",
-  "language_code": "my"
-}
--->
 # စက်ရုပ်သင်ယူမှုအကြောင်းအရာ
 
 ## [Pre-lecture quiz](https://ff-quizzes.netlify.app/en/ml/)

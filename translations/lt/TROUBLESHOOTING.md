@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "134d8759f0e2ab886e9aa4f62362c201",
-  "translation_date": "2025-10-03T12:57:45+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "lt"
-}
--->
 # Trikčių šalinimo vadovas
 
 Šis vadovas padės išspręsti dažniausiai pasitaikančias problemas, susijusias su „Machine Learning for Beginners“ mokymo programa. Jei čia nerandate sprendimo, apsilankykite mūsų [Discord diskusijose](https://aka.ms/foundry/discord) arba [atidarykite problemą](https://github.com/microsoft/ML-For-Beginners/issues).

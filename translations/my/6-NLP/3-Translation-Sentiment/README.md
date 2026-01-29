@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "be03c8182982b87ced155e4e9d1438e8",
-  "translation_date": "2025-09-05T14:16:35+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/README.md",
-  "language_code": "my"
-}
--->
 # Machine Learning ဖြင့် ဘာသာပြန်ခြင်းနှင့်ခံစားချက်ခွဲခြားခြင်း
 
 ယခင်သင်ခန်းစာများတွင် `TextBlob` ကို အသုံးပြု၍ အခြေခံ bot တစ်ခုကို တည်ဆောက်နည်းကို သင်လေ့လာခဲ့ပါသည်။ `TextBlob` သည် noun phrase extraction ကဲ့သို့သော အခြေခံ NLP လုပ်ငန်းများကို လုပ်ဆောင်ရန် ML ကို နောက်ကွယ်တွင် ပေါင်းစပ်ထားသော library တစ်ခုဖြစ်သည်။ Computational linguistics တွင် အရေးကြီးသော စိန်ခေါ်မှုတစ်ခုမှာ စကားလုံးများကို တစ်ဘာသာမှ တစ်ဘာသာသို့ တိကျစွာ _ဘာသာပြန်ခြင်း_ ဖြစ်သည်။

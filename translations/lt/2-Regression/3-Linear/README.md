@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-05T07:43:58+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "lt"
-}
--->
 # Sukurkite regresijos modelį naudodami Scikit-learn: keturi regresijos būdai
 
 ![Linijinės ir polinominės regresijos infografika](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -114,11 +105,11 @@ Dabar, kai suprantate linijinės regresijos matematiką, sukurkime regresijos mo
 
 Iš ankstesnės pamokos tikriausiai matėte, kad vidutinė kaina skirtingais mėnesiais atrodo taip:
 
-<img alt="Vidutinė kaina pagal mėnesį" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="Vidutinė kaina pagal mėnesį" src="../../../../translated_images/lt/barchart.a833ea9194346d76.webp" width="50%"/>
 
 Tai rodo, kad turėtų būti tam tikra koreliacija, ir galime pabandyti treniruoti linijinį regresijos modelį, kad prognozuotume ryšį tarp `Mėnuo` ir `Kaina`, arba tarp `MetųDiena` ir `Kaina`. Štai sklaidos grafikas, rodantis pastarąjį ryšį:
 
-<img alt="Sklaidos grafikas: Kaina vs. Metų Diena" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="Sklaidos grafikas: Kaina vs. Metų Diena" src="../../../../translated_images/lt/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 Pažiūrėkime, ar yra koreliacija, naudodami `corr` funkciją:
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="Sklaidos grafikas: Kaina vs. Metų Diena" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="Sklaidos grafikas: Kaina vs. Metų Diena" src="../../../../translated_images/lt/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 Mūsų tyrimas rodo, kad rūšis turi didesnę įtaką bendrai kainai nei faktinė pardavimo data. Tai galime pamatyti stulpeline diagrama:
 
@@ -145,7 +136,7 @@ Mūsų tyrimas rodo, kad rūšis turi didesnę įtaką bendrai kainai nei faktin
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="Stulpelinė diagrama: Kaina pagal rūšį" src="images/price-by-variety.png" width="50%" /> 
+<img alt="Stulpelinė diagrama: Kaina pagal rūšį" src="../../../../translated_images/lt/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 Dabar sutelkime dėmesį tik į vieną moliūgų rūšį, „pie type“, ir pažiūrėkime, kokią įtaką data turi kainai:
 
@@ -153,7 +144,7 @@ Dabar sutelkime dėmesį tik į vieną moliūgų rūšį, „pie type“, ir pa�
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="Sklaidos grafikas: Kaina vs. Metų Diena" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="Sklaidos grafikas: Kaina vs. Metų Diena" src="../../../../translated_images/lt/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 Jei dabar apskaičiuosime koreliaciją tarp `Kaina` ir `MetųDiena` naudodami `corr` funkciją, gausime maždaug `-0.27` - tai reiškia, kad treniruoti prognozavimo modelį yra prasminga.
 
@@ -218,7 +209,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```  
 
-<img alt="Linijinė regresija" src="images/linear-results.png" width="50%" />
+<img alt="Linijinė regresija" src="../../../../translated_images/lt/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## Polinominė regresija  
 
@@ -247,7 +238,7 @@ Naudojant `PolynomialFeatures(2)` reiškia, kad įtrauksime visus antro laipsnio
 
 Pipeline galima naudoti taip pat, kaip ir originalų `LinearRegression` objektą, t.y. galime `fit` pipeline, o tada naudoti `predict`, kad gautume prognozės rezultatus. Štai grafikas, rodantis testinius duomenis ir aproksimacijos kreivę:
 
-<img alt="Polinominė regresija" src="images/poly-results.png" width="50%" />
+<img alt="Polinominė regresija" src="../../../../translated_images/lt/poly-results.ee587348f0f1f60b.webp" width="50%" />
 
 Naudojant polinominę regresiją, galime gauti šiek tiek mažesnį MSE ir aukštesnį determinacijos koeficientą, bet ne žymiai. Turime atsižvelgti į kitas savybes!
 
@@ -265,7 +256,7 @@ Idealiame pasaulyje norėtume sugebėti prognozuoti kainas skirtingoms moliūgų
 
 Čia galite pamatyti, kaip vidutinė kaina priklauso nuo veislės:
 
-<img alt="Vidutinė kaina pagal veislę" src="images/price-by-variety.png" width="50%" />
+<img alt="Vidutinė kaina pagal veislę" src="../../../../translated_images/lt/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 Norėdami atsižvelgti į veislę, pirmiausia turime ją konvertuoti į skaitinę formą, arba **užkoduoti**. Yra keli būdai, kaip tai padaryti:
 

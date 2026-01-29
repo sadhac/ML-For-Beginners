@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "977ec5266dfd78ad1ce2bd8d46fccbda",
-  "translation_date": "2025-09-05T11:21:55+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "uk"
-}
--->
 # Участь у проекті
 
 Цей проєкт вітає внески та пропозиції. Більшість внесків вимагають від вас

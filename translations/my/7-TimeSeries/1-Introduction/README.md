@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "662b509c39eee205687726636d0a8455",
-  "translation_date": "2025-09-05T12:01:59+00:00",
-  "source_file": "7-TimeSeries/1-Introduction/README.md",
-  "language_code": "my"
-}
--->
 # အချိန်စီးဆင်းမှုခန့်မှန်းခြေကိုမိတ်ဆက်ခြင်း
 
 ![အချိန်စီးဆင်းမှုအကျဉ်းချုပ်ကို Sketchnote](../../../../sketchnotes/ml-timeseries.png)

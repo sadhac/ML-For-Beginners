@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e0b75f73e4a90d45181dc5581fe2ef5c",
-  "translation_date": "2025-09-05T07:57:52+00:00",
-  "source_file": "3-Web-App/1-Web-App/README.md",
-  "language_code": "lt"
-}
--->
 # Sukurkite internetinę programą, naudojančią ML modelį
 
 Šioje pamokoje treniruosite ML modelį su duomenų rinkiniu, kuris yra tiesiog neįtikėtinas: _NSO stebėjimai per pastarąjį šimtmetį_, gauti iš NUFORC duomenų bazės.

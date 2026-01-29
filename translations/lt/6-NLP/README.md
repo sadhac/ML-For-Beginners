@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1eb379dc2d0c9940b320732d16083778",
-  "translation_date": "2025-09-03T18:45:22+00:00",
-  "source_file": "6-NLP/README.md",
-  "language_code": "lt"
-}
--->
 # Pradžia su natūralios kalbos apdorojimu
 
 Natūralios kalbos apdorojimas (NLP) – tai kompiuterinės programos gebėjimas suprasti žmogaus kalbą, kaip ji yra kalbama ir rašoma, vadinamą natūralia kalba. Tai dirbtinio intelekto (AI) komponentas. NLP egzistuoja jau daugiau nei 50 metų ir turi šaknis lingvistikos srityje. Visa sritis yra skirta padėti mašinoms suprasti ir apdoroti žmogaus kalbą. Tai gali būti naudojama atliekant užduotis, tokias kaip rašybos tikrinimas ar mašininis vertimas. NLP turi daugybę realaus pasaulio pritaikymo galimybių įvairiose srityse, įskaitant medicinos tyrimus, paieškos sistemas ir verslo analitiką.

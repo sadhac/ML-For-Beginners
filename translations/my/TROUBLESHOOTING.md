@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "134d8759f0e2ab886e9aa4f62362c201",
-  "translation_date": "2025-10-03T12:56:43+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "my"
-}
--->
 # ပြဿနာဖြေရှင်းလမ်းညွှန်
 
 ဤလမ်းညွှန်သည် Machine Learning for Beginners သင်ခန်းစာများနှင့်အလုပ်လုပ်နေစဉ်တွင် ကြုံတွေ့ရသော ပုံမှန်ပြဿနာများကို ဖြေရှင်းရန် ကူညီပေးပါသည်။ ဤနေရာတွင် ဖြေရှင်းချက်မတွေ့ပါက [Discord Discussions](https://aka.ms/foundry/discord) သို့မဟုတ် [open an issue](https://github.com/microsoft/ML-For-Beginners/issues) တွင် စစ်ဆေးပါ။
