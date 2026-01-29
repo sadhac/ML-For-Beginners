@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-05T18:39:01+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "he"
-}
--->
 # בניית מודל רגרסיה באמצעות Scikit-learn: רגרסיה בארבע דרכים
 
 ![אינפוגרפיקה של רגרסיה לינארית מול פולינומית](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -114,11 +105,11 @@ day_of_year = pd.to_datetime(pumpkins['Date']).apply(lambda dt: (dt-datetime(dt.
 
 מהשיעור הקודם כנראה ראיתם שהמחיר הממוצע עבור חודשים שונים נראה כך:
 
-<img alt="מחיר ממוצע לפי חודש" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="מחיר ממוצע לפי חודש" src="../../../../translated_images/he/barchart.a833ea9194346d76.webp" width="50%"/>
 
 זה מציע שיכול להיות מתאם, ואנו יכולים לנסות לאמן מודל רגרסיה לינארית כדי לחזות את הקשר בין `Month` ל-`Price`, או בין `DayOfYear` ל-`Price`. הנה גרף הפיזור שמראה את הקשר האחרון:
 
-<img alt="גרף פיזור של מחיר מול יום בשנה" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="גרף פיזור של מחיר מול יום בשנה" src="../../../../translated_images/he/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 בואו נראה אם יש מתאם באמצעות פונקציית `corr`:
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="גרף פיזור של מחיר מול יום בשנה" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="גרף פיזור של מחיר מול יום בשנה" src="../../../../translated_images/he/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 החקירה שלנו מציעה שלזן יש השפעה גדולה יותר על המחיר הכולל מאשר תאריך המכירה בפועל. אנו יכולים לראות זאת עם גרף עמודות:
 
@@ -145,7 +136,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="גרף עמודות של מחיר מול זן" src="images/price-by-variety.png" width="50%" /> 
+<img alt="גרף עמודות של מחיר מול זן" src="../../../../translated_images/he/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 בואו נתמקד לרגע רק בזן אחד של דלעות, 'סוג פאי', ונראה מה ההשפעה של התאריך על המחיר:
 
@@ -153,7 +144,7 @@ new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="גרף פיזור של מחיר מול יום בשנה" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="גרף פיזור של מחיר מול יום בשנה" src="../../../../translated_images/he/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 אם עכשיו נחשב את המתאם בין `Price` ל-`DayOfYear` באמצעות פונקציית `corr`, נקבל משהו כמו `-0.27` - מה שאומר שאימון מודל חיזוי הגיוני.
 
@@ -227,7 +218,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```  
 
-<img alt="רגרסיה ליניארית" src="images/linear-results.png" width="50%" />
+<img alt="רגרסיה ליניארית" src="../../../../translated_images/he/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## רגרסיה פולינומית
 
@@ -256,7 +247,7 @@ pipeline.fit(X_train,y_train)
 
 ניתן להשתמש בצינורות באותו אופן כמו באובייקט `LinearRegression` המקורי, כלומר ניתן להשתמש ב-`fit` בצינור ואז ב-`predict` כדי לקבל את תוצאות הניבוי. הנה הגרף שמראה את נתוני הבדיקה ואת עקומת הקירוב:
 
-<img alt="רגרסיה פולינומית" src="images/poly-results.png" width="50%" />
+<img alt="רגרסיה פולינומית" src="../../../../translated_images/he/poly-results.ee587348f0f1f60b.webp" width="50%" />
 
 שימוש ברגרסיה פולינומית מאפשר לנו לקבל MSE מעט נמוך יותר ומקדם החלטיות גבוה יותר, אך לא באופן משמעותי. יש לקחת בחשבון תכונות נוספות!
 
@@ -274,7 +265,7 @@ pipeline.fit(X_train,y_train)
 
 כאן ניתן לראות איך המחיר הממוצע תלוי בסוג הדלעת:
 
-<img alt="מחיר ממוצע לפי סוג" src="images/price-by-variety.png" width="50%" />
+<img alt="מחיר ממוצע לפי סוג" src="../../../../translated_images/he/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 כדי לקחת את סוג הדלעת בחשבון, תחילה עלינו להמיר אותו לצורה מספרית, או **לקודד** אותו. ישנן מספר דרכים לעשות זאת:
 

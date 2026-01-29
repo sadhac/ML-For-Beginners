@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "d1781b0b92568ea1d119d0a198b576b4",
-  "translation_date": "2025-09-05T19:05:59+00:00",
-  "source_file": "7-TimeSeries/1-Introduction/assignment.md",
-  "language_code": "he"
-}
--->
 # הצגת סדרות זמן נוספות
 
 ## הוראות

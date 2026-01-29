@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-09-05T19:08:01+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "vi"
-}
--->
 # Dự đoán chuỗi thời gian với Support Vector Regressor
 
 Trong bài học trước, bạn đã học cách sử dụng mô hình ARIMA để dự đoán chuỗi thời gian. Bây giờ, bạn sẽ tìm hiểu về mô hình Support Vector Regressor, một mô hình hồi quy được sử dụng để dự đoán dữ liệu liên tục.

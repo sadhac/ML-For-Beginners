@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "8d32dadeda93c6fb5c43619854882ab1",
-  "translation_date": "2025-09-05T20:30:33+00:00",
-  "source_file": "6-NLP/4-Hotel-Reviews-1/README.md",
-  "language_code": "vi"
-}
--->
 # Phân tích cảm xúc với đánh giá khách sạn - xử lý dữ liệu
 
 Trong phần này, bạn sẽ sử dụng các kỹ thuật đã học ở các bài trước để thực hiện phân tích dữ liệu khám phá trên một tập dữ liệu lớn. Sau khi hiểu rõ về tính hữu ích của các cột khác nhau, bạn sẽ học:

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4485a1ed4dd1b5647365e3d87456515d",
-  "translation_date": "2025-09-05T18:57:03+00:00",
-  "source_file": "2-Regression/2-Data/assignment.md",
-  "language_code": "vi"
-}
--->
 # Khám phá trực quan hóa dữ liệu
 
 Có nhiều thư viện khác nhau có sẵn để trực quan hóa dữ liệu. Tạo một số biểu đồ trực quan sử dụng dữ liệu Pumpkin trong bài học này với matplotlib và seaborn trong một notebook mẫu. Những thư viện nào dễ sử dụng hơn?

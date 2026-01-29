@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "8d32dadeda93c6fb5c43619854882ab1",
-  "translation_date": "2025-09-05T20:28:23+00:00",
-  "source_file": "6-NLP/4-Hotel-Reviews-1/README.md",
-  "language_code": "nl"
-}
--->
 # Sentimentanalyse met hotelbeoordelingen - gegevens verwerken
 
 In deze sectie gebruik je de technieken uit de vorige lessen om een verkennende gegevensanalyse uit te voeren op een grote dataset. Zodra je een goed begrip hebt van de bruikbaarheid van de verschillende kolommen, leer je:

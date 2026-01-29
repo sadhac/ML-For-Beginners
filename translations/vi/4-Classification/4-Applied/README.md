@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61bdec27ed2da8b098cd9065405d9bb0",
-  "translation_date": "2025-09-05T19:54:06+00:00",
-  "source_file": "4-Classification/4-Applied/README.md",
-  "language_code": "vi"
-}
--->
 # Xây dựng ứng dụng web gợi ý món ăn
 
 Trong bài học này, bạn sẽ xây dựng một mô hình phân loại bằng cách sử dụng một số kỹ thuật đã học trong các bài trước và với bộ dữ liệu món ăn ngon được sử dụng xuyên suốt loạt bài này. Ngoài ra, bạn sẽ xây dựng một ứng dụng web nhỏ để sử dụng mô hình đã lưu, tận dụng runtime web của Onnx.

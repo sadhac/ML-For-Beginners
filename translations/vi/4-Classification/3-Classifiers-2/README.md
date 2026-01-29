@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "49047911108adc49d605cddfb455749c",
-  "translation_date": "2025-09-05T19:56:29+00:00",
-  "source_file": "4-Classification/3-Classifiers-2/README.md",
-  "language_code": "vi"
-}
--->
 # Bộ phân loại ẩm thực 2
 
 Trong bài học phân loại thứ hai này, bạn sẽ khám phá thêm các cách để phân loại dữ liệu số. Bạn cũng sẽ tìm hiểu về hậu quả của việc chọn một bộ phân loại này thay vì bộ phân loại khác.

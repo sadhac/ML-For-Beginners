@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-09-05T18:57:34+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "nl"
-}
--->
 # Introductie tot tijdreeksvoorspelling
 
 Wat is tijdreeksvoorspelling? Het gaat om het voorspellen van toekomstige gebeurtenissen door trends uit het verleden te analyseren.

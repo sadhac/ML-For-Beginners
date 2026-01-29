@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "58dfdaf79fb73f7d34b22bdbacf57329",
-  "translation_date": "2025-09-05T19:57:35+00:00",
-  "source_file": "4-Classification/3-Classifiers-2/assignment.md",
-  "language_code": "vi"
-}
--->
 # Chơi với Tham số
 
 ## Hướng dẫn

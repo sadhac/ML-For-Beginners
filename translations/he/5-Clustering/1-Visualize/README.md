@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "730225ea274c9174fe688b21d421539d",
-  "translation_date": "2025-09-05T19:11:55+00:00",
-  "source_file": "5-Clustering/1-Visualize/README.md",
-  "language_code": "he"
-}
--->
 # מבוא לקיבוץ
 
 קיבוץ הוא סוג של [למידה ללא פיקוח](https://wikipedia.org/wiki/Unsupervised_learning) שמניח כי מערך הנתונים אינו מתויג או שהקלטים שלו אינם מותאמים לפלטים מוגדרים מראש. הוא משתמש באלגוריתמים שונים כדי למיין נתונים לא מתויגים ולספק קבוצות בהתאם לדפוסים שהוא מזהה בנתונים.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-09-05T20:22:54+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "he"
-}
--->
 # אימון מכונית הרים
 
 [OpenAI Gym](http://gym.openai.com) תוכנן כך שכל הסביבות מספקות את אותו API - כלומר, אותן שיטות `reset`, `step` ו-`render`, ואותן הפשטות של **מרחב הפעולה** ו**מרחב התצפית**. לכן, אמור להיות אפשרי להתאים את אותם אלגוריתמים של למידת חיזוק לסביבות שונות עם שינויים מינימליים בקוד.

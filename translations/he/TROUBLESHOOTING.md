@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "134d8759f0e2ab886e9aa4f62362c201",
-  "translation_date": "2025-10-03T12:49:46+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "he"
-}
--->
 # מדריך לפתרון תקלות
 
 מדריך זה יעזור לכם לפתור בעיות נפוצות בעת עבודה עם תכנית הלימודים של "למידת מכונה למתחילים". אם לא מצאתם פתרון כאן, אנא בדקו את [דיוני הדיסקורד](https://aka.ms/foundry/discord) או [פתחו בעיה](https://github.com/microsoft/ML-For-Beginners/issues).

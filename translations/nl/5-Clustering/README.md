@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-09-05T19:10:02+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "nl"
-}
--->
 # Clustermodellen voor machine learning
 
 Clustering is een machine learning-taak waarbij wordt gezocht naar objecten die op elkaar lijken en deze worden gegroepeerd in groepen die clusters worden genoemd. Wat clustering onderscheidt van andere benaderingen in machine learning, is dat alles automatisch gebeurt. Sterker nog, het is eerlijk om te zeggen dat het het tegenovergestelde is van supervised learning.

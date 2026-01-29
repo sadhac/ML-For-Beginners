@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-09-05T20:09:51+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "vi"
-}
--->
 # Giới thiệu về học tăng cường
 
 Học tăng cường, hay RL, được xem là một trong những mô hình học máy cơ bản, bên cạnh học có giám sát và học không giám sát. RL xoay quanh việc đưa ra quyết định: đưa ra quyết định đúng hoặc ít nhất là học hỏi từ những quyết định đã đưa ra.

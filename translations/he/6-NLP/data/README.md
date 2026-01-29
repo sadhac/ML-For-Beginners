@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ee0670655c89e4719319764afb113624",
-  "translation_date": "2025-09-05T20:35:05+00:00",
-  "source_file": "6-NLP/data/README.md",
-  "language_code": "he"
-}
--->
 הורד את נתוני ביקורת המלון לתיקייה זו.
 
 ---

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "83320d6b6994909e35d830cebf214039",
-  "translation_date": "2025-09-05T19:21:14+00:00",
-  "source_file": "9-Real-World/1-Applications/README.md",
-  "language_code": "nl"
-}
--->
 # Postscript: Machine learning in de echte wereld
 
 ![Samenvatting van machine learning in de echte wereld in een sketchnote](../../../../sketchnotes/ml-realworld.png)

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "68394b2102d3503882e5e914bd0ff5c1",
-  "translation_date": "2025-09-05T20:17:41+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/assignment.md",
-  "language_code": "vi"
-}
--->
 # Một Thế Giới Thực Tế Hơn
 
 Trong tình huống của chúng ta, Peter có thể di chuyển gần như không cảm thấy mệt mỏi hay đói. Trong một thế giới thực tế hơn, anh ấy cần phải ngồi xuống nghỉ ngơi thỉnh thoảng, và cũng cần ăn uống để duy trì sức khỏe. Hãy làm cho thế giới của chúng ta thực tế hơn bằng cách áp dụng các quy tắc sau:

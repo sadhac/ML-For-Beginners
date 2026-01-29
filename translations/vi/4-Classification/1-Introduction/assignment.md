@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b2a01912beb24cfb0007f83594dba801",
-  "translation_date": "2025-09-05T20:00:34+00:00",
-  "source_file": "4-Classification/1-Introduction/assignment.md",
-  "language_code": "vi"
-}
--->
 # Khám phá các phương pháp phân loại
 
 ## Hướng dẫn

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "134d8759f0e2ab886e9aa4f62362c201",
-  "translation_date": "2025-10-03T12:49:16+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "nl"
-}
--->
 # Probleemoplossingsgids
 
 Deze gids helpt je bij het oplossen van veelvoorkomende problemen bij het werken met het curriculum Machine Learning voor Beginners. Als je hier geen oplossing vindt, kijk dan op onze [Discord Discussies](https://aka.ms/foundry/discord) of [open een issue](https://github.com/microsoft/ML-For-Beginners/issues).

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "be03c8182982b87ced155e4e9d1438e8",
-  "translation_date": "2025-09-05T20:39:35+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/README.md",
-  "language_code": "vi"
-}
--->
 # Dịch thuật và phân tích cảm xúc với ML
 
 Trong các bài học trước, bạn đã học cách xây dựng một bot cơ bản sử dụng `TextBlob`, một thư viện tích hợp ML phía sau để thực hiện các nhiệm vụ NLP cơ bản như trích xuất cụm danh từ. Một thách thức quan trọng khác trong ngôn ngữ học máy tính là việc dịch _chính xác_ một câu từ một ngôn ngữ nói hoặc viết sang một ngôn ngữ khác.

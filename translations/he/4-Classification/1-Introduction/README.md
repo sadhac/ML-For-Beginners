@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "aaf391d922bd6de5efba871d514c6d47",
-  "translation_date": "2025-09-05T19:58:31+00:00",
-  "source_file": "4-Classification/1-Introduction/README.md",
-  "language_code": "he"
-}
--->
 # מבוא לסיווג
 
 בארבעת השיעורים הללו, תחקור את אחד הנושאים המרכזיים בלמידת מכונה קלאסית - _סיווג_. נעבור יחד על שימוש באלגוריתמים שונים לסיווג עם מערך נתונים על כל המטבחים המדהימים של אסיה והודו. מקווים שאתה רעב!

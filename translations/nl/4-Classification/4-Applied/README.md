@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61bdec27ed2da8b098cd9065405d9bb0",
-  "translation_date": "2025-09-05T19:53:16+00:00",
-  "source_file": "4-Classification/4-Applied/README.md",
-  "language_code": "nl"
-}
--->
 # Bouw een Webapplicatie voor Cuisines Aanbevelingen
 
 In deze les ga je een classificatiemodel bouwen met behulp van enkele technieken die je in eerdere lessen hebt geleerd, en met de dataset van heerlijke gerechten die in deze serie wordt gebruikt. Daarnaast bouw je een kleine webapplicatie om een opgeslagen model te gebruiken, waarbij je gebruik maakt van Onnx's web runtime.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-09-05T18:57:51+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "vi"
-}
--->
 # Giới thiệu về dự đoán chuỗi thời gian
 
 Dự đoán chuỗi thời gian là gì? Đó là việc dự đoán các sự kiện trong tương lai bằng cách phân tích xu hướng trong quá khứ.

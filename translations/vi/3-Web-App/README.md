@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9836ff53cfef716ddfd70e06c5f43436",
-  "translation_date": "2025-09-05T19:44:20+00:00",
-  "source_file": "3-Web-App/README.md",
-  "language_code": "vi"
-}
--->
 # Xây dựng ứng dụng web để sử dụng mô hình ML của bạn
 
 Trong phần này của chương trình học, bạn sẽ được giới thiệu về một chủ đề ML ứng dụng: cách lưu mô hình Scikit-learn của bạn dưới dạng tệp để có thể sử dụng để dự đoán trong một ứng dụng web. Sau khi mô hình được lưu, bạn sẽ học cách sử dụng nó trong một ứng dụng web được xây dựng bằng Flask. Đầu tiên, bạn sẽ tạo một mô hình sử dụng một số dữ liệu liên quan đến các lần nhìn thấy UFO! Sau đó, bạn sẽ xây dựng một ứng dụng web cho phép bạn nhập số giây cùng với giá trị vĩ độ và kinh độ để dự đoán quốc gia nào đã báo cáo nhìn thấy UFO.

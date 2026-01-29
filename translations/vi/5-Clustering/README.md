@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-09-05T19:10:23+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "vi"
-}
--->
 # Các mô hình phân cụm trong học máy
 
 Phân cụm là một nhiệm vụ trong học máy, nơi nó tìm cách xác định các đối tượng giống nhau và nhóm chúng lại thành các nhóm gọi là cụm. Điều làm phân cụm khác biệt so với các phương pháp khác trong học máy là mọi thứ diễn ra tự động, thực tế có thể nói rằng nó hoàn toàn trái ngược với học có giám sát.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "730225ea274c9174fe688b21d421539d",
-  "translation_date": "2025-09-05T19:10:56+00:00",
-  "source_file": "5-Clustering/1-Visualize/README.md",
-  "language_code": "nl"
-}
--->
 # Introductie tot clustering
 
 Clustering is een type [Ongecontroleerd Leren](https://wikipedia.org/wiki/Unsupervised_learning) dat ervan uitgaat dat een dataset niet gelabeld is of dat de invoer niet gekoppeld is aan vooraf gedefinieerde uitkomsten. Het gebruikt verschillende algoritmen om door niet-gelabelde gegevens te sorteren en groepen te vormen op basis van patronen die het in de gegevens herkent.

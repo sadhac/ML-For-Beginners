@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4485a1ed4dd1b5647365e3d87456515d",
-  "translation_date": "2025-09-05T18:56:57+00:00",
-  "source_file": "2-Regression/2-Data/assignment.md",
-  "language_code": "he"
-}
--->
 # חקר ויזואליזציות
 
 ישנן מספר ספריות שונות זמינות ליצירת ויזואליזציות של נתונים. צרו כמה ויזואליזציות באמצעות נתוני הדלעת בשיעור זה עם matplotlib ו-seaborn במחברת לדוגמה. אילו ספריות קלות יותר לשימוש?

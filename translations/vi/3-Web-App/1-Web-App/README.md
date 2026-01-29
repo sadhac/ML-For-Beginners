@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e0b75f73e4a90d45181dc5581fe2ef5c",
-  "translation_date": "2025-09-05T19:45:46+00:00",
-  "source_file": "3-Web-App/1-Web-App/README.md",
-  "language_code": "vi"
-}
--->
 # Xây dựng ứng dụng web sử dụng mô hình ML
 
 Trong bài học này, bạn sẽ huấn luyện một mô hình ML trên một tập dữ liệu đặc biệt: _Các lần nhìn thấy UFO trong thế kỷ qua_, được lấy từ cơ sở dữ liệu của NUFORC.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b37de02054fa6c0438ede6fabe1fdfb8",
-  "translation_date": "2025-09-05T18:36:08+00:00",
-  "source_file": "for-teachers.md",
-  "language_code": "he"
-}
--->
 ## למורים
 
 האם תרצו להשתמש בתוכנית הלימודים הזו בכיתה שלכם? אתם מוזמנים לעשות זאת!

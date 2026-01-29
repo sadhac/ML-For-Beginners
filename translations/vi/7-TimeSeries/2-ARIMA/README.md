@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "917dbf890db71a322f306050cb284749",
-  "translation_date": "2025-09-05T18:59:51+00:00",
-  "source_file": "7-TimeSeries/2-ARIMA/README.md",
-  "language_code": "vi"
-}
--->
 # Dự đoán chuỗi thời gian với ARIMA
 
 Trong bài học trước, bạn đã tìm hiểu một chút về dự đoán chuỗi thời gian và tải một tập dữ liệu cho thấy sự biến động của tải điện qua một khoảng thời gian.

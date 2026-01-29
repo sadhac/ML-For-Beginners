@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5f3cb462e3122e1afe7ab0050ccf2bd3",
-  "translation_date": "2025-09-05T20:26:06+00:00",
-  "source_file": "6-NLP/2-Tasks/README.md",
-  "language_code": "vi"
-}
--->
 # Các nhiệm vụ và kỹ thuật phổ biến trong xử lý ngôn ngữ tự nhiên
 
 Đối với hầu hết các nhiệm vụ *xử lý ngôn ngữ tự nhiên*, văn bản cần được xử lý phải được phân tích, kiểm tra, và kết quả được lưu trữ hoặc đối chiếu với các quy tắc và tập dữ liệu. Những nhiệm vụ này cho phép lập trình viên xác định _ý nghĩa_, _mục đích_, hoặc chỉ đơn giản là _tần suất_ của các thuật ngữ và từ trong văn bản.

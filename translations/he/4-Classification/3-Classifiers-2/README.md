@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "49047911108adc49d605cddfb455749c",
-  "translation_date": "2025-09-05T19:56:10+00:00",
-  "source_file": "4-Classification/3-Classifiers-2/README.md",
-  "language_code": "he"
-}
--->
 # מסווגי מטבחים 2
 
 בשיעור הסיווג השני הזה, תחקור דרכים נוספות לסווג נתונים מספריים. בנוסף, תלמד על ההשלכות של בחירת מסווג אחד על פני אחר.

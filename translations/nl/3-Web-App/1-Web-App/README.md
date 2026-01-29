@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e0b75f73e4a90d45181dc5581fe2ef5c",
-  "translation_date": "2025-09-05T19:44:37+00:00",
-  "source_file": "3-Web-App/1-Web-App/README.md",
-  "language_code": "nl"
-}
--->
 # Bouw een webapp om een ML-model te gebruiken
 
 In deze les ga je een ML-model trainen op een dataset die letterlijk buitenaards is: _UFO-waarnemingen van de afgelopen eeuw_, afkomstig uit de NUFORC-database.

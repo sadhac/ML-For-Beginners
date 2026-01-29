@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-09-05T19:07:29+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "he"
-}
--->
 # חיזוי סדרות זמן עם Support Vector Regressor
 
 בשיעור הקודם, למדת כיצד להשתמש במודל ARIMA כדי לבצע תחזיות של סדרות זמן. עכשיו תכיר את מודל Support Vector Regressor, שהוא מודל רגרסיה המשמש לחיזוי נתונים רציפים.

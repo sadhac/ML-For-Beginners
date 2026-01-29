@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5e069a0ac02a9606a69946c2b3c574a9",
-  "translation_date": "2025-09-05T19:20:51+00:00",
-  "source_file": "9-Real-World/README.md",
-  "language_code": "vi"
-}
--->
 # Phụ lục: Ứng dụng thực tế của học máy cổ điển
 
 Trong phần này của chương trình học, bạn sẽ được giới thiệu về một số ứng dụng thực tế của học máy cổ điển. Chúng tôi đã tìm kiếm trên internet để thu thập các bài báo và tài liệu về những ứng dụng đã sử dụng các chiến lược này, tránh sử dụng mạng nơ-ron, học sâu và trí tuệ nhân tạo càng nhiều càng tốt. Tìm hiểu cách học máy được sử dụng trong hệ thống kinh doanh, ứng dụng sinh thái, tài chính, nghệ thuật và văn hóa, và nhiều lĩnh vực khác.

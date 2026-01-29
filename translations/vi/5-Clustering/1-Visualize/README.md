@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "730225ea274c9174fe688b21d421539d",
-  "translation_date": "2025-09-05T19:12:58+00:00",
-  "source_file": "5-Clustering/1-Visualize/README.md",
-  "language_code": "vi"
-}
--->
 # Giới thiệu về phân cụm
 
 Phân cụm là một loại [Học không giám sát](https://wikipedia.org/wiki/Unsupervised_learning) giả định rằng một tập dữ liệu không được gắn nhãn hoặc các đầu vào của nó không được liên kết với các đầu ra được định nghĩa trước. Nó sử dụng các thuật toán khác nhau để phân loại dữ liệu không gắn nhãn và cung cấp các nhóm dựa trên các mẫu mà nó nhận ra trong dữ liệu.

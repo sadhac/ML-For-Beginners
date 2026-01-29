@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "107d5bb29da8a562e7ae72262d251a75",
-  "translation_date": "2025-09-05T20:20:38+00:00",
-  "source_file": "8-Reinforcement/2-Gym/README.md",
-  "language_code": "vi"
-}
--->
 # Trượt ván CartPole
 
 Bài toán mà chúng ta đã giải trong bài học trước có vẻ như là một vấn đề đơn giản, không thực sự áp dụng được vào các tình huống thực tế. Nhưng thực tế không phải vậy, vì nhiều vấn đề trong thế giới thực cũng có kịch bản tương tự - bao gồm chơi cờ vua hoặc cờ vây. Chúng tương tự nhau vì chúng ta cũng có một bàn cờ với các quy tắc nhất định và một **trạng thái rời rạc**.
