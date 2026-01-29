@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "917dbf890db71a322f306050cb284749",
-  "translation_date": "2025-09-05T08:14:28+00:00",
-  "source_file": "7-TimeSeries/2-ARIMA/README.md",
-  "language_code": "pl"
-}
--->
 # Prognozowanie szeregów czasowych za pomocą ARIMA
 
 W poprzedniej lekcji dowiedziałeś się trochę o prognozowaniu szeregów czasowych i załadowałeś zestaw danych pokazujący zmienność obciążenia elektrycznego w określonym okresie czasu.

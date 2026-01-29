@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4485a1ed4dd1b5647365e3d87456515d",
-  "translation_date": "2025-08-29T20:37:43+00:00",
-  "source_file": "2-Regression/2-Data/assignment.md",
-  "language_code": "it"
-}
--->
 # Esplorare le Visualizzazioni
 
 Esistono diverse librerie disponibili per la visualizzazione dei dati. Crea alcune visualizzazioni utilizzando i dati delle Zucche in questa lezione con matplotlib e seaborn in un notebook di esempio. Quali librerie sono più facili da usare?

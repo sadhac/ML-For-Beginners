@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "2c742993fe95d5bcbb2846eda3d442a1",
-  "translation_date": "2025-09-06T08:09:17+00:00",
-  "source_file": "6-NLP/5-Hotel-Reviews-2/README.md",
-  "language_code": "tr"
-}
--->
 # Otel Yorumları ile Duygu Analizi
 
 Artık veri setini detaylı bir şekilde incelediğinize göre, sütunları filtreleme zamanı geldi. Daha sonra veri seti üzerinde NLP tekniklerini kullanarak oteller hakkında yeni içgörüler elde edeceksiniz.

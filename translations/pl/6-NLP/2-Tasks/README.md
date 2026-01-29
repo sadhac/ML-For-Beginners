@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5f3cb462e3122e1afe7ab0050ccf2bd3",
-  "translation_date": "2025-09-05T08:29:20+00:00",
-  "source_file": "6-NLP/2-Tasks/README.md",
-  "language_code": "pl"
-}
--->
 # Typowe zadania i techniki przetwarzania języka naturalnego
 
 W większości zadań związanych z *przetwarzaniem języka naturalnego* tekst, który ma być przetworzony, musi zostać podzielony, przeanalizowany, a wyniki zapisane lub porównane z regułami i zestawami danych. Te zadania pozwalają programiście wyciągnąć _znaczenie_, _intencję_ lub tylko _częstotliwość_ występowania terminów i słów w tekście.

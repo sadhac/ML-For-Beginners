@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1eb379dc2d0c9940b320732d16083778",
-  "translation_date": "2025-08-29T22:18:02+00:00",
-  "source_file": "6-NLP/README.md",
-  "language_code": "it"
-}
--->
 # Introduzione al processamento del linguaggio naturale
 
 Il processamento del linguaggio naturale (NLP) è la capacità di un programma informatico di comprendere il linguaggio umano così come viene parlato e scritto, noto come linguaggio naturale. È una componente dell'intelligenza artificiale (AI). L'NLP esiste da più di 50 anni e ha radici nel campo della linguistica. L'intero settore è orientato ad aiutare le macchine a comprendere e elaborare il linguaggio umano. Questo può essere utilizzato per svolgere compiti come il controllo ortografico o la traduzione automatica. Ha una varietà di applicazioni pratiche in diversi ambiti, tra cui la ricerca medica, i motori di ricerca e l'intelligence aziendale.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5f3cb462e3122e1afe7ab0050ccf2bd3",
-  "translation_date": "2025-09-06T08:05:49+00:00",
-  "source_file": "6-NLP/2-Tasks/README.md",
-  "language_code": "tr"
-}
--->
 # Doğal Dil İşleme Görevleri ve Teknikleri
 
 Çoğu *doğal dil işleme* görevi için işlenecek metin parçalanmalı, incelenmeli ve sonuçlar kurallar ve veri setleriyle saklanmalı veya çapraz referans yapılmalıdır. Bu görevler, programcının bir metindeki _anlamı_, _niyeti_ veya yalnızca _terimlerin ve kelimelerin sıklığını_ çıkarmasına olanak tanır.

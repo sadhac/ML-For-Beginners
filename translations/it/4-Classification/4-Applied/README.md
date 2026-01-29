@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61bdec27ed2da8b098cd9065405d9bb0",
-  "translation_date": "2025-09-06T07:36:06+00:00",
-  "source_file": "4-Classification/4-Applied/README.md",
-  "language_code": "it"
-}
--->
 # Costruire un'app web per raccomandare cucine
 
 In questa lezione, costruirai un modello di classificazione utilizzando alcune delle tecniche apprese nelle lezioni precedenti e il delizioso dataset di cucine utilizzato in questa serie. Inoltre, creerai una piccola app web per utilizzare un modello salvato, sfruttando il runtime web di Onnx.

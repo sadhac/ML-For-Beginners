@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "662b509c39eee205687726636d0a8455",
-  "translation_date": "2025-09-06T07:28:48+00:00",
-  "source_file": "7-TimeSeries/1-Introduction/README.md",
-  "language_code": "it"
-}
--->
 # Introduzione alla previsione delle serie temporali
 
 ![Riepilogo delle serie temporali in uno sketchnote](../../../../sketchnotes/ml-timeseries.png)

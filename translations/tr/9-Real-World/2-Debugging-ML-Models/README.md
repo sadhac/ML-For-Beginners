@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "df2b538e8fbb3e91cf0419ae2f858675",
-  "translation_date": "2025-09-06T07:53:42+00:00",
-  "source_file": "9-Real-World/2-Debugging-ML-Models/README.md",
-  "language_code": "tr"
-}
--->
 # Postscript: Makine Öğreniminde Model Hata Ayıklama ve Sorumlu AI Panosu Bileşenleri Kullanımı
 
 ## [Ders Öncesi Test](https://ff-quizzes.netlify.app/en/ml/)

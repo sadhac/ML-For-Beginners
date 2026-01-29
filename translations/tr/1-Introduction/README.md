@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cf8ecc83f28e5b98051d2179eca08e08",
-  "translation_date": "2025-09-06T07:54:37+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "tr"
-}
--->
 # Makine Öğrenimine Giriş
 
 Bu müfredat bölümünde, makine öğrenimi alanının temel kavramlarına, ne olduğuna, tarihine ve araştırmacıların bu alanda çalışmak için kullandığı tekniklere giriş yapacaksınız. Haydi, bu yeni ML dünyasını birlikte keşfedelim!

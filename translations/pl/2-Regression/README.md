@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "508582278dbb8edd2a8a80ac96ef416c",
-  "translation_date": "2025-09-03T16:17:02+00:00",
-  "source_file": "2-Regression/README.md",
-  "language_code": "pl"
-}
--->
 # Modele regresji w uczeniu maszynowym
 ## Temat regionalny: Modele regresji dla cen dyni w Ameryce Północnej 🎃
 

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "977ec5266dfd78ad1ce2bd8d46fccbda",
-  "translation_date": "2025-09-03T16:13:27+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "pl"
-}
--->
 # Współtworzenie
 
 Ten projekt zachęca do współtworzenia i składania sugestii. Większość wkładów wymaga od Ciebie

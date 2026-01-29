@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-08-29T20:52:51+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "it"
-}
--->
 # Modelli di clustering per il machine learning
 
 Il clustering è un compito di machine learning che cerca di individuare oggetti simili tra loro e raggrupparli in gruppi chiamati cluster. Ciò che distingue il clustering da altri approcci nel machine learning è che tutto avviene automaticamente; infatti, si può dire che sia l'opposto dell'apprendimento supervisionato.

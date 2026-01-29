@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "68394b2102d3503882e5e914bd0ff5c1",
-  "translation_date": "2025-09-06T08:04:28+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/assignment.md",
-  "language_code": "tr"
-}
--->
 # Daha Gerçekçi Bir Dünya
 
 Bizim senaryomuzda, Peter neredeyse hiç yorulmadan veya acıkmadan hareket edebiliyordu. Daha gerçekçi bir dünyada, Peter zaman zaman oturup dinlenmek ve kendini beslemek zorunda kalır. Dünyamızı daha gerçekçi hale getirelim ve şu kuralları uygulayalım:

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "730225ea274c9174fe688b21d421539d",
-  "translation_date": "2025-09-06T07:29:55+00:00",
-  "source_file": "5-Clustering/1-Visualize/README.md",
-  "language_code": "it"
-}
--->
 # Introduzione al clustering
 
 Il clustering è un tipo di [Apprendimento Non Supervisionato](https://wikipedia.org/wiki/Apprendimento_non_supervisionato) che presuppone che un dataset sia non etichettato o che i suoi input non siano associati a output predefiniti. Utilizza vari algoritmi per analizzare dati non etichettati e fornire raggruppamenti basati sui pattern rilevati nei dati.

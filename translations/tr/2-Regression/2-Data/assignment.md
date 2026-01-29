@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4485a1ed4dd1b5647365e3d87456515d",
-  "translation_date": "2025-09-06T07:48:18+00:00",
-  "source_file": "2-Regression/2-Data/assignment.md",
-  "language_code": "tr"
-}
--->
 # Görselleştirmeleri Keşfetmek
 
 Veri görselleştirme için kullanılabilecek birkaç farklı kütüphane bulunmaktadır. Bu dersteki Kabak verilerini kullanarak matplotlib ve seaborn ile bir örnek defterde bazı görselleştirmeler oluşturun. Hangi kütüphanelerle çalışmak daha kolay?

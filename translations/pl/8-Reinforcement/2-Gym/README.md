@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "107d5bb29da8a562e7ae72262d251a75",
-  "translation_date": "2025-09-05T08:28:22+00:00",
-  "source_file": "8-Reinforcement/2-Gym/README.md",
-  "language_code": "pl"
-}
--->
 # CartPole Skating
 
 Problem, który rozwiązywaliśmy w poprzedniej lekcji, może wydawać się zabawkowy i mało przydatny w rzeczywistych scenariuszach. Jednak tak nie jest, ponieważ wiele problemów w prawdziwym świecie również ma podobny charakter – na przykład gra w szachy czy Go. Są one podobne, ponieważ również mamy planszę z określonymi zasadami i **dyskretny stan**.

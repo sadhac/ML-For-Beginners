@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5e069a0ac02a9606a69946c2b3c574a9",
-  "translation_date": "2025-09-06T07:52:48+00:00",
-  "source_file": "9-Real-World/README.md",
-  "language_code": "tr"
-}
--->
 # Postscript: Klasik Makine Öğreniminin Gerçek Dünya Uygulamaları
 
 Bu müfredat bölümünde, klasik makine öğreniminin gerçek dünya uygulamalarına dair örneklerle tanışacaksınız. İnternette, bu stratejileri kullanan uygulamalar hakkında makaleler ve teknik raporlar bulmak için kapsamlı bir araştırma yaptık; mümkün olduğunca sinir ağları, derin öğrenme ve yapay zekadan kaçındık. Makine öğreniminin iş sistemlerinde, ekolojik uygulamalarda, finans, sanat ve kültür gibi alanlarda nasıl kullanıldığını öğrenin.

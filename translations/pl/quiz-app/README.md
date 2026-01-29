@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6d130dffca5db70d7e615f926cb1ad4c",
-  "translation_date": "2025-09-03T17:58:17+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "pl"
-}
--->
 # Quizy
 
 Te quizy są quizami przed i po wykładach w ramach programu nauczania ML dostępnego na stronie https://aka.ms/ml-beginners

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "be03c8182982b87ced155e4e9d1438e8",
-  "translation_date": "2025-09-06T08:08:24+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/README.md",
-  "language_code": "tr"
-}
--->
 # Çeviri ve Duygu Analizi ile Makine Öğrenimi
 
 Önceki derslerde, temel NLP görevlerini gerçekleştirmek için sahne arkasında ML kullanan bir kütüphane olan `TextBlob` ile basit bir bot oluşturmayı öğrendiniz. Hesaplamalı dilbilimin bir diğer önemli zorluğu, bir cümleyi bir konuşulan veya yazılı dilden diğerine doğru bir şekilde _çevirme_ işlemidir.

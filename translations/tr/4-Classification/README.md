@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "74e809ffd1e613a1058bbc3e9600859e",
-  "translation_date": "2025-09-06T07:58:47+00:00",
-  "source_file": "4-Classification/README.md",
-  "language_code": "tr"
-}
--->
 # Sınıflandırmaya Başlangıç
 
 ## Bölgesel Konu: Lezzetli Asya ve Hint Mutfağı 🍜

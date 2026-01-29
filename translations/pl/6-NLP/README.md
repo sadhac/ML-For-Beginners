@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1eb379dc2d0c9940b320732d16083778",
-  "translation_date": "2025-09-03T18:45:34+00:00",
-  "source_file": "6-NLP/README.md",
-  "language_code": "pl"
-}
--->
 # Wprowadzenie do przetwarzania języka naturalnego
 
 Przetwarzanie języka naturalnego (ang. NLP) to zdolność programu komputerowego do rozumienia ludzkiego języka w formie mówionej i pisanej – określanego jako język naturalny. Jest to część sztucznej inteligencji (AI). NLP istnieje od ponad 50 lat i ma swoje korzenie w dziedzinie lingwistyki. Cała ta dziedzina skupia się na pomocy maszynom w rozumieniu i przetwarzaniu ludzkiego języka. Może to być następnie wykorzystywane do wykonywania zadań, takich jak sprawdzanie pisowni czy tłumaczenie maszynowe. NLP znajduje szerokie zastosowanie w wielu dziedzinach, w tym w badaniach medycznych, wyszukiwarkach internetowych i analizie biznesowej.

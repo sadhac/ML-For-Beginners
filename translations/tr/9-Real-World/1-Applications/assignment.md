@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fdebfcd0a3f12c9e2b436ded1aa79885",
-  "translation_date": "2025-09-06T07:53:36+00:00",
-  "source_file": "9-Real-World/1-Applications/assignment.md",
-  "language_code": "tr"
-}
--->
 # Bir ML Hazine Avı
 
 ## Talimatlar

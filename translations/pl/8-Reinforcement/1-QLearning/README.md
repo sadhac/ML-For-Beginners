@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "911efd5e595089000cb3c16fce1beab8",
-  "translation_date": "2025-09-05T08:27:35+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/README.md",
-  "language_code": "pl"
-}
--->
 # Wprowadzenie do uczenia ze wzmocnieniem i Q-Learningu
 
 ![Podsumowanie uczenia ze wzmocnieniem w uczeniu maszynowym w formie sketchnote](../../../../sketchnotes/ml-reinforcement.png)

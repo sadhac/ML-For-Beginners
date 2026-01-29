@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-09-06T07:50:46+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "tr"
-}
--->
 # Makine öğrenimi için kümeleme modelleri
 
 Kümeleme, birbirine benzeyen nesneleri bulup bunları "küme" adı verilen gruplara ayırmayı amaçlayan bir makine öğrenimi görevidir. Kümelemenin makine öğrenimindeki diğer yaklaşımlardan farkı, işlemlerin otomatik olarak gerçekleşmesidir; aslında, denetimli öğrenmenin tam tersidir demek doğru olur.

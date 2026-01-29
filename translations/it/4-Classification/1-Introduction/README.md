@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "aaf391d922bd6de5efba871d514c6d47",
-  "translation_date": "2025-09-06T07:36:48+00:00",
-  "source_file": "4-Classification/1-Introduction/README.md",
-  "language_code": "it"
-}
--->
 # Introduzione alla classificazione
 
 In queste quattro lezioni, esplorerai un aspetto fondamentale del machine learning classico: la _classificazione_. Utilizzeremo vari algoritmi di classificazione con un dataset che riguarda tutte le straordinarie cucine dell'Asia e dell'India. Speriamo che tu abbia fame!

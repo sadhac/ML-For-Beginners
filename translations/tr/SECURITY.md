@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5e1b8da31aae9cca3d53ad243fa3365a",
-  "translation_date": "2025-09-06T07:43:31+00:00",
-  "source_file": "SECURITY.md",
-  "language_code": "tr"
-}
--->
 ## Güvenlik
 
 Microsoft, yazılım ürünleri ve hizmetlerinin güvenliğini ciddiye alır. Bu, [Microsoft](https://github.com/Microsoft), [Azure](https://github.com/Azure), [DotNet](https://github.com/dotnet), [AspNet](https://github.com/aspnet), [Xamarin](https://github.com/xamarin) ve [GitHub organizasyonlarımız](https://opensource.microsoft.com/) gibi GitHub organizasyonlarımız aracılığıyla yönetilen tüm kaynak kodu depolarını içerir.

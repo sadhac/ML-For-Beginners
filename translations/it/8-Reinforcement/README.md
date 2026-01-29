@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-08-29T22:02:46+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "it"
-}
--->
 # Introduzione al reinforcement learning
 
 Il reinforcement learning, RL, è considerato uno dei paradigmi fondamentali del machine learning, accanto al supervised learning e all'unsupervised learning. RL riguarda le decisioni: prendere le decisioni giuste o almeno imparare da esse.

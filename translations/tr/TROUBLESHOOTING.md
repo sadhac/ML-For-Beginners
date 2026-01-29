@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "134d8759f0e2ab886e9aa4f62362c201",
-  "translation_date": "2025-10-03T12:45:47+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "tr"
-}
--->
 # Sorun Giderme Kılavuzu
 
 Bu kılavuz, Machine Learning for Beginners müfredatıyla çalışırken karşılaşabileceğiniz yaygın sorunları çözmenize yardımcı olur. Burada bir çözüm bulamazsanız, [Discord Tartışmaları](https://aka.ms/foundry/discord) bölümüne göz atabilir veya [bir sorun bildirebilirsiniz](https://github.com/microsoft/ML-For-Beginners/issues).

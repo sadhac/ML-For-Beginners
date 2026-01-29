@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "49047911108adc49d605cddfb455749c",
-  "translation_date": "2025-09-06T08:00:12+00:00",
-  "source_file": "4-Classification/3-Classifiers-2/README.md",
-  "language_code": "tr"
-}
--->
 # Mutfak Sınıflandırıcıları 2
 
 Bu ikinci sınıflandırma dersinde, sayısal verileri sınıflandırmanın daha fazla yolunu keşfedeceksiniz. Ayrıca, bir sınıflandırıcıyı diğerine tercih etmenin sonuçlarını öğreneceksiniz.

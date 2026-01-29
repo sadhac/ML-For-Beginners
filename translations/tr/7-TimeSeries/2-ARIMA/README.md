@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "917dbf890db71a322f306050cb284749",
-  "translation_date": "2025-09-06T07:48:34+00:00",
-  "source_file": "7-TimeSeries/2-ARIMA/README.md",
-  "language_code": "tr"
-}
--->
 # ARIMA ile Zaman Serisi Tahmini
 
 Önceki derste, zaman serisi tahmini hakkında biraz bilgi edindiniz ve bir zaman dilimi boyunca elektrik yükündeki dalgalanmaları gösteren bir veri seti yüklediniz.

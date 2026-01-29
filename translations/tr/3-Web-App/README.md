@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9836ff53cfef716ddfd70e06c5f43436",
-  "translation_date": "2025-09-06T07:57:39+00:00",
-  "source_file": "3-Web-App/README.md",
-  "language_code": "tr"
-}
--->
 # Makine Öğrenimi Modelinizi Kullanmak İçin Bir Web Uygulaması Oluşturun
 
 Bu müfredat bölümünde, uygulamalı bir makine öğrenimi konusuyla tanışacaksınız: Scikit-learn modelinizi bir dosya olarak kaydetme ve bu dosyayı bir web uygulaması içinde tahminler yapmak için kullanma. Model kaydedildikten sonra, Flask ile oluşturulmuş bir web uygulamasında nasıl kullanılacağını öğreneceksiniz. Öncelikle, UFO gözlemleriyle ilgili bazı veriler kullanarak bir model oluşturacaksınız! Ardından, bir web uygulaması oluşturacak ve bu uygulama sayesinde bir ülkenin UFO gördüğünü rapor edip etmediğini tahmin etmek için bir enlem, boylam ve saniye değeri girebileceksiniz.

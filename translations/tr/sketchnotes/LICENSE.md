@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fba3b94d88bfb9b81369b869a1e9a20f",
-  "translation_date": "2025-09-06T08:02:12+00:00",
-  "source_file": "sketchnotes/LICENSE.md",
-  "language_code": "tr"
-}
--->
 Hakları, o zaman o veritabanını yalnızca aynı koşullar altında paylaşabilirsiniz; ve  
 
   c. bu Kamu Lisansı'nda açıkça verilmediği sürece, bu Kamu Lisansı'nda verilen haklar, başka herhangi bir hak veya yetkiyi lisanslama veya devretme anlamına gelmez.  

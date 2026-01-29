@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "68394b2102d3503882e5e914bd0ff5c1",
-  "translation_date": "2025-09-03T18:36:35+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/assignment.md",
-  "language_code": "pl"
-}
--->
 # Bardziej Realistyczny Świat
 
 W naszej sytuacji Piotr mógł poruszać się niemal bez zmęczenia czy głodu. W bardziej realistycznym świecie musi od czasu do czasu usiąść i odpocząć, a także coś zjeść. Uczyńmy nasz świat bardziej realistycznym, wprowadzając następujące zasady:
