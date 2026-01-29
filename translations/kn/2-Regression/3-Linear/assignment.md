@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cc471fa89c293bc735dd3a9a0fb79b1b",
-  "translation_date": "2025-12-19T13:53:56+00:00",
-  "source_file": "2-Regression/3-Linear/assignment.md",
-  "language_code": "kn"
-}
--->
 # ರೆಗ್ರೆಶನ್ ಮಾದರಿಯನ್ನು ರಚಿಸಿ
 
 ## ಸೂಚನೆಗಳು

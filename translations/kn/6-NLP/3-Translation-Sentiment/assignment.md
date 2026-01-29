@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9d2a734deb904caff310d1a999c6bd7a",
-  "translation_date": "2025-12-19T14:18:50+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/assignment.md",
-  "language_code": "kn"
-}
--->
 # ಕಾವ್ಯಾತ್ಮಕ ಪರವಾನಗಿ
 
 ## ಸೂಚನೆಗಳು

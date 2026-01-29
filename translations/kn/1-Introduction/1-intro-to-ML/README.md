@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "69389392fa6346e0dfa30f664b7b6fec",
-  "translation_date": "2025-12-19T13:25:20+00:00",
-  "source_file": "1-Introduction/1-intro-to-ML/README.md",
-  "language_code": "kn"
-}
--->
 # ಯಂತ್ರ ಅಧ್ಯಯನಕ್ಕೆ ಪರಿಚಯ
 
 ## [ಪೂರ್ವ-ಲೇಕ್ಚರ್ ಕ್ವಿಜ್](https://ff-quizzes.netlify.app/en/ml/)

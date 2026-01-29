@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "74a5cf83e4ebc302afbcbc4f418afd0a",
-  "translation_date": "2025-12-19T13:57:42+00:00",
-  "source_file": "2-Regression/1-Tools/assignment.md",
-  "language_code": "kn"
-}
--->
 # ಸ್ಕಿಕಿಟ್-ಲರ್ನ್‌ನೊಂದಿಗೆ ರಿಗ್ರೆಶನ್
 
 ## ಸೂಚನೆಗಳು

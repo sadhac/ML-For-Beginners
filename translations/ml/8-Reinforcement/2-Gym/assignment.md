@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-12-19T15:42:43+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "ml"
-}
--->
 # ട്രെയിൻ മൗണ്ടൻ കാർ
 
 [OpenAI Gym](http://gym.openai.com) എല്ലാ പരിസ്ഥിതികളും ഒരേ API നൽകുന്ന വിധത്തിൽ രൂപകൽപ്പന ചെയ്തിരിക്കുന്നു - അഥവാ ഒരേ രീതിയിലുള്ള `reset`, `step` , `render` മെത്തഡുകളും **action space** , **observation space** എന്നിവയുടെ ഒരേ ആബ്സ്ട്രാക്ഷനുകളും. അതിനാൽ, കുറഞ്ഞ കോഡ് മാറ്റങ്ങളോടെ വ്യത്യസ്ത പരിസ്ഥിതികളിൽ ഒരേ reinforcement learning ആൽഗോരിതങ്ങൾ ഉപയോഗിക്കാൻ സാധിക്കണം.

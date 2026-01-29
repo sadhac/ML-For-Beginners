@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "abf86d845c84330bce205a46b382ec88",
-  "translation_date": "2025-12-19T14:06:13+00:00",
-  "source_file": "2-Regression/4-Logistic/README.md",
-  "language_code": "kn"
-}
--->
 # ವರ್ಗಗಳನ್ನು ಭವಿಷ್ಯವಾಣಿ ಮಾಡಲು ಲಾಜಿಸ್ಟಿಕ್ ರಿಗ್ರೆಶನ್
 
 ![ಲಾಜಿಸ್ಟಿಕ್ ವಿರುದ್ಧ ಲೀನಿಯರ್ ರಿಗ್ರೆಶನ್ ಇನ್ಫೋಗ್ರಾಫಿಕ್](../../../../translated_images/kn/linear-vs-logistic.ba180bf95e7ee667.webp)

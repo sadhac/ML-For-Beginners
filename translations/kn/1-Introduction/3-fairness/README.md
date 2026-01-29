@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9a6b702d1437c0467e3c5c28d763dac2",
-  "translation_date": "2025-12-19T13:41:55+00:00",
-  "source_file": "1-Introduction/3-fairness/README.md",
-  "language_code": "kn"
-}
--->
 # ಜವಾಬ್ದಾರಿಯುತ AI ಜೊತೆಗೆ ಯಂತ್ರ ಅಧ್ಯಯನ ಪರಿಹಾರಗಳನ್ನು ನಿರ್ಮಿಸುವುದು
 
 ![ಯಂತ್ರ ಅಧ್ಯಯನದಲ್ಲಿ ಜವಾಬ್ದಾರಿಯುತ AI ಸಂಕ್ಷಿಪ್ತ ಟಿಪ್ಪಣಿ](../../../../translated_images/kn/ml-fairness.ef296ebec6afc98a.webp)

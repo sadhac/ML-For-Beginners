@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-12-19T13:11:51+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "kn"
-}
--->
 # ಕಾಲ ಸರಣಿಯ ಭವಿಷ್ಯವಾಣಿ ಪರಿಚಯ
 
 ಕಾಲ ಸರಣಿಯ ಭವಿಷ್ಯವಾಣಿ ಎಂದರೆ ಏನು? ಇದು ಭೂತಕಾಲದ ಪ್ರವೃತ್ತಿಗಳನ್ನು ವಿಶ್ಲೇಷಿಸಿ ಭವಿಷ್ಯದ ಘಟನೆಗಳನ್ನು ಊಹಿಸುವುದಾಗಿದೆ.

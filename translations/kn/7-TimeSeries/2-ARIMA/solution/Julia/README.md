@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a39c15d63f3b2795ee2284a82b986b93",
-  "translation_date": "2025-12-19T16:15:43+00:00",
-  "source_file": "7-TimeSeries/2-ARIMA/solution/Julia/README.md",
-  "language_code": "kn"
-}
--->
 ಇದು ತಾತ್ಕಾಲಿಕ ಪ್ಲೇಸ್‌ಹೋಲ್ಡರ್ ಆಗಿದೆ
 
 ---

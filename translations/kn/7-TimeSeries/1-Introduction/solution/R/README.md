@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "81db6ff2cf6e62fbe2340b094bb9509e",
-  "translation_date": "2025-12-19T16:15:12+00:00",
-  "source_file": "7-TimeSeries/1-Introduction/solution/R/README.md",
-  "language_code": "kn"
-}
--->
 ಇದು ತಾತ್ಕಾಲಿಕ ಪ್ಲೇಸ್‌ಹೋಲ್ಡರ್ ಆಗಿದೆ
 
 ---

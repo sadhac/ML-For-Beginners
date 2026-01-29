@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "134d8759f0e2ab886e9aa4f62362c201",
-  "translation_date": "2025-12-19T12:36:23+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "kn"
-}
--->
 # ಸಮಸ್ಯೆ ಪರಿಹಾರ ಮಾರ್ಗದರ್ಶಿ
 
 ಈ ಮಾರ್ಗದರ್ಶಿ ಯಂತ್ರ ಅಧ್ಯಯನ ಆರಂಭಿಕರ ಪಠ್ಯಕ್ರಮದೊಂದಿಗೆ ಕೆಲಸ ಮಾಡುವಾಗ ಸಾಮಾನ್ಯ ಸಮಸ್ಯೆಗಳನ್ನು ಪರಿಹರಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ನೀವು ಇಲ್ಲಿ ಪರಿಹಾರವನ್ನು ಕಂಡುಕೊಳ್ಳದಿದ್ದರೆ, ದಯವಿಟ್ಟು ನಮ್ಮ [Discord ಚರ್ಚೆಗಳು](https://aka.ms/foundry/discord) ಅನ್ನು ಪರಿಶೀಲಿಸಿ ಅಥವಾ [ಒಂದು ಸಮಸ್ಯೆಯನ್ನು ತೆರೆಯಿರಿ](https://github.com/microsoft/ML-For-Beginners/issues).

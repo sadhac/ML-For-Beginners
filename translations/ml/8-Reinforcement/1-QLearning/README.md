@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "911efd5e595089000cb3c16fce1beab8",
-  "translation_date": "2025-12-19T15:47:44+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/README.md",
-  "language_code": "ml"
-}
--->
 # റീഇൻഫോഴ്‌സ്‌മെന്റ് ലേണിംഗിനും ക്യൂ-ലേണിംഗിനും പരിചയം
 
 ![മെഷീൻ ലേണിംഗിലെ റീഇൻഫോഴ്‌സ്‌മെന്റിന്റെ സംഗ്രഹം ഒരു സ്കെച്ച്നോട്ടിൽ](../../../../translated_images/ml/ml-reinforcement.94024374d63348db.webp)

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6a05fec147e734c3e6bfa54505648e2b",
-  "translation_date": "2025-12-19T13:29:04+00:00",
-  "source_file": "1-Introduction/2-history-of-ML/README.md",
-  "language_code": "ml"
-}
--->
 # മെഷീൻ ലേണിങ്ങിന്റെ ചരിത്രം
 
 ![മെഷീൻ ലേണിങ്ങിന്റെ ചരിത്രത്തിന്റെ സംഗ്രഹം ഒരു സ്കെച്ച്നോട്ടിൽ](../../../../translated_images/ml/ml-history.a1bdfd4ce1f464d9.webp)

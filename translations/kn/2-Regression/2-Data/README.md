@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "7c077988328ebfe33b24d07945f16eca",
-  "translation_date": "2025-12-19T14:01:56+00:00",
-  "source_file": "2-Regression/2-Data/README.md",
-  "language_code": "kn"
-}
--->
 # Scikit-learn ಬಳಸಿ ರೆಗ್ರೆಶನ್ ಮಾದರಿಯನ್ನು ನಿರ್ಮಿಸಿ: ಡೇಟಾವನ್ನು ಸಿದ್ಧಪಡಿಸಿ ಮತ್ತು ದೃಶ್ಯೀಕರಿಸಿ
 
 ![ಡೇಟಾ ದೃಶ್ಯೀಕರಣ ಇನ್ಫೋಗ್ರಾಫಿಕ್](../../../../translated_images/kn/data-visualization.54e56dded7c1a804.webp)

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "7c077988328ebfe33b24d07945f16eca",
-  "translation_date": "2025-12-19T13:58:37+00:00",
-  "source_file": "2-Regression/2-Data/README.md",
-  "language_code": "te"
-}
--->
 # Scikit-learn ఉపయోగించి రిగ్రెషన్ మోడల్ నిర్మించండి: డేటాను సిద్ధం చేయండి మరియు విజువలైజ్ చేయండి
 
 ![డేటా విజువలైజేషన్ ఇన్ఫోగ్రాఫిక్](../../../../translated_images/te/data-visualization.54e56dded7c1a804.webp)

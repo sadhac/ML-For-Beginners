@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "daf144daa552da6a7d442aff6f3e77d8",
-  "translation_date": "2025-12-19T14:45:54+00:00",
-  "source_file": "6-NLP/5-Hotel-Reviews-2/assignment.md",
-  "language_code": "ml"
-}
--->
 # വ്യത്യസ്തമായ ഒരു ഡാറ്റാസെറ്റ് പരീക്ഷിക്കുക
 
 ## നിർദ്ദേശങ്ങൾ

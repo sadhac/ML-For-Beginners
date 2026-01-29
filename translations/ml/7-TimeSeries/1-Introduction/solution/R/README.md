@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "81db6ff2cf6e62fbe2340b094bb9509e",
-  "translation_date": "2025-12-19T16:15:01+00:00",
-  "source_file": "7-TimeSeries/1-Introduction/solution/R/README.md",
-  "language_code": "ml"
-}
--->
 ഇത് ഒരു താൽക്കാലിക പ്ലേസ്‌ഹോൾഡറാണ്
 
 ---

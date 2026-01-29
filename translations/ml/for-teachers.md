@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b37de02054fa6c0438ede6fabe1fdfb8",
-  "translation_date": "2025-12-19T12:26:43+00:00",
-  "source_file": "for-teachers.md",
-  "language_code": "ml"
-}
--->
 ## അധ്യാപകര്‍ക്കായി
 
 ഈ പാഠ്യപദ്ധതി നിങ്ങളുടെ ക്ലാസ്സില്‍ ഉപയോഗിക്കണോ? ദയവായി സ്വതന്ത്രമായി ഉപയോഗിക്കൂ!

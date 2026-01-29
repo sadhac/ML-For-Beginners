@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fa81d226c71d5af7a2cade31c1c92b88",
-  "translation_date": "2025-12-19T13:56:01+00:00",
-  "source_file": "2-Regression/1-Tools/README.md",
-  "language_code": "kn"
-}
--->
 # ರಿಗ್ರೆಶನ್ ಮಾದರಿಗಳಿಗಾಗಿ ಪೈಥಾನ್ ಮತ್ತು ಸ್ಕಿಕಿಟ್-ಲರ್ನ್‌ನೊಂದಿಗೆ ಪ್ರಾರಂಭಿಸಿ
 
 ![ಸ್ಕೆಚ್‌ನೋಟ್ನಲ್ಲಿ ರಿಗ್ರೆಶನ್‌ಗಳ ಸಾರಾಂಶ](../../../../translated_images/kn/ml-regression.4e4f70e3b3ed446e.webp)

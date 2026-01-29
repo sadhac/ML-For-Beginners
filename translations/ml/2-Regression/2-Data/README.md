@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "7c077988328ebfe33b24d07945f16eca",
-  "translation_date": "2025-12-19T14:00:13+00:00",
-  "source_file": "2-Regression/2-Data/README.md",
-  "language_code": "ml"
-}
--->
 # Scikit-learn ഉപയോഗിച്ച് ഒരു റെഗ്രഷൻ മോഡൽ നിർമ്മിക്കുക: ഡാറ്റ തയ്യാറാക്കൽ மற்றும் ദൃശ്യവൽക്കരണം
 
 ![ഡാറ്റ ദൃശ്യവൽക്കരണ ഇൻഫോഗ്രാഫിക്](../../../../translated_images/ml/data-visualization.54e56dded7c1a804.webp)

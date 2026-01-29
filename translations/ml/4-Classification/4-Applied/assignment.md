@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "799ed651e2af0a7cad17c6268db11578",
-  "translation_date": "2025-12-19T15:29:25+00:00",
-  "source_file": "4-Classification/4-Applied/assignment.md",
-  "language_code": "ml"
-}
--->
 # ഒരു ശുപാർശയിടുന്ന സംവിധാനം നിർമ്മിക്കുക
 
 ## നിർദ്ദേശങ്ങൾ

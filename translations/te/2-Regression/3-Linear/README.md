@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-12-19T13:45:41+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "te"
-}
--->
 # Scikit-learn ఉపయోగించి రిగ్రెషన్ మోడల్ నిర్మించండి: రిగ్రెషన్ నాలుగు విధానాలు
 
 ![లీనియర్ vs పాలినోమియల్ రిగ్రెషన్ ఇన్ఫోగ్రాఫిక్](../../../../translated_images/te/linear-polynomial.5523c7cb6576ccab.webp)

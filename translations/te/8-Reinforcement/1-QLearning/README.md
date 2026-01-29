@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "911efd5e595089000cb3c16fce1beab8",
-  "translation_date": "2025-12-19T15:44:59+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/README.md",
-  "language_code": "te"
-}
--->
 # రీన్ఫోర్స్‌మెంట్ లెర్నింగ్ మరియు క్యూ-లెర్నింగ్ పరిచయం
 
 ![మిషన్ లెర్నింగ్‌లో రీన్ఫోర్స్‌మెంట్ యొక్క సారాంశం స్కెచ్‌నోట్‌లో](../../../../translated_images/te/ml-reinforcement.94024374d63348db.webp)

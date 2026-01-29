@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "83320d6b6994909e35d830cebf214039",
-  "translation_date": "2025-12-19T15:06:27+00:00",
-  "source_file": "9-Real-World/1-Applications/README.md",
-  "language_code": "te"
-}
--->
 # పోస్ట్‌స్క్రిప్ట్: వాస్తవ ప్రపంచంలో మెషీన్ లెర్నింగ్
 
 

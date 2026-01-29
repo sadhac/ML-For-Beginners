@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1c2ec40cf55c98a028a359c27ef7e45a",
-  "translation_date": "2025-12-19T14:29:37+00:00",
-  "source_file": "6-NLP/1-Introduction-to-NLP/README.md",
-  "language_code": "kn"
-}
--->
 # ನೈಸರ್ಗಿಕ ಭಾಷಾ ಪ್ರಕ್ರಿಯೆ ಪರಿಚಯ
 
 ಈ ಪಾಠವು *ನೈಸರ್ಗಿಕ ಭಾಷಾ ಪ್ರಕ್ರಿಯೆ* ಎಂಬ ಉಪಕ್ಷೇತ್ರವಾದ *ಗಣನಾತ್ಮಕ ಭಾಷಾಶಾಸ್ತ್ರ* ನ ಸಂಕ್ಷಿಪ್ತ ಇತಿಹಾಸ ಮತ್ತು ಪ್ರಮುಖ ತತ್ವಗಳನ್ನು ಒಳಗೊಂಡಿದೆ.

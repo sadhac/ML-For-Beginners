@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ee0670655c89e4719319764afb113624",
-  "translation_date": "2025-12-19T14:25:17+00:00",
-  "source_file": "6-NLP/data/README.md",
-  "language_code": "ml"
-}
--->
 ഈ ഫോൾഡറിലേക്ക് ഹോട്ടൽ റിവ്യൂ ഡാറ്റ ഡൗൺലോഡ് ചെയ്യുക.
 
 ---
