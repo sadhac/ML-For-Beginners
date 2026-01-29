@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "58dfdaf79fb73f7d34b22bdbacf57329",
-  "translation_date": "2025-08-29T21:50:09+00:00",
-  "source_file": "4-Classification/3-Classifiers-2/assignment.md",
-  "language_code": "bn"
-}
--->
 # প্যারামিটার প্লে
 
 ## নির্দেশনা

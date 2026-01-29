@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-08-29T16:56:23+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "mr"
-}
--->
 # टाइम सिरीज अंदाजाची ओळख
 
 टाइम सिरीज अंदाज म्हणजे काय? भूतकाळातील ट्रेंड्सचा अभ्यास करून भविष्यातील घटनांची भविष्यवाणी करणे.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-09-06T06:29:35+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "ne"
-}
--->
 # समय श्रृंखला पूर्वानुमान Support Vector Regressor को साथमा
 
 अघिल्लो पाठमा, तपाईंले ARIMA मोडेल प्रयोग गरेर समय श्रृंखला पूर्वानुमान कसरी गर्ने भनेर सिक्नुभयो। अब तपाईं Support Vector Regressor मोडेल हेर्न जाँदै हुनुहुन्छ, जुन निरन्तर डाटा पूर्वानुमान गर्न प्रयोग गरिने एक प्रकारको रिग्रेसर मोडेल हो।

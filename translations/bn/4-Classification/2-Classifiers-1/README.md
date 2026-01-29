@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1a6e9e46b34a2e559fbbfc1f95397c7b",
-  "translation_date": "2025-09-04T21:10:04+00:00",
-  "source_file": "4-Classification/2-Classifiers-1/README.md",
-  "language_code": "bn"
-}
--->
 # কুইজিন শ্রেণীবিন্যাসকারী ১
 
 এই পাঠে, আপনি আগের পাঠে সংরক্ষিত ডেটাসেট ব্যবহার করবেন, যা বিভিন্ন কুইজিন সম্পর্কিত ভারসাম্যপূর্ণ এবং পরিষ্কার ডেটা নিয়ে গঠিত।

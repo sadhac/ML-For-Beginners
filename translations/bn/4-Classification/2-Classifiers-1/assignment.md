@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "de6025f96841498b0577e9d1aee18d1f",
-  "translation_date": "2025-08-29T21:44:15+00:00",
-  "source_file": "4-Classification/2-Classifiers-1/assignment.md",
-  "language_code": "bn"
-}
--->
 # সলভারগুলি অধ্যয়ন করুন
 ## নির্দেশনা
 

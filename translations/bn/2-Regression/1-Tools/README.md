@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fa81d226c71d5af7a2cade31c1c92b88",
-  "translation_date": "2025-09-04T20:59:44+00:00",
-  "source_file": "2-Regression/1-Tools/README.md",
-  "language_code": "bn"
-}
--->
 # পাইথন এবং স্কিকিট-লার্ন দিয়ে রিগ্রেশন মডেল শুরু করা
 
 ![স্কেচনোটে রিগ্রেশনের সারাংশ](../../../../sketchnotes/ml-regression.png)

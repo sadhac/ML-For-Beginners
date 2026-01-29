@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b8e17eff34ad1680eba2a5d3cf9ffc41",
-  "translation_date": "2025-08-29T21:07:20+00:00",
-  "source_file": "5-Clustering/2-K-Means/assignment.md",
-  "language_code": "bn"
-}
--->
 # বিভিন্ন ক্লাস্টারিং পদ্ধতি চেষ্টা করুন
 
 ## নির্দেশনা

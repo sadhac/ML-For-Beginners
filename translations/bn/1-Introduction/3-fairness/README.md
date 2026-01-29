@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9a6b702d1437c0467e3c5c28d763dac2",
-  "translation_date": "2025-09-04T21:06:45+00:00",
-  "source_file": "1-Introduction/3-fairness/README.md",
-  "language_code": "bn"
-}
--->
 # দায়িত্বশীল AI দিয়ে মেশিন লার্নিং সমাধান তৈরি করা
 
 ![মেশিন লার্নিং-এ দায়িত্বশীল AI-এর সারাংশ একটি স্কেচনোটে](../../../../sketchnotes/ml-fairness.png)

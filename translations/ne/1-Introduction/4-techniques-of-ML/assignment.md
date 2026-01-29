@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "70d65aeddc06170bc1aed5b27805f930",
-  "translation_date": "2025-08-29T17:39:07+00:00",
-  "source_file": "1-Introduction/4-techniques-of-ML/assignment.md",
-  "language_code": "ne"
-}
--->
 # डेटा वैज्ञानिकसँग अन्तर्वार्ता गर्नुहोस्
 
 ## निर्देशनहरू

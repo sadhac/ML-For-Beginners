@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "917dbf890db71a322f306050cb284749",
-  "translation_date": "2025-09-06T06:07:48+00:00",
-  "source_file": "7-TimeSeries/2-ARIMA/README.md",
-  "language_code": "mr"
-}
--->
 # ARIMA वापरून टाइम सिरीज अंदाज
 
 मागील धड्यात, तुम्ही टाइम सिरीज अंदाजाबद्दल थोडं शिकला आणि एका कालावधीत विद्युत लोडच्या चढ-उतारांचे डेटा सेट लोड केले.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ee0670655c89e4719319764afb113624",
-  "translation_date": "2025-08-29T22:29:48+00:00",
-  "source_file": "6-NLP/data/README.md",
-  "language_code": "bn"
-}
--->
 হোটেল পর্যালোচনা ডেটা এই ফোল্ডারে ডাউনলোড করুন।
 
 ---

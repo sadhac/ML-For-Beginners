@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "df2b538e8fbb3e91cf0419ae2f858675",
-  "translation_date": "2025-09-06T06:12:09+00:00",
-  "source_file": "9-Real-World/2-Debugging-ML-Models/README.md",
-  "language_code": "mr"
-}
--->
 # पोस्टस्क्रिप्ट: मशीन लर्निंगमध्ये जबाबदार AI डॅशबोर्ड घटकांचा वापर करून मॉडेल डीबगिंग
 
 ## [पूर्व-व्याख्यान प्रश्नमंजूषा](https://ff-quizzes.netlify.app/en/ml/)

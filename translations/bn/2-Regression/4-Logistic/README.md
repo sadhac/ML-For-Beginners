@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "abf86d845c84330bce205a46b382ec88",
-  "translation_date": "2025-09-04T20:58:49+00:00",
-  "source_file": "2-Regression/4-Logistic/README.md",
-  "language_code": "bn"
-}
--->
 # লজিস্টিক রিগ্রেশন দিয়ে ক্যাটাগরি প্রেডিকশন
 
 ![লজিস্টিক বনাম লিনিয়ার রিগ্রেশন ইনফোগ্রাফিক](../../../../2-Regression/4-Logistic/images/linear-vs-logistic.png)

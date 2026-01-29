@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-06T06:25:04+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "ne"
-}
--->
 # Scikit-learn प्रयोग गरेर रिग्रेशन मोडेल बनाउने: चार तरिकामा रिग्रेशन
 
 ![रेखीय बनाम बहुपद रिग्रेशन इन्फोग्राफिक](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -114,11 +105,11 @@ day_of_year = pd.to_datetime(pumpkins['Date']).apply(lambda dt: (dt-datetime(dt.
 
 पछिल्लो पाठबाट तपाईंले सम्भवतः देख्नुभएको छ कि विभिन्न महिनाहरूको लागि औसत मूल्य यस प्रकार देखिन्छ:
 
-<img alt="महिनाद्वारा औसत मूल्य" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="महिनाद्वारा औसत मूल्य" src="../../../../translated_images/ne/barchart.a833ea9194346d76.webp" width="50%"/>
 
 यसले सुझाव दिन्छ कि केही सम्बन्ध हुनुपर्छ, र हामी `महिना` र `मूल्य` बीचको सम्बन्ध भविष्यवाणी गर्न, वा `DayOfYear` र `मूल्य` बीचको सम्बन्ध भविष्यवाणी गर्न रेखीय रिग्रेशन मोडेल प्रशिक्षण गर्न प्रयास गर्न सक्छौं। यहाँ स्क्याटरप्लट छ जसले पछिल्लो सम्बन्ध देखाउँछ:
 
-<img alt="मूल्य बनाम वर्षको दिनको स्क्याटरप्लट" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="मूल्य बनाम वर्षको दिनको स्क्याटरप्लट" src="../../../../translated_images/ne/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 आउनुहोस् `corr` फंक्शन प्रयोग गरेर सम्बन्ध छ कि छैन हेर्नुहोस्:
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="मूल्य बनाम वर्षको दिनको स्क्याटरप्लट" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="मूल्य बनाम वर्षको दिनको स्क्याटरप्लट" src="../../../../translated_images/ne/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 हाम्रो अनुसन्धानले सुझाव दिन्छ कि प्रकारले वास्तविक बिक्री मितिभन्दा समग्र मूल्यमा बढी प्रभाव पार्छ। हामीले यो बार ग्राफको साथ देख्न सक्छौं:
 
@@ -145,7 +136,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="प्रकार बनाम मूल्यको बार ग्राफ" src="images/price-by-variety.png" width="50%" /> 
+<img alt="प्रकार बनाम मूल्यको बार ग्राफ" src="../../../../translated_images/ne/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 आउनुहोस् अहिलेको लागि केवल एक कद्दू प्रकार, 'pie type', मा ध्यान केन्द्रित गरौं, र हेर्नुहोस् कि मितिले मूल्यमा कस्तो प्रभाव पार्छ:
 
@@ -153,7 +144,7 @@ new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="मूल्य बनाम वर्षको दिनको स्क्याटरप्लट" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="मूल्य बनाम वर्षको दिनको स्क्याटरप्लट" src="../../../../translated_images/ne/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 यदि हामी अहिले `corr` फंक्शन प्रयोग गरेर `मूल्य` र `DayOfYear` बीचको सम्बन्ध गणना गर्छौं भने, हामीले `-0.27` जस्तो केही प्राप्त गर्नेछौं - जसको अर्थ भविष्यवाणी मोडेल प्रशिक्षण गर्नुको अर्थ छ।
 
@@ -227,7 +218,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```
 
-<img alt="रेखीय रिग्रेसन" src="images/linear-results.png" width="50%" />
+<img alt="रेखीय रिग्रेसन" src="../../../../translated_images/ne/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## बहुपद रिग्रेसन
 
@@ -256,7 +247,7 @@ pipeline.fit(X_train,y_train)
 
 पाइपलाइनहरू मूल `LinearRegression` वस्तुको जस्तै तरिकामा प्रयोग गर्न सकिन्छ, अर्थात् हामी पाइपलाइनलाई `fit` गर्न सक्छौं, र त्यसपछि भविष्यवाणी परिणामहरू प्राप्त गर्न `predict` प्रयोग गर्न सक्छौं। यहाँ परीक्षण डाटा र अनुमान वक्र देखाउने ग्राफ छ:
 
-<img alt="बहुपद रिग्रेसन" src="images/poly-results.png" width="50%" />
+<img alt="बहुपद रिग्रेसन" src="../../../../translated_images/ne/poly-results.ee587348f0f1f60b.webp" width="50%" />
 
 बहुपद रिग्रेसन प्रयोग गर्दा, हामी थोरै कम MSE र उच्च निर्धारण प्राप्त गर्न सक्छौं, तर धेरै महत्त्वपूर्ण रूपमा होइन। हामीले अन्य विशेषताहरूलाई ध्यानमा राख्न आवश्यक छ!
 
@@ -274,7 +265,7 @@ pipeline.fit(X_train,y_train)
 
 यहाँ तपाईं देख्न सक्नुहुन्छ कि औसत मूल्य विविधतामा कसरी निर्भर गर्दछ:
 
-<img alt="विविधताद्वारा औसत मूल्य" src="images/price-by-variety.png" width="50%" />
+<img alt="विविधताद्वारा औसत मूल्य" src="../../../../translated_images/ne/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 विविधतालाई ध्यानमा राख्न, हामीले पहिले यसलाई संख्यात्मक रूपमा रूपान्तरण गर्न आवश्यक छ, वा **एन्कोड** गर्नुपर्छ। यसलाई गर्नका लागि केही तरिकाहरू छन्:
 

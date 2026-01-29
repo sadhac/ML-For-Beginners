@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5e1b8da31aae9cca3d53ad243fa3365a",
-  "translation_date": "2025-08-29T20:10:32+00:00",
-  "source_file": "SECURITY.md",
-  "language_code": "bn"
-}
--->
 ## নিরাপত্তা
 
 মাইক্রোসফট আমাদের সফটওয়্যার পণ্য এবং পরিষেবার নিরাপত্তাকে অত্যন্ত গুরুত্ব দেয়, যার মধ্যে রয়েছে আমাদের GitHub সংগঠনগুলোর মাধ্যমে পরিচালিত সমস্ত সোর্স কোড রিপোজিটরি। এই সংগঠনগুলোর মধ্যে রয়েছে [Microsoft](https://github.com/Microsoft), [Azure](https://github.com/Azure), [DotNet](https://github.com/dotnet), [AspNet](https://github.com/aspnet), [Xamarin](https://github.com/xamarin), এবং [আমাদের GitHub সংগঠনগুলো](https://opensource.microsoft.com/)।

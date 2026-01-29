@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fdebfcd0a3f12c9e2b436ded1aa79885",
-  "translation_date": "2025-08-29T17:24:14+00:00",
-  "source_file": "9-Real-World/1-Applications/assignment.md",
-  "language_code": "ne"
-}
--->
 # एक एमएल स्क्याभेन्जर हन्ट
 
 ## निर्देशनहरू

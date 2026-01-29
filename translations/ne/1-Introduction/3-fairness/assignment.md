@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dbda60e7b1fe5f18974e7858eff0004e",
-  "translation_date": "2025-08-29T17:34:40+00:00",
-  "source_file": "1-Introduction/3-fairness/assignment.md",
-  "language_code": "ne"
-}
--->
 # जिम्मेवार AI टूलबक्स अन्वेषण गर्नुहोस्
 
 ## निर्देशनहरू

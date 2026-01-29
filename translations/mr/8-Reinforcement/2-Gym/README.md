@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "107d5bb29da8a562e7ae72262d251a75",
-  "translation_date": "2025-09-06T06:19:34+00:00",
-  "source_file": "8-Reinforcement/2-Gym/README.md",
-  "language_code": "mr"
-}
--->
 ## पूर्वअट
 
 या धड्यात, आम्ही **OpenAI Gym** नावाच्या लायब्ररीचा वापर विविध **परिसरांचे** अनुकरण करण्यासाठी करणार आहोत. तुम्ही हा धडा स्थानिकरित्या (उदा. Visual Studio Code मधून) चालवू शकता, अशा वेळी अनुकरण एका नवीन विंडोमध्ये उघडेल. ऑनलाइन कोड चालवताना, तुम्हाला कोडमध्ये काही बदल करावे लागू शकतात, जसे की [येथे](https://towardsdatascience.com/rendering-openai-gym-envs-on-binder-and-google-colab-536f99391cc7) वर्णन केले आहे.

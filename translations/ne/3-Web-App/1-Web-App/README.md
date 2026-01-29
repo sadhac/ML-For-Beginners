@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e0b75f73e4a90d45181dc5581fe2ef5c",
-  "translation_date": "2025-09-06T06:35:56+00:00",
-  "source_file": "3-Web-App/1-Web-App/README.md",
-  "language_code": "ne"
-}
--->
 # वेब एप निर्माण गरेर ML मोडेल प्रयोग गर्नुहोस्
 
 यस पाठमा, तपाईं एक डेटा सेटमा ML मोडेललाई प्रशिक्षण दिनेछौं जुन अद्भुत छ: _पछिल्लो शताब्दीको UFO देखाइहरू_, जुन NUFORC को डाटाबेसबाट लिइएको छ।

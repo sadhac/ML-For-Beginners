@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1a6e9e46b34a2e559fbbfc1f95397c7b",
-  "translation_date": "2025-09-06T06:15:57+00:00",
-  "source_file": "4-Classification/2-Classifiers-1/README.md",
-  "language_code": "mr"
-}
--->
 # पाककृती वर्गीकरण 1
 
 या धड्यात, तुम्ही मागील धड्यातून जतन केलेल्या डेटासेटचा वापर कराल, ज्यामध्ये विविध प्रकारच्या स्वयंपाकशैलींविषयी संतुलित आणि स्वच्छ डेटा आहे.

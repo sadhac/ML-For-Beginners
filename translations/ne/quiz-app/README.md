@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6d130dffca5db70d7e615f926cb1ad4c",
-  "translation_date": "2025-08-29T17:48:02+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "ne"
-}
--->
 # क्विजहरू
 
 यी क्विजहरू ML पाठ्यक्रमको लागि प्रि- र पोस्ट-लेक्चर क्विजहरू हुन्: https://aka.ms/ml-beginners

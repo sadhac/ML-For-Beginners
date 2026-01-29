@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-08-29T22:15:55+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "bn"
-}
--->
 # ট্রেন মাউন্টেন কার
 
 [OpenAI Gym](http://gym.openai.com) এমনভাবে ডিজাইন করা হয়েছে যাতে সব পরিবেশ একই API প্রদান করে - অর্থাৎ একই `reset`, `step` এবং `render` মেথড, এবং **action space** এবং **observation space** এর একই বিমূর্ততা। তাই একই রিইনফোর্সমেন্ট লার্নিং অ্যালগরিদমকে বিভিন্ন পরিবেশে সামান্য কোড পরিবর্তনের মাধ্যমে মানিয়ে নেওয়া সম্ভব।

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-04T20:57:44+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "bn"
-}
--->
 # স্কিকিট-লার্ন ব্যবহার করে রিগ্রেশন মডেল তৈরি করুন: চারটি পদ্ধতিতে রিগ্রেশন
 
 ![লিনিয়ার বনাম পলিনোমিয়াল রিগ্রেশন ইনফোগ্রাফিক](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -114,11 +105,11 @@ day_of_year = pd.to_datetime(pumpkins['Date']).apply(lambda dt: (dt-datetime(dt.
 
 পূর্ববর্তী পাঠ থেকে আপনি সম্ভবত দেখেছেন যে বিভিন্ন মাসের গড় দাম নিম্নরূপ দেখায়:
 
-<img alt="মাস অনুযায়ী গড় দাম" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="মাস অনুযায়ী গড় দাম" src="../../../../translated_images/bn/barchart.a833ea9194346d76.webp" width="50%"/>
 
 এটি ইঙ্গিত করে যে কিছু করেলেশন থাকতে পারে, এবং আমরা `Month` এবং `Price` এর মধ্যে সম্পর্ক বা `DayOfYear` এবং `Price` এর মধ্যে সম্পর্ক পূর্বাভাস দিতে লিনিয়ার রিগ্রেশন মডেল প্রশিক্ষণ দিতে চেষ্টা করতে পারি। এখানে একটি স্ক্যাটারপ্লট দেখানো হয়েছে যা পরবর্তী সম্পর্কটি দেখায়:
 
-<img alt="দাম বনাম বছরের দিন স্ক্যাটারপ্লট" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="দাম বনাম বছরের দিন স্ক্যাটারপ্লট" src="../../../../translated_images/bn/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 চলুন `corr` ফাংশন ব্যবহার করে করেলেশন আছে কিনা দেখি:
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="দাম বনাম বছরের দিন স্ক্যাটারপ্লট" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="দাম বনাম বছরের দিন স্ক্যাটারপ্লট" src="../../../../translated_images/bn/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 আমাদের তদন্ত ইঙ্গিত করে যে প্রজাতি বিক্রয়ের তারিখের চেয়ে সামগ্রিক দামের উপর বেশি প্রভাব ফেলে। আমরা এটি একটি বার গ্রাফের মাধ্যমে দেখতে পারি:
 
@@ -145,7 +136,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="প্রজাতি অনুযায়ী দাম বার গ্রাফ" src="images/price-by-variety.png" width="50%" /> 
+<img alt="প্রজাতি অনুযায়ী দাম বার গ্রাফ" src="../../../../translated_images/bn/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 চলুন আপাতত শুধুমাত্র একটি কুমড়ার প্রজাতি, 'পাই টাইপ', এর উপর মনোযোগ দিই এবং দেখি তারিখের দাম উপর কী প্রভাব ফেলে:
 
@@ -153,7 +144,7 @@ new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="দাম বনাম বছরের দিন স্ক্যাটারপ্লট" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="দাম বনাম বছরের দিন স্ক্যাটারপ্লট" src="../../../../translated_images/bn/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 যদি আমরা এখন `corr` ফাংশন ব্যবহার করে `Price` এবং `DayOfYear` এর মধ্যে করেলেশন গণনা করি, আমরা কিছুটা `-0.27` পাব - যা নির্দেশ করে যে একটি পূর্বাভাস মডেল প্রশিক্ষণ দেওয়া যুক্তিযুক্ত।
 
@@ -227,7 +218,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```  
 
-<img alt="লিনিয়ার রিগ্রেশন" src="images/linear-results.png" width="50%" />
+<img alt="লিনিয়ার রিগ্রেশন" src="../../../../translated_images/bn/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## পলিনোমিয়াল রিগ্রেশন  
 
@@ -256,7 +247,7 @@ pipeline.fit(X_train,y_train)
 
 পাইপলাইনগুলোকে মূল `LinearRegression` অবজেক্টের মতোই ব্যবহার করা যায়, অর্থাৎ আমরা পাইপলাইনটিকে `fit` করতে পারি এবং তারপর `predict` ব্যবহার করে পূর্বানুমানের ফলাফল পেতে পারি। এখানে টেস্ট ডেটা এবং আনুমানিক কার্ভ দেখানো হলো:  
 
-<img alt="পলিনোমিয়াল রিগ্রেশন" src="images/poly-results.png" width="50%" />  
+<img alt="পলিনোমিয়াল রিগ্রেশন" src="../../../../translated_images/bn/poly-results.ee587348f0f1f60b.webp" width="50%" />  
 
 পলিনোমিয়াল রিগ্রেশন ব্যবহার করে আমরা সামান্য কম MSE এবং সামান্য বেশি determination পেতে পারি, তবে তা উল্লেখযোগ্য নয়। আমাদের আরও ফিচার বিবেচনায় নিতে হবে!  
 
@@ -274,7 +265,7 @@ pipeline.fit(X_train,y_train)
 
 এখানে আপনি দেখতে পাচ্ছেন কীভাবে গড় দাম বৈচিত্র্যের উপর নির্ভর করে:  
 
-<img alt="বৈচিত্র্য অনুযায়ী গড় দাম" src="images/price-by-variety.png" width="50%" />  
+<img alt="বৈচিত্র্য অনুযায়ী গড় দাম" src="../../../../translated_images/bn/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />  
 
 বৈচিত্র্যকে বিবেচনায় নিতে, প্রথমে আমাদের এটিকে সংখ্যাসূচক রূপে রূপান্তর করতে হবে, বা **এনকোড** করতে হবে। এটি করার কয়েকটি উপায় রয়েছে:  
 

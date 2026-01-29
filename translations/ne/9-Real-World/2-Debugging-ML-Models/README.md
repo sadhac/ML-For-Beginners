@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "df2b538e8fbb3e91cf0419ae2f858675",
-  "translation_date": "2025-09-06T06:32:19+00:00",
-  "source_file": "9-Real-World/2-Debugging-ML-Models/README.md",
-  "language_code": "ne"
-}
--->
 # पोस्टस्क्रिप्ट: जिम्मेवार AI ड्यासबोर्ड कम्पोनेन्टहरू प्रयोग गरेर मेसिन लर्निङ मोडेल डिबगिङ
 
 ## [प्री-लेक्चर क्विज](https://ff-quizzes.netlify.app/en/ml/)

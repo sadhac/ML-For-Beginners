@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b37de02054fa6c0438ede6fabe1fdfb8",
-  "translation_date": "2025-08-29T16:33:51+00:00",
-  "source_file": "for-teachers.md",
-  "language_code": "ne"
-}
--->
 ## शिक्षकहरूका लागि
 
 के तपाईं यो पाठ्यक्रम आफ्नो कक्षामा प्रयोग गर्न चाहनुहुन्छ? कृपया निःसंकोच प्रयोग गर्नुहोस्!

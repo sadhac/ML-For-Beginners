@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-08-29T18:04:51+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "mr"
-}
--->
 # reinforcement learning ची ओळख
 
 reinforcement learning, RL, हे supervised learning आणि unsupervised learning यांच्यासोबत मशीन लर्निंगचे एक मूलभूत पॅराडाइम मानले जाते. RL म्हणजे निर्णय घेणे: योग्य निर्णय देणे किंवा त्यातून शिकणे.

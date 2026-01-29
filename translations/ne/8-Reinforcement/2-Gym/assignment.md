@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-08-29T18:17:35+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "ne"
-}
--->
 # ट्रेन माउन्टेन कार
 
 [OpenAI Gym](http://gym.openai.com) यसरी डिजाइन गरिएको छ कि सबै वातावरणहरूले एउटै API प्रदान गर्छन् - अर्थात् एउटै विधिहरू `reset`, `step` र `render`, र **action space** र **observation space** को एउटै संरचना। यसले गर्दा एउटै reinforcement learning एल्गोरिदमलाई विभिन्न वातावरणहरूमा न्यूनतम कोड परिवर्तनको साथ अनुकूलन गर्न सम्भव हुनुपर्छ।

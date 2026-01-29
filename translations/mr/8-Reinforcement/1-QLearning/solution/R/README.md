@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "81db6ff2cf6e62fbe2340b094bb9509e",
-  "translation_date": "2025-08-29T18:14:04+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/solution/R/README.md",
-  "language_code": "mr"
-}
--->
 
 
 ---

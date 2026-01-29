@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "799ed651e2af0a7cad17c6268db11578",
-  "translation_date": "2025-08-29T17:54:27+00:00",
-  "source_file": "4-Classification/4-Applied/assignment.md",
-  "language_code": "mr"
-}
--->
 # शिफारस प्रणाली तयार करा
 
 ## सूचना

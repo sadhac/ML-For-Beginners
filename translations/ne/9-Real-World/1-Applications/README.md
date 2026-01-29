@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "83320d6b6994909e35d830cebf214039",
-  "translation_date": "2025-09-06T06:31:38+00:00",
-  "source_file": "9-Real-World/1-Applications/README.md",
-  "language_code": "ne"
-}
--->
 # पोस्टस्क्रिप्ट: वास्तविक संसारमा मेसिन लर्निङ
 
 ![वास्तविक संसारमा मेसिन लर्निङको सारांश स्केच नोटमा](../../../../sketchnotes/ml-realworld.png)

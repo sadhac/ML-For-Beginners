@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b37de02054fa6c0438ede6fabe1fdfb8",
-  "translation_date": "2025-08-29T20:11:30+00:00",
-  "source_file": "for-teachers.md",
-  "language_code": "bn"
-}
--->
 ## শিক্ষকদের জন্য
 
 আপনি কি আপনার ক্লাসরুমে এই পাঠ্যক্রমটি ব্যবহার করতে চান? নির্দ্বিধায় ব্যবহার করুন!
