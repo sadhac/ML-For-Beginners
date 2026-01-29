@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "134d8759f0e2ab886e9aa4f62362c201",
-  "translation_date": "2025-10-11T11:13:08+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "ta"
-}
--->
 # பிழைத்திருத்த வழிகாட்டி
 
 இந்த வழிகாட்டி, Machine Learning for Beginners பாடத்திட்டத்துடன் வேலை செய்யும்போது ஏற்படும் பொதுவான பிரச்சினைகளை தீர்க்க உங்களுக்கு உதவுகிறது. இங்கே தீர்வு கிடைக்காவிட்டால், எங்கள் [Discord Discussions](https://aka.ms/foundry/discord) அல்லது [ஒரு பிரச்சினையைத் திறக்கவும்](https://github.com/microsoft/ML-For-Beginners/issues) சென்று பார்க்கவும்.

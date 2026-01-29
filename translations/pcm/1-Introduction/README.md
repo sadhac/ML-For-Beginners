@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cf8ecc83f28e5b98051d2179eca08e08",
-  "translation_date": "2025-11-18T18:20:46+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "pcm"
-}
--->
 # Introduction to machine learning
 
 For dis section of di curriculum, you go sabi di basic idea wey dey behind machine learning, wetin e mean, and you go learn about di history and di techniques wey researchers dey use to work with am. Make we waka enter dis new world of ML together!

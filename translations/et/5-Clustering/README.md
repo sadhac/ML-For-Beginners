@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-10-11T12:05:01+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "et"
-}
--->
 # Klasterdamise mudelid masinõppes
 
 Klasterdamine on masinõppe ülesanne, mille eesmärk on leida objekte, mis sarnanevad üksteisele, ja rühmitada need klastriteks. Mis eristab klasterdamist teistest masinõppe lähenemistest, on see, et protsess toimub automaatselt – tegelikult võib öelda, et see on vastand juhendatud õppimisele.

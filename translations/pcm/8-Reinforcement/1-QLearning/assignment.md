@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "68394b2102d3503882e5e914bd0ff5c1",
-  "translation_date": "2025-11-18T18:17:24+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/assignment.md",
-  "language_code": "pcm"
-}
--->
 # A More Realistic World
 
 For dis our situation, Peter fit waka around almost without dey tire or hungry. But for more realistic world, e go need siddon rest from time to time, and also chop food. Make we make our world more realistic, by wey we go add dis rules:

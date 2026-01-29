@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "730225ea274c9174fe688b21d421539d",
-  "translation_date": "2025-11-18T19:06:15+00:00",
-  "source_file": "5-Clustering/1-Visualize/README.md",
-  "language_code": "pcm"
-}
--->
 # Introduction to clustering
 
 Clustering na one kain [Unsupervised Learning](https://wikipedia.org/wiki/Unsupervised_learning) wey dey assume say dataset no get label or say e input no dey match with any predefined output. E dey use different algorithm to arrange data wey no get label and group dem based on pattern wey e see for di data.

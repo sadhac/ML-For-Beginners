@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a39c15d63f3b2795ee2284a82b986b93",
-  "translation_date": "2025-11-18T18:43:24+00:00",
-  "source_file": "2-Regression/3-Linear/solution/Julia/README.md",
-  "language_code": "pcm"
-}
--->
 Dis na temporary placeholder
 
 ---

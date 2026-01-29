@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "8d32dadeda93c6fb5c43619854882ab1",
-  "translation_date": "2025-11-18T18:32:19+00:00",
-  "source_file": "6-NLP/4-Hotel-Reviews-1/README.md",
-  "language_code": "pcm"
-}
--->
 # Sentiment analysis wit hotel reviews - how to process di data
 
 For dis section, you go use di techniques wey you don learn for di previous lessons to do some exploratory data analysis for one big dataset. Once you don sabi well well how di different columns fit help, you go learn:

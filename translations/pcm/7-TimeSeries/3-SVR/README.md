@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-11-18T19:01:25+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "pcm"
-}
--->
 # Time Series Forecasting wit Support Vector Regressor
 
 For di last lesson, you don learn how to use ARIMA model take make time series predictions. Now, you go dey look Support Vector Regressor model wey be regressor model wey dem dey use predict continuous data.

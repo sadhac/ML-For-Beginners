@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1a6e9e46b34a2e559fbbfc1f95397c7b",
-  "translation_date": "2025-11-18T18:50:19+00:00",
-  "source_file": "4-Classification/2-Classifiers-1/README.md",
-  "language_code": "pcm"
-}
--->
 # Cuisine classifiers 1
 
 For dis lesson, you go use di dataset wey you save from di last lesson wey get balanced, clean data about cuisines.

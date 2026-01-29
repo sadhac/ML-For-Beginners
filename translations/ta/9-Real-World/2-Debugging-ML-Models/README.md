@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "df2b538e8fbb3e91cf0419ae2f858675",
-  "translation_date": "2025-10-11T11:51:15+00:00",
-  "source_file": "9-Real-World/2-Debugging-ML-Models/README.md",
-  "language_code": "ta"
-}
--->
 # பிந்தைய குறிப்புகள்: பொறுப்பான AI டாஷ்போர்டு கூறுகளைப் பயன்படுத்தி இயந்திரக் கற்றல் மாடல் பிழை சரிசெய்தல்
 
 ## [முன்-வகுப்பு வினாடி வினா](https://ff-quizzes.netlify.app/en/ml/)

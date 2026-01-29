@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "662b509c39eee205687726636d0a8455",
-  "translation_date": "2025-10-11T12:00:37+00:00",
-  "source_file": "7-TimeSeries/1-Introduction/README.md",
-  "language_code": "ta"
-}
--->
 # கால வரிசை முன்னறிவிப்பு அறிமுகம்
 
 ![கால வரிசையின் சுருக்கம் ஒரு ஸ்கெட்ச் நோட்டில்](../../../../translated_images/ta/ml-timeseries.fb98d25f1013fc0c.webp)

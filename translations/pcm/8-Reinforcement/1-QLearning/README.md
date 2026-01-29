@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "911efd5e595089000cb3c16fce1beab8",
-  "translation_date": "2025-11-18T18:16:07+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/README.md",
-  "language_code": "pcm"
-}
--->
 # Introduction to Reinforcement Learning and Q-Learning
 
 ![Summary of reinforcement in machine learning in a sketchnote](../../../../translated_images/pcm/ml-reinforcement.94024374d63348db.webp)

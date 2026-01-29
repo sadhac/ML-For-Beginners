@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "abf86d845c84330bce205a46b382ec88",
-  "translation_date": "2025-10-11T11:42:07+00:00",
-  "source_file": "2-Regression/4-Logistic/README.md",
-  "language_code": "et"
-}
--->
 # Logistiline regressioon kategooriate ennustamiseks
 
 ![Logistilise ja lineaarse regressiooni infograafik](../../../../translated_images/et/linear-vs-logistic.ba180bf95e7ee667.webp)

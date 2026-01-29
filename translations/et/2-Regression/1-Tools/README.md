@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fa81d226c71d5af7a2cade31c1c92b88",
-  "translation_date": "2025-10-11T11:43:52+00:00",
-  "source_file": "2-Regression/1-Tools/README.md",
-  "language_code": "et"
-}
--->
 # Alusta Pythoni ja Scikit-learniga regressioonimudelite jaoks
 
 ![Regressioonide kokkuvõte visuaalses märkmes](../../../../translated_images/et/ml-regression.4e4f70e3b3ed446e.webp)

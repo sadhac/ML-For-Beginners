@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "134d8759f0e2ab886e9aa4f62362c201",
-  "translation_date": "2025-11-18T18:11:28+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "pcm"
-}
--->
 # Troubleshooting Guide
 
 Dis guide go help you solve common wahala wey fit happen wen you dey work wit di Machine Learning for Beginners curriculum. If you no see solution here, abeg check our [Discord Discussions](https://aka.ms/foundry/discord) or [open an issue](https://github.com/microsoft/ML-For-Beginners/issues).

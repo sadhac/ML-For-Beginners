@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "eb6e4d5afd1b21a57d2b9e6d0aac3969",
-  "translation_date": "2025-11-18T18:25:19+00:00",
-  "source_file": "1-Introduction/2-history-of-ML/assignment.md",
-  "language_code": "pcm"
-}
--->
 # Make timeline
 
 ## How you go do am

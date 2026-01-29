@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dbda60e7b1fe5f18974e7858eff0004e",
-  "translation_date": "2025-10-11T11:27:17+00:00",
-  "source_file": "1-Introduction/3-fairness/assignment.md",
-  "language_code": "ta"
-}
--->
 # பொறுப்பான AI Toolbox ஐ ஆராயுங்கள்
 
 ## வழிமுறைகள்

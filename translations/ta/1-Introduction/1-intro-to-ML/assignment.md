@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4c4698044bb8af52cfb6388a4ee0e53b",
-  "translation_date": "2025-10-11T11:25:40+00:00",
-  "source_file": "1-Introduction/1-intro-to-ML/assignment.md",
-  "language_code": "ta"
-}
--->
 # தொடங்கி செயல்படுங்கள்
 
 ## வழிமுறைகள்

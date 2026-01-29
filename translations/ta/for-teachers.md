@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b37de02054fa6c0438ede6fabe1fdfb8",
-  "translation_date": "2025-10-11T11:09:10+00:00",
-  "source_file": "for-teachers.md",
-  "language_code": "ta"
-}
--->
 ## ஆசிரியர்களுக்காக
 
 இந்த பாடத்திட்டத்தை உங்கள் வகுப்பறையில் பயன்படுத்த விரும்புகிறீர்களா? தயவுசெய்து பயன்படுத்துங்கள்!

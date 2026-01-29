@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fa81d226c71d5af7a2cade31c1c92b88",
-  "translation_date": "2025-11-18T18:39:40+00:00",
-  "source_file": "2-Regression/1-Tools/README.md",
-  "language_code": "pcm"
-}
--->
 # Start wit Python and Scikit-learn for regression models
 
 ![Summary of regressions in a sketchnote](../../../../translated_images/pcm/ml-regression.4e4f70e3b3ed446e.webp)

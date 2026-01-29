@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b2a01912beb24cfb0007f83594dba801",
-  "translation_date": "2025-11-18T18:53:12+00:00",
-  "source_file": "4-Classification/1-Introduction/assignment.md",
-  "language_code": "pcm"
-}
--->
 # Check Classification Methods
 
 ## Wetin You Go Do

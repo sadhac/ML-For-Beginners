@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "83320d6b6994909e35d830cebf214039",
-  "translation_date": "2025-11-18T18:46:05+00:00",
-  "source_file": "9-Real-World/1-Applications/README.md",
-  "language_code": "pcm"
-}
--->
 # Postscript: Machine learning for real world
 
 ![Summary of machine learning in the real world in a sketchnote](../../../../translated_images/pcm/ml-realworld.26ee274671615577.webp)

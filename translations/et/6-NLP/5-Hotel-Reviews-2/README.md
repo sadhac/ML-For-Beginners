@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "2c742993fe95d5bcbb2846eda3d442a1",
-  "translation_date": "2025-10-11T11:32:40+00:00",
-  "source_file": "6-NLP/5-Hotel-Reviews-2/README.md",
-  "language_code": "et"
-}
--->
 # Sentimentaanalüüs hotelliarvustustega
 
 Nüüd, kui olete andmestikku põhjalikult uurinud, on aeg filtreerida veerud ja kasutada NLP-tehnikaid, et saada hotellide kohta uusi teadmisi.

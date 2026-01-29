@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "7c077988328ebfe33b24d07945f16eca",
-  "translation_date": "2025-10-11T11:47:54+00:00",
-  "source_file": "2-Regression/2-Data/README.md",
-  "language_code": "et"
-}
--->
 # Ehita regressioonimudel Scikit-learniga: andmete ettevalmistamine ja visualiseerimine
 
 ![Andmete visualiseerimise infograafika](../../../../translated_images/et/data-visualization.54e56dded7c1a804.webp)

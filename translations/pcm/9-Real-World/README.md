@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5e069a0ac02a9606a69946c2b3c574a9",
-  "translation_date": "2025-11-18T18:45:56+00:00",
-  "source_file": "9-Real-World/README.md",
-  "language_code": "pcm"
-}
--->
 # Postscript: Real world applications of classic machine learning
 
 For dis part of di curriculum, you go sabi some real-world ways wey dem dey use classical ML. We don waka internet well well find whitepapers and articles wey talk about how dem don use dis strategies, we dey try avoid neural networks, deep learning and AI as much as we fit. You go learn how ML dey work for business systems, ecological applications, finance, arts and culture, and plenty other areas.

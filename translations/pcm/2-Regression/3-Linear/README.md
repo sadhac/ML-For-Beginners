@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-11-18T18:41:54+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "pcm"
-}
--->
 # Build regression model wit Scikit-learn: regression four ways
 
 ![Linear vs polynomial regression infographic](../../../../translated_images/pcm/linear-polynomial.5523c7cb6576ccab.webp)

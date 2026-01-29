@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "2c742993fe95d5bcbb2846eda3d442a1",
-  "translation_date": "2025-11-18T18:28:59+00:00",
-  "source_file": "6-NLP/5-Hotel-Reviews-2/README.md",
-  "language_code": "pcm"
-}
--->
 # Sentiment analysis wit hotel reviews
 
 Now wey you don check di dataset well well, na time to filter di columns and use NLP techniques for di dataset to get new gist about di hotels.

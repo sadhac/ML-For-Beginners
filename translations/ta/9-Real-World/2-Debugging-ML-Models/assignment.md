@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "91c6a180ef08e20cc15acfd2d6d6e164",
-  "translation_date": "2025-10-11T11:52:55+00:00",
-  "source_file": "9-Real-World/2-Debugging-ML-Models/assignment.md",
-  "language_code": "ta"
-}
--->
 # பொறுப்பான AI (RAI) டாஷ்போர்டை ஆராயுங்கள்
 
 ## வழிமுறைகள்

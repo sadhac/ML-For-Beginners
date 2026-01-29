@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1eb379dc2d0c9940b320732d16083778",
-  "translation_date": "2025-11-18T18:27:21+00:00",
-  "source_file": "6-NLP/README.md",
-  "language_code": "pcm"
-}
--->
 # How to Start Wit Natural Language Processing
 
 Natural language processing (NLP) na di way wey computer program fit sabi human language as e dey spoken and written – wey dem dey call natural language. E be one part of artificial intelligence (AI). NLP don dey exist for more than 50 years and e get im root for di field of linguistics. Di whole idea na to help machine sabi and process human language. Dis one fit help do things like spell check or machine translation. E get plenty real-life use for different areas, like medical research, search engines, and business intelligence.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "508582278dbb8edd2a8a80ac96ef416c",
-  "translation_date": "2025-10-11T11:40:09+00:00",
-  "source_file": "2-Regression/README.md",
-  "language_code": "et"
-}
--->
 # Regressioonimudelid masinõppes
 ## Piirkondlik teema: Kõrvitsahindade regressioonimudelid Põhja-Ameerikas 🎃
 

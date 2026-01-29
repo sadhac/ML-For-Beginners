@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-10-11T11:17:43+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "et"
-}
--->
 # Treeni Mountain Car
 
 [OpenAI Gym](http://gym.openai.com) on loodud nii, et kõik keskkonnad pakuvad sama API-d – st samu meetodeid `reset`, `step` ja `render` ning samu **tegevusruumi** ja **vaatlusruumi** abstraktsioone. Seetõttu peaks olema võimalik kohandada sama tugevdusõppe algoritmi erinevatele keskkondadele minimaalsete koodimuudatustega.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1eb379dc2d0c9940b320732d16083778",
-  "translation_date": "2025-10-11T11:30:24+00:00",
-  "source_file": "6-NLP/README.md",
-  "language_code": "et"
-}
--->
 # Loomulik keele töötlemisega alustamine
 
 Loomulik keele töötlemine (NLP) on arvutiprogrammi võime mõista inimkeelt nii, nagu seda räägitakse ja kirjutatakse – viidates loomulikule keelele. See on tehisintellekti (AI) komponent. NLP on eksisteerinud üle 50 aasta ja selle juured ulatuvad lingvistika valdkonda. Kogu valdkond on suunatud masinate aitamisele inimkeele mõistmisel ja töötlemisel. Seda saab kasutada ülesannete täitmiseks, nagu õigekirjakontroll või masintõlge. Sellel on mitmesuguseid praktilisi rakendusi mitmes valdkonnas, sealhulgas meditsiiniuuringutes, otsingumootorites ja äriluures.

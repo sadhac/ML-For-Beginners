@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6d130dffca5db70d7e615f926cb1ad4c",
-  "translation_date": "2025-10-11T11:14:10+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "ta"
-}
--->
 # வினாடி வினா
 
 இந்த வினாடி வினாக்கள் https://aka.ms/ml-beginners என்ற ML பாடத்திட்டத்திற்கான முன் மற்றும் பிந்தைய பாடவகுப்பு வினாடி வினாக்கள் ஆகும்.

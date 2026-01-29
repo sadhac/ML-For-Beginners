@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "8af40209a41494068c1f42b14c0b450d",
-  "translation_date": "2025-10-11T11:42:54+00:00",
-  "source_file": "2-Regression/4-Logistic/assignment.md",
-  "language_code": "ta"
-}
--->
 # சில பின்வாங்கும் ரிக்ரஷன் முயற்சிகள்
 
 ## வழிமுறைகள்

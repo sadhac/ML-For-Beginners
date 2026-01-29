@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9d91f3af3758fdd4569fb410575995ef",
-  "translation_date": "2025-10-11T11:29:27+00:00",
-  "source_file": "1-Introduction/4-techniques-of-ML/README.md",
-  "language_code": "et"
-}
--->
 # Masinõppe tehnikad
 
 Masinõppe mudelite ja nende kasutatava andmete loomise, kasutamise ja hooldamise protsess erineb oluliselt paljudest teistest arendusvoogudest. Selles õppetükis selgitame seda protsessi ja toome välja peamised tehnikad, mida peate teadma. Te saate:

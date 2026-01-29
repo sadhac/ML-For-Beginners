@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-11-18T18:12:51+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "pcm"
-}
--->
 # Introduction to reinforcement learning
 
 Reinforcement learning, RL, na one of di main machine learning style, e dey follow supervised learning and unsupervised learning. RL na all about decision: how to make correct decision or at least learn from di one wey you don make.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "2efc4c2aba5ed06c780c05539c492ae3",
-  "translation_date": "2025-10-11T11:37:45+00:00",
-  "source_file": "6-NLP/2-Tasks/assignment.md",
-  "language_code": "ta"
-}
--->
 # ஒரு பாட்டை பேச வைக்க
 
 ## வழிமுறைகள்

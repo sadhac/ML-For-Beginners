@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "49047911108adc49d605cddfb455749c",
-  "translation_date": "2025-11-18T18:53:54+00:00",
-  "source_file": "4-Classification/3-Classifiers-2/README.md",
-  "language_code": "pcm"
-}
--->
 # Cuisine classifiers 2
 
 For dis second lesson for classification, you go learn more ways wey you fit take classify numeric data. You go also sabi wetin fit happen if you choose one classifier instead of another one.

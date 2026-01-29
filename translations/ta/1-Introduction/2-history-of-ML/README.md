@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6a05fec147e734c3e6bfa54505648e2b",
-  "translation_date": "2025-10-11T11:27:30+00:00",
-  "source_file": "1-Introduction/2-history-of-ML/README.md",
-  "language_code": "ta"
-}
--->
 # இயந்திரக் கற்றலின் வரலாறு
 
 ![இயந்திரக் கற்றலின் வரலாற்றின் சுருக்கம் ஒரு ஸ்கெட்ச் நோட்டில்](../../../../translated_images/ta/ml-history.a1bdfd4ce1f464d9.webp)

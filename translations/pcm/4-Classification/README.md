@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "74e809ffd1e613a1058bbc3e9600859e",
-  "translation_date": "2025-11-18T18:48:59+00:00",
-  "source_file": "4-Classification/README.md",
-  "language_code": "pcm"
-}
--->
 # How to start wit classification
 
 ## Regional topic: Sweet Asian and Indian Food 🍜

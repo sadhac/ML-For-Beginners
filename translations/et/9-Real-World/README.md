@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5e069a0ac02a9606a69946c2b3c574a9",
-  "translation_date": "2025-10-11T11:49:12+00:00",
-  "source_file": "9-Real-World/README.md",
-  "language_code": "et"
-}
--->
 # Järelsõna: Klassikalise masinõppe rakendused päriselus
 
 Selles õppekava osas tutvustatakse teile klassikalise masinõppe rakendusi päriselus. Oleme internetist otsinud valgeid raamatuid ja artikleid, mis käsitlevad nende strateegiate kasutamist, vältides võimalusel närvivõrke, süvaõpet ja tehisintellekti. Uurige, kuidas masinõpet kasutatakse ärisüsteemides, ökoloogilistes rakendustes, rahanduses, kunstis ja kultuuris ning mujal.

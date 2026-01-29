@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-11-18T18:14:22+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "pcm"
-}
--->
 # Train Mountain Car
 
 [OpenAI Gym](http://gym.openai.com) don design am so say all di environments dey use di same API - dat na di same methods `reset`, `step` and `render`, and di same way wey dem dey arrange **action space** and **observation space**. So e suppose dey possible to use di same reinforcement learning algorithms for different environments wit small code changes.

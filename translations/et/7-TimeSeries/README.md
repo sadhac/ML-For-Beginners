@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-10-11T11:58:36+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "et"
-}
--->
 # Sissejuhatus aegridade prognoosimisse
 
 Mis on aegridade prognoosimine? See seisneb tulevaste sündmuste ennustamises, analüüsides mineviku trende.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "730225ea274c9174fe688b21d421539d",
-  "translation_date": "2025-10-11T12:06:13+00:00",
-  "source_file": "5-Clustering/1-Visualize/README.md",
-  "language_code": "et"
-}
--->
 # Sissejuhatus klasterdamisse
 
 Klasterdamine on [juhendamata õppe](https://wikipedia.org/wiki/Unsupervised_learning) tüüp, mis eeldab, et andmekogum on märgistamata või et selle sisendid ei ole seotud eelnevalt määratletud väljunditega. See kasutab erinevaid algoritme, et sorteerida märgistamata andmeid ja pakkuda rühmitusi vastavalt mustritele, mida ta andmetes tuvastab.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "aaf391d922bd6de5efba871d514c6d47",
-  "translation_date": "2025-11-18T18:52:26+00:00",
-  "source_file": "4-Classification/1-Introduction/README.md",
-  "language_code": "pcm"
-}
--->
 # Introduction to classification
 
 For dis four lessons, you go learn one important part of classic machine learning - _classification_. We go show you how to use different classification algorithms with one dataset wey dey talk about all di sweet cuisines for Asia and India. Hope say you dey hungry!

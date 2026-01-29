@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "508582278dbb8edd2a8a80ac96ef416c",
-  "translation_date": "2025-11-18T18:38:01+00:00",
-  "source_file": "2-Regression/README.md",
-  "language_code": "pcm"
-}
--->
 # Regression models for machine learning
 ## Regional topic: Regression models for pumpkin prices in North America 🎃
 

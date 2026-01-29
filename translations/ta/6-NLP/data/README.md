@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ee0670655c89e4719319764afb113624",
-  "translation_date": "2025-10-11T11:33:54+00:00",
-  "source_file": "6-NLP/data/README.md",
-  "language_code": "ta"
-}
--->
 இந்த கோப்புறையில் ஹோட்டல் விமர்சன தரவுகளை பதிவிறக்கவும்.
 
 ---

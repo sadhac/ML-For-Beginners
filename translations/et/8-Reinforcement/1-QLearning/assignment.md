@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "68394b2102d3503882e5e914bd0ff5c1",
-  "translation_date": "2025-10-11T11:21:08+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/assignment.md",
-  "language_code": "et"
-}
--->
 # Realistlikum maailm
 
 Meie olukorras suutis Peeter liikuda peaaegu väsimata või nälga tundmata. Realistlikumas maailmas peab ta aeg-ajalt istuma ja puhkama ning ka end toitma. Muudame oma maailma realistlikumaks, rakendades järgmisi reegleid:

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "81db6ff2cf6e62fbe2340b094bb9509e",
-  "translation_date": "2025-10-11T12:00:29+00:00",
-  "source_file": "7-TimeSeries/2-ARIMA/solution/R/README.md",
-  "language_code": "ta"
-}
--->
 இது ஒரு தற்காலிக இடதட்டம்.
 
 ---

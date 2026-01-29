@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61bdec27ed2da8b098cd9065405d9bb0",
-  "translation_date": "2025-10-11T11:57:51+00:00",
-  "source_file": "4-Classification/4-Applied/README.md",
-  "language_code": "et"
-}
--->
 # Ehita köögi soovitaja veebirakendus
 
 Selles õppetükis ehitad klassifikatsioonimudeli, kasutades mõningaid tehnikaid, mida oled õppinud eelnevates tundides, ja maitsvat köögidatasetit, mida on kasutatud kogu selle sarja jooksul. Lisaks ehitad väikese veebirakenduse, et kasutada salvestatud mudelit, kasutades Onnxi veebiruntime'i.

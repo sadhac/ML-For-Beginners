@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4485a1ed4dd1b5647365e3d87456515d",
-  "translation_date": "2025-11-18T18:45:04+00:00",
-  "source_file": "2-Regression/2-Data/assignment.md",
-  "language_code": "pcm"
-}
--->
 # Exploring Visualizations
 
 Plenti diffren libraries dey wey you fit use for data visualization. Try create some visualizations wit di Pumpkin data wey dey dis lesson, use matplotlib and seaborn for one sample notebook. Which libraries easy pass to use?

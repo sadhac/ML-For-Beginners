@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "911efd5e595089000cb3c16fce1beab8",
-  "translation_date": "2025-10-11T11:19:00+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/README.md",
-  "language_code": "ta"
-}
--->
 # ரீன்போர்ஸ்மென்ட் லெர்னிங் மற்றும் Q-லெர்னிங் அறிமுகம்
 
 ![மெஷின் லெர்னிங்கில் ரீன்போர்ஸ்மென்ட் பற்றிய சுருக்கம்](../../../../translated_images/ta/ml-reinforcement.94024374d63348db.webp)

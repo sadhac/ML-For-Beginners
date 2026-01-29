@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "abf86d845c84330bce205a46b382ec88",
-  "translation_date": "2025-11-18T18:38:18+00:00",
-  "source_file": "2-Regression/4-Logistic/README.md",
-  "language_code": "pcm"
-}
--->
 # Logistic regression to predict categories
 
 ![Logistic vs. linear regression infographic](../../../../translated_images/pcm/linear-vs-logistic.ba180bf95e7ee667.webp)

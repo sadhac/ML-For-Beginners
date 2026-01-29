@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "be03c8182982b87ced155e4e9d1438e8",
-  "translation_date": "2025-10-11T11:38:46+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/README.md",
-  "language_code": "et"
-}
--->
 # Tõlkimine ja meeleolu analüüs masinõppe abil
 
 Eelnevates tundides õppisite, kuidas luua lihtsat robotit, kasutades `TextBlob`-i, raamatukogu, mis rakendab masinõpet kulisside taga, et täita põhilisi loomuliku keele töötlemise ülesandeid, nagu nimisõnafraaside tuvastamine. Üks oluline väljakutse arvutilingvistikas on täpne _tõlkimine_ ühest kõneldavast või kirjutatud keelest teise.
