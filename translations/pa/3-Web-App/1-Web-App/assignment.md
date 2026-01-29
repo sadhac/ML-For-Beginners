@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a8e8ae10be335cbc745b75ee552317ff",
-  "translation_date": "2025-08-29T17:47:37+00:00",
-  "source_file": "3-Web-App/1-Web-App/assignment.md",
-  "language_code": "pa"
-}
--->
 # ਇੱਕ ਵੱਖਰਾ ਮਾਡਲ ਅਜ਼ਮਾਓ
 
 ## ਹਦਾਇਤਾਂ

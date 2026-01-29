@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-06T06:46:31+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "pa"
-}
--->
 # ਸਕਾਈਟ-ਲਰਨ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਰਿਗ੍ਰੈਸ਼ਨ ਮਾਡਲ ਬਣਾਓ: ਰਿਗ੍ਰੈਸ਼ਨ ਦੇ ਚਾਰ ਤਰੀਕੇ
 
 ![ਲਿਨੀਅਰ ਵਿਰੁੱਧ ਪੋਲੀਨੋਮਿਅਲ ਰਿਗ੍ਰੈਸ਼ਨ ਇਨਫੋਗ੍ਰਾਫਿਕ](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -117,11 +108,11 @@ day_of_year = pd.to_datetime(pumpkins['Date']).apply(lambda dt: (dt-datetime(dt.
 
 ਪਿਛਲੇ ਪਾਠ ਤੋਂ ਤੁਸੀਂ ਸ਼ਾਇਦ ਦੇਖਿਆ ਹੈ ਕਿ ਵੱਖ-ਵੱਖ ਮਹੀਨਿਆਂ ਲਈ ਔਸਤ ਕੀਮਤ ਇਸ ਤਰ੍ਹਾਂ ਲੱਗਦੀ ਹੈ:
 
-<img alt="ਮਹੀਨੇ ਦੁਆਰਾ ਔਸਤ ਕੀਮਤ" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="ਮਹੀਨੇ ਦੁਆਰਾ ਔਸਤ ਕੀਮਤ" src="../../../../translated_images/pa/barchart.a833ea9194346d76.webp" width="50%"/>
 
 ਇਹ ਸੁਝਾਅ ਦਿੰਦਾ ਹੈ ਕਿ ਕੁਝ ਸੰਬੰਧਤਾ ਹੋ ਸਕਦੀ ਹੈ, ਅਤੇ ਅਸੀਂ `Month` ਅਤੇ `Price` ਦੇ ਵਿਚਕਾਰ ਜਾਂ `DayOfYear` ਅਤੇ `Price` ਦੇ ਵਿਚਕਾਰ ਸੰਬੰਧਤਾ ਦੀ ਭਵਿੱਖਵਾਣੀ ਕਰਨ ਲਈ ਲਿਨੀਅਰ ਰਿਗ੍ਰੈਸ਼ਨ ਮਾਡਲ ਟ੍ਰੇਨ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਸਕਦੇ ਹਾਂ। ਹੇਠਾਂ ਦਿੱਤਾ ਸਕੈਟਰਪਲੌਟ ਦਿਖਾਉਂਦਾ ਹੈ ਕਿ ਦੂਜਾ ਸੰਬੰਧ ਕਿਵੇਂ ਲੱਗਦਾ ਹੈ:
 
-<img alt="Price vs. Day of Year ਦਾ ਸਕੈਟਰਪਲੌਟ" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="Price vs. Day of Year ਦਾ ਸਕੈਟਰਪਲੌਟ" src="../../../../translated_images/pa/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 ਆਓ `corr` ਫੰਕਸ਼ਨ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਦੇਖੀਏ ਕਿ ਕੀ ਕੋਈ ਸੰਬੰਧਤਾ ਹੈ:
 
@@ -146,7 +137,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```  
 
-<img alt="Linear regression" src="images/linear-results.png" width="50%" />
+<img alt="Linear regression" src="../../../../translated_images/pa/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## ਪੋਲੀਨੋਮਿਅਲ ਰਿਗ੍ਰੈਸ਼ਨ  
 
@@ -175,7 +166,7 @@ pipeline.fit(X_train,y_train)
 
 ਪਾਈਪਲਾਈਨ ਨੂੰ ਉਸੇ ਤਰੀਕੇ ਨਾਲ ਵਰਤਿਆ ਜਾ ਸਕਦਾ ਹੈ ਜਿਵੇਂ ਅਸਲ `LinearRegression` ਆਬਜੈਕਟ, ਜਿਵੇਂ ਕਿ ਅਸੀਂ ਪਾਈਪਲਾਈਨ ਨੂੰ `fit` ਕਰ ਸਕਦੇ ਹਾਂ ਅਤੇ ਫਿਰ `predict` ਵਰਤ ਕੇ ਪੇਸ਼ਕਰੀ ਦੇ ਨਤੀਜੇ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦੇ ਹਾਂ। ਇੱਥੇ ਟੈਸਟ ਡਾਟਾ ਅਤੇ ਅਨੁਮਾਨਿਤ ਵਕਰ ਦਿਖਾਉਣ ਵਾਲਾ ਗ੍ਰਾਫ ਹੈ:  
 
-<img alt="Polynomial regression" src="images/poly-results.png" width="50%" />  
+<img alt="Polynomial regression" src="../../../../translated_images/pa/poly-results.ee587348f0f1f60b.webp" width="50%" />  
 
 ਪੋਲੀਨੋਮਿਅਲ ਰਿਗ੍ਰੈਸ਼ਨ ਵਰਤ ਕੇ, ਅਸੀਂ ਥੋੜ੍ਹਾ ਘੱਟ MSE ਅਤੇ ਉੱਚਾ determination ਪ੍ਰਾਪਤ ਕਰ ਸਕਦੇ ਹਾਂ, ਪਰ ਬਹੁਤ ਵੱਡਾ ਫਰਕ ਨਹੀਂ। ਸਾਨੂੰ ਹੋਰ ਫੀਚਰਾਂ ਨੂੰ ਧਿਆਨ ਵਿੱਚ ਲੈਣਾ ਪਵੇਗਾ!  
 
@@ -193,7 +184,7 @@ pipeline.fit(X_train,y_train)
 
 ਇੱਥੇ ਤੁਸੀਂ ਵੇਖ ਸਕਦੇ ਹੋ ਕਿ ਕਿਸਮ ਦੇ ਆਧਾਰ 'ਤੇ ਔਸਤ ਕੀਮਤ ਕਿਵੇਂ ਨਿਰਭਰ ਕਰਦੀ ਹੈ:  
 
-<img alt="Average price by variety" src="images/price-by-variety.png" width="50%" />  
+<img alt="Average price by variety" src="../../../../translated_images/pa/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />  
 
 ਕਿਸਮ ਨੂੰ ਧਿਆਨ ਵਿੱਚ ਲੈਣ ਲਈ, ਸਾਨੂੰ ਪਹਿਲਾਂ ਇਸਨੂੰ ਸੰਖਿਆਤਮਕ ਰੂਪ ਵਿੱਚ ਰੂਪਾਂਤਰਿਤ ਕਰਨਾ ਪਵੇਗਾ, ਜਾਂ **encode** ਕਰਨਾ ਪਵੇਗਾ। ਇਸਨੂੰ ਕਰਨ ਦੇ ਕਈ ਤਰੀਕੇ ਹਨ:  
 

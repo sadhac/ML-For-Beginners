@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "662b509c39eee205687726636d0a8455",
-  "translation_date": "2025-09-06T06:54:47+00:00",
-  "source_file": "7-TimeSeries/1-Introduction/README.md",
-  "language_code": "pa"
-}
--->
 # ਟਾਈਮ ਸੀਰੀਜ਼ ਫੋਰਕਾਸਟਿੰਗ ਦਾ ਪਰਚੇ
 
 ![ਟਾਈਮ ਸੀਰੀਜ਼ ਦਾ ਸਾਰ](../../../../sketchnotes/ml-timeseries.png)

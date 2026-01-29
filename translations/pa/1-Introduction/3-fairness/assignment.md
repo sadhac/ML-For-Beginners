@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dbda60e7b1fe5f18974e7858eff0004e",
-  "translation_date": "2025-08-29T17:34:47+00:00",
-  "source_file": "1-Introduction/3-fairness/assignment.md",
-  "language_code": "pa"
-}
--->
 # ਰਿਸਪਾਂਸਿਬਲ ਏਆਈ ਟੂਲਬਾਕਸ ਦੀ ਪੜਚੋਲ ਕਰੋ
 
 ## ਹਦਾਇਤਾਂ

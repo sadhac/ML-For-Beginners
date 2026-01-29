@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6d130dffca5db70d7e615f926cb1ad4c",
-  "translation_date": "2025-08-29T17:48:16+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "pa"
-}
--->
 # ਕਵਿਜ਼
 
 ਇਹ ਕਵਿਜ਼ ML ਪਾਠਕ੍ਰਮ ਲਈ ਲੈਕਚਰ ਤੋਂ ਪਹਿਲਾਂ ਅਤੇ ਬਾਅਦ ਦੇ ਕਵਿਜ਼ ਹਨ: https://aka.ms/ml-beginners

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-09-06T06:55:27+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "pa"
-}
--->
 # ਸਮੇਂ ਦੀ ਲੜੀ ਦੀ ਭਵਿੱਖਵਾਣੀ Support Vector Regressor ਨਾਲ
 
 ਪਿਛਲੇ ਪਾਠ ਵਿੱਚ, ਤੁਸੀਂ ARIMA ਮਾਡਲ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਸਮੇਂ ਦੀ ਲੜੀ ਦੀ ਭਵਿੱਖਵਾਣੀ ਕਰਨ ਦਾ ਤਰੀਕਾ ਸਿੱਖਿਆ। ਹੁਣ ਤੁਸੀਂ Support Vector Regressor ਮਾਡਲ ਦੇਖੋਗੇ, ਜੋ ਕਿ ਇੱਕ ਰਿਗ੍ਰੈਸ਼ਨ ਮਾਡਲ ਹੈ ਜੋ ਲਗਾਤਾਰ ਡਾਟਾ ਦੀ ਭਵਿੱਖਵਾਣੀ ਕਰਨ ਲਈ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ।

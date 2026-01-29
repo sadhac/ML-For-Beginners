@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4485a1ed4dd1b5647365e3d87456515d",
-  "translation_date": "2025-08-29T16:56:04+00:00",
-  "source_file": "2-Regression/2-Data/assignment.md",
-  "language_code": "pa"
-}
--->
 # ਵਿਜੁਅਲਾਈਜ਼ੇਸ਼ਨ ਦੀ ਖੋਜ
 
 ਡਾਟਾ ਵਿਜੁਅਲਾਈਜ਼ੇਸ਼ਨ ਲਈ ਕਈ ਵੱਖ-ਵੱਖ ਲਾਇਬ੍ਰੇਰੀਆਂ ਉਪਲਬਧ ਹਨ। ਇਸ ਪਾਠ ਵਿੱਚ ਮੱਤਰਾ ਡਾਟਾ ਦੀ ਵਰਤੋਂ ਕਰਕੇ matplotlib ਅਤੇ seaborn ਨਾਲ ਕੁਝ ਵਿਜੁਅਲਾਈਜ਼ੇਸ਼ਨ ਬਣਾਓ। ਕਿਹੜੀਆਂ ਲਾਇਬ੍ਰੇਰੀਆਂ ਨਾਲ ਕੰਮ ਕਰਨਾ ਆਸਾਨ ਹੈ?
