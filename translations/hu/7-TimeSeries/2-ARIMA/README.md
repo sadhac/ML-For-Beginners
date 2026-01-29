@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "917dbf890db71a322f306050cb284749",
-  "translation_date": "2025-09-05T15:29:04+00:00",
-  "source_file": "7-TimeSeries/2-ARIMA/README.md",
-  "language_code": "hu"
-}
--->
 # Idősorok előrejelzése ARIMA-val
 
 Az előző leckében megismerkedtél az idősorok előrejelzésének alapjaival, és betöltöttél egy adatállományt, amely az elektromos terhelés ingadozásait mutatja egy időszak alatt.

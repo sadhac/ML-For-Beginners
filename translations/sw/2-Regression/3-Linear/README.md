@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-05T15:08:49+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "sw"
-}
--->
 # Jenga Mfano wa Regression kwa kutumia Scikit-learn: Njia Nne za Regression
 
 ![Picha ya habari ya regression ya mstari dhidi ya polynomial](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -114,11 +105,11 @@ Sasa kwa kuwa unaelewa hesabu nyuma ya regression ya mstari, hebu tuunde Mfano w
 
 Kutoka somo lililopita labda umeona kuwa bei ya wastani kwa miezi tofauti inaonekana kama hii:
 
-<img alt="Bei ya wastani kwa mwezi" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="Bei ya wastani kwa mwezi" src="../../../../translated_images/sw/barchart.a833ea9194346d76.webp" width="50%"/>
 
 Hii inapendekeza kuwa kunaweza kuwa na uwiano, na tunaweza kujaribu kufundisha mfano wa regression ya mstari kutabiri uhusiano kati ya `Mwezi` na `Bei`, au kati ya `SikuYaMwaka` na `Bei`. Hapa kuna mchoro wa kutawanyika unaoonyesha uhusiano wa pili:
 
-<img alt="Mchoro wa kutawanyika wa Bei dhidi ya Siku ya Mwaka" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="Mchoro wa kutawanyika wa Bei dhidi ya Siku ya Mwaka" src="../../../../translated_images/sw/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 Hebu tuone kama kuna uwiano kwa kutumia kazi ya `corr`:
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="Mchoro wa kutawanyika wa Bei dhidi ya Siku ya Mwaka" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="Mchoro wa kutawanyika wa Bei dhidi ya Siku ya Mwaka" src="../../../../translated_images/sw/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 Uchunguzi wetu unapendekeza kuwa aina ina athari kubwa zaidi kwa bei ya jumla kuliko tarehe halisi ya mauzo. Tunaweza kuona hili kwa mchoro wa bar:
 
@@ -145,7 +136,7 @@ Uchunguzi wetu unapendekeza kuwa aina ina athari kubwa zaidi kwa bei ya jumla ku
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="Mchoro wa bar wa bei dhidi ya aina" src="images/price-by-variety.png" width="50%" /> 
+<img alt="Mchoro wa bar wa bei dhidi ya aina" src="../../../../translated_images/sw/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 Hebu tuzingatie kwa sasa aina moja tu ya maboga, 'aina ya pie', na tuone athari gani tarehe inayo kwa bei:
 
@@ -153,7 +144,7 @@ Hebu tuzingatie kwa sasa aina moja tu ya maboga, 'aina ya pie', na tuone athari 
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="Mchoro wa kutawanyika wa Bei dhidi ya Siku ya Mwaka" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="Mchoro wa kutawanyika wa Bei dhidi ya Siku ya Mwaka" src="../../../../translated_images/sw/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 Ikiwa sasa tutakokotoa uwiano kati ya `Bei` na `SikuYaMwaka` kwa kutumia kazi ya `corr`, tutapata kitu kama `-0.27` - ambayo inamaanisha kuwa kufundisha mfano wa utabiri kuna mantiki.
 
@@ -227,7 +218,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```  
 
-<img alt="Linear regression" src="images/linear-results.png" width="50%" />
+<img alt="Linear regression" src="../../../../translated_images/sw/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## Regression ya Polynomial  
 
@@ -256,7 +247,7 @@ Kutumia `PolynomialFeatures(2)` inamaanisha kuwa tutajumuisha polynomials zote z
 
 Pipelines zinaweza kutumika kwa njia sawa na kitu cha awali cha `LinearRegression`, yaani tunaweza `fit` pipeline, kisha kutumia `predict` kupata matokeo ya utabiri. Hapa kuna mchoro unaoonyesha data ya majaribio, na mstari wa takriban:
 
-<img alt="Polynomial regression" src="images/poly-results.png" width="50%" />
+<img alt="Polynomial regression" src="../../../../translated_images/sw/poly-results.ee587348f0f1f60b.webp" width="50%" />
 
 Kwa kutumia Regression ya Polynomial, tunaweza kupata MSE ya chini kidogo na mgawo wa uamuzi wa juu zaidi, lakini sio kwa kiasi kikubwa. Tunahitaji kuzingatia vipengele vingine!
 
@@ -274,7 +265,7 @@ Katika ulimwengu bora, tunataka kuwa na uwezo wa kutabiri bei za aina tofauti za
 
 Hapa unaweza kuona jinsi bei ya wastani inavyotegemea aina:
 
-<img alt="Average price by variety" src="images/price-by-variety.png" width="50%" />
+<img alt="Average price by variety" src="../../../../translated_images/sw/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 Ili kuzingatia aina, tunahitaji kwanza kuibadilisha kuwa fomu ya nambari, au **kuencode**. Kuna njia kadhaa tunazoweza kutumia:
 

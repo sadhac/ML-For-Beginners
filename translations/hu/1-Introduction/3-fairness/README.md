@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9a6b702d1437c0467e3c5c28d763dac2",
-  "translation_date": "2025-09-05T15:59:53+00:00",
-  "source_file": "1-Introduction/3-fairness/README.md",
-  "language_code": "hu"
-}
--->
 # Gépi tanulási megoldások építése felelős AI-val
 
 ![A felelős AI összefoglalása a gépi tanulásban egy sketchnote-ban](../../../../sketchnotes/ml-fairness.png)

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "107d5bb29da8a562e7ae72262d251a75",
-  "translation_date": "2025-09-05T16:45:21+00:00",
-  "source_file": "8-Reinforcement/2-Gym/README.md",
-  "language_code": "hu"
-}
--->
 # CartPole Gördeszkázás
 
 Az előző leckében megoldott probléma talán játékszerűnek tűnhet, és nem igazán alkalmazhatónak a valós életben. Ez azonban nem így van, mivel sok valós probléma is hasonló helyzetet mutat – például sakk vagy Go játék közben. Ezek hasonlóak, mert van egy táblánk adott szabályokkal és egy **diszkrét állapot**.

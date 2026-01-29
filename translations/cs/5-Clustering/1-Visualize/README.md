@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "730225ea274c9174fe688b21d421539d",
-  "translation_date": "2025-09-04T23:59:38+00:00",
-  "source_file": "5-Clustering/1-Visualize/README.md",
-  "language_code": "cs"
-}
--->
 # Úvod do shlukování
 
 Shlukování je typ [učení bez učitele](https://wikipedia.org/wiki/Unsupervised_learning), který předpokládá, že dataset není označený nebo že jeho vstupy nejsou spárovány s předem definovanými výstupy. Používá různé algoritmy k třídění neoznačených dat a poskytuje skupiny na základě vzorců, které v datech rozpozná.

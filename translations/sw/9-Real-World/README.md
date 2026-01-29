@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5e069a0ac02a9606a69946c2b3c574a9",
-  "translation_date": "2025-09-05T15:48:55+00:00",
-  "source_file": "9-Real-World/README.md",
-  "language_code": "sw"
-}
--->
 # Postscript: Matumizi Halisi ya Kujifunza Mashine ya Kawaida
 
 Katika sehemu hii ya mtaala, utatambulishwa kwa baadhi ya matumizi halisi ya Kujifunza Mashine ya Kawaida. Tumetafuta kwa kina mtandaoni ili kupata makala na nyaraka kuhusu matumizi ambayo yametumia mikakati hii, tukiepuka mitandao ya neva, kujifunza kwa kina, na AI kadri iwezekanavyo. Jifunze jinsi ML inavyotumika katika mifumo ya biashara, matumizi ya kiikolojia, fedha, sanaa na utamaduni, na zaidi.

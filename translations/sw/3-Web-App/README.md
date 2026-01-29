@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9836ff53cfef716ddfd70e06c5f43436",
-  "translation_date": "2025-09-05T16:11:51+00:00",
-  "source_file": "3-Web-App/README.md",
-  "language_code": "sw"
-}
--->
 # Jenga programu ya wavuti kutumia modeli yako ya ML
 
 Katika sehemu hii ya mtaala, utatambulishwa kwenye mada ya ML inayotumika: jinsi ya kuhifadhi modeli yako ya Scikit-learn kama faili ambayo inaweza kutumika kufanya utabiri ndani ya programu ya wavuti. Mara modeli inapohifadhiwa, utajifunza jinsi ya kuitumia katika programu ya wavuti iliyojengwa kwa Flask. Kwanza, utaunda modeli ukitumia data inayohusu matukio ya kuona UFO! Kisha, utajenga programu ya wavuti itakayokuruhusu kuingiza idadi ya sekunde pamoja na thamani ya latitudo na longitudo ili kutabiri ni nchi gani iliripoti kuona UFO.

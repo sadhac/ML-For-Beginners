@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "8d32dadeda93c6fb5c43619854882ab1",
-  "translation_date": "2025-09-05T01:25:44+00:00",
-  "source_file": "6-NLP/4-Hotel-Reviews-1/README.md",
-  "language_code": "cs"
-}
--->
 # Analýza sentimentu pomocí recenzí hotelů - zpracování dat
 
 V této části použijete techniky z předchozích lekcí k provedení průzkumné analýzy velkého datového souboru. Jakmile získáte dobré porozumění užitečnosti jednotlivých sloupců, naučíte se:

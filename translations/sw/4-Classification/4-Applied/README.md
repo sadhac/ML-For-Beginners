@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61bdec27ed2da8b098cd9065405d9bb0",
-  "translation_date": "2025-09-05T16:20:37+00:00",
-  "source_file": "4-Classification/4-Applied/README.md",
-  "language_code": "sw"
-}
--->
 # Jenga Programu ya Wavuti ya Mapendekezo ya Vyakula
 
 Katika somo hili, utajenga mfano wa uainishaji kwa kutumia baadhi ya mbinu ulizojifunza katika masomo ya awali na kwa kutumia seti ya data ya vyakula vitamu iliyotumika katika mfululizo huu. Zaidi ya hayo, utajenga programu ndogo ya wavuti kutumia mfano uliosajiliwa, ukitumia Onnx's web runtime.

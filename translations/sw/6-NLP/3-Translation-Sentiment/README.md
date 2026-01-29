@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "be03c8182982b87ced155e4e9d1438e8",
-  "translation_date": "2025-09-05T17:02:18+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/README.md",
-  "language_code": "sw"
-}
--->
 # Tafsiri na uchambuzi wa hisia kwa kutumia ML
 
 Katika masomo ya awali ulijifunza jinsi ya kujenga bot ya msingi kwa kutumia `TextBlob`, maktaba inayotumia ML nyuma ya pazia kutekeleza kazi za msingi za NLP kama uchimbaji wa misemo ya nomino. Changamoto nyingine muhimu katika isimu ya kompyuta ni tafsiri sahihi ya sentensi kutoka lugha moja ya mazungumzo au maandishi kwenda nyingine.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6a05fec147e734c3e6bfa54505648e2b",
-  "translation_date": "2025-09-05T00:33:16+00:00",
-  "source_file": "1-Introduction/2-history-of-ML/README.md",
-  "language_code": "cs"
-}
--->
 # Historie strojového učení
 
 ![Shrnutí historie strojového učení ve sketchnote](../../../../sketchnotes/ml-history.png)

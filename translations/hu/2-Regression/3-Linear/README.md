@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-05T15:09:53+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "hu"
-}
--->
 # Készítsünk regressziós modellt Scikit-learn segítségével: négyféle regresszió
 
 ![Lineáris vs polinomiális regresszió infografika](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -114,11 +105,11 @@ Most, hogy megértetted a lineáris regresszió mögötti matematikát, hozzunk 
 
 Az előző leckéből valószínűleg láttad, hogy az átlagár különböző hónapokra így néz ki:
 
-<img alt="Átlagár hónaponként" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="Átlagár hónaponként" src="../../../../translated_images/hu/barchart.a833ea9194346d76.webp" width="50%"/>
 
 Ez arra utal, hogy lehet némi korreláció, és megpróbálhatunk egy lineáris regressziós modellt tanítani, hogy megjósoljuk a `Hónap` és `Ár`, vagy az `ÉvNapja` és `Ár` közötti kapcsolatot. Íme egy szórásdiagram, amely az utóbbi kapcsolatot mutatja:
 
-<img alt="Szórásdiagram az Ár és az ÉvNapja között" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="Szórásdiagram az Ár és az ÉvNapja között" src="../../../../translated_images/hu/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 Nézzük meg, van-e korreláció a `corr` függvény segítségével:
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="Szórásdiagram az Ár és az ÉvNapja között" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="Szórásdiagram az Ár és az ÉvNapja között" src="../../../../translated_images/hu/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 Vizsgálatunk azt sugallja, hogy a fajta nagyobb hatással van az árakra, mint az eladási dátum. Ezt egy oszlopdiagramon is láthatjuk:
 
@@ -145,7 +136,7 @@ Vizsgálatunk azt sugallja, hogy a fajta nagyobb hatással van az árakra, mint 
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="Oszlopdiagram az ár és a fajta között" src="images/price-by-variety.png" width="50%" /> 
+<img alt="Oszlopdiagram az ár és a fajta között" src="../../../../translated_images/hu/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 Most koncentráljunk egyetlen tökfajtára, a 'pie type'-ra, és nézzük meg, milyen hatással van a dátum az árra:
 
@@ -153,7 +144,7 @@ Most koncentráljunk egyetlen tökfajtára, a 'pie type'-ra, és nézzük meg, m
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="Szórásdiagram az Ár és az ÉvNapja között" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="Szórásdiagram az Ár és az ÉvNapja között" src="../../../../translated_images/hu/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 Ha most kiszámítjuk az `Ár` és az `ÉvNapja` közötti korrelációt a `corr` függvény segítségével, körülbelül `-0.27` értéket kapunk - ami azt jelenti, hogy érdemes egy prediktív modellt tanítani.
 
@@ -218,7 +209,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```
 
-<img alt="Lineáris regresszió" src="images/linear-results.png" width="50%" />
+<img alt="Lineáris regresszió" src="../../../../translated_images/hu/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## Polinomiális regresszió
 
@@ -247,7 +238,7 @@ A `PolynomialFeatures(2)` használata azt jelenti, hogy a bemeneti adatokból mi
 
 A pipeline-t ugyanúgy használhatjuk, mint az eredeti `LinearRegression` objektumot, azaz `fit`-elhetjük a pipeline-t, majd a `predict` segítségével megkaphatjuk az előrejelzési eredményeket. Íme a grafikon, amely a tesztadatokat és az approximációs görbét mutatja:
 
-<img alt="Polinomiális regresszió" src="images/poly-results.png" width="50%" />
+<img alt="Polinomiális regresszió" src="../../../../translated_images/hu/poly-results.ee587348f0f1f60b.webp" width="50%" />
 
 A polinomiális regresszió használatával kissé alacsonyabb MSE-t és magasabb determinizációs együtthatót érhetünk el, de nem jelentősen. Figyelembe kell vennünk más jellemzőket is!
 
@@ -265,7 +256,7 @@ Az ideális világban szeretnénk képesek lenni előre jelezni az árakat kül�
 
 Itt láthatod, hogyan függ az átlagár a fajtától:
 
-<img alt="Átlagár fajtánként" src="images/price-by-variety.png" width="50%" />
+<img alt="Átlagár fajtánként" src="../../../../translated_images/hu/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 Ahhoz, hogy figyelembe vegyük a fajtát, először numerikus formára kell átalakítanunk, vagyis **kódolnunk** kell. Többféle módon tehetjük ezt meg:
 

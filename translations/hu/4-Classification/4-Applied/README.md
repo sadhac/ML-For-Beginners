@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61bdec27ed2da8b098cd9065405d9bb0",
-  "translation_date": "2025-09-05T16:21:03+00:00",
-  "source_file": "4-Classification/4-Applied/README.md",
-  "language_code": "hu"
-}
--->
 # Építs egy konyhai ajánló webalkalmazást
 
 Ebben a leckében egy osztályozási modellt fogsz építeni, felhasználva az előző leckékben tanult technikákat, valamint a sorozat során használt ízletes konyhai adatbázist. Ezen kívül egy kis webalkalmazást is készítesz, amely egy mentett modellt használ, az Onnx webes futtatókörnyezetét kihasználva.

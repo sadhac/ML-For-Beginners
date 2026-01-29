@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cf8ecc83f28e5b98051d2179eca08e08",
-  "translation_date": "2025-09-05T15:57:50+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "hu"
-}
--->
 # Bevezetés a gépi tanulásba
 
 A tananyag ezen részében megismerkedsz a gépi tanulás alapfogalmaival, azzal, hogy mi is ez, valamint annak történetével és a kutatók által alkalmazott technikákkal. Fedezzük fel együtt a gépi tanulás új világát!

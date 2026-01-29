@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "be03c8182982b87ced155e4e9d1438e8",
-  "translation_date": "2025-09-05T01:37:49+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/README.md",
-  "language_code": "cs"
-}
--->
 # Překlad a analýza sentimentu pomocí ML
 
 V předchozích lekcích jste se naučili, jak vytvořit základního bota pomocí knihovny `TextBlob`, která využívá strojové učení v pozadí k provádění základních úkolů NLP, jako je extrakce podstatných jmen. Další důležitou výzvou v oblasti počítačové lingvistiky je přesný _překlad_ věty z jednoho mluveného nebo psaného jazyka do jiného.

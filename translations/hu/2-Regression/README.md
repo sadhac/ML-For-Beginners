@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "508582278dbb8edd2a8a80ac96ef416c",
-  "translation_date": "2025-09-05T15:07:54+00:00",
-  "source_file": "2-Regression/README.md",
-  "language_code": "hu"
-}
--->
 # Regressziós modellek gépi tanuláshoz
 ## Regionális téma: Regressziós modellek tökárakhoz Észak-Amerikában 🎃
 

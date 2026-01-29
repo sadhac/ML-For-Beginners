@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5f3cb462e3122e1afe7ab0050ccf2bd3",
-  "translation_date": "2025-09-05T01:21:18+00:00",
-  "source_file": "6-NLP/2-Tasks/README.md",
-  "language_code": "cs"
-}
--->
 # Běžné úlohy a techniky zpracování přirozeného jazyka
 
 Pro většinu úloh *zpracování přirozeného jazyka* je nutné text rozdělit, analyzovat a výsledky uložit nebo porovnat s pravidly a datovými sadami. Tyto úlohy umožňují programátorovi odvodit _význam_, _záměr_ nebo pouze _četnost_ termínů a slov v textu.

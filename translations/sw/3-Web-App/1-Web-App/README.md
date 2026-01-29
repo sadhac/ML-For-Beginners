@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e0b75f73e4a90d45181dc5581fe2ef5c",
-  "translation_date": "2025-09-05T16:12:26+00:00",
-  "source_file": "3-Web-App/1-Web-App/README.md",
-  "language_code": "sw"
-}
--->
 # Jenga Programu ya Wavuti Kutumia Modeli ya ML
 
 Katika somo hili, utapokea mafunzo ya modeli ya ML kwa kutumia seti ya data isiyo ya kawaida: _Matukio ya UFO katika karne iliyopita_, yaliyokusanywa kutoka hifadhidata ya NUFORC.

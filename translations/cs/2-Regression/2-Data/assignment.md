@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4485a1ed4dd1b5647365e3d87456515d",
-  "translation_date": "2025-09-04T23:43:27+00:00",
-  "source_file": "2-Regression/2-Data/assignment.md",
-  "language_code": "cs"
-}
--->
 # Zkoumání vizualizací
 
 Existuje několik různých knihoven dostupných pro vizualizaci dat. Vytvořte některé vizualizace pomocí dat o dýních v této lekci s matplotlib a seaborn v ukázkovém notebooku. Které knihovny se snadněji používají?

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-04T23:20:43+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "cs"
-}
--->
 # Vytvoření regresního modelu pomocí Scikit-learn: čtyři způsoby regresí
 
 ![Infografika lineární vs. polynomiální regrese](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -114,11 +105,11 @@ Nyní, když máte pochopení matematiky za lineární regresí, vytvořme regre
 
 Z předchozí lekce jste pravděpodobně viděli, že průměrná cena pro různé měsíce vypadá takto:
 
-<img alt="Průměrná cena podle měsíce" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="Průměrná cena podle měsíce" src="../../../../translated_images/cs/barchart.a833ea9194346d76.webp" width="50%"/>
 
 To naznačuje, že by měla existovat nějaká korelace, a můžeme zkusit trénovat model lineární regrese, abychom předpověděli vztah mezi `Měsíc` a `Cena`, nebo mezi `DenVRoce` a `Cena`. Zde je bodový graf, který ukazuje druhý vztah:
 
-<img alt="Bodový graf Cena vs. Den v roce" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="Bodový graf Cena vs. Den v roce" src="../../../../translated_images/cs/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 Podívejme se, zda existuje korelace pomocí funkce `corr`:
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="Bodový graf Cena vs. Den v roce" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="Bodový graf Cena vs. Den v roce" src="../../../../translated_images/cs/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 Naše zkoumání naznačuje, že druh má větší vliv na celkovou cenu než skutečné datum prodeje. Můžeme to vidět na sloupcovém grafu:
 
@@ -145,7 +136,7 @@ Naše zkoumání naznačuje, že druh má větší vliv na celkovou cenu než sk
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="Sloupcový graf cena vs. druh" src="images/price-by-variety.png" width="50%" /> 
+<img alt="Sloupcový graf cena vs. druh" src="../../../../translated_images/cs/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 Zaměřme se nyní pouze na jeden druh dýní, 'pie type', a podívejme se, jaký vliv má datum na cenu:
 
@@ -153,7 +144,7 @@ Zaměřme se nyní pouze na jeden druh dýní, 'pie type', a podívejme se, jak�
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="Bodový graf Cena vs. Den v roce" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="Bodový graf Cena vs. Den v roce" src="../../../../translated_images/cs/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 Pokud nyní vypočítáme korelaci mezi `Cena` a `DenVRoce` pomocí funkce `corr`, dostaneme něco jako `-0.27` - což znamená, že trénování prediktivního modelu má smysl.
 
@@ -227,7 +218,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```
 
-<img alt="Lineární regrese" src="images/linear-results.png" width="50%" />
+<img alt="Lineární regrese" src="../../../../translated_images/cs/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## Polynomická regrese
 
@@ -256,7 +247,7 @@ Použití `PolynomialFeatures(2)` znamená, že zahrneme všechny polynomy druh�
 
 Pipeline lze použít stejným způsobem jako původní objekt `LinearRegression`, tj. můžeme pipeline `fit` a poté použít `predict` k získání výsledků predikce. Zde je graf zobrazující testovací data a aproximační křivku:
 
-<img alt="Polynomická regrese" src="images/poly-results.png" width="50%" />
+<img alt="Polynomická regrese" src="../../../../translated_images/cs/poly-results.ee587348f0f1f60b.webp" width="50%" />
 
 Použitím polynomické regrese můžeme dosáhnout mírně nižší MSE a vyšší determinace, ale ne výrazně. Musíme vzít v úvahu další prvky!
 
@@ -274,7 +265,7 @@ V ideálním světě bychom chtěli být schopni předpovědět ceny pro různé
 
 Zde můžete vidět, jak průměrná cena závisí na odrůdě:
 
-<img alt="Průměrná cena podle odrůdy" src="images/price-by-variety.png" width="50%" />
+<img alt="Průměrná cena podle odrůdy" src="../../../../translated_images/cs/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 Abychom vzali odrůdu v úvahu, musíme ji nejprve převést na číselnou formu, nebo ji **zakódovat**. Existuje několik způsobů, jak to udělat:
 

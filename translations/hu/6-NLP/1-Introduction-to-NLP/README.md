@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1c2ec40cf55c98a028a359c27ef7e45a",
-  "translation_date": "2025-09-05T16:59:57+00:00",
-  "source_file": "6-NLP/1-Introduction-to-NLP/README.md",
-  "language_code": "hu"
-}
--->
 # Bevezetés a természetes nyelvfeldolgozásba
 
 Ez a lecke a *természetes nyelvfeldolgozás* rövid történetét és fontos fogalmait tárgyalja, amely a *számítógépes nyelvészet* egyik részterülete.

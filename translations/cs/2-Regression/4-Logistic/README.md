@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "abf86d845c84330bce205a46b382ec88",
-  "translation_date": "2025-09-04T23:27:47+00:00",
-  "source_file": "2-Regression/4-Logistic/README.md",
-  "language_code": "cs"
-}
--->
 # Logistická regrese pro predikci kategorií
 
 ![Infografika: Logistická vs. lineární regrese](../../../../2-Regression/4-Logistic/images/linear-vs-logistic.png)

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4485a1ed4dd1b5647365e3d87456515d",
-  "translation_date": "2025-09-05T15:27:01+00:00",
-  "source_file": "2-Regression/2-Data/assignment.md",
-  "language_code": "hu"
-}
--->
 # Vizualizációk felfedezése
 
 Számos különböző könyvtár érhető el az adatok vizualizálásához. Készíts néhány vizualizációt a leckében található Pumpkin adatok felhasználásával egy mintafüzetben matplotlib és seaborn segítségével. Melyik könyvtár használata egyszerűbb?

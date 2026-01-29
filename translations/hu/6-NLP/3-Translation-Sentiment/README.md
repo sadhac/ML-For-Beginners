@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "be03c8182982b87ced155e4e9d1438e8",
-  "translation_date": "2025-09-05T17:03:02+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/README.md",
-  "language_code": "hu"
-}
--->
 # Fordítás és érzelemelemzés gépi tanulással
 
 Az előző leckékben megtanultad, hogyan készíts egy alap botot a `TextBlob` segítségével, amely egy olyan könyvtár, amely gépi tanulást alkalmaz a háttérben alapvető természetes nyelvi feldolgozási (NLP) feladatok, például főnévi kifejezések kinyerése érdekében. A számítógépes nyelvészet másik fontos kihívása egy mondat pontos _fordítása_ egyik beszélt vagy írott nyelvről a másikra.

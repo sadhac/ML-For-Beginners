@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4485a1ed4dd1b5647365e3d87456515d",
-  "translation_date": "2025-09-05T15:26:55+00:00",
-  "source_file": "2-Regression/2-Data/assignment.md",
-  "language_code": "sw"
-}
--->
 # Kuchunguza Uwasilishaji wa Takwimu
 
 Kuna maktaba kadhaa tofauti zinazopatikana kwa uwasilishaji wa takwimu. Tengeneza uwasilishaji wa takwimu ukitumia data ya Malenge katika somo hili kwa kutumia matplotlib na seaborn kwenye daftari la sampuli. Ni maktaba zipi ni rahisi zaidi kutumia?

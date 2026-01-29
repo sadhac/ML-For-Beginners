@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "730225ea274c9174fe688b21d421539d",
-  "translation_date": "2025-09-05T15:40:02+00:00",
-  "source_file": "5-Clustering/1-Visualize/README.md",
-  "language_code": "sw"
-}
--->
 # Utangulizi wa clustering
 
 Clustering ni aina ya [Unsupervised Learning](https://wikipedia.org/wiki/Unsupervised_learning) inayodhani kuwa dataset haina lebo au kwamba maingizo yake hayajafungamanishwa na matokeo yaliyotanguliwa. Inatumia algorithmi mbalimbali kuchambua data isiyo na lebo na kutoa makundi kulingana na mifumo inayotambua kwenye data.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e0b75f73e4a90d45181dc5581fe2ef5c",
-  "translation_date": "2025-09-05T16:12:58+00:00",
-  "source_file": "3-Web-App/1-Web-App/README.md",
-  "language_code": "hu"
-}
--->
 # Építsünk egy webalkalmazást gépi tanulási modell használatához
 
 Ebben a leckében egy gépi tanulási modellt fogsz betanítani egy igazán különleges adathalmazon: _UFO-észlelések az elmúlt évszázadból_, amelyet a NUFORC adatbázisából származtatunk.

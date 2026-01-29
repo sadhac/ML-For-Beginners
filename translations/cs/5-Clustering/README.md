@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-09-04T23:57:41+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "cs"
-}
--->
 # Modely shlukování pro strojové učení
 
 Shlukování je úloha strojového učení, která se snaží najít objekty, jež si jsou navzájem podobné, a seskupit je do skupin nazývaných shluky. Co odlišuje shlukování od jiných přístupů ve strojovém učení, je to, že vše probíhá automaticky. Ve skutečnosti lze říci, že jde o opak učení s učitelem.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "aaf391d922bd6de5efba871d514c6d47",
-  "translation_date": "2025-09-05T16:25:15+00:00",
-  "source_file": "4-Classification/1-Introduction/README.md",
-  "language_code": "sw"
-}
--->
 # Utangulizi wa Uainishaji
 
 Katika masomo haya manne, utachunguza kipengele muhimu cha ujifunzaji wa mashine wa kawaida - _uainishaji_. Tutapitia matumizi ya algoriti mbalimbali za uainishaji kwa kutumia seti ya data kuhusu vyakula vya kupendeza vya Asia na India. Tunatumai una njaa!

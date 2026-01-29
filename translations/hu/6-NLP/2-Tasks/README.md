@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5f3cb462e3122e1afe7ab0050ccf2bd3",
-  "translation_date": "2025-09-05T16:50:29+00:00",
-  "source_file": "6-NLP/2-Tasks/README.md",
-  "language_code": "hu"
-}
--->
 # Gyakori természetes nyelvfeldolgozási feladatok és technikák
 
 A legtöbb *természetes nyelvfeldolgozási* feladat esetében a feldolgozandó szöveget fel kell bontani, meg kell vizsgálni, és az eredményeket el kell tárolni vagy össze kell vetni szabályokkal és adatbázisokkal. Ezek a feladatok lehetővé teszik a programozó számára, hogy a szöveg _jelentését_, _szándékát_ vagy csak a kifejezések és szavak _gyakoriságát_ megértse.

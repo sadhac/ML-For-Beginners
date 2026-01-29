@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1a6e9e46b34a2e559fbbfc1f95397c7b",
-  "translation_date": "2025-09-05T00:42:34+00:00",
-  "source_file": "4-Classification/2-Classifiers-1/README.md",
-  "language_code": "cs"
-}
--->
 # Klasifikátory kuchyní 1
 
 V této lekci použijete dataset, který jste si uložili z minulé lekce, plný vyvážených a čistých dat o kuchyních.

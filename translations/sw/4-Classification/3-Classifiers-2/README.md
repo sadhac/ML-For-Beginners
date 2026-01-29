@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "49047911108adc49d605cddfb455749c",
-  "translation_date": "2025-09-05T16:23:09+00:00",
-  "source_file": "4-Classification/3-Classifiers-2/README.md",
-  "language_code": "sw"
-}
--->
 # Wainishi wa vyakula 2
 
 Katika somo hili la pili la uainishaji, utachunguza njia zaidi za kuainisha data ya nambari. Pia utajifunza kuhusu athari za kuchagua mainishi moja badala ya jingine.

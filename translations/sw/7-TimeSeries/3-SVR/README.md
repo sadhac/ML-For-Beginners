@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-09-05T15:36:08+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "sw"
-}
--->
 # Utabiri wa Mfululizo wa Wakati kwa Kutumia Support Vector Regressor
 
 Katika somo lililopita, ulijifunza jinsi ya kutumia modeli ya ARIMA kufanya utabiri wa mfululizo wa wakati. Sasa utaangalia modeli ya Support Vector Regressor, ambayo ni modeli ya regression inayotumika kutabiri data endelevu.

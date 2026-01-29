@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cf8ecc83f28e5b98051d2179eca08e08",
-  "translation_date": "2025-09-05T15:57:42+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "sw"
-}
--->
 # Utangulizi wa ujifunzaji wa mashine
 
 Katika sehemu hii ya mtaala, utatambulishwa kwa dhana za msingi zinazounda uwanja wa ujifunzaji wa mashine, ni nini, na utajifunza kuhusu historia yake na mbinu ambazo watafiti hutumia kufanya kazi nayo. Hebu tuchunguze ulimwengu huu mpya wa ML pamoja!

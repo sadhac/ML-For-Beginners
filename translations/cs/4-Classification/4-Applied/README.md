@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61bdec27ed2da8b098cd9065405d9bb0",
-  "translation_date": "2025-09-05T00:46:49+00:00",
-  "source_file": "4-Classification/4-Applied/README.md",
-  "language_code": "cs"
-}
--->
 # Vytvořte webovou aplikaci pro doporučování kuchyní
 
 V této lekci vytvoříte klasifikační model pomocí některých technik, které jste se naučili v předchozích lekcích, a s využitím datasetu lahodných kuchyní, který byl použit v celém tomto seriálu. Navíc vytvoříte malou webovou aplikaci, která bude používat uložený model, využívající webový runtime Onnx.

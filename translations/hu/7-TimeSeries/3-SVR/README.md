@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-09-05T15:36:39+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "hu"
-}
--->
 # Idősoros előrejelzés Support Vector Regressor segítségével
 
 Az előző leckében megtanultad, hogyan használhatod az ARIMA modellt idősoros előrejelzések készítésére. Most a Support Vector Regressor modellel fogsz megismerkedni, amely egy regressziós modell folyamatos adatok előrejelzésére.

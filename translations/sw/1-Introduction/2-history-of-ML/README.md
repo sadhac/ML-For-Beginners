@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6a05fec147e734c3e6bfa54505648e2b",
-  "translation_date": "2025-09-05T16:08:39+00:00",
-  "source_file": "1-Introduction/2-history-of-ML/README.md",
-  "language_code": "sw"
-}
--->
 # Historia ya ujifunzaji wa mashine
 
 ![Muhtasari wa Historia ya ujifunzaji wa mashine katika sketchnote](../../../../sketchnotes/ml-history.png)

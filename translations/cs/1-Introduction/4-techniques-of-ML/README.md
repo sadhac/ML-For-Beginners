@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9d91f3af3758fdd4569fb410575995ef",
-  "translation_date": "2025-09-05T00:26:41+00:00",
-  "source_file": "1-Introduction/4-techniques-of-ML/README.md",
-  "language_code": "cs"
-}
--->
 # Techniky strojového učení
 
 Proces vytváření, používání a udržování modelů strojového učení a dat, která využívají, se výrazně liší od mnoha jiných vývojových pracovních postupů. V této lekci tento proces objasníme a nastíníme hlavní techniky, které je třeba znát. Naučíte se:
