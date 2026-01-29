@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "abf86d845c84330bce205a46b382ec88",
-  "translation_date": "2025-09-06T09:26:24+00:00",
-  "source_file": "2-Regression/4-Logistic/README.md",
-  "language_code": "ja"
-}
--->
 # カテゴリー予測のためのロジスティック回帰
 
 ![ロジスティック回帰と線形回帰のインフォグラフィック](../../../../2-Regression/4-Logistic/images/linear-vs-logistic.png)

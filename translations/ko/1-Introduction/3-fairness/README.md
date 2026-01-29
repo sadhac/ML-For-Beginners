@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9a6b702d1437c0467e3c5c28d763dac2",
-  "translation_date": "2025-09-05T10:47:40+00:00",
-  "source_file": "1-Introduction/3-fairness/README.md",
-  "language_code": "ko"
-}
--->
 # 책임 있는 AI를 활용한 머신 러닝 솔루션 구축
 
 ![머신 러닝에서 책임 있는 AI의 요약을 담은 스케치노트](../../../../sketchnotes/ml-fairness.png)

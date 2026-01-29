@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-09-04T00:31:08+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "ja"
-}
--->
 # 山登りカーを訓練する
 
 [OpenAI Gym](http://gym.openai.com) は、すべての環境が同じAPIを提供するように設計されています。つまり、`reset`、`step`、`render`という同じメソッドと、**アクションスペース**および**観測スペース**の同じ抽象化を備えています。そのため、最小限のコード変更で異なる環境に同じ強化学習アルゴリズムを適用することが可能です。

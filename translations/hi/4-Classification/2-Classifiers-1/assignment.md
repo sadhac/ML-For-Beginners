@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "de6025f96841498b0577e9d1aee18d1f",
-  "translation_date": "2025-09-03T23:54:22+00:00",
-  "source_file": "4-Classification/2-Classifiers-1/assignment.md",
-  "language_code": "hi"
-}
--->
 # सॉल्वर का अध्ययन करें
 ## निर्देश
 

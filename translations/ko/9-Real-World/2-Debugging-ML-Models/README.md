@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "df2b538e8fbb3e91cf0419ae2f858675",
-  "translation_date": "2025-09-05T10:46:42+00:00",
-  "source_file": "9-Real-World/2-Debugging-ML-Models/README.md",
-  "language_code": "ko"
-}
--->
 # 후속: 책임 있는 AI 대시보드 구성 요소를 활용한 머신 러닝 모델 디버깅
 
 ## [강의 전 퀴즈](https://ff-quizzes.netlify.app/en/ml/)

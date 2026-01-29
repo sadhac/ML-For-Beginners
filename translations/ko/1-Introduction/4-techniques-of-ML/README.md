@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9d91f3af3758fdd4569fb410575995ef",
-  "translation_date": "2025-09-05T10:48:28+00:00",
-  "source_file": "1-Introduction/4-techniques-of-ML/README.md",
-  "language_code": "ko"
-}
--->
 # 머신 러닝 기법
 
 머신 러닝 모델을 구축, 사용, 유지 관리하는 과정과 그 모델이 사용하는 데이터는 다른 개발 워크플로우와 매우 다릅니다. 이번 강의에서는 이 과정을 이해하기 쉽게 설명하고, 알아야 할 주요 기법들을 정리합니다. 여러분은 다음을 배우게 됩니다:

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e0b75f73e4a90d45181dc5581fe2ef5c",
-  "translation_date": "2025-09-06T09:35:43+00:00",
-  "source_file": "3-Web-App/1-Web-App/README.md",
-  "language_code": "ja"
-}
--->
 # Webアプリで機械学習モデルを活用する
 
 このレッスンでは、機械学習モデルをトレーニングし、ユニークなデータセットを使用します。それは、_過去100年間のUFO目撃情報_ であり、NUFORCのデータベースから取得されたものです。

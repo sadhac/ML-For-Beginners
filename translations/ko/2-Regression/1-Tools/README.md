@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fa81d226c71d5af7a2cade31c1c92b88",
-  "translation_date": "2025-09-05T10:41:04+00:00",
-  "source_file": "2-Regression/1-Tools/README.md",
-  "language_code": "ko"
-}
--->
 # Python과 Scikit-learn으로 회귀 모델 시작하기
 
 ![스케치노트로 요약된 회귀](../../../../sketchnotes/ml-regression.png)

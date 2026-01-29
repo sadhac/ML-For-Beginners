@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cc471fa89c293bc735dd3a9a0fb79b1b",
-  "translation_date": "2025-09-03T22:22:10+00:00",
-  "source_file": "2-Regression/3-Linear/assignment.md",
-  "language_code": "ko"
-}
--->
 # 회귀 모델 생성하기
 
 ## 지침

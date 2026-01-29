@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6d130dffca5db70d7e615f926cb1ad4c",
-  "translation_date": "2025-09-03T23:48:02+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "ko"
-}
--->
 # 퀴즈
 
 이 퀴즈는 https://aka.ms/ml-beginners에서 제공하는 ML 커리큘럼의 강의 전후 퀴즈입니다.

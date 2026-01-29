@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "7c077988328ebfe33b24d07945f16eca",
-  "translation_date": "2025-09-05T10:41:52+00:00",
-  "source_file": "2-Regression/2-Data/README.md",
-  "language_code": "ko"
-}
--->
 # Scikit-learn을 사용한 회귀 모델 구축: 데이터 준비 및 시각화
 
 ![데이터 시각화 인포그래픽](../../../../2-Regression/2-Data/images/data-visualization.png)

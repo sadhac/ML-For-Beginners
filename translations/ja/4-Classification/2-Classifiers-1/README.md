@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1a6e9e46b34a2e559fbbfc1f95397c7b",
-  "translation_date": "2025-09-06T09:36:18+00:00",
-  "source_file": "4-Classification/2-Classifiers-1/README.md",
-  "language_code": "ja"
-}
--->
 # 料理分類器 1
 
 このレッスンでは、前回のレッスンで保存した、料理に関するバランスの取れたクリーンなデータセットを使用します。

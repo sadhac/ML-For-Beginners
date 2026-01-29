@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a88d5918c1b9da69a40d917a0840c497",
-  "translation_date": "2025-09-04T00:04:58+00:00",
-  "source_file": "sketchnotes/README.md",
-  "language_code": "ko"
-}
--->
 모든 커리큘럼의 스케치노트를 여기에서 다운로드할 수 있습니다.
 
 🖨 고해상도로 인쇄하려면 TIFF 버전을 [이 저장소](https://github.com/girliemac/a-picture-is-worth-a-1000-words/tree/main/ml/tiff)에서 이용할 수 있습니다.

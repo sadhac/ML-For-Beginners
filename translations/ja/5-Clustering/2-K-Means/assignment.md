@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b8e17eff34ad1680eba2a5d3cf9ffc41",
-  "translation_date": "2025-09-03T23:12:44+00:00",
-  "source_file": "5-Clustering/2-K-Means/assignment.md",
-  "language_code": "ja"
-}
--->
 # 異なるクラスタリング手法を試す
 
 ## 手順

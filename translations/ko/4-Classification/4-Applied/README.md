@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61bdec27ed2da8b098cd9065405d9bb0",
-  "translation_date": "2025-09-05T10:51:38+00:00",
-  "source_file": "4-Classification/4-Applied/README.md",
-  "language_code": "ko"
-}
--->
 # 요리 추천 웹 앱 만들기
 
 이 강의에서는 이전 강의에서 배운 기술과 이 시리즈에서 사용된 맛있는 요리 데이터셋을 활용하여 분류 모델을 구축합니다. 또한 저장된 모델을 사용하여 Onnx의 웹 런타임을 활용한 작은 웹 앱을 만들 것입니다.

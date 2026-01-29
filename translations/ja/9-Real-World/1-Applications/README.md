@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "83320d6b6994909e35d830cebf214039",
-  "translation_date": "2025-09-06T09:31:49+00:00",
-  "source_file": "9-Real-World/1-Applications/README.md",
-  "language_code": "ja"
-}
--->
 # 後書き: 実世界における機械学習
 
 ![実世界における機械学習の概要をスケッチノートで表現](../../../../sketchnotes/ml-realworld.png)

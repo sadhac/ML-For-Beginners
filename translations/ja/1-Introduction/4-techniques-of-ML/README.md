@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9d91f3af3758fdd4569fb410575995ef",
-  "translation_date": "2025-09-06T09:34:02+00:00",
-  "source_file": "1-Introduction/4-techniques-of-ML/README.md",
-  "language_code": "ja"
-}
--->
 # 機械学習の技術
 
 機械学習モデルとその使用データを構築、利用、維持するプロセスは、他の多くの開発ワークフローとは大きく異なります。このレッスンでは、そのプロセスを解明し、知っておくべき主要な技術を概説します。以下を学びます：

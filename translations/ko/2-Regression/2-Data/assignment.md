@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4485a1ed4dd1b5647365e3d87456515d",
-  "translation_date": "2025-09-03T22:40:25+00:00",
-  "source_file": "2-Regression/2-Data/assignment.md",
-  "language_code": "ko"
-}
--->
 # 시각화 탐구
 
 데이터 시각화를 위해 사용할 수 있는 다양한 라이브러리가 있습니다. 이 강의의 Pumpkin 데이터를 사용하여 샘플 노트북에서 matplotlib과 seaborn을 활용해 몇 가지 시각화를 만들어 보세요. 어떤 라이브러리가 더 사용하기 쉬운가요?

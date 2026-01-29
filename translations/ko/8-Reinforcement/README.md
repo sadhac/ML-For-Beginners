@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-09-04T00:14:05+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "ko"
-}
--->
 # 강화 학습 소개
 
 강화 학습(RL)은 지도 학습과 비지도 학습과 함께 기본적인 머신 러닝 패러다임 중 하나로 여겨집니다. RL은 올바른 결정을 내리거나 최소한 그로부터 배우는 데 초점이 맞춰져 있습니다.

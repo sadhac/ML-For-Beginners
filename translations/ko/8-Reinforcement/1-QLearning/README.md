@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "911efd5e595089000cb3c16fce1beab8",
-  "translation_date": "2025-09-05T10:53:41+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/README.md",
-  "language_code": "ko"
-}
--->
 # 강화 학습과 Q-러닝 소개
 
 ![기계 학습에서 강화 학습 요약을 스케치노트로 표현](../../../../sketchnotes/ml-reinforcement.png)

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "508582278dbb8edd2a8a80ac96ef416c",
-  "translation_date": "2025-09-03T22:15:17+00:00",
-  "source_file": "2-Regression/README.md",
-  "language_code": "ko"
-}
--->
 # 머신 러닝을 위한 회귀 모델
 ## 지역 주제: 북미 지역 호박 가격을 위한 회귀 모델 🎃
 

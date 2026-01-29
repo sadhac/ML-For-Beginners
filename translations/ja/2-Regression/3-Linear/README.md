@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-06T09:24:27+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "ja"
-}
--->
 # Scikit-learnを使った回帰モデルの構築：4つの方法で回帰を学ぶ
 
 ![線形回帰と多項式回帰のインフォグラフィック](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -113,11 +104,11 @@ day_of_year = pd.to_datetime(pumpkins['Date']).apply(lambda dt: (dt-datetime(dt.
 
 前回のレッスンで、月ごとの平均価格が次のように見えることを確認しました：
 
-<img alt="月ごとの平均価格" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="月ごとの平均価格" src="../../../../translated_images/ja/barchart.a833ea9194346d76.webp" width="50%"/>
 
 これは、何らかの相関があることを示唆しており、`Month`と`Price`、または`DayOfYear`と`Price`の関係を予測する線形回帰モデルをトレーニングすることを試みる価値があります。以下は、後者の関係を示す散布図です：
 
-<img alt="価格と年の日数の散布図" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="価格と年の日数の散布図" src="../../../../translated_images/ja/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 `corr`関数を使用して相関を確認してみましょう：
 
@@ -136,7 +127,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="価格と年の日数の散布図（色分け）" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="価格と年の日数の散布図（色分け）" src="../../../../translated_images/ja/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 調査の結果、販売日よりも品種が価格全体に与える影響が大きいことが示唆されます。これを棒グラフで確認できます：
 
@@ -144,7 +135,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="品種ごとの価格の棒グラフ" src="images/price-by-variety.png" width="50%" /> 
+<img alt="品種ごとの価格の棒グラフ" src="../../../../translated_images/ja/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 ここでは、特定のカボチャ品種「パイタイプ」に焦点を当て、日付が価格に与える影響を見てみましょう：
 
@@ -152,7 +143,7 @@ new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="価格と年の日数の散布図（パイタイプ）" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="価格と年の日数の散布図（パイタイプ）" src="../../../../translated_images/ja/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 `corr`関数を使用して`Price`と`DayOfYear`の相関を計算すると、約`-0.27`の値が得られます。これは、予測モデルをトレーニングする意味があることを示しています。
 
@@ -226,7 +217,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```
 
-<img alt="線形回帰" src="images/linear-results.png" width="50%" />
+<img alt="線形回帰" src="../../../../translated_images/ja/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## 多項式回帰
 
@@ -255,7 +246,7 @@ pipeline.fit(X_train,y_train)
 
 パイプラインは、元の`LinearRegression`オブジェクトと同じ方法で使用できます。つまり、パイプラインを`fit`し、その後`predict`を使用して予測結果を取得できます。以下はテストデータと近似曲線を示すグラフです：
 
-<img alt="多項式回帰" src="images/poly-results.png" width="50%" />
+<img alt="多項式回帰" src="../../../../translated_images/ja/poly-results.ee587348f0f1f60b.webp" width="50%" />
 
 多項式回帰を使用することで、MSEをわずかに低下させ、決定係数をわずかに向上させることができますが、大きな改善はありません。他の特徴を考慮する必要があります！
 
@@ -273,7 +264,7 @@ pipeline.fit(X_train,y_train)
 
 以下は、種類ごとの平均価格がどのように依存しているかを示しています：
 
-<img alt="種類ごとの平均価格" src="images/price-by-variety.png" width="50%" />
+<img alt="種類ごとの平均価格" src="../../../../translated_images/ja/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 種類を考慮するためには、まずそれを数値形式に変換する必要があります。これを**エンコード**と呼びます。いくつかの方法があります：
 

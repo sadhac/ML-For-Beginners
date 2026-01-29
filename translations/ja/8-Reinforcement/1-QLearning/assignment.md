@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "68394b2102d3503882e5e914bd0ff5c1",
-  "translation_date": "2025-09-04T00:23:31+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/assignment.md",
-  "language_code": "ja"
-}
--->
 # より現実的な世界
 
 私たちの状況では、ピーターはほとんど疲れたり空腹になったりすることなく移動することができました。しかし、より現実的な世界では、ピーターは時々座って休む必要があり、また食事を取る必要があります。以下のルールを実装することで、私たちの世界をより現実的にしてみましょう。

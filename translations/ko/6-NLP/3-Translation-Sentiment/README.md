@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "be03c8182982b87ced155e4e9d1438e8",
-  "translation_date": "2025-09-05T10:57:30+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/README.md",
-  "language_code": "ko"
-}
--->
 # 기계 학습을 활용한 번역 및 감정 분석
 
 이전 강의에서는 `TextBlob` 라이브러리를 사용하여 기본적인 NLP 작업(예: 명사구 추출)을 수행하는 간단한 봇을 만드는 방법을 배웠습니다. `TextBlob`은 기계 학습을 백그라운드에서 활용합니다. 계산 언어학에서 또 다른 중요한 과제는 문장을 한 언어에서 다른 언어로 정확하게 _번역_하는 것입니다.

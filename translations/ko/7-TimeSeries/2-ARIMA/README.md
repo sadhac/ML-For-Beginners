@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "917dbf890db71a322f306050cb284749",
-  "translation_date": "2025-09-05T10:42:27+00:00",
-  "source_file": "7-TimeSeries/2-ARIMA/README.md",
-  "language_code": "ko"
-}
--->
 # ARIMA를 활용한 시계열 예측
 
 이전 강의에서는 시계열 예측에 대해 간단히 배우고 특정 기간 동안 전력 부하의 변동을 보여주는 데이터를 로드했습니다.

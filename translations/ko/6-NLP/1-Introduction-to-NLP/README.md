@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1c2ec40cf55c98a028a359c27ef7e45a",
-  "translation_date": "2025-09-05T10:56:52+00:00",
-  "source_file": "6-NLP/1-Introduction-to-NLP/README.md",
-  "language_code": "ko"
-}
--->
 # 자연어 처리 소개
 
 이 강의에서는 *계산 언어학*의 하위 분야인 *자연어 처리*의 간략한 역사와 중요한 개념을 다룹니다.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9a6b702d1437c0467e3c5c28d763dac2",
-  "translation_date": "2025-09-06T09:33:20+00:00",
-  "source_file": "1-Introduction/3-fairness/README.md",
-  "language_code": "ja"
-}
--->
 # 責任あるAIを用いた機械学習ソリューションの構築
 
 ![機械学習における責任あるAIの概要を示すスケッチノート](../../../../sketchnotes/ml-fairness.png)

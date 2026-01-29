@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "df2b538e8fbb3e91cf0419ae2f858675",
-  "translation_date": "2025-09-05T10:21:53+00:00",
-  "source_file": "9-Real-World/2-Debugging-ML-Models/README.md",
-  "language_code": "hi"
-}
--->
 # पोस्टस्क्रिप्ट: मशीन लर्निंग में मॉडल डिबगिंग का जिम्मेदार AI डैशबोर्ड घटकों के साथ उपयोग
 
 ## [प्री-लेक्चर क्विज़](https://ff-quizzes.netlify.app/en/ml/)

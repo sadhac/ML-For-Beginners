@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "abf86d845c84330bce205a46b382ec88",
-  "translation_date": "2025-09-05T10:14:06+00:00",
-  "source_file": "2-Regression/4-Logistic/README.md",
-  "language_code": "hi"
-}
--->
 # श्रेणियों की भविष्यवाणी के लिए लॉजिस्टिक रिग्रेशन
 
 ![लॉजिस्टिक बनाम लीनियर रिग्रेशन इन्फोग्राफिक](../../../../2-Regression/4-Logistic/images/linear-vs-logistic.png)

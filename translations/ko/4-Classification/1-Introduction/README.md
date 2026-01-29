@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "aaf391d922bd6de5efba871d514c6d47",
-  "translation_date": "2025-09-05T10:52:28+00:00",
-  "source_file": "4-Classification/1-Introduction/README.md",
-  "language_code": "ko"
-}
--->
 # 분류 소개
 
 이 네 가지 강의에서는 고전적인 머신 러닝의 핵심 주제인 _분류_를 탐구합니다. 아시아와 인도의 다양한 요리 데이터를 사용하여 여러 분류 알고리즘을 살펴볼 것입니다. 배가 고프셨다면 잘 오셨습니다!

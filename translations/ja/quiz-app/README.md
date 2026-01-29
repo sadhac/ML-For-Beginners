@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6d130dffca5db70d7e615f926cb1ad4c",
-  "translation_date": "2025-09-03T23:47:49+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "ja"
-}
--->
 # クイズ
 
 これらのクイズは、https://aka.ms/ml-beginners にあるMLカリキュラムの講義前後のクイズです。

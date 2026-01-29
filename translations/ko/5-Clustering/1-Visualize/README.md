@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "730225ea274c9174fe688b21d421539d",
-  "translation_date": "2025-09-05T10:44:24+00:00",
-  "source_file": "5-Clustering/1-Visualize/README.md",
-  "language_code": "ko"
-}
--->
 # 클러스터링 소개
 
 클러스터링은 데이터셋이 라벨이 없거나 입력값이 미리 정의된 출력값과 매칭되지 않는다고 가정하는 [비지도 학습](https://wikipedia.org/wiki/Unsupervised_learning)의 한 유형입니다. 클러스터링은 다양한 알고리즘을 사용하여 라벨이 없는 데이터를 분류하고, 데이터에서 감지된 패턴에 따라 그룹을 제공합니다.

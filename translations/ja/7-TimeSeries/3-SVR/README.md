@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-09-06T09:29:52+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "ja"
-}
--->
 # サポートベクター回帰による時系列予測
 
 前回のレッスンでは、ARIMAモデルを使用して時系列予測を行う方法を学びました。今回は、連続データを予測するために使用される回帰モデルであるサポートベクター回帰（Support Vector Regressor）モデルについて学びます。

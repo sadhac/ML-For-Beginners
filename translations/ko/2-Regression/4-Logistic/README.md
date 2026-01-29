@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "abf86d845c84330bce205a46b382ec88",
-  "translation_date": "2025-09-05T10:40:02+00:00",
-  "source_file": "2-Regression/4-Logistic/README.md",
-  "language_code": "ko"
-}
--->
 # 카테고리 예측을 위한 로지스틱 회귀
 
 ![로지스틱 vs. 선형 회귀 인포그래픽](../../../../2-Regression/4-Logistic/images/linear-vs-logistic.png)

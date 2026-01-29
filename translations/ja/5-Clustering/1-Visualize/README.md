@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "730225ea274c9174fe688b21d421539d",
-  "translation_date": "2025-09-06T09:30:23+00:00",
-  "source_file": "5-Clustering/1-Visualize/README.md",
-  "language_code": "ja"
-}
--->
 # クラスタリングの紹介
 
 クラスタリングは、[教師なし学習](https://wikipedia.org/wiki/Unsupervised_learning)の一種で、データセットがラベル付けされていない、または入力が事前定義された出力と一致していないことを前提としています。さまざまなアルゴリズムを使用してラベル付けされていないデータを分類し、データ内で認識されるパターンに基づいてグループ化を提供します。

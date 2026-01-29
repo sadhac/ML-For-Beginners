@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-09-03T22:41:12+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "ja"
-}
--->
 # 時系列予測の入門
 
 時系列予測とは何でしょうか？過去の傾向を分析することで未来の出来事を予測することです。

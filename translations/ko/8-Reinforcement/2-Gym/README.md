@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "107d5bb29da8a562e7ae72262d251a75",
-  "translation_date": "2025-09-05T10:54:20+00:00",
-  "source_file": "8-Reinforcement/2-Gym/README.md",
-  "language_code": "ko"
-}
--->
 ## 사전 준비
 
 이번 강의에서는 **OpenAI Gym**이라는 라이브러리를 사용하여 다양한 **환경**을 시뮬레이션할 것입니다. 이 강의의 코드는 로컬 환경(예: Visual Studio Code)에서 실행할 수 있으며, 이 경우 시뮬레이션이 새 창에서 열립니다. 온라인으로 코드를 실행할 경우, [여기](https://towardsdatascience.com/rendering-openai-gym-envs-on-binder-and-google-colab-536f99391cc7)에 설명된 대로 코드를 약간 수정해야 할 수도 있습니다.

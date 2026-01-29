@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "49047911108adc49d605cddfb455749c",
-  "translation_date": "2025-09-05T10:52:05+00:00",
-  "source_file": "4-Classification/3-Classifiers-2/README.md",
-  "language_code": "ko"
-}
--->
 # 요리 분류기 2
 
 이 두 번째 분류 수업에서는 숫자 데이터를 분류하는 더 많은 방법을 탐구합니다. 또한 하나의 분류기를 선택하는 것이 다른 분류기를 선택하는 것에 비해 어떤 영향을 미치는지 배우게 됩니다.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "83320d6b6994909e35d830cebf214039",
-  "translation_date": "2025-09-05T10:45:58+00:00",
-  "source_file": "9-Real-World/1-Applications/README.md",
-  "language_code": "ko"
-}
--->
 # 후속: 실제 세계에서의 머신 러닝
 
 ![실제 세계에서의 머신 러닝 요약 스케치노트](../../../../sketchnotes/ml-realworld.png)  

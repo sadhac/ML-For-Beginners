@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "74a5cf83e4ebc302afbcbc4f418afd0a",
-  "translation_date": "2025-09-03T22:36:19+00:00",
-  "source_file": "2-Regression/1-Tools/assignment.md",
-  "language_code": "ko"
-}
--->
 # Scikit-learn을 사용한 회귀 분석
 
 ## 지침

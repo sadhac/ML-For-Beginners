@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "7cdd17338d9bbd7e2171c2cd462eb081",
-  "translation_date": "2025-09-05T10:45:29+00:00",
-  "source_file": "5-Clustering/2-K-Means/README.md",
-  "language_code": "ko"
-}
--->
 # K-Means 클러스터링
 
 ## [강의 전 퀴즈](https://ff-quizzes.netlify.app/en/ml/)

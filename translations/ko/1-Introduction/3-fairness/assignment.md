@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dbda60e7b1fe5f18974e7858eff0004e",
-  "translation_date": "2025-09-03T23:31:20+00:00",
-  "source_file": "1-Introduction/3-fairness/assignment.md",
-  "language_code": "ko"
-}
--->
 # 책임 있는 AI 도구 상자 탐색하기
 
 ## 지침
