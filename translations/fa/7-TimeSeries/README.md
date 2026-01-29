@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-09-03T22:41:38+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "fa"
-}
--->
 # مقدمه‌ای بر پیش‌بینی سری‌های زمانی
 
 پیش‌بینی سری‌های زمانی چیست؟ این فرآیند شامل پیش‌بینی رویدادهای آینده با تحلیل روندهای گذشته است.

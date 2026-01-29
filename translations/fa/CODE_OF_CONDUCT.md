@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "c06b12caf3c901eb3156e3dd5b0aea56",
-  "translation_date": "2025-09-03T22:14:43+00:00",
-  "source_file": "CODE_OF_CONDUCT.md",
-  "language_code": "fa"
-}
--->
 # منشور رفتاری کد متن‌باز مایکروسافت
 
 این پروژه منشور رفتاری کد متن‌باز مایکروسافت را پذیرفته است. [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/)

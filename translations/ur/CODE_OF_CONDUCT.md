@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "c06b12caf3c901eb3156e3dd5b0aea56",
-  "translation_date": "2025-08-29T12:51:12+00:00",
-  "source_file": "CODE_OF_CONDUCT.md",
-  "language_code": "ur"
-}
--->
 # مائیکروسافٹ اوپن سورس ضابطہ اخلاق
 
 اس پروجیکٹ نے [مائیکروسافٹ اوپن سورس ضابطہ اخلاق](https://opensource.microsoft.com/codeofconduct/) کو اپنایا ہے۔

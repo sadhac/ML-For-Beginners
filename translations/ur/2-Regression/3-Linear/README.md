@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-06T08:43:17+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "ur"
-}
--->
 # سکائٹ لرن کے ذریعے ریگریشن ماڈل بنائیں: ریگریشن کے چار طریقے
 
 ![لینیئر بمقابلہ پولینومیل ریگریشن انفوگرافک](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -114,11 +105,11 @@ day_of_year = pd.to_datetime(pumpkins['Date']).apply(lambda dt: (dt-datetime(dt.
 
 پچھلے سبق سے آپ نے شاید دیکھا ہو کہ مختلف مہینوں کے لیے اوسط قیمت کچھ اس طرح نظر آتی ہے:
 
-<img alt="مہینے کے لحاظ سے اوسط قیمت" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="مہینے کے لحاظ سے اوسط قیمت" src="../../../../translated_images/ur/barchart.a833ea9194346d76.webp" width="50%"/>
 
 یہ ظاہر کرتا ہے کہ کچھ تعلق ہونا چاہیے، اور ہم `Month` اور `Price` کے درمیان یا `DayOfYear` اور `Price` کے درمیان تعلق کی پیش گوئی کرنے کے لیے لینیئر ریگریشن ماڈل کی تربیت کرنے کی کوشش کر سکتے ہیں۔ یہاں اسکیٹر پلاٹ ہے جو مؤخر الذکر تعلق کو دکھاتا ہے:
 
-<img alt="قیمت بمقابلہ سال کے دن کا اسکیٹر پلاٹ" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="قیمت بمقابلہ سال کے دن کا اسکیٹر پلاٹ" src="../../../../translated_images/ur/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 آئیے `corr` فنکشن کا استعمال کرتے ہوئے دیکھیں کہ کیا کوئی تعلق ہے:
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="قیمت بمقابلہ سال کے دن کا اسکیٹر پلاٹ" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="قیمت بمقابلہ سال کے دن کا اسکیٹر پلاٹ" src="../../../../translated_images/ur/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 ہماری تحقیق سے پتہ چلتا ہے کہ قسم کا اثر قیمت پر فروخت کی اصل تاریخ سے زیادہ ہے۔ ہم اسے بار گراف کے ذریعے دیکھ سکتے ہیں:
 
@@ -145,7 +136,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="قسم کے لحاظ سے قیمت کا بار گراف" src="images/price-by-variety.png" width="50%" /> 
+<img alt="قسم کے لحاظ سے قیمت کا بار گراف" src="../../../../translated_images/ur/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 آئیے فی الحال صرف ایک کدو کی قسم، 'پائی ٹائپ' پر توجہ مرکوز کریں، اور دیکھیں کہ تاریخ کا قیمت پر کیا اثر پڑتا ہے:
 
@@ -153,7 +144,7 @@ new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="قیمت بمقابلہ سال کے دن کا اسکیٹر پلاٹ" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="قیمت بمقابلہ سال کے دن کا اسکیٹر پلاٹ" src="../../../../translated_images/ur/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 اگر ہم اب `corr` فنکشن کا استعمال کرتے ہوئے `Price` اور `DayOfYear` کے درمیان تعلق کا حساب لگائیں، تو ہمیں کچھ `-0.27` جیسا ملے گا - جس کا مطلب ہے کہ پیش گوئی کرنے والے ماڈل کی تربیت کرنا معنی رکھتا ہے۔
 
@@ -227,7 +218,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```  
 
-<img alt="Linear regression" src="images/linear-results.png" width="50%" />
+<img alt="Linear regression" src="../../../../translated_images/ur/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## پولینومیل ریگریشن  
 
@@ -256,7 +247,7 @@ pipeline.fit(X_train,y_train)
 
 پائپ لائنز کو اسی طرح استعمال کیا جا سکتا ہے جیسے اصل `LinearRegression` آبجیکٹ، یعنی ہم پائپ لائن کو `fit` کر سکتے ہیں، اور پھر `predict` استعمال کر کے پیش گوئی کے نتائج حاصل کر سکتے ہیں۔ یہاں گراف ہے جو ٹیسٹ ڈیٹا اور approximation curve دکھاتا ہے:
 
-<img alt="Polynomial regression" src="images/poly-results.png" width="50%" />
+<img alt="Polynomial regression" src="../../../../translated_images/ur/poly-results.ee587348f0f1f60b.webp" width="50%" />
 
 پولینومیل ریگریشن استعمال کرتے ہوئے، ہم قدرے کم MSE اور زیادہ determination حاصل کر سکتے ہیں، لیکن زیادہ نہیں۔ ہمیں دیگر فیچرز کو مدنظر رکھنا ہوگا!
 
@@ -274,7 +265,7 @@ pipeline.fit(X_train,y_train)
 
 یہاں آپ دیکھ سکتے ہیں کہ اوسط قیمت قسم پر کیسے منحصر ہے:
 
-<img alt="Average price by variety" src="images/price-by-variety.png" width="50%" />
+<img alt="Average price by variety" src="../../../../translated_images/ur/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 قسم کو مدنظر رکھنے کے لیے، ہمیں پہلے اسے عددی شکل میں تبدیل کرنا ہوگا، یا **encode** کرنا ہوگا۔ ہم اسے کرنے کے کئی طریقے ہیں:
 

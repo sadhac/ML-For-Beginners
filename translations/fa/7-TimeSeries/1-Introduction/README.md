@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "662b509c39eee205687726636d0a8455",
-  "translation_date": "2025-09-04T22:35:08+00:00",
-  "source_file": "7-TimeSeries/1-Introduction/README.md",
-  "language_code": "fa"
-}
--->
 # مقدمه‌ای بر پیش‌بینی سری‌های زمانی
 
 ![خلاصه‌ای از سری‌های زمانی در یک اسکچ‌نوت](../../../../sketchnotes/ml-timeseries.png)

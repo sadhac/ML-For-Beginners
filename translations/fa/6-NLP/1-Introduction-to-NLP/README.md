@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1c2ec40cf55c98a028a359c27ef7e45a",
-  "translation_date": "2025-09-04T22:48:19+00:00",
-  "source_file": "6-NLP/1-Introduction-to-NLP/README.md",
-  "language_code": "fa"
-}
--->
 # مقدمه‌ای بر پردازش زبان طبیعی
 
 این درس به تاریخچه‌ای کوتاه و مفاهیم مهم *پردازش زبان طبیعی*، یکی از زیرشاخه‌های *زبان‌شناسی محاسباتی* می‌پردازد.

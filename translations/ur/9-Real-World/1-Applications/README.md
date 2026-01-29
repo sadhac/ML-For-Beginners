@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "83320d6b6994909e35d830cebf214039",
-  "translation_date": "2025-09-06T08:50:10+00:00",
-  "source_file": "9-Real-World/1-Applications/README.md",
-  "language_code": "ur"
-}
--->
 # پوسٹ اسکرپٹ: حقیقی دنیا میں مشین لرننگ
 
 ![حقیقی دنیا میں مشین لرننگ کا خلاصہ ایک خاکہ میں](../../../../sketchnotes/ml-realworld.png)

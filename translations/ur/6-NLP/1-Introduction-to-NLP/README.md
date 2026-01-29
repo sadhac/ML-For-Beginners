@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1c2ec40cf55c98a028a359c27ef7e45a",
-  "translation_date": "2025-09-06T09:01:56+00:00",
-  "source_file": "6-NLP/1-Introduction-to-NLP/README.md",
-  "language_code": "ur"
-}
--->
 # قدرتی زبان کی پروسیسنگ کا تعارف
 
 یہ سبق *قدرتی زبان کی پروسیسنگ*، جو کہ *کمپیوٹیشنل لسانیات* کا ایک ذیلی شعبہ ہے، کی مختصر تاریخ اور اہم تصورات کا احاطہ کرتا ہے۔

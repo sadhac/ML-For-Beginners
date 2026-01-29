@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4485a1ed4dd1b5647365e3d87456515d",
-  "translation_date": "2025-08-29T13:08:12+00:00",
-  "source_file": "2-Regression/2-Data/assignment.md",
-  "language_code": "ur"
-}
--->
 # بصری تصورات کا جائزہ
 
 ڈیٹا کی بصری نمائندگی کے لیے کئی مختلف لائبریریاں دستیاب ہیں۔ اس سبق میں کدو کے ڈیٹا کا استعمال کرتے ہوئے matplotlib اور seaborn کے ساتھ کچھ تصورات بنائیں۔ کون سی لائبریریاں استعمال کرنے میں زیادہ آسان ہیں؟

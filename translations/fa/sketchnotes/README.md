@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a88d5918c1b9da69a40d917a0840c497",
-  "translation_date": "2025-09-04T00:05:08+00:00",
-  "source_file": "sketchnotes/README.md",
-  "language_code": "fa"
-}
--->
 تمام یادداشت‌های تصویری این برنامه آموزشی را می‌توانید از اینجا دانلود کنید.
 
 🖨 برای چاپ با کیفیت بالا، نسخه‌های TIFF در [این مخزن](https://github.com/girliemac/a-picture-is-worth-a-1000-words/tree/main/ml/tiff) موجود هستند.

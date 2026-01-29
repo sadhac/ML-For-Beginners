@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "911efd5e595089000cb3c16fce1beab8",
-  "translation_date": "2025-09-04T22:45:00+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/README.md",
-  "language_code": "fa"
-}
--->
 # مقدمه‌ای بر یادگیری تقویتی و Q-Learning
 
 ![خلاصه‌ای از یادگیری تقویتی در یادگیری ماشین در یک اسکچ‌نوت](../../../../sketchnotes/ml-reinforcement.png)

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b37de02054fa6c0438ede6fabe1fdfb8",
-  "translation_date": "2025-08-29T12:50:43+00:00",
-  "source_file": "for-teachers.md",
-  "language_code": "ur"
-}
--->
 ## اساتذہ کے لیے
 
 کیا آپ اس نصاب کو اپنی کلاس میں استعمال کرنا چاہتے ہیں؟ بے شک، ضرور کریں!
