@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1a6e9e46b34a2e559fbbfc1f95397c7b",
-  "translation_date": "2025-09-06T08:34:16+00:00",
-  "source_file": "4-Classification/2-Classifiers-1/README.md",
-  "language_code": "ru"
-}
--->
 # Классификаторы кухонь 1
 
 В этом уроке вы будете использовать набор данных, который вы сохранили в предыдущем уроке, содержащий сбалансированные и очищенные данные о кухнях.

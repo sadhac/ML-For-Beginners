@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a8e8ae10be335cbc745b75ee552317ff",
-  "translation_date": "2025-09-03T21:53:23+00:00",
-  "source_file": "3-Web-App/1-Web-App/assignment.md",
-  "language_code": "de"
-}
--->
 # Probieren Sie ein anderes Modell aus
 
 ## Anweisungen

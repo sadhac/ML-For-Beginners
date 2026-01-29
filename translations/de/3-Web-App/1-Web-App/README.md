@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e0b75f73e4a90d45181dc5581fe2ef5c",
-  "translation_date": "2025-09-04T22:01:30+00:00",
-  "source_file": "3-Web-App/1-Web-App/README.md",
-  "language_code": "de"
-}
--->
 # Erstellen einer Web-App zur Nutzung eines ML-Modells
 
 In dieser Lektion wirst du ein ML-Modell mit einem außergewöhnlichen Datensatz trainieren: _UFO-Sichtungen des letzten Jahrhunderts_, basierend auf der Datenbank von NUFORC.

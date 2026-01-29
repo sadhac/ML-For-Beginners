@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6a05fec147e734c3e6bfa54505648e2b",
-  "translation_date": "2025-09-04T22:00:31+00:00",
-  "source_file": "1-Introduction/2-history-of-ML/README.md",
-  "language_code": "de"
-}
--->
 # Geschichte des maschinellen Lernens
 
 ![Zusammenfassung der Geschichte des maschinellen Lernens in einer Sketchnote](../../../../sketchnotes/ml-history.png)

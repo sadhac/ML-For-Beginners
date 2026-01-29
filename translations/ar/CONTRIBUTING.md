@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "977ec5266dfd78ad1ce2bd8d46fccbda",
-  "translation_date": "2025-08-29T12:49:20+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "ar"
-}
--->
 # المساهمة
 
 هذا المشروع يرحب بالمساهمات والاقتراحات. معظم المساهمات تتطلب منك الموافقة على اتفاقية ترخيص المساهم (CLA) التي تؤكد أنك تمتلك الحق في، وتقوم فعليًا، بمنحنا الحقوق لاستخدام مساهمتك. لمزيد من التفاصيل، قم بزيارة https://cla.microsoft.com.

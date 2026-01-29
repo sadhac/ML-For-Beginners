@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "662b509c39eee205687726636d0a8455",
-  "translation_date": "2025-09-04T21:54:27+00:00",
-  "source_file": "7-TimeSeries/1-Introduction/README.md",
-  "language_code": "de"
-}
--->
 # Einführung in die Zeitreihenprognose
 
 ![Zusammenfassung von Zeitreihen in einer Sketchnote](../../../../sketchnotes/ml-timeseries.png)

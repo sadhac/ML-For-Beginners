@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-09-04T21:55:06+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "de"
-}
--->
 # Zeitreihenprognose mit Support Vector Regressor
 
 In der vorherigen Lektion hast du gelernt, wie man das ARIMA-Modell zur Vorhersage von Zeitreihen verwendet. Jetzt wirst du das Support Vector Regressor-Modell kennenlernen, ein Regressionsmodell, das zur Vorhersage kontinuierlicher Daten verwendet wird.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-09-03T21:42:42+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "de"
-}
--->
 # Einführung in die Zeitreihenprognose
 
 Was ist Zeitreihenprognose? Es geht darum, zukünftige Ereignisse vorherzusagen, indem Trends aus der Vergangenheit analysiert werden.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "49047911108adc49d605cddfb455749c",
-  "translation_date": "2025-09-04T20:50:07+00:00",
-  "source_file": "4-Classification/3-Classifiers-2/README.md",
-  "language_code": "ar"
-}
--->
 # مصنفات المأكولات 2
 
 في درس التصنيف الثاني هذا، ستستكشف طرقًا إضافية لتصنيف البيانات الرقمية. كما ستتعرف على العواقب المترتبة على اختيار مصنف معين بدلاً من آخر.

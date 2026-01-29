@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "68394b2102d3503882e5e914bd0ff5c1",
-  "translation_date": "2025-09-03T21:59:42+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/assignment.md",
-  "language_code": "de"
-}
--->
 # Eine realistischere Welt
 
 In unserer Situation konnte Peter sich fast ohne Müdigkeit oder Hunger bewegen. In einer realistischeren Welt muss er sich von Zeit zu Zeit hinsetzen und ausruhen sowie sich ernähren. Lassen Sie uns unsere Welt realistischer gestalten, indem wir die folgenden Regeln umsetzen:

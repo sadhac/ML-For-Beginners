@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-04T20:37:53+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "ar"
-}
--->
 # بناء نموذج انحدار باستخدام Scikit-learn: الانحدار بأربع طرق
 
 ![مخطط معلوماتي عن الانحدار الخطي مقابل الانحدار متعدد الحدود](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -114,11 +105,11 @@ day_of_year = pd.to_datetime(pumpkins['Date']).apply(lambda dt: (dt-datetime(dt.
 
 من الدرس السابق ربما لاحظت أن متوسط السعر للأشهر المختلفة يبدو كالتالي:
 
-<img alt="متوسط السعر حسب الشهر" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="متوسط السعر حسب الشهر" src="../../../../translated_images/ar/barchart.a833ea9194346d76.webp" width="50%"/>
 
 هذا يشير إلى أنه يجب أن يكون هناك بعض الارتباط، ويمكننا محاولة تدريب نموذج انحدار خطي للتنبؤ بالعلاقة بين `الشهر` و `السعر`، أو بين `اليوم من السنة` و `السعر`. إليك المخطط المبعثر الذي يظهر العلاقة الأخيرة:
 
-<img alt="مخطط مبعثر للسعر مقابل اليوم من السنة" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="مخطط مبعثر للسعر مقابل اليوم من السنة" src="../../../../translated_images/ar/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 دعونا نرى ما إذا كان هناك ارتباط باستخدام وظيفة `corr`:
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="مخطط مبعثر للسعر مقابل اليوم من السنة" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="مخطط مبعثر للسعر مقابل اليوم من السنة" src="../../../../translated_images/ar/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 تشير تحقيقاتنا إلى أن النوع له تأثير أكبر على السعر الإجمالي من تاريخ البيع الفعلي. يمكننا رؤية ذلك باستخدام مخطط شريطي:
 
@@ -145,7 +136,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="مخطط شريطي للسعر مقابل النوع" src="images/price-by-variety.png" width="50%" /> 
+<img alt="مخطط شريطي للسعر مقابل النوع" src="../../../../translated_images/ar/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 دعونا نركز في الوقت الحالي فقط على نوع واحد من القرع، وهو "نوع الفطيرة"، ونرى ما هو تأثير التاريخ على السعر:
 
@@ -153,7 +144,7 @@ new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="مخطط مبعثر للسعر مقابل اليوم من السنة" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="مخطط مبعثر للسعر مقابل اليوم من السنة" src="../../../../translated_images/ar/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 إذا قمنا الآن بحساب الارتباط بين `السعر` و `اليوم من السنة` باستخدام وظيفة `corr`، سنحصل على شيء مثل `-0.27` - مما يعني أن تدريب نموذج تنبؤي يبدو منطقيًا.
 
@@ -227,7 +218,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```  
 
-<img alt="الانحدار الخطي" src="images/linear-results.png" width="50%" />
+<img alt="الانحدار الخطي" src="../../../../translated_images/ar/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## الانحدار متعدد الحدود  
 
@@ -256,7 +247,7 @@ pipeline.fit(X_train,y_train)
 
 يمكن استخدام الأنابيب بنفس الطريقة التي يتم بها استخدام كائن `LinearRegression` الأصلي، أي يمكننا `fit` الأنبوب، ثم استخدام `predict` للحصول على نتائج التنبؤ. إليك الرسم البياني الذي يظهر بيانات الاختبار ومنحنى التقريب:
 
-<img alt="الانحدار متعدد الحدود" src="images/poly-results.png" width="50%" />
+<img alt="الانحدار متعدد الحدود" src="../../../../translated_images/ar/poly-results.ee587348f0f1f60b.webp" width="50%" />
 
 باستخدام الانحدار متعدد الحدود، يمكننا الحصول على MSE أقل قليلاً ومعامل تحديد أعلى، ولكن ليس بشكل كبير. يجب أن نأخذ في الاعتبار ميزات أخرى!
 
@@ -274,7 +265,7 @@ pipeline.fit(X_train,y_train)
 
 هنا يمكنك رؤية كيف يعتمد السعر المتوسط على النوع:
 
-<img alt="السعر المتوسط حسب النوع" src="images/price-by-variety.png" width="50%" />
+<img alt="السعر المتوسط حسب النوع" src="../../../../translated_images/ar/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 لأخذ النوع في الاعتبار، نحتاج أولاً إلى تحويله إلى شكل رقمي، أو **ترميزه**. هناك عدة طرق يمكننا القيام بها:
 

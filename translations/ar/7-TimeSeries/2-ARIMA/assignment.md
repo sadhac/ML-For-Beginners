@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1c814013e10866dfd92cdb32caaae3ac",
-  "translation_date": "2025-08-29T13:11:47+00:00",
-  "source_file": "7-TimeSeries/2-ARIMA/assignment.md",
-  "language_code": "ar"
-}
--->
 # نموذج ARIMA جديد
 
 ## التعليمات

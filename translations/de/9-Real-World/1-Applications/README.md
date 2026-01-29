@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "83320d6b6994909e35d830cebf214039",
-  "translation_date": "2025-09-04T21:56:58+00:00",
-  "source_file": "9-Real-World/1-Applications/README.md",
-  "language_code": "de"
-}
--->
 # Nachwort: Maschinelles Lernen in der realen Welt
 
 ![Zusammenfassung des maschinellen Lernens in der realen Welt in einer Sketchnote](../../../../sketchnotes/ml-realworld.png)

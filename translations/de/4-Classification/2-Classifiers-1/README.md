@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1a6e9e46b34a2e559fbbfc1f95397c7b",
-  "translation_date": "2025-09-04T22:02:02+00:00",
-  "source_file": "4-Classification/2-Classifiers-1/README.md",
-  "language_code": "de"
-}
--->
 # Küchenklassifikatoren 1
 
 In dieser Lektion wirst du den Datensatz verwenden, den du in der letzten Lektion gespeichert hast. Er enthält ausgewogene, bereinigte Daten rund um verschiedene Küchen.

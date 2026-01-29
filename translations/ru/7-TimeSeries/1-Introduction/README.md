@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "662b509c39eee205687726636d0a8455",
-  "translation_date": "2025-09-06T08:27:43+00:00",
-  "source_file": "7-TimeSeries/1-Introduction/README.md",
-  "language_code": "ru"
-}
--->
 # Введение в прогнозирование временных рядов
 
 ![Сводка временных рядов в виде скетчноута](../../../../sketchnotes/ml-timeseries.png)

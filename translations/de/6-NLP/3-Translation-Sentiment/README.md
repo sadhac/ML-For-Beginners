@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "be03c8182982b87ced155e4e9d1438e8",
-  "translation_date": "2025-09-04T22:08:34+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/README.md",
-  "language_code": "de"
-}
--->
 # Übersetzung und Sentiment-Analyse mit ML
 
 In den vorherigen Lektionen hast du gelernt, wie man einen einfachen Bot mit `TextBlob` erstellt, einer Bibliothek, die maschinelles Lernen im Hintergrund nutzt, um grundlegende NLP-Aufgaben wie die Extraktion von Nominalphrasen durchzuführen. Eine weitere wichtige Herausforderung in der Computerlinguistik ist die präzise _Übersetzung_ eines Satzes von einer gesprochenen oder geschriebenen Sprache in eine andere.

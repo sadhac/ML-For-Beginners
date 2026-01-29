@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1eb379dc2d0c9940b320732d16083778",
-  "translation_date": "2025-09-03T22:00:59+00:00",
-  "source_file": "6-NLP/README.md",
-  "language_code": "de"
-}
--->
 # Einstieg in die Verarbeitung natürlicher Sprache
 
 Die Verarbeitung natürlicher Sprache (Natural Language Processing, NLP) ist die Fähigkeit eines Computerprogramms, die menschliche Sprache so zu verstehen, wie sie gesprochen und geschrieben wird – bezeichnet als natürliche Sprache. Sie ist ein Bestandteil der künstlichen Intelligenz (KI). NLP existiert seit mehr als 50 Jahren und hat ihre Wurzeln in der Linguistik. Das gesamte Fachgebiet zielt darauf ab, Maschinen dabei zu helfen, die menschliche Sprache zu verstehen und zu verarbeiten. Dies kann dann genutzt werden, um Aufgaben wie Rechtschreibprüfung oder maschinelle Übersetzung auszuführen. Es hat eine Vielzahl von Anwendungen in der realen Welt in verschiedenen Bereichen, darunter medizinische Forschung, Suchmaschinen und Business Intelligence.

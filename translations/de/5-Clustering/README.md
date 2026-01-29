@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-09-03T21:45:03+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "de"
-}
--->
 # Clustering-Modelle für maschinelles Lernen
 
 Clustering ist eine Aufgabe des maschinellen Lernens, bei der versucht wird, Objekte zu finden, die einander ähneln, und diese in Gruppen, sogenannte Cluster, zu unterteilen. Was Clustering von anderen Ansätzen im maschinellen Lernen unterscheidet, ist, dass alles automatisch geschieht. Tatsächlich kann man sagen, dass es das Gegenteil von überwachten Lernmethoden ist.

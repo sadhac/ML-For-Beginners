@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-08-29T14:17:56+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "ar"
-}
--->
 # تدريب سيارة الجبل
 
 [OpenAI Gym](http://gym.openai.com) تم تصميمه بحيث توفر جميع البيئات نفس واجهة البرمجة - أي نفس الطرق `reset`, `step` و `render`، ونفس التجريدات لمساحة **الإجراءات** ومساحة **الملاحظات**. لذلك يجب أن يكون من الممكن تكييف نفس خوارزميات التعلم المعزز مع بيئات مختلفة مع تغييرات بسيطة في الكود.

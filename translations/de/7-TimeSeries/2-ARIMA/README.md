@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "917dbf890db71a322f306050cb284749",
-  "translation_date": "2025-09-04T21:53:41+00:00",
-  "source_file": "7-TimeSeries/2-ARIMA/README.md",
-  "language_code": "de"
-}
--->
 # Zeitreihenprognose mit ARIMA
 
 In der vorherigen Lektion haben Sie etwas über Zeitreihenprognosen gelernt und einen Datensatz geladen, der die Schwankungen der elektrischen Last über einen bestimmten Zeitraum zeigt.

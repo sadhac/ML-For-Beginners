@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "107d5bb29da8a562e7ae72262d251a75",
-  "translation_date": "2025-09-06T08:37:10+00:00",
-  "source_file": "8-Reinforcement/2-Gym/README.md",
-  "language_code": "ru"
-}
--->
 ## Предварительные требования
 
 В этом уроке мы будем использовать библиотеку **OpenAI Gym** для моделирования различных **сред**. Вы можете запустить код этого урока локально (например, из Visual Studio Code), в этом случае симуляция откроется в новом окне. При запуске кода онлайн, возможно, потребуется внести некоторые изменения в код, как описано [здесь](https://towardsdatascience.com/rendering-openai-gym-envs-on-binder-and-google-colab-536f99391cc7).

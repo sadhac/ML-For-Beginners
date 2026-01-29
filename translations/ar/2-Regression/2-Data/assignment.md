@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4485a1ed4dd1b5647365e3d87456515d",
-  "translation_date": "2025-08-29T13:08:07+00:00",
-  "source_file": "2-Regression/2-Data/assignment.md",
-  "language_code": "ar"
-}
--->
 # استكشاف التصورات
 
 هناك العديد من المكتبات المختلفة المتاحة لتصور البيانات. قم بإنشاء بعض التصورات باستخدام بيانات القرع في هذا الدرس باستخدام matplotlib و seaborn في دفتر ملاحظات تجريبي. أي المكتبات أسهل في الاستخدام؟
