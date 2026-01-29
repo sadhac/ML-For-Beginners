@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "2c742993fe95d5bcbb2846eda3d442a1",
-  "translation_date": "2025-09-05T14:20:45+00:00",
-  "source_file": "6-NLP/5-Hotel-Reviews-2/README.md",
-  "language_code": "sl"
-}
--->
 # Analiza sentimenta s hotelskimi ocenami
 
 Zdaj, ko ste podrobno raziskali podatkovni niz, je čas, da filtrirate stolpce in nato uporabite tehnike NLP na podatkovnem nizu, da pridobite nove vpoglede o hotelih.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "911efd5e595089000cb3c16fce1beab8",
-  "translation_date": "2025-09-05T13:34:18+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/README.md",
-  "language_code": "sr"
-}
--->
 # Увод у учење појачањем и Q-учење
 
 ![Резиме учења појачањем у машинском учењу у виду скице](../../../../sketchnotes/ml-reinforcement.png)

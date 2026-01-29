@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9836ff53cfef716ddfd70e06c5f43436",
-  "translation_date": "2025-09-05T12:56:44+00:00",
-  "source_file": "3-Web-App/README.md",
-  "language_code": "sl"
-}
--->
 # Ustvarite spletno aplikacijo za uporabo vašega ML modela
 
 V tem delu učnega načrta boste spoznali praktično temo strojnega učenja: kako shraniti vaš Scikit-learn model kot datoteko, ki jo lahko uporabite za napovedi znotraj spletne aplikacije. Ko je model shranjen, se boste naučili, kako ga uporabiti v spletni aplikaciji, zgrajeni v Flasku. Najprej boste ustvarili model z uporabo podatkov, ki se nanašajo na opažanja NLP-jev! Nato boste zgradili spletno aplikacijo, ki vam bo omogočila vnos števila sekund skupaj z vrednostmi zemljepisne širine in dolžine za napoved, katera država je poročala o opažanju NLP-ja.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-05T11:26:14+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "sr"
-}
--->
 # Изградите регресиони модел користећи Scikit-learn: регресија на четири начина
 
 ![Инфографика линеарне и полиномске регресије](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -114,11 +105,11 @@ day_of_year = pd.to_datetime(pumpkins['Date']).apply(lambda dt: (dt-datetime(dt.
 
 Из претходне лекције вероватно сте видели да просечна цена за различите месеце изгледа овако:
 
-<img alt="Просечна цена по месецу" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="Просечна цена по месецу" src="../../../../translated_images/sr/barchart.a833ea9194346d76.webp" width="50%"/>
 
 Ово сугерише да би требало да постоји нека корелација, и можемо покушати да обучимо модел линеарне регресије да предвиди однос између `Месец` и `Цена`, или између `ДанУГодини` и `Цена`. Ево распршеног графикона који показује овај други однос:
 
-<img alt="Распршени графикон Цена према Дан у години" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="Распршени графикон Цена према Дан у години" src="../../../../translated_images/sr/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 Хајде да видимо да ли постоји корелација користећи функцију `corr`:
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="Распршени графикон Цена према Дан у години" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="Распршени графикон Цена према Дан у години" src="../../../../translated_images/sr/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 Наша истрага сугерише да врста има већи утицај на укупну цену него стварни датум продаје. То можемо видети помоћу стубног графикона:
 
@@ -145,7 +136,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="Стубни графикон цена према врсти" src="images/price-by-variety.png" width="50%" /> 
+<img alt="Стубни графикон цена према врсти" src="../../../../translated_images/sr/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 Фокусирајмо се за тренутак само на једну врсту бундева, 'pie type', и видимо какав ефекат датум има на цену:
 
@@ -153,7 +144,7 @@ new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="Распршени графикон Цена према Дан у години" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="Распршени графикон Цена према Дан у години" src="../../../../translated_images/sr/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 Ако сада израчунате корелацију између `Цена` и `ДанУГодини` користећи функцију `corr`, добићемо нешто попут `-0.27` - што значи да тренирање предиктивног модела има смисла.
 
@@ -220,7 +211,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```  
 
-<img alt="Линеарна регресија" src="images/linear-results.png" width="50%" />
+<img alt="Линеарна регресија" src="../../../../translated_images/sr/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## Полиномијална регресија  
 
@@ -249,7 +240,7 @@ pipeline.fit(X_train,y_train)
 
 Pipeline се може користити на исти начин као оригинални објекат `LinearRegression`, тј. можемо `fit` pipeline, а затим користити `predict` за добијање резултата предвиђања. Ево графикона који приказује тест податке и криву апроксимације:
 
-<img alt="Полиномијална регресија" src="images/poly-results.png" width="50%" />
+<img alt="Полиномијална регресија" src="../../../../translated_images/sr/poly-results.ee587348f0f1f60b.webp" width="50%" />
 
 Коришћењем полиномијалне регресије можемо добити нешто нижи MSE и већи коефицијент детерминације, али не значајно. Морамо узети у обзир и друге карактеристике!
 
@@ -267,7 +258,7 @@ Pipeline се може користити на исти начин као ори
 
 Овде можете видети како просечна цена зависи од сорте:
 
-<img alt="Просечна цена по сорти" src="images/price-by-variety.png" width="50%" />
+<img alt="Просечна цена по сорти" src="../../../../translated_images/sr/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 Да бисмо узели сорту у обзир, прво је морамо претворити у нумерички облик, или **кодирати**. Постоји неколико начина на који то можемо урадити:
 

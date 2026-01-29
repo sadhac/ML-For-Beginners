@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-09-05T13:50:29+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "sr"
-}
--->
 # Тренирање Mountain Car
 
 [OpenAI Gym](http://gym.openai.com) је дизајниран тако да сви окружења пружају исти API - односно исте методе `reset`, `step` и `render`, као и исте апстракције **простора акција** и **простора опсервација**. Због тога би требало да буде могуће прилагодити исте алгоритме за учење појачања различитим окружењима уз минималне измене кода.

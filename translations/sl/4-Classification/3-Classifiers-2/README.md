@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "49047911108adc49d605cddfb455749c",
-  "translation_date": "2025-09-05T13:14:38+00:00",
-  "source_file": "4-Classification/3-Classifiers-2/README.md",
-  "language_code": "sl"
-}
--->
 # Razvrščevalniki kuhinj 2
 
 V tej drugi lekciji o razvrščanju boste raziskali več načinov za razvrščanje numeričnih podatkov. Prav tako boste spoznali posledice izbire enega razvrščevalnika namesto drugega.

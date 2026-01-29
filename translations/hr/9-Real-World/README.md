@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5e069a0ac02a9606a69946c2b3c574a9",
-  "translation_date": "2025-09-05T12:23:03+00:00",
-  "source_file": "9-Real-World/README.md",
-  "language_code": "hr"
-}
--->
 # Postscript: Primjene klasičnog strojnog učenja u stvarnom svijetu
 
 U ovom dijelu kurikuluma upoznat ćete se s nekim stvarnim primjenama klasičnog strojnog učenja. Pretražili smo internet kako bismo pronašli znanstvene radove i članke o primjenama koje koriste ove strategije, izbjegavajući neuralne mreže, duboko učenje i umjetnu inteligenciju koliko je to moguće. Saznajte kako se strojno učenje koristi u poslovnim sustavima, ekološkim aplikacijama, financijama, umjetnosti i kulturi, i još mnogo toga.

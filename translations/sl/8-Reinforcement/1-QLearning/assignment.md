@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "68394b2102d3503882e5e914bd0ff5c1",
-  "translation_date": "2025-09-05T13:42:42+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/assignment.md",
-  "language_code": "sl"
-}
--->
 # Bolj realističen svet
 
 V naši situaciji se je Peter lahko premikal skoraj brez utrujenosti ali lakote. V bolj realističnem svetu se mora občasno ustaviti, da si odpočije, in se tudi nahraniti. Naredimo naš svet bolj realističen z uvedbo naslednjih pravil:

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-09-05T12:04:07+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "sr"
-}
--->
 # Прогнозирање временских серија помоћу модела Support Vector Regressor
 
 У претходној лекцији научили сте како да користите ARIMA модел за предвиђање временских серија. Сада ћете се упознати са моделом Support Vector Regressor, који је регресиони модел за предвиђање континуираних података.

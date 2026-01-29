@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ee0670655c89e4719319764afb113624",
-  "translation_date": "2025-09-05T14:08:33+00:00",
-  "source_file": "6-NLP/data/README.md",
-  "language_code": "sr"
-}
--->
 Преузмите податке о рецензијама хотела у овај фолдер.
 
 ---

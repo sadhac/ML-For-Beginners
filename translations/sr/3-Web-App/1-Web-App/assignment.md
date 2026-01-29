@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a8e8ae10be335cbc745b75ee552317ff",
-  "translation_date": "2025-09-05T13:01:03+00:00",
-  "source_file": "3-Web-App/1-Web-App/assignment.md",
-  "language_code": "sr"
-}
--->
 # Пробајте другачији модел
 
 ## Упутства

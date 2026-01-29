@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "977ec5266dfd78ad1ce2bd8d46fccbda",
-  "translation_date": "2025-09-05T11:21:41+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "hr"
-}
--->
 # Sudjelovanje
 
 Ovaj projekt pozdravlja doprinose i prijedloge. Većina doprinosa zahtijeva da se složite s Ugovorom o licenci za doprinos (CLA) kojim izjavljujete da imate pravo, i da stvarno dajete prava za korištenje vašeg doprinosa. Za detalje posjetite https://cla.microsoft.com.

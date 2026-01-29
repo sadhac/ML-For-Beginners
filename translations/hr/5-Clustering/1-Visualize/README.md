@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "730225ea274c9174fe688b21d421539d",
-  "translation_date": "2025-09-05T12:10:57+00:00",
-  "source_file": "5-Clustering/1-Visualize/README.md",
-  "language_code": "hr"
-}
--->
 # Uvod u klasteriranje
 
 Klasteriranje je vrsta [Nenadziranog učenja](https://wikipedia.org/wiki/Unsupervised_learning) koja pretpostavlja da je skup podataka neoznačen ili da njegovi ulazi nisu povezani s unaprijed definiranim izlazima. Koristi razne algoritme za analizu neoznačenih podataka i pruža grupiranja prema obrascima koje prepoznaje u podacima.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-09-05T13:32:10+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "sl"
-}
--->
 # Uvod v učenje z okrepitvami
 
 Učenje z okrepitvami, RL, velja za enega osnovnih paradigm strojnega učenja, poleg nadzorovanega in nenadzorovanega učenja. RL se osredotoča na sprejemanje odločitev: sprejemanje pravih odločitev ali vsaj učenje iz njih.

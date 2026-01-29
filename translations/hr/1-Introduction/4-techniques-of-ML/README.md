@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9d91f3af3758fdd4569fb410575995ef",
-  "translation_date": "2025-09-05T12:43:14+00:00",
-  "source_file": "1-Introduction/4-techniques-of-ML/README.md",
-  "language_code": "hr"
-}
--->
 # Tehnike strojnog učenja
 
 Proces izrade, korištenja i održavanja modela strojnog učenja te podataka koje koriste vrlo je različit od mnogih drugih razvojnih tijekova rada. U ovoj lekciji razjasnit ćemo taj proces i istaknuti glavne tehnike koje trebate znati. Naučit ćete:

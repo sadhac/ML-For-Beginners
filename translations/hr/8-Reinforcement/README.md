@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-09-05T13:31:55+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "hr"
-}
--->
 # Uvod u učenje pojačanjem
 
 Učenje pojačanjem, RL, smatra se jednim od osnovnih paradigmi strojnog učenja, uz nadzirano i nenadzirano učenje. RL se bavi donošenjem odluka: donošenjem ispravnih odluka ili barem učenjem iz njih.

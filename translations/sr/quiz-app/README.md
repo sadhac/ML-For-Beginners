@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6d130dffca5db70d7e615f926cb1ad4c",
-  "translation_date": "2025-09-05T13:01:42+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "sr"
-}
--->
 # Квизови
 
 Ови квизови су предавања пре и после лекција за ML наставни план на https://aka.ms/ml-beginners

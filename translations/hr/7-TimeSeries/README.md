@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-09-05T11:49:50+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "hr"
-}
--->
 # Uvod u predviđanje vremenskih serija
 
 Što je predviđanje vremenskih serija? Radi se o predviđanju budućih događaja analizom trendova iz prošlosti.

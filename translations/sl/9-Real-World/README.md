@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5e069a0ac02a9606a69946c2b3c574a9",
-  "translation_date": "2025-09-05T12:23:11+00:00",
-  "source_file": "9-Real-World/README.md",
-  "language_code": "sl"
-}
--->
 # Postscript: Resnične aplikacije klasičnega strojnega učenja
 
 V tem delu učnega načrta boste spoznali nekaj resničnih aplikacij klasičnega strojnega učenja. Preiskali smo internet, da bi našli znanstvene članke in prispevke o aplikacijah, ki uporabljajo te strategije, pri čemer smo se čim bolj izogibali nevronskim mrežam, globokemu učenju in umetni inteligenci. Spoznajte, kako se strojno učenje uporablja v poslovnih sistemih, ekoloških aplikacijah, financah, umetnosti in kulturi ter še več.

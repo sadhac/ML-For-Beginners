@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "107d5bb29da8a562e7ae72262d251a75",
-  "translation_date": "2025-09-05T13:46:38+00:00",
-  "source_file": "8-Reinforcement/2-Gym/README.md",
-  "language_code": "sl"
-}
--->
 # CartPole Drsanje
 
 Problem, ki smo ga reševali v prejšnji lekciji, se morda zdi kot igrača, ki ni uporabna v resničnih scenarijih. To ni res, saj veliko resničnih problemov deli podobne značilnosti – vključno z igranjem šaha ali Go. Ti problemi so podobni, ker imamo tudi tukaj ploščo z določenimi pravili in **diskretno stanje**.

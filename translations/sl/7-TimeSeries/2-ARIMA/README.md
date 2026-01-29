@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "917dbf890db71a322f306050cb284749",
-  "translation_date": "2025-09-05T11:53:25+00:00",
-  "source_file": "7-TimeSeries/2-ARIMA/README.md",
-  "language_code": "sl"
-}
--->
 # Napovedovanje časovnih vrst z ARIMA
 
 V prejšnji lekciji ste se naučili nekaj o napovedovanju časovnih vrst in naložili podatkovni niz, ki prikazuje nihanja električne obremenitve skozi časovno obdobje.

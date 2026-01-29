@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4c4698044bb8af52cfb6388a4ee0e53b",
-  "translation_date": "2025-09-05T12:50:34+00:00",
-  "source_file": "1-Introduction/1-intro-to-ML/assignment.md",
-  "language_code": "sl"
-}
--->
 # Začnite z delom
 
 ## Navodila

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61bdec27ed2da8b098cd9065405d9bb0",
-  "translation_date": "2025-09-05T13:10:42+00:00",
-  "source_file": "4-Classification/4-Applied/README.md",
-  "language_code": "hr"
-}
--->
 # Izgradnja web aplikacije za preporuku kuhinja
 
 U ovoj lekciji izgradit ćete model klasifikacije koristeći neke od tehnika koje ste naučili u prethodnim lekcijama, uz ukusni dataset kuhinja koji se koristi kroz cijeli ovaj serijal. Osim toga, izradit ćete malu web aplikaciju za korištenje spremljenog modela, koristeći Onnx web runtime.

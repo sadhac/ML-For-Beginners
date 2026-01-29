@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "68394b2102d3503882e5e914bd0ff5c1",
-  "translation_date": "2025-09-05T13:42:18+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/assignment.md",
-  "language_code": "hr"
-}
--->
 # Realističniji svijet
 
 U našoj situaciji, Peter se mogao kretati gotovo bez umaranja ili osjećaja gladi. U realističnijem svijetu, morao bi se povremeno odmoriti i nahraniti. Učinimo naš svijet realističnijim implementirajući sljedeća pravila:

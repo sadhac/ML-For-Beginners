@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "730225ea274c9174fe688b21d421539d",
-  "translation_date": "2025-09-05T12:12:07+00:00",
-  "source_file": "5-Clustering/1-Visualize/README.md",
-  "language_code": "sl"
-}
--->
 # Uvod v razvrščanje v skupine
 
 Razvrščanje v skupine je vrsta [nenadzorovanega učenja](https://wikipedia.org/wiki/Unsupervised_learning), ki predpostavlja, da je podatkovni niz neoznačen ali da njegovi vnosi niso povezani z vnaprej določenimi izhodi. Uporablja različne algoritme za razvrščanje neoznačenih podatkov in zagotavlja skupine glede na vzorce, ki jih zazna v podatkih.

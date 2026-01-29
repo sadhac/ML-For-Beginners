@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-09-05T12:05:29+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "sl"
-}
--->
 # Napovedovanje časovnih vrst z regresorjem podpornih vektorjev
 
 V prejšnji lekciji ste se naučili uporabljati model ARIMA za napovedovanje časovnih vrst. Zdaj si bomo ogledali model Support Vector Regressor, ki je regresijski model za napovedovanje neprekinjenih podatkov.

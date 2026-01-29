@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9a6b702d1437c0467e3c5c28d763dac2",
-  "translation_date": "2025-09-05T12:37:22+00:00",
-  "source_file": "1-Introduction/3-fairness/README.md",
-  "language_code": "hr"
-}
--->
 # Izgradnja rješenja za strojno učenje s odgovornom umjetnom inteligencijom
 
 ![Sažetak odgovorne umjetne inteligencije u strojnome učenju u obliku sketchnotea](../../../../sketchnotes/ml-fairness.png)

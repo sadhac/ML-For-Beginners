@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "107d5bb29da8a562e7ae72262d251a75",
-  "translation_date": "2025-09-05T13:45:45+00:00",
-  "source_file": "8-Reinforcement/2-Gym/README.md",
-  "language_code": "hr"
-}
--->
 # CartPole Klizanje
 
 Problem koji smo rješavali u prethodnoj lekciji može se činiti kao igračka, ne baš primjenjiva u stvarnim životnim situacijama. No, to nije slučaj, jer mnogi stvarni problemi dijele sličan scenarij - uključujući igranje šaha ili Go. Oni su slični jer također imamo ploču s određenim pravilima i **diskretno stanje**.

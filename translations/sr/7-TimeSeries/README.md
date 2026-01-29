@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-09-05T11:49:36+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "sr"
-}
--->
 # Увод у предвиђање временских серија
 
 Шта је предвиђање временских серија? Ради се о предвиђању будућих догађаја анализом трендова из прошлости.
