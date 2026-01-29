@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "be03c8182982b87ced155e4e9d1438e8",
-  "translation_date": "2025-09-05T01:40:08+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/README.md",
-  "language_code": "fi"
-}
--->
 # Käännös ja sentimenttianalyysi koneoppimisen avulla
 
 Aiemmissa oppitunneissa opit rakentamaan yksinkertaisen botin käyttämällä `TextBlob`-kirjastoa, joka hyödyntää koneoppimista taustalla suorittaakseen perusluonteisia luonnollisen kielen käsittelytehtäviä, kuten substantiivilauseiden tunnistamista. Toinen tärkeä haaste laskennallisessa kielitieteessä on lauseen tarkka _kääntäminen_ yhdestä puhutuista tai kirjoitetuista kielistä toiseen.

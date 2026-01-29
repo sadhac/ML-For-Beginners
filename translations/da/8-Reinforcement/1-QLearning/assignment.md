@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "68394b2102d3503882e5e914bd0ff5c1",
-  "translation_date": "2025-09-05T01:12:36+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/assignment.md",
-  "language_code": "da"
-}
--->
 # En Mere Realistisk Verden
 
 I vores situation kunne Peter bevæge sig rundt næsten uden at blive træt eller sulten. I en mere realistisk verden skal han sætte sig ned og hvile fra tid til anden og også sørge for at spise. Lad os gøre vores verden mere realistisk ved at implementere følgende regler:

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "8d32dadeda93c6fb5c43619854882ab1",
-  "translation_date": "2025-09-05T01:26:59+00:00",
-  "source_file": "6-NLP/4-Hotel-Reviews-1/README.md",
-  "language_code": "da"
-}
--->
 # Sentimentanalyse med hotelanmeldelser - bearbejdning af data
 
 I denne sektion vil du bruge teknikkerne fra de tidligere lektioner til at lave en udforskende dataanalyse af et stort datasæt. Når du har fået en god forståelse af nytten af de forskellige kolonner, vil du lære:

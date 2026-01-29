@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1c2ec40cf55c98a028a359c27ef7e45a",
-  "translation_date": "2025-09-05T01:35:59+00:00",
-  "source_file": "6-NLP/1-Introduction-to-NLP/README.md",
-  "language_code": "fi"
-}
--->
 # Johdatus luonnollisen kielen käsittelyyn
 
 Tässä oppitunnissa käsitellään lyhyesti *luonnollisen kielen käsittelyn* historiaa ja keskeisiä käsitteitä, joka on osa-alue *laskennallisesta kielitieteestä*.

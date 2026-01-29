@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "134d8759f0e2ab886e9aa4f62362c201",
-  "translation_date": "2025-10-03T12:48:46+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "fi"
-}
--->
 # Vianmääritysopas
 
 Tämä opas auttaa ratkaisemaan yleisiä ongelmia Machine Learning for Beginners -opetussuunnitelman parissa. Jos et löydä ratkaisua täältä, tarkista [Discord-keskustelut](https://aka.ms/foundry/discord) tai [avaa ongelma](https://github.com/microsoft/ML-For-Beginners/issues).

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61bdec27ed2da8b098cd9065405d9bb0",
-  "translation_date": "2025-09-05T00:47:17+00:00",
-  "source_file": "4-Classification/4-Applied/README.md",
-  "language_code": "da"
-}
--->
 # Byg en webapp til anbefaling af køkkener
 
 I denne lektion vil du bygge en klassifikationsmodel ved hjælp af nogle af de teknikker, du har lært i tidligere lektioner, og med det lækre køkkendatasæt, der er blevet brugt gennem hele denne serie. Derudover vil du bygge en lille webapp til at bruge en gemt model, der udnytter Onnx's web-runtime.

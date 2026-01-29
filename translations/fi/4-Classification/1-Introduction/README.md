@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "aaf391d922bd6de5efba871d514c6d47",
-  "translation_date": "2025-09-05T00:54:03+00:00",
-  "source_file": "4-Classification/1-Introduction/README.md",
-  "language_code": "fi"
-}
--->
 # Johdanto luokitteluun
 
 Näissä neljässä oppitunnissa tutustut klassisen koneoppimisen keskeiseen osa-alueeseen - _luokitteluun_. Käymme läpi erilaisia luokittelualgoritmeja käyttäen datasettiä, joka käsittelee Aasian ja Intian upeita keittiöitä. Toivottavasti olet nälkäinen!

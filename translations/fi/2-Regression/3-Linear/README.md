@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-04T23:25:03+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "fi"
-}
--->
 # Rakenna regressiomalli Scikit-learnilla: neljä tapaa regressioon
 
 ![Lineaarinen vs polynominen regressio infografiikka](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -114,11 +105,11 @@ Nyt kun ymmärrät lineaarisen regression taustalla olevan matematiikan, luodaan
 
 Edellisestä oppitunnista olet todennäköisesti nähnyt, että keskimääräinen hinta eri kuukausina näyttää tältä:
 
-<img alt="Keskimääräinen hinta kuukauden mukaan" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="Keskimääräinen hinta kuukauden mukaan" src="../../../../translated_images/fi/barchart.a833ea9194346d76.webp" width="50%"/>
 
 Tämä viittaa siihen, että korrelaatiota saattaa olla, ja voimme yrittää kouluttaa lineaarisen regressiomallin ennustamaan suhdetta `Kuukausi` ja `Hinta` välillä tai `VuodenPäivä` ja `Hinta` välillä. Tässä on hajontakaavio, joka näyttää jälkimmäisen suhteen:
 
-<img alt="Hajontakaavio Hinta vs. Vuoden Päivä" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="Hajontakaavio Hinta vs. Vuoden Päivä" src="../../../../translated_images/fi/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 Katsotaan, onko korrelaatiota käyttämällä `corr`-funktiota:
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="Hajontakaavio Hinta vs. Vuoden Päivä" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="Hajontakaavio Hinta vs. Vuoden Päivä" src="../../../../translated_images/fi/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 Tutkimuksemme viittaa siihen, että lajikkeella on suurempi vaikutus kokonaishintaan kuin varsinaisella myyntipäivällä. Voimme nähdä tämän pylväsdiagrammilla:
 
@@ -145,7 +136,7 @@ Tutkimuksemme viittaa siihen, että lajikkeella on suurempi vaikutus kokonaishin
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="Pylväsdiagrammi hinta vs lajike" src="images/price-by-variety.png" width="50%" /> 
+<img alt="Pylväsdiagrammi hinta vs lajike" src="../../../../translated_images/fi/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 Keskitytään hetkeksi vain yhteen kurpitsalajikkeeseen, 'pie type', ja katsotaan, mitä vaikutusta päivämäärällä on hintaan:
 
@@ -153,7 +144,7 @@ Keskitytään hetkeksi vain yhteen kurpitsalajikkeeseen, 'pie type', ja katsotaa
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="Hajontakaavio Hinta vs. Vuoden Päivä" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="Hajontakaavio Hinta vs. Vuoden Päivä" src="../../../../translated_images/fi/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 Jos nyt laskemme korrelaation `Hinta` ja `VuodenPäivä` välillä käyttäen `corr`-funktiota, saamme jotain kuten `-0.27` - mikä tarkoittaa, että ennustavan mallin kouluttaminen on järkevää.
 
@@ -227,7 +218,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```
 
-<img alt="Lineaarinen regressio" src="images/linear-results.png" width="50%" />
+<img alt="Lineaarinen regressio" src="../../../../translated_images/fi/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## Polynominen regressio
 
@@ -256,7 +247,7 @@ Käyttämällä `PolynomialFeatures(2)` tarkoittaa, että sisällytämme kaikki 
 
 Pipelinea voidaan käyttää samalla tavalla kuin alkuperäistä `LinearRegression`-objektia, eli voimme `fit` pipelinea ja sitten käyttää `predict` saadaksemme ennustetulokset. Tässä on graafi, joka näyttää testidatan ja approksimaatiokäyrän:
 
-<img alt="Polynominen regressio" src="images/poly-results.png" width="50%" />
+<img alt="Polynominen regressio" src="../../../../translated_images/fi/poly-results.ee587348f0f1f60b.webp" width="50%" />
 
 Polynomista regressiota käyttämällä voimme saada hieman pienemmän MSE:n ja korkeamman determinointikertoimen, mutta ei merkittävästi. Meidän täytyy ottaa huomioon muita ominaisuuksia!
 
@@ -274,7 +265,7 @@ Ihanteellisessa maailmassa haluaisimme pystyä ennustamaan hinnat eri kurpitsala
 
 Tässä näet, miten keskimääräinen hinta riippuu lajikkeesta:
 
-<img alt="Keskimääräinen hinta lajikkeen mukaan" src="images/price-by-variety.png" width="50%" />
+<img alt="Keskimääräinen hinta lajikkeen mukaan" src="../../../../translated_images/fi/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 Jotta voimme ottaa lajikkeen huomioon, meidän täytyy ensin muuntaa se numeeriseen muotoon eli **koodata** se. On olemassa useita tapoja tehdä tämä:
 

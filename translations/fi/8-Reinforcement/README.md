@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-09-05T01:04:31+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "fi"
-}
--->
 # Johdatus vahvistusoppimiseen
 
 Vahvistusoppiminen, RL, nähdään yhtenä koneoppimisen perusparadigmoista, yhdessä ohjatun oppimisen ja ohjaamattoman oppimisen kanssa. RL keskittyy päätöksentekoon: oikeiden päätösten tekemiseen tai ainakin oppimiseen niistä.

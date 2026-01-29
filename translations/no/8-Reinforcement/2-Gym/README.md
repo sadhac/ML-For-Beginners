@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "107d5bb29da8a562e7ae72262d251a75",
-  "translation_date": "2025-09-05T22:09:29+00:00",
-  "source_file": "8-Reinforcement/2-Gym/README.md",
-  "language_code": "no"
-}
--->
 ## Forutsetninger
 
 I denne leksjonen skal vi bruke et bibliotek kalt **OpenAI Gym** for å simulere ulike **miljøer**. Du kan kjøre koden fra denne leksjonen lokalt (f.eks. fra Visual Studio Code), i så fall vil simuleringen åpne seg i et nytt vindu. Når du kjører koden online, kan det være nødvendig å gjøre noen justeringer i koden, som beskrevet [her](https://towardsdatascience.com/rendering-openai-gym-envs-on-binder-and-google-colab-536f99391cc7).

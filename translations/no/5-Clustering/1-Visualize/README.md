@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "730225ea274c9174fe688b21d421539d",
-  "translation_date": "2025-09-05T21:27:24+00:00",
-  "source_file": "5-Clustering/1-Visualize/README.md",
-  "language_code": "no"
-}
--->
 # Introduksjon til klynging
 
 Klynging er en type [Usupervisert læring](https://wikipedia.org/wiki/Unsupervised_learning) som forutsetter at et datasett er umerket eller at dets input ikke er koblet til forhåndsdefinerte output. Det bruker ulike algoritmer for å sortere gjennom umerket data og gi grupperinger basert på mønstre det oppdager i dataen.

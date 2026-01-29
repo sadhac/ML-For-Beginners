@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "49047911108adc49d605cddfb455749c",
-  "translation_date": "2025-09-05T00:50:00+00:00",
-  "source_file": "4-Classification/3-Classifiers-2/README.md",
-  "language_code": "da"
-}
--->
 # Klassifikatorer for køkken 2
 
 I denne anden lektion om klassifikation vil du udforske flere måder at klassificere numeriske data på. Du vil også lære om konsekvenserne ved at vælge én klassifikator frem for en anden.

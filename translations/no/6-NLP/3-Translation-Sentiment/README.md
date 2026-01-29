@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "be03c8182982b87ced155e4e9d1438e8",
-  "translation_date": "2025-09-05T22:24:54+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/README.md",
-  "language_code": "no"
-}
--->
 # Oversettelse og sentimentanalyse med maskinlæring
 
 I de forrige leksjonene lærte du hvordan du bygger en enkel bot ved hjelp av `TextBlob`, et bibliotek som bruker maskinlæring i bakgrunnen for å utføre grunnleggende NLP-oppgaver som å trekke ut substantivfraser. En annen viktig utfordring innen datalingvistikk er nøyaktig _oversettelse_ av en setning fra ett muntlig eller skriftlig språk til et annet.

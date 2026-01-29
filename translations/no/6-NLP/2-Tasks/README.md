@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5f3cb462e3122e1afe7ab0050ccf2bd3",
-  "translation_date": "2025-09-05T22:13:58+00:00",
-  "source_file": "6-NLP/2-Tasks/README.md",
-  "language_code": "no"
-}
--->
 # Vanlige oppgaver og teknikker innen naturlig språkprosessering
 
 For de fleste oppgaver innen *naturlig språkprosessering* må teksten som skal behandles brytes ned, analyseres, og resultatene lagres eller kryssrefereres med regler og datasett. Disse oppgavene lar programmereren utlede _meningen_, _intensjonen_ eller bare _frekvensen_ av termer og ord i en tekst.

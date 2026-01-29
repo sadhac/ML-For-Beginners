@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5e069a0ac02a9606a69946c2b3c574a9",
-  "translation_date": "2025-09-05T00:09:05+00:00",
-  "source_file": "9-Real-World/README.md",
-  "language_code": "da"
-}
--->
 # Postscript: Virkelige anvendelser af klassisk maskinlæring
 
 I denne del af pensum vil du blive introduceret til nogle virkelige anvendelser af klassisk maskinlæring. Vi har gennemsøgt internettet for at finde videnskabelige artikler og artikler om anvendelser, der har brugt disse strategier, og undgået neurale netværk, dyb læring og AI så meget som muligt. Lær om, hvordan maskinlæring bruges i forretningssystemer, økologiske anvendelser, finans, kunst og kultur og meget mere.

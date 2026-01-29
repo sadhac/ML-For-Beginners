@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6d130dffca5db70d7e615f926cb1ad4c",
-  "translation_date": "2025-09-05T00:40:57+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "fi"
-}
--->
 # Visailut
 
 Nämä visailut ovat ML-kurssin ennakko- ja jälkiluennon visailuja osoitteessa https://aka.ms/ml-beginners

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cf8ecc83f28e5b98051d2179eca08e08",
-  "translation_date": "2025-09-05T21:37:38+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "no"
-}
--->
 # Introduksjon til maskinlæring
 
 I denne delen av læreplanen vil du bli introdusert til de grunnleggende konseptene som ligger til grunn for feltet maskinlæring, hva det er, og lære om historien og teknikkene forskere bruker for å arbeide med det. La oss utforske denne nye verdenen av ML sammen!

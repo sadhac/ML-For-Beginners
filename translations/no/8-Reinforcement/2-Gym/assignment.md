@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-09-05T22:11:06+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "no"
-}
--->
 # Tren Mountain Car
 
 [OpenAI Gym](http://gym.openai.com) er designet slik at alle miljøer tilbyr samme API - altså de samme metodene `reset`, `step` og `render`, og de samme abstraksjonene for **handlingsrom** og **observasjonsrom**. Derfor bør det være mulig å tilpasse de samme forsterkningslæringsalgoritmene til forskjellige miljøer med minimale kodeendringer.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5f3cb462e3122e1afe7ab0050ccf2bd3",
-  "translation_date": "2025-09-05T01:23:13+00:00",
-  "source_file": "6-NLP/2-Tasks/README.md",
-  "language_code": "fi"
-}
--->
 # Yleisiä luonnollisen kielen käsittelyn tehtäviä ja tekniikoita
 
 Useimmissa *luonnollisen kielen käsittelyn* tehtävissä käsiteltävä teksti täytyy pilkkoa, tutkia ja tallentaa tulokset tai verrata niitä sääntöihin ja tietokantoihin. Näiden tehtävien avulla ohjelmoija voi selvittää tekstin _merkityksen_, _tarkoituksen_ tai pelkästään _sanojen ja termien esiintymistiheyden_.

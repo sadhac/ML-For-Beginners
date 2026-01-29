@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1eb379dc2d0c9940b320732d16083778",
-  "translation_date": "2025-09-05T01:20:31+00:00",
-  "source_file": "6-NLP/README.md",
-  "language_code": "fi"
-}
--->
 # Aloittaminen luonnollisen kielen käsittelyssä
 
 Luonnollisen kielen käsittely (NLP) tarkoittaa tietokoneohjelman kykyä ymmärtää ihmisen kieltä sellaisena kuin sitä puhutaan ja kirjoitetaan – eli luonnollisena kielenä. Se on osa tekoälyä (AI). NLP on ollut olemassa yli 50 vuotta ja sillä on juuret kielitieteen alalla. Koko ala keskittyy auttamaan koneita ymmärtämään ja käsittelemään ihmisen kieltä. Tätä voidaan käyttää tehtäviin, kuten oikeinkirjoituksen tarkistukseen tai konekäännökseen. NLP:llä on monia käytännön sovelluksia eri aloilla, kuten lääketieteellisessä tutkimuksessa, hakukoneissa ja liiketoimintatiedon analysoinnissa.

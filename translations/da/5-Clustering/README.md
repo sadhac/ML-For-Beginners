@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-09-04T23:57:54+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "da"
-}
--->
 # Klyngemodeller til maskinlæring
 
 Klyngedannelse er en maskinlæringsopgave, hvor man forsøger at finde objekter, der ligner hinanden, og gruppere dem i grupper kaldet klynger. Det, der adskiller klyngedannelse fra andre tilgange inden for maskinlæring, er, at processen sker automatisk. Faktisk kan man sige, at det er det modsatte af superviseret læring.

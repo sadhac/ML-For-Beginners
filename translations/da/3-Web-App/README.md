@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9836ff53cfef716ddfd70e06c5f43436",
-  "translation_date": "2025-09-05T00:36:28+00:00",
-  "source_file": "3-Web-App/README.md",
-  "language_code": "da"
-}
--->
 # Byg en webapp til at bruge din ML-model
 
 I denne del af pensum vil du blive introduceret til et anvendt ML-emne: hvordan du gemmer din Scikit-learn-model som en fil, der kan bruges til at lave forudsigelser i en webapplikation. Når modellen er gemt, lærer du, hvordan du bruger den i en webapp bygget i Flask. Først opretter du en model ved hjælp af nogle data, der handler om UFO-observationer! Derefter bygger du en webapp, der giver dig mulighed for at indtaste et antal sekunder sammen med en bredde- og længdegradsværdi for at forudsige, hvilket land der rapporterede at have set en UFO.

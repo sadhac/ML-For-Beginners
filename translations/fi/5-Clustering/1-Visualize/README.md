@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "730225ea274c9174fe688b21d421539d",
-  "translation_date": "2025-09-05T00:02:39+00:00",
-  "source_file": "5-Clustering/1-Visualize/README.md",
-  "language_code": "fi"
-}
--->
 # Johdanto klusterointiin
 
 Klusterointi on eräänlainen [valvomaton oppiminen](https://wikipedia.org/wiki/Unsupervised_learning), joka olettaa, että datasetti on merkitsemätön tai että sen syötteet eivät ole yhdistetty ennalta määriteltyihin tuloksiin. Se käyttää erilaisia algoritmeja käydäkseen läpi merkitsemätöntä dataa ja luodakseen ryhmiä datasta havaittujen kuvioiden perusteella.

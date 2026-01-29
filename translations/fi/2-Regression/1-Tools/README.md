@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fa81d226c71d5af7a2cade31c1c92b88",
-  "translation_date": "2025-09-04T23:38:50+00:00",
-  "source_file": "2-Regression/1-Tools/README.md",
-  "language_code": "fi"
-}
--->
 # Aloita Pythonin ja Scikit-learnin käyttö regressiomallien kanssa
 
 ![Yhteenveto regressioista luonnosmuistiinpanossa](../../../../sketchnotes/ml-regression.png)

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "49047911108adc49d605cddfb455749c",
-  "translation_date": "2025-09-05T00:50:41+00:00",
-  "source_file": "4-Classification/3-Classifiers-2/README.md",
-  "language_code": "fi"
-}
--->
 # Ruokakulttuuriluokittelijat 2
 
 Tässä toisessa luokittelutunnissa tutustut tarkemmin tapoihin luokitella numeerista dataa. Opit myös, mitä seurauksia on sillä, että valitset yhden luokittelijan toisen sijaan.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a39c15d63f3b2795ee2284a82b986b93",
-  "translation_date": "2025-09-05T00:55:18+00:00",
-  "source_file": "4-Classification/1-Introduction/solution/Julia/README.md",
-  "language_code": "da"
-}
--->
 
 
 ---

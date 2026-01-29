@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5e069a0ac02a9606a69946c2b3c574a9",
-  "translation_date": "2025-09-05T00:09:21+00:00",
-  "source_file": "9-Real-World/README.md",
-  "language_code": "fi"
-}
--->
 # Jälkikirjoitus: Klassisen koneoppimisen todelliset sovellukset
 
 Tässä osiossa tutustut klassisen koneoppimisen todellisiin sovelluksiin. Olemme etsineet internetistä tutkimusartikkeleita ja kirjoituksia sovelluksista, joissa on käytetty näitä strategioita, välttäen mahdollisimman paljon neuroverkkoja, syväoppimista ja tekoälyä. Opit, miten koneoppimista hyödynnetään liiketoimintajärjestelmissä, ekologisissa sovelluksissa, rahoituksessa, taiteessa ja kulttuurissa sekä muilla aloilla.

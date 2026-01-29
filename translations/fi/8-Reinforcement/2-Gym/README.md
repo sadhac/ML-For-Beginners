@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "107d5bb29da8a562e7ae72262d251a75",
-  "translation_date": "2025-09-05T01:17:30+00:00",
-  "source_file": "8-Reinforcement/2-Gym/README.md",
-  "language_code": "fi"
-}
--->
 ## Esivaatimukset
 
 Tässä oppitunnissa käytämme kirjastoa nimeltä **OpenAI Gym** simuloimaan erilaisia **ympäristöjä**. Voit ajaa oppitunnin koodin paikallisesti (esim. Visual Studio Codessa), jolloin simulaatio avautuu uuteen ikkunaan. Jos suoritat koodin verkossa, sinun täytyy ehkä tehdä joitakin muutoksia koodiin, kuten kuvataan [tässä](https://towardsdatascience.com/rendering-openai-gym-envs-on-binder-and-google-colab-536f99391cc7).

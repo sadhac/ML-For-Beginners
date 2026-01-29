@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9836ff53cfef716ddfd70e06c5f43436",
-  "translation_date": "2025-09-05T21:46:21+00:00",
-  "source_file": "3-Web-App/README.md",
-  "language_code": "no"
-}
--->
 # Bygg en nettapp for å bruke din ML-modell
 
 I denne delen av læreplanen vil du bli introdusert til et praktisk ML-tema: hvordan du lagrer din Scikit-learn-modell som en fil som kan brukes til å gjøre prediksjoner i en nettapplikasjon. Når modellen er lagret, vil du lære hvordan du bruker den i en nettapp bygget med Flask. Du vil først lage en modell ved hjelp av data som handler om UFO-observasjoner! Deretter vil du bygge en nettapp som lar deg skrive inn et antall sekunder sammen med en breddegrad og en lengdegrad for å forutsi hvilket land som rapporterte å ha sett en UFO.

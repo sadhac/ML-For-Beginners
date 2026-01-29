@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-09-05T01:03:59+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "da"
-}
--->
 # Introduktion til forstærkningslæring
 
 Forstærkningslæring, RL, betragtes som en af de grundlæggende paradigmer inden for maskinlæring, ved siden af superviseret læring og usuperviseret læring. RL handler om beslutninger: at træffe de rigtige beslutninger eller i det mindste lære af dem.

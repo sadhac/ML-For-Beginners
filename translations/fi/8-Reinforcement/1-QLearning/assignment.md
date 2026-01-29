@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "68394b2102d3503882e5e914bd0ff5c1",
-  "translation_date": "2025-09-05T01:13:23+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/assignment.md",
-  "language_code": "fi"
-}
--->
 # Realistisempi maailma
 
 Meidän tilanteessamme Peter pystyi liikkumaan lähes väsymättä tai tuntematta nälkää. Realistisemmassa maailmassa hänen täytyy välillä istua alas ja levätä, sekä syödä jotain. Tehdään maailmastamme realistisempi toteuttamalla seuraavat säännöt:

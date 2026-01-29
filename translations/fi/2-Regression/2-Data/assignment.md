@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4485a1ed4dd1b5647365e3d87456515d",
-  "translation_date": "2025-09-04T23:43:44+00:00",
-  "source_file": "2-Regression/2-Data/assignment.md",
-  "language_code": "fi"
-}
--->
 # Tutkitaan visualisointeja
 
 On olemassa useita eri kirjastoja, jotka ovat saatavilla datan visualisointiin. Luo joitakin visualisointeja tämän oppitunnin kurpitsadataa käyttäen matplotlibin ja seabornin avulla näytekirjassa. Mitkä kirjastot ovat helpompia käyttää?

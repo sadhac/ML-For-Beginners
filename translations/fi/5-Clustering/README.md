@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-09-04T23:58:19+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "fi"
-}
--->
 # Klusterointimallit koneoppimiseen
 
 Klusterointi on koneoppimisen tehtävä, jossa pyritään löytämään toisiaan muistuttavia objekteja ja ryhmittelemään ne ryhmiin, joita kutsutaan klustereiksi. Se, mikä erottaa klusteroinnin muista koneoppimisen lähestymistavoista, on se, että prosessi tapahtuu automaattisesti. Itse asiassa voidaan sanoa, että se on päinvastainen valvotulle oppimiselle.

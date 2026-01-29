@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "8d32dadeda93c6fb5c43619854882ab1",
-  "translation_date": "2025-09-05T01:30:53+00:00",
-  "source_file": "6-NLP/4-Hotel-Reviews-1/README.md",
-  "language_code": "fi"
-}
--->
 # Sentimenttianalyysi hotelliarvosteluilla - datan käsittely
 
 Tässä osiossa käytät aiemmissa oppitunneissa opittuja tekniikoita suuren datasetin tutkimiseen. Kun ymmärrät eri sarakkeiden hyödyllisyyden, opit:

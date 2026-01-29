@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "730225ea274c9174fe688b21d421539d",
-  "translation_date": "2025-09-05T00:00:40+00:00",
-  "source_file": "5-Clustering/1-Visualize/README.md",
-  "language_code": "da"
-}
--->
 # Introduktion til clustering
 
 Clustering er en type [Unsupervised Learning](https://wikipedia.org/wiki/Unsupervised_learning), der antager, at et datasæt er ulabeleret, eller at dets input ikke er matchet med foruddefinerede output. Det bruger forskellige algoritmer til at sortere gennem ulabeleret data og levere grupperinger baseret på mønstre, det identificerer i dataene.

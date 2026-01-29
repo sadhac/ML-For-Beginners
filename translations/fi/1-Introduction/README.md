@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cf8ecc83f28e5b98051d2179eca08e08",
-  "translation_date": "2025-09-05T00:20:41+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "fi"
-}
--->
 # Johdatus koneoppimiseen
 
 Tässä opintokokonaisuuden osassa tutustut koneoppimisen peruskäsitteisiin, siihen mitä se on, sen historiaan sekä tekniikoihin, joita tutkijat käyttävät sen parissa työskennellessään. Tutkitaan yhdessä tätä uutta koneoppimisen maailmaa!
