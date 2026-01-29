@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-08-29T14:08:13+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "tl"
-}
--->
 # Panimula sa reinforcement learning
 
 Ang reinforcement learning, RL, ay itinuturing bilang isa sa mga pangunahing paradigma ng machine learning, kasabay ng supervised learning at unsupervised learning. Ang RL ay tungkol sa paggawa ng mga desisyon: paghahatid ng tamang desisyon o kahit papaano ay pagkatuto mula rito.

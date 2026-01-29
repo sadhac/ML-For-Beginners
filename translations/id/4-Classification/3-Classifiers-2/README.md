@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "49047911108adc49d605cddfb455749c",
-  "translation_date": "2025-09-05T19:56:49+00:00",
-  "source_file": "4-Classification/3-Classifiers-2/README.md",
-  "language_code": "id"
-}
--->
 # Pengklasifikasi Masakan 2
 
 Dalam pelajaran klasifikasi kedua ini, Anda akan mengeksplorasi lebih banyak cara untuk mengklasifikasikan data numerik. Anda juga akan mempelajari dampak dari memilih satu pengklasifikasi dibandingkan yang lain.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "49047911108adc49d605cddfb455749c",
-  "translation_date": "2025-09-05T19:57:06+00:00",
-  "source_file": "4-Classification/3-Classifiers-2/README.md",
-  "language_code": "ms"
-}
--->
 # Pengelas Masakan 2
 
 Dalam pelajaran klasifikasi kedua ini, anda akan meneroka lebih banyak cara untuk mengklasifikasikan data berangka. Anda juga akan mempelajari implikasi memilih satu pengelas berbanding yang lain.

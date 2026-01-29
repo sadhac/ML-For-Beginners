@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "be03c8182982b87ced155e4e9d1438e8",
-  "translation_date": "2025-09-05T20:40:17+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/README.md",
-  "language_code": "id"
-}
--->
 # Analisis Sentimen dan Terjemahan dengan ML
 
 Dalam pelajaran sebelumnya, Anda telah belajar cara membangun bot dasar menggunakan `TextBlob`, sebuah pustaka yang mengintegrasikan ML di balik layar untuk melakukan tugas NLP dasar seperti ekstraksi frasa kata benda. Tantangan penting lainnya dalam linguistik komputasi adalah _terjemahan_ yang akurat dari satu bahasa lisan atau tulisan ke bahasa lain.

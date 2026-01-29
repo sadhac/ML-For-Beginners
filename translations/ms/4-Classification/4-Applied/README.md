@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61bdec27ed2da8b098cd9065405d9bb0",
-  "translation_date": "2025-09-05T19:54:57+00:00",
-  "source_file": "4-Classification/4-Applied/README.md",
-  "language_code": "ms"
-}
--->
 # Membina Aplikasi Web Pencadang Masakan
 
 Dalam pelajaran ini, anda akan membina model klasifikasi menggunakan beberapa teknik yang telah dipelajari dalam pelajaran sebelumnya dan dataset masakan yang lazat yang digunakan sepanjang siri ini. Selain itu, anda akan membina aplikasi web kecil untuk menggunakan model yang disimpan, dengan memanfaatkan runtime web Onnx.

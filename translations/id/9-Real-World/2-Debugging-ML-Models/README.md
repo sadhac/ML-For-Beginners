@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "df2b538e8fbb3e91cf0419ae2f858675",
-  "translation_date": "2025-09-05T19:27:38+00:00",
-  "source_file": "9-Real-World/2-Debugging-ML-Models/README.md",
-  "language_code": "id"
-}
--->
 # Postscript: Debugging Model dalam Pembelajaran Mesin menggunakan Komponen Dasbor AI yang Bertanggung Jawab
 
 ## [Kuis pra-kuliah](https://ff-quizzes.netlify.app/en/ml/)

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "8d32dadeda93c6fb5c43619854882ab1",
-  "translation_date": "2025-09-05T20:31:46+00:00",
-  "source_file": "6-NLP/4-Hotel-Reviews-1/README.md",
-  "language_code": "id"
-}
--->
 # Analisis Sentimen dengan Ulasan Hotel - Memproses Data
 
 Di bagian ini, Anda akan menggunakan teknik yang telah dipelajari di pelajaran sebelumnya untuk melakukan analisis data eksplorasi pada dataset besar. Setelah memahami kegunaan berbagai kolom, Anda akan belajar:

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-09-05T20:10:21+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "ms"
-}
--->
 # Pengenalan kepada pembelajaran pengukuhan
 
 Pembelajaran pengukuhan, RL, dianggap sebagai salah satu paradigma pembelajaran mesin asas, selain pembelajaran terselia dan pembelajaran tidak terselia. RL berkaitan dengan membuat keputusan: memberikan keputusan yang tepat atau sekurang-kurangnya belajar daripadanya.

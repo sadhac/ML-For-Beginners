@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-09-05T19:09:03+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "ms"
-}
--->
 # Ramalan Siri Masa dengan Support Vector Regressor
 
 Dalam pelajaran sebelumnya, anda telah belajar cara menggunakan model ARIMA untuk membuat ramalan siri masa. Kini anda akan melihat model Support Vector Regressor, iaitu model regresi yang digunakan untuk meramalkan data berterusan.

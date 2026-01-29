@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9d91f3af3758fdd4569fb410575995ef",
-  "translation_date": "2025-09-05T19:36:18+00:00",
-  "source_file": "1-Introduction/4-techniques-of-ML/README.md",
-  "language_code": "id"
-}
--->
 # Teknik Pembelajaran Mesin
 
 Proses membangun, menggunakan, dan memelihara model pembelajaran mesin serta data yang digunakan sangat berbeda dari banyak alur kerja pengembangan lainnya. Dalam pelajaran ini, kita akan mengungkap proses tersebut dan merangkum teknik utama yang perlu Anda ketahui. Anda akan:

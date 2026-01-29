@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9d91f3af3758fdd4569fb410575995ef",
-  "translation_date": "2025-09-05T18:18:13+00:00",
-  "source_file": "1-Introduction/4-techniques-of-ML/README.md",
-  "language_code": "tl"
-}
--->
 # Mga Teknik ng Machine Learning
 
 Ang proseso ng pagbuo, paggamit, at pagpapanatili ng mga modelo ng machine learning at ang datos na ginagamit nito ay ibang-iba kumpara sa maraming iba pang mga workflow ng pag-develop. Sa araling ito, lilinawin natin ang proseso at ilalahad ang mga pangunahing teknik na kailangan mong malaman. Ikaw ay:

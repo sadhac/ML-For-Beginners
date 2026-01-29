@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5f3cb462e3122e1afe7ab0050ccf2bd3",
-  "translation_date": "2025-09-05T18:24:46+00:00",
-  "source_file": "6-NLP/2-Tasks/README.md",
-  "language_code": "tl"
-}
--->
 # Karaniwang mga gawain at teknika sa natural language processing
 
 Para sa karamihan ng mga gawain sa *natural language processing*, ang teksto na kailangang iproseso ay kailangang hatiin, suriin, at ang mga resulta ay itabi o i-cross reference gamit ang mga patakaran at data set. Ang mga gawaing ito ay nagbibigay-daan sa programmer na matukoy ang _kahulugan_, _layunin_, o kahit ang _dalas_ ng mga termino at salita sa isang teksto.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61bdec27ed2da8b098cd9065405d9bb0",
-  "translation_date": "2025-09-05T19:54:34+00:00",
-  "source_file": "4-Classification/4-Applied/README.md",
-  "language_code": "id"
-}
--->
 # Membangun Aplikasi Web Rekomendasi Masakan
 
 Dalam pelajaran ini, Anda akan membangun model klasifikasi menggunakan beberapa teknik yang telah Anda pelajari di pelajaran sebelumnya dan dengan dataset masakan lezat yang digunakan sepanjang seri ini. Selain itu, Anda akan membuat aplikasi web kecil untuk menggunakan model yang telah disimpan, memanfaatkan runtime web Onnx.

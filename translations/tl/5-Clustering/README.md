@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-08-29T13:18:57+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "tl"
-}
--->
 # Mga modelo ng clustering para sa machine learning
 
 Ang clustering ay isang gawain sa machine learning kung saan sinusubukan nitong hanapin ang mga bagay na magkahawig at pagsama-samahin ang mga ito sa mga grupo na tinatawag na clusters. Ang kaibahan ng clustering sa ibang mga pamamaraan sa machine learning ay nangyayari ito nang awtomatiko. Sa katunayan, maituturing na ito ang kabaligtaran ng supervised learning.

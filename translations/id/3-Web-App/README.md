@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9836ff53cfef716ddfd70e06c5f43436",
-  "translation_date": "2025-09-05T19:44:28+00:00",
-  "source_file": "3-Web-App/README.md",
-  "language_code": "id"
-}
--->
 # Bangun Aplikasi Web untuk Menggunakan Model ML Anda
 
 Dalam bagian kurikulum ini, Anda akan diperkenalkan pada topik ML terapan: bagaimana cara menyimpan model Scikit-learn Anda sebagai file yang dapat digunakan untuk membuat prediksi dalam aplikasi web. Setelah model disimpan, Anda akan belajar cara menggunakannya dalam aplikasi web yang dibangun dengan Flask. Anda akan terlebih dahulu membuat model menggunakan beberapa data tentang penampakan UFO! Kemudian, Anda akan membangun aplikasi web yang memungkinkan Anda memasukkan jumlah detik bersama nilai lintang dan bujur untuk memprediksi negara mana yang melaporkan melihat UFO.

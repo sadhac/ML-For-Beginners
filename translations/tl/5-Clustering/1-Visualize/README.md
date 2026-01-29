@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "730225ea274c9174fe688b21d421539d",
-  "translation_date": "2025-09-05T18:14:20+00:00",
-  "source_file": "5-Clustering/1-Visualize/README.md",
-  "language_code": "tl"
-}
--->
 # Panimula sa clustering
 
 Ang clustering ay isang uri ng [Unsupervised Learning](https://wikipedia.org/wiki/Unsupervised_learning) na ipinapalagay na ang dataset ay walang label o ang mga input nito ay hindi tumutugma sa mga pre-defined na output. Gumagamit ito ng iba't ibang algorithm upang suriin ang unlabeled na data at magbigay ng mga pangkat batay sa mga pattern na natutuklasan nito sa data.

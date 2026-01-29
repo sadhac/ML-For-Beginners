@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "abf86d845c84330bce205a46b382ec88",
-  "translation_date": "2025-09-05T18:10:22+00:00",
-  "source_file": "2-Regression/4-Logistic/README.md",
-  "language_code": "tl"
-}
--->
 # Logistic regression para sa pag-predict ng mga kategorya
 
 ![Infographic ng Logistic vs. Linear Regression](../../../../2-Regression/4-Logistic/images/linear-vs-logistic.png)

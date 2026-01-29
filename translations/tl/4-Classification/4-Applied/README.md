@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61bdec27ed2da8b098cd9065405d9bb0",
-  "translation_date": "2025-09-05T18:21:16+00:00",
-  "source_file": "4-Classification/4-Applied/README.md",
-  "language_code": "tl"
-}
--->
 # Gumawa ng Web App para sa Pagrekomenda ng Lutuin
 
 Sa araling ito, gagawa ka ng isang classification model gamit ang ilan sa mga teknik na natutunan mo sa mga nakaraang aralin, gamit ang masarap na dataset ng lutuin na ginamit sa buong serye. Bukod dito, gagawa ka ng isang maliit na web app upang magamit ang naka-save na model, gamit ang web runtime ng Onnx.

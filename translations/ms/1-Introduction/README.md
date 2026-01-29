@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cf8ecc83f28e5b98051d2179eca08e08",
-  "translation_date": "2025-09-05T19:30:21+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "ms"
-}
--->
 # Pengenalan kepada pembelajaran mesin
 
 Dalam bahagian kurikulum ini, anda akan diperkenalkan kepada konsep asas yang mendasari bidang pembelajaran mesin, apa itu pembelajaran mesin, serta mempelajari sejarahnya dan teknik yang digunakan oleh para penyelidik untuk bekerja dengannya. Mari kita terokai dunia baru ML ini bersama-sama!

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-09-05T18:58:02+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "id"
-}
--->
 # Pengantar Peramalan Deret Waktu
 
 Apa itu peramalan deret waktu? Ini adalah tentang memprediksi kejadian di masa depan dengan menganalisis tren dari masa lalu.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "508582278dbb8edd2a8a80ac96ef416c",
-  "translation_date": "2025-08-29T12:51:59+00:00",
-  "source_file": "2-Regression/README.md",
-  "language_code": "tl"
-}
--->
 # Mga Modelong Regression para sa Machine Learning
 ## Paksang Rehiyonal: Mga Modelong Regression para sa Presyo ng Kalabasa sa Hilagang Amerika 🎃
 

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-08-29T14:18:19+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "tl"
-}
--->
 # Sanayin ang Mountain Car
 
 Ang [OpenAI Gym](http://gym.openai.com) ay dinisenyo sa paraang lahat ng mga environment ay may parehong API - ibig sabihin, pareho ang mga method na `reset`, `step`, at `render`, at pareho rin ang mga abstraction ng **action space** at **observation space**. Dahil dito, posible na i-adapt ang parehong reinforcement learning algorithms sa iba't ibang environment na may kaunting pagbabago sa code.

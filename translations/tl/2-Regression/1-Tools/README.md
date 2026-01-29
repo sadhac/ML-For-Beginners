@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fa81d226c71d5af7a2cade31c1c92b88",
-  "translation_date": "2025-09-05T18:11:11+00:00",
-  "source_file": "2-Regression/1-Tools/README.md",
-  "language_code": "tl"
-}
--->
 # Magsimula sa Python at Scikit-learn para sa mga regression model
 
 ![Buod ng mga regression sa isang sketchnote](../../../../sketchnotes/ml-regression.png)

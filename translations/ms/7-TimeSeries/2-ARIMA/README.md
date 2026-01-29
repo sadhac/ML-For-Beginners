@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "917dbf890db71a322f306050cb284749",
-  "translation_date": "2025-09-05T19:01:16+00:00",
-  "source_file": "7-TimeSeries/2-ARIMA/README.md",
-  "language_code": "ms"
-}
--->
 # Ramalan siri masa dengan ARIMA
 
 Dalam pelajaran sebelumnya, anda telah mempelajari sedikit tentang ramalan siri masa dan memuatkan dataset yang menunjukkan turun naik beban elektrik sepanjang tempoh masa.

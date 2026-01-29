@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1c2ec40cf55c98a028a359c27ef7e45a",
-  "translation_date": "2025-09-05T20:37:22+00:00",
-  "source_file": "6-NLP/1-Introduction-to-NLP/README.md",
-  "language_code": "ms"
-}
--->
 # Pengenalan kepada pemprosesan bahasa semula jadi
 
 Pelajaran ini merangkumi sejarah ringkas dan konsep penting tentang *pemprosesan bahasa semula jadi*, satu cabang daripada *linguistik komputer*.

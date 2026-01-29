@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5f3cb462e3122e1afe7ab0050ccf2bd3",
-  "translation_date": "2025-09-05T20:26:44+00:00",
-  "source_file": "6-NLP/2-Tasks/README.md",
-  "language_code": "id"
-}
--->
 # Tugas dan Teknik Pemrosesan Bahasa Alami yang Umum
 
 Untuk sebagian besar *pemrosesan bahasa alami*, teks yang akan diproses harus dipecah, diperiksa, dan hasilnya disimpan atau dibandingkan dengan aturan dan kumpulan data. Tugas-tugas ini memungkinkan programmer untuk mendapatkan _makna_ atau _niat_ atau hanya _frekuensi_ istilah dan kata dalam sebuah teks.

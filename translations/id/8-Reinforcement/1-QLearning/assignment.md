@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "68394b2102d3503882e5e914bd0ff5c1",
-  "translation_date": "2025-09-05T20:18:01+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/assignment.md",
-  "language_code": "id"
-}
--->
 # Dunia yang Lebih Realistis
 
 Dalam situasi kita, Peter dapat bergerak hampir tanpa merasa lelah atau lapar. Dalam dunia yang lebih realistis, dia harus duduk dan beristirahat dari waktu ke waktu, serta memberi makan dirinya sendiri. Mari kita buat dunia kita lebih realistis dengan menerapkan aturan berikut:
