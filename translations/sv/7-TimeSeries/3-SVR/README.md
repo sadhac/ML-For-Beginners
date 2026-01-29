@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-09-05T21:23:41+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "sv"
-}
--->
 # Tidsserieprognoser med Support Vector Regressor
 
 I den föregående lektionen lärde du dig hur man använder ARIMA-modellen för att göra tidsserieprognoser. Nu ska vi titta på Support Vector Regressor-modellen, som är en regressionsmodell som används för att förutsäga kontinuerliga data.

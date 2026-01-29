@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4485a1ed4dd1b5647365e3d87456515d",
-  "translation_date": "2025-09-05T21:17:06+00:00",
-  "source_file": "2-Regression/2-Data/assignment.md",
-  "language_code": "sv"
-}
--->
 # Utforska Visualiseringar
 
 Det finns flera olika bibliotek som är tillgängliga för datavisualisering. Skapa några visualiseringar med hjälp av Pumpa-datan i denna lektion med matplotlib och seaborn i en exempelanteckningsbok. Vilka bibliotek är enklare att arbeta med?

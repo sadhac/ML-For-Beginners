@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-09-05T22:10:28+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "th"
-}
--->
 # ฝึก Mountain Car
 
 [OpenAI Gym](http://gym.openai.com) ถูกออกแบบมาให้ทุกสภาพแวดล้อมมี API เดียวกัน นั่นคือมีเมธอด `reset`, `step` และ `render` เหมือนกัน รวมถึงมีการจัดการ **action space** และ **observation space** ในรูปแบบเดียวกัน ดังนั้นจึงควรสามารถปรับอัลกอริทึม reinforcement learning เดียวกันให้เข้ากับสภาพแวดล้อมต่าง ๆ ได้โดยมีการเปลี่ยนแปลงโค้ดเพียงเล็กน้อย

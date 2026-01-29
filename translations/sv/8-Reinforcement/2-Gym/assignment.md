@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-09-05T22:10:42+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "sv"
-}
--->
 # Träna Mountain Car
 
 [OpenAI Gym](http://gym.openai.com) är utformat på ett sätt som gör att alla miljöer tillhandahåller samma API - dvs. samma metoder `reset`, `step` och `render`, samt samma abstraktioner för **aktionsutrymme** och **observationsutrymme**. Därför bör det vara möjligt att anpassa samma förstärkningsinlärningsalgoritmer till olika miljöer med minimala kodändringar.

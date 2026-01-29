@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-09-05T21:25:08+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "sv"
-}
--->
 # Klusteringsmodeller för maskininlärning
 
 Klustring är en maskininlärningsuppgift där man försöker hitta objekt som liknar varandra och gruppera dessa i grupper som kallas kluster. Det som skiljer klustring från andra metoder inom maskininlärning är att processen sker automatiskt. Faktum är att det kan sägas vara motsatsen till övervakad inlärning.

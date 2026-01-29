@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "730225ea274c9174fe688b21d421539d",
-  "translation_date": "2025-09-05T21:26:29+00:00",
-  "source_file": "5-Clustering/1-Visualize/README.md",
-  "language_code": "sv"
-}
--->
 # Introduktion till klustring
 
 Klustring är en typ av [Oövervakad inlärning](https://wikipedia.org/wiki/Unsupervised_learning) som förutsätter att en dataset är oetiketterad eller att dess indata inte är kopplade till fördefinierade utdata. Den använder olika algoritmer för att sortera igenom oetiketterad data och skapa grupper baserat på mönster som den identifierar i datan.

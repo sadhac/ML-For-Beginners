@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-09-05T22:01:26+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "sv"
-}
--->
 # Introduktion till förstärkningsinlärning
 
 Förstärkningsinlärning, RL, ses som ett av de grundläggande paradigmen inom maskininlärning, vid sidan av övervakad inlärning och oövervakad inlärning. RL handlar om beslut: att fatta rätt beslut eller åtminstone lära sig av dem.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b37de02054fa6c0438ede6fabe1fdfb8",
-  "translation_date": "2025-09-05T21:03:57+00:00",
-  "source_file": "for-teachers.md",
-  "language_code": "th"
-}
--->
 ## สำหรับครูผู้สอน
 
 คุณต้องการใช้หลักสูตรนี้ในห้องเรียนของคุณหรือไม่? ใช้ได้เลย!

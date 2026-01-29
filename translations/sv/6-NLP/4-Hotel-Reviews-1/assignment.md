@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "bf39bceb833cd628f224941dca8041df",
-  "translation_date": "2025-09-05T22:19:51+00:00",
-  "source_file": "6-NLP/4-Hotel-Reviews-1/assignment.md",
-  "language_code": "sv"
-}
--->
 # NLTK
 
 ## Instruktioner

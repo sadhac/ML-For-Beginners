@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-09-04T23:55:18+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "el"
-}
--->
 # Πρόβλεψη Χρονοσειρών με Support Vector Regressor
 
 Στο προηγούμενο μάθημα, μάθατε πώς να χρησιμοποιείτε το μοντέλο ARIMA για να κάνετε προβλέψεις χρονοσειρών. Τώρα θα εξετάσετε το μοντέλο Support Vector Regressor, το οποίο είναι ένα μοντέλο παλινδρόμησης που χρησιμοποιείται για την πρόβλεψη συνεχών δεδομένων.

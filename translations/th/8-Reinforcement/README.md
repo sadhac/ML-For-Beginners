@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-09-05T22:01:11+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "th"
-}
--->
 # การแนะนำการเรียนรู้แบบเสริมกำลัง
 
 การเรียนรู้แบบเสริมกำลัง (Reinforcement Learning หรือ RL) ถือเป็นหนึ่งในรูปแบบพื้นฐานของการเรียนรู้ของเครื่อง (Machine Learning) ควบคู่ไปกับการเรียนรู้แบบมีผู้สอน (Supervised Learning) และการเรียนรู้แบบไม่มีผู้สอน (Unsupervised Learning) RL เกี่ยวข้องกับการตัดสินใจ: การตัดสินใจที่ถูกต้อง หรืออย่างน้อยก็เรียนรู้จากการตัดสินใจนั้น

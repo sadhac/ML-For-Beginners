@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "134d8759f0e2ab886e9aa4f62362c201",
-  "translation_date": "2025-10-03T12:46:14+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "el"
-}
--->
 # Οδηγός Αντιμετώπισης Προβλημάτων
 
 Αυτός ο οδηγός σας βοηθά να λύσετε κοινά προβλήματα κατά την εργασία με το πρόγραμμα σπουδών Machine Learning for Beginners. Αν δεν βρείτε λύση εδώ, παρακαλούμε ελέγξτε τις [Συζητήσεις στο Discord](https://aka.ms/foundry/discord) ή [ανοίξτε ένα ζήτημα](https://github.com/microsoft/ML-For-Beginners/issues).

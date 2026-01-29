@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-09-05T21:17:38+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "sv"
-}
--->
 # Introduktion till tidsserieprognostisering
 
 Vad är tidsserieprognostisering? Det handlar om att förutsäga framtida händelser genom att analysera trender från det förflutna.

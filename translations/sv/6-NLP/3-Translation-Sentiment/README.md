@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "be03c8182982b87ced155e4e9d1438e8",
-  "translation_date": "2025-09-05T22:24:00+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/README.md",
-  "language_code": "sv"
-}
--->
 # Översättning och sentimentanalys med ML
 
 I de tidigare lektionerna lärde du dig att bygga en grundläggande bot med hjälp av `TextBlob`, ett bibliotek som använder maskininlärning bakom kulisserna för att utföra grundläggande NLP-uppgifter som att extrahera substantivfraser. En annan viktig utmaning inom datalingvistik är att korrekt _översätta_ en mening från ett talat eller skrivet språk till ett annat.

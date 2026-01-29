@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5e069a0ac02a9606a69946c2b3c574a9",
-  "translation_date": "2025-09-05T21:31:32+00:00",
-  "source_file": "9-Real-World/README.md",
-  "language_code": "sv"
-}
--->
 # Postscript: Verkliga tillämpningar av klassisk maskininlärning
 
 I den här delen av kursplanen kommer du att introduceras till några verkliga tillämpningar av klassisk ML. Vi har letat på internet efter forskningsartiklar och artiklar om tillämpningar som har använt dessa strategier, och undvikit neurala nätverk, djupinlärning och AI så mycket som möjligt. Lär dig om hur ML används i affärssystem, ekologiska tillämpningar, finans, konst och kultur, och mycket mer.

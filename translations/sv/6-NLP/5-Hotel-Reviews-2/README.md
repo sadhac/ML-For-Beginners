@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "2c742993fe95d5bcbb2846eda3d442a1",
-  "translation_date": "2025-09-05T22:27:31+00:00",
-  "source_file": "6-NLP/5-Hotel-Reviews-2/README.md",
-  "language_code": "sv"
-}
--->
 # Sentimentanalys med hotellrecensioner
 
 Nu när du har utforskat datasetet i detalj är det dags att filtrera kolumnerna och använda NLP-tekniker på datasetet för att få nya insikter om hotellen.

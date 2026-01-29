@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a88d5918c1b9da69a40d917a0840c497",
-  "translation_date": "2025-09-05T00:55:45+00:00",
-  "source_file": "sketchnotes/README.md",
-  "language_code": "el"
-}
--->
 Όλες οι σημειώσεις σκίτσων του προγράμματος σπουδών μπορούν να ληφθούν εδώ.
 
 🖨 Για εκτύπωση σε υψηλή ανάλυση, οι εκδόσεις TIFF είναι διαθέσιμες στο [αυτό το αποθετήριο](https://github.com/girliemac/a-picture-is-worth-a-1000-words/tree/main/ml/tiff).

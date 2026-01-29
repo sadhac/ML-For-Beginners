@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "917dbf890db71a322f306050cb284749",
-  "translation_date": "2025-09-05T21:18:44+00:00",
-  "source_file": "7-TimeSeries/2-ARIMA/README.md",
-  "language_code": "sv"
-}
--->
 # Tidsserieprognoser med ARIMA
 
 I den föregående lektionen lärde du dig lite om tidsserieprognoser och laddade en dataset som visar variationer i elektrisk belastning över en tidsperiod.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5f3cb462e3122e1afe7ab0050ccf2bd3",
-  "translation_date": "2025-09-05T22:13:18+00:00",
-  "source_file": "6-NLP/2-Tasks/README.md",
-  "language_code": "sv"
-}
--->
 # Vanliga uppgifter och tekniker inom naturlig språkbehandling
 
 För de flesta *uppgifter inom naturlig språkbehandling* måste texten som ska bearbetas brytas ner, analyseras och resultaten lagras eller jämföras med regler och dataset. Dessa uppgifter gör det möjligt för programmeraren att härleda _meningen_ eller _avsikten_ eller bara _frekvensen_ av termer och ord i en text.

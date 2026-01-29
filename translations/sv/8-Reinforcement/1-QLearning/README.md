@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "911efd5e595089000cb3c16fce1beab8",
-  "translation_date": "2025-09-05T22:04:16+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/README.md",
-  "language_code": "sv"
-}
--->
 # Introduktion till förstärkningsinlärning och Q-Learning
 
 ![Sammanfattning av förstärkning inom maskininlärning i en sketchnote](../../../../sketchnotes/ml-reinforcement.png)

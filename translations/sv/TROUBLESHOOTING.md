@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "134d8759f0e2ab886e9aa4f62362c201",
-  "translation_date": "2025-10-03T12:47:22+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "sv"
-}
--->
 # Felsökningsguide
 
 Den här guiden hjälper dig att lösa vanliga problem när du arbetar med kursplanen för Machine Learning for Beginners. Om du inte hittar en lösning här, kolla gärna våra [Discord-diskussioner](https://aka.ms/foundry/discord) eller [öppna ett ärende](https://github.com/microsoft/ML-For-Beginners/issues).

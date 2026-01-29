@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-05T21:06:20+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "sv"
-}
--->
 # Bygg en regressionsmodell med Scikit-learn: regression på fyra sätt
 
 ![Infografik om linjär vs polynomisk regression](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -114,11 +105,11 @@ Nu när du har en förståelse för matematiken bakom linjär regression, låt o
 
 Från föregående lektion har du förmodligen sett att det genomsnittliga priset för olika månader ser ut så här:
 
-<img alt="Genomsnittligt pris per månad" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="Genomsnittligt pris per månad" src="../../../../translated_images/sv/barchart.a833ea9194346d76.webp" width="50%"/>
 
 Detta antyder att det borde finnas någon korrelation, och vi kan försöka träna en linjär regressionsmodell för att förutsäga relationen mellan `Månad` och `Pris`, eller mellan `DagPåÅret` och `Pris`. Här är spridningsdiagrammet som visar den senare relationen:
 
-<img alt="Spridningsdiagram av Pris vs. Dag på året" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="Spridningsdiagram av Pris vs. Dag på året" src="../../../../translated_images/sv/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 Låt oss se om det finns en korrelation med hjälp av funktionen `corr`:
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="Spridningsdiagram av Pris vs. Dag på året" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="Spridningsdiagram av Pris vs. Dag på året" src="../../../../translated_images/sv/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 Vår undersökning antyder att sorten har större effekt på det övergripande priset än det faktiska försäljningsdatumet. Vi kan se detta med ett stapeldiagram:
 
@@ -145,7 +136,7 @@ Vår undersökning antyder att sorten har större effekt på det övergripande p
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="Stapeldiagram av pris vs sort" src="images/price-by-variety.png" width="50%" /> 
+<img alt="Stapeldiagram av pris vs sort" src="../../../../translated_images/sv/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 Låt oss för tillfället fokusera endast på en pumpasort, 'pie type', och se vilken effekt datumet har på priset:
 
@@ -153,7 +144,7 @@ Låt oss för tillfället fokusera endast på en pumpasort, 'pie type', och se v
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="Spridningsdiagram av Pris vs. Dag på året" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="Spridningsdiagram av Pris vs. Dag på året" src="../../../../translated_images/sv/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 Om vi nu beräknar korrelationen mellan `Pris` och `DagPåÅret` med hjälp av funktionen `corr`, kommer vi att få något som `-0.27` - vilket betyder att det är meningsfullt att träna en prediktiv modell.
 
@@ -227,7 +218,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```
 
-<img alt="Linjär regression" src="images/linear-results.png" width="50%" />
+<img alt="Linjär regression" src="../../../../translated_images/sv/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## Polynomregression
 
@@ -256,7 +247,7 @@ Att använda `PolynomialFeatures(2)` betyder att vi kommer att inkludera alla an
 
 Pipelines kan användas på samma sätt som det ursprungliga `LinearRegression`-objektet, dvs. vi kan `fit`-a pipelinen och sedan använda `predict` för att få prediktionsresultaten. Här är grafen som visar testdata och approximationskurvan:
 
-<img alt="Polynomregression" src="images/poly-results.png" width="50%" />
+<img alt="Polynomregression" src="../../../../translated_images/sv/poly-results.ee587348f0f1f60b.webp" width="50%" />
 
 Med polynomregression kan vi få något lägre MSE och högre determination, men inte signifikant. Vi behöver ta hänsyn till andra funktioner!
 
@@ -274,7 +265,7 @@ I den ideala världen vill vi kunna förutsäga priser för olika pumpasorter me
 
 Här kan du se hur medelpriset beror på sort:
 
-<img alt="Medelpris per sort" src="images/price-by-variety.png" width="50%" />
+<img alt="Medelpris per sort" src="../../../../translated_images/sv/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 För att ta sort i beaktande måste vi först konvertera den till numerisk form, eller **koda** den. Det finns flera sätt att göra detta:
 
