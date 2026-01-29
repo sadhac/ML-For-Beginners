@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a8e8ae10be335cbc745b75ee552317ff",
-  "translation_date": "2025-09-05T00:39:38+00:00",
-  "source_file": "3-Web-App/1-Web-App/assignment.md",
-  "language_code": "bg"
-}
--->
 # Опитайте различен модел
 
 ## Инструкции

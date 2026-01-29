@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5f3cb462e3122e1afe7ab0050ccf2bd3",
-  "translation_date": "2025-09-05T16:51:10+00:00",
-  "source_file": "6-NLP/2-Tasks/README.md",
-  "language_code": "sk"
-}
--->
 # Bežné úlohy a techniky spracovania prirodzeného jazyka
 
 Pri väčšine úloh *spracovania prirodzeného jazyka* je potrebné text rozložiť, analyzovať a výsledky uložiť alebo porovnať s pravidlami a dátovými súbormi. Tieto úlohy umožňujú programátorovi odvodiť _význam_, _zámer_ alebo len _frekvenciu_ termínov a slov v texte.

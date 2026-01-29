@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "68394b2102d3503882e5e914bd0ff5c1",
-  "translation_date": "2025-09-05T16:43:33+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/assignment.md",
-  "language_code": "sk"
-}
--->
 # Realistickejší svet
 
 V našej situácii sa Peter mohol pohybovať takmer bez toho, aby sa unavil alebo vyhladol. V realistickejšom svete si musí občas sadnúť a oddýchnuť si, a tiež sa najesť. Urobme náš svet realistickejším zavedením nasledujúcich pravidiel:

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-09-05T16:48:33+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "ro"
-}
--->
 # Antrenează Mountain Car
 
 [OpenAI Gym](http://gym.openai.com) a fost conceput astfel încât toate mediile să ofere aceeași API - adică aceleași metode `reset`, `step` și `render`, și aceleași abstracții ale **spațiului de acțiune** și **spațiului de observație**. Astfel, ar trebui să fie posibil să adaptăm aceleași algoritmi de învățare prin întărire la diferite medii cu modificări minime de cod.

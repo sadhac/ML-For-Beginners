@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "8d32dadeda93c6fb5c43619854882ab1",
-  "translation_date": "2025-09-05T16:56:57+00:00",
-  "source_file": "6-NLP/4-Hotel-Reviews-1/README.md",
-  "language_code": "ro"
-}
--->
 # Analiza sentimentului cu recenzii de hotel - procesarea datelor
 
 În această secțiune vei folosi tehnicile din lecțiile anterioare pentru a realiza o analiză exploratorie a unui set de date mare. După ce vei avea o înțelegere bună a utilității diferitelor coloane, vei învăța:

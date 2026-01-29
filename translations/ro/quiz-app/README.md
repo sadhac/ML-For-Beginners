@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6d130dffca5db70d7e615f926cb1ad4c",
-  "translation_date": "2025-09-05T16:15:50+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "ro"
-}
--->
 # Chestionare
 
 Aceste chestionare sunt cele de dinaintea și de după cursurile din curriculum-ul ML de la https://aka.ms/ml-beginners

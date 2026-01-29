@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "69389392fa6346e0dfa30f664b7b6fec",
-  "translation_date": "2025-09-05T16:07:12+00:00",
-  "source_file": "1-Introduction/1-intro-to-ML/README.md",
-  "language_code": "sk"
-}
--->
 # Úvod do strojového učenia
 
 ## [Kvíz pred prednáškou](https://ff-quizzes.netlify.app/en/ml/)

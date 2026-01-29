@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1eb379dc2d0c9940b320732d16083778",
-  "translation_date": "2025-09-05T16:49:45+00:00",
-  "source_file": "6-NLP/README.md",
-  "language_code": "ro"
-}
--->
 # Introducere în procesarea limbajului natural
 
 Procesarea limbajului natural (NLP) reprezintă abilitatea unui program de calculator de a înțelege limbajul uman așa cum este vorbit și scris – denumit limbaj natural. Este o componentă a inteligenței artificiale (AI). NLP există de mai bine de 50 de ani și își are rădăcinile în domeniul lingvisticii. Întregul domeniu este orientat spre a ajuta mașinile să înțeleagă și să proceseze limbajul uman. Acest lucru poate fi utilizat ulterior pentru a îndeplini sarcini precum verificarea ortografică sau traducerea automată. Are o varietate de aplicații practice în mai multe domenii, inclusiv cercetarea medicală, motoarele de căutare și analiza de business.

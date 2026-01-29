@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9a6b702d1437c0467e3c5c28d763dac2",
-  "translation_date": "2025-09-05T16:00:41+00:00",
-  "source_file": "1-Introduction/3-fairness/README.md",
-  "language_code": "sk"
-}
--->
 # Budovanie riešení strojového učenia s dôrazom na zodpovednú AI
 
 ![Zhrnutie zodpovednej AI v strojovom učení v sketchnote](../../../../sketchnotes/ml-fairness.png)

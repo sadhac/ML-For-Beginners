@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "49047911108adc49d605cddfb455749c",
-  "translation_date": "2025-09-05T16:24:14+00:00",
-  "source_file": "4-Classification/3-Classifiers-2/README.md",
-  "language_code": "ro"
-}
--->
 # Clasificatori culinari 2
 
 În această a doua lecție despre clasificare, vei explora mai multe modalități de a clasifica date numerice. De asemenea, vei învăța despre implicațiile alegerii unui clasificator în detrimentul altuia.

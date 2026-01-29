@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9d91f3af3758fdd4569fb410575995ef",
-  "translation_date": "2025-09-05T16:04:52+00:00",
-  "source_file": "1-Introduction/4-techniques-of-ML/README.md",
-  "language_code": "ro"
-}
--->
 # Tehnici de Învățare Automată
 
 Procesul de construire, utilizare și întreținere a modelelor de învățare automată și a datelor pe care acestea le folosesc este foarte diferit de multe alte fluxuri de lucru din dezvoltare. În această lecție, vom demistifica procesul și vom evidenția principalele tehnici pe care trebuie să le cunoașteți. Veți:

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "8af40209a41494068c1f42b14c0b450d",
-  "translation_date": "2025-09-05T15:19:46+00:00",
-  "source_file": "2-Regression/4-Logistic/assignment.md",
-  "language_code": "sk"
-}
--->
 # Opakovanie niektorých regresií
 
 ## Pokyny

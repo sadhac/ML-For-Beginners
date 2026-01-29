@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1a6e9e46b34a2e559fbbfc1f95397c7b",
-  "translation_date": "2025-09-05T00:41:49+00:00",
-  "source_file": "4-Classification/2-Classifiers-1/README.md",
-  "language_code": "bg"
-}
--->
 # Класификатори за кухни 1
 
 В този урок ще използвате набора от данни, който запазихте от предишния урок, пълен с балансирани и почистени данни за различни кухни.

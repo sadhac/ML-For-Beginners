@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4485a1ed4dd1b5647365e3d87456515d",
-  "translation_date": "2025-09-05T15:27:13+00:00",
-  "source_file": "2-Regression/2-Data/assignment.md",
-  "language_code": "ro"
-}
--->
 # Explorarea Vizualizărilor
 
 Există mai multe biblioteci disponibile pentru vizualizarea datelor. Creează câteva vizualizări folosind datele despre Dovleci din această lecție, utilizând matplotlib și seaborn într-un notebook de exemplu. Care biblioteci sunt mai ușor de utilizat?

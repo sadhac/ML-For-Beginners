@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "aaf391d922bd6de5efba871d514c6d47",
-  "translation_date": "2025-09-05T16:26:25+00:00",
-  "source_file": "4-Classification/1-Introduction/README.md",
-  "language_code": "sk"
-}
--->
 # Úvod do klasifikácie
 
 V týchto štyroch lekciách sa budete venovať základnému zameraniu klasického strojového učenia - _klasifikácii_. Prejdeme si používanie rôznych klasifikačných algoritmov s datasetom o všetkých úžasných kuchyniach Ázie a Indie. Dúfam, že máte chuť na jedlo!

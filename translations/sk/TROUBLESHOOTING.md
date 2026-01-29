@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "134d8759f0e2ab886e9aa4f62362c201",
-  "translation_date": "2025-10-03T12:53:38+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "sk"
-}
--->
 # Príručka na riešenie problémov
 
 Táto príručka vám pomôže vyriešiť bežné problémy pri práci s učebnými osnovami Machine Learning for Beginners. Ak tu nenájdete riešenie, pozrite si naše [Diskusie na Discorde](https://aka.ms/foundry/discord) alebo [otvorte problém](https://github.com/microsoft/ML-For-Beginners/issues).

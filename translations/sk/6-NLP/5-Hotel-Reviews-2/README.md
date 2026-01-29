@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "2c742993fe95d5bcbb2846eda3d442a1",
-  "translation_date": "2025-09-05T17:08:11+00:00",
-  "source_file": "6-NLP/5-Hotel-Reviews-2/README.md",
-  "language_code": "sk"
-}
--->
 # Analýza sentimentu pomocou recenzií hotelov
 
 Teraz, keď ste podrobne preskúmali dataset, je čas filtrovať stĺpce a použiť techniky NLP na získanie nových poznatkov o hoteloch.

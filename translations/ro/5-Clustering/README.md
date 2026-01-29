@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-09-05T15:39:48+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "ro"
-}
--->
 # Modele de clustering pentru învățarea automată
 
 Clustering-ul este o sarcină de învățare automată care urmărește să găsească obiecte ce seamănă între ele și să le grupeze în grupuri numite clustere. Ceea ce diferențiază clustering-ul de alte abordări în învățarea automată este faptul că procesul se desfășoară automat; de fapt, putem spune că este opusul învățării supravegheate.

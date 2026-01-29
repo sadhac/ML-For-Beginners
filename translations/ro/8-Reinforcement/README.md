@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-09-05T16:36:06+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "ro"
-}
--->
 # Introducere în învățarea prin întărire
 
 Învățarea prin întărire, RL, este considerată unul dintre paradigmele de bază ale învățării automate, alături de învățarea supravegheată și cea nesupravegheată. RL se concentrează pe luarea deciziilor: luarea deciziilor corecte sau cel puțin învățarea din ele.

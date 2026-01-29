@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4485a1ed4dd1b5647365e3d87456515d",
-  "translation_date": "2025-09-05T15:27:07+00:00",
-  "source_file": "2-Regression/2-Data/assignment.md",
-  "language_code": "sk"
-}
--->
 # Preskúmanie vizualizácií
 
 Existuje niekoľko rôznych knižníc dostupných na vizualizáciu dát. Vytvorte niekoľko vizualizácií pomocou údajov o tekviciach z tejto lekcie s použitím knižníc matplotlib a seaborn v ukážkovom notebooku. Ktoré knižnice sa ľahšie používajú?

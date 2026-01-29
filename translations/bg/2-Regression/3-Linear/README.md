@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-04T23:19:25+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "bg"
-}
--->
 # Създаване на регресионен модел с помощта на Scikit-learn: четири подхода към регресията
 
 ![Инфографика за линейна и полиномиална регресия](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -114,11 +105,11 @@ day_of_year = pd.to_datetime(pumpkins['Date']).apply(lambda dt: (dt-datetime(dt.
 
 От предишния урок вероятно сте видели, че средната цена за различните месеци изглежда така:
 
-<img alt="Средна цена по месеци" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="Средна цена по месеци" src="../../../../translated_images/bg/barchart.a833ea9194346d76.webp" width="50%"/>
 
 Това предполага, че трябва да има някаква корелация, и можем да опитаме да обучим модел за линейна регресия, за да предскажем връзката между `Месец` и `Цена`, или между `ДенОтГодината` и `Цена`. Ето разпръснат график, който показва последната връзка:
 
-<img alt="Разпръснат график на Цена спрямо Ден от годината" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="Разпръснат график на Цена спрямо Ден от годината" src="../../../../translated_images/bg/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 Нека видим дали има корелация, използвайки функцията `corr`:
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="Разпръснат график на Цена спрямо Ден от годината" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="Разпръснат график на Цена спрямо Ден от годината" src="../../../../translated_images/bg/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 Нашето изследване предполага, че сортът има по-голямо влияние върху общата цена, отколкото действителната дата на продажба. Можем да видим това с помощта на стълбовиден график:
 
@@ -145,7 +136,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="Стълбовиден график на цена спрямо сорт" src="images/price-by-variety.png" width="50%" /> 
+<img alt="Стълбовиден график на цена спрямо сорт" src="../../../../translated_images/bg/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 Нека се съсредоточим за момента само върху един сорт тикви, типа 'pie', и да видим какъв ефект има датата върху цената:
 
@@ -153,7 +144,7 @@ new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="Разпръснат график на Цена спрямо Ден от годината" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="Разпръснат график на Цена спрямо Ден от годината" src="../../../../translated_images/bg/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 Ако сега изчислим корелацията между `Цена` и `ДенОтГодината`, използвайки функцията `corr`, ще получим нещо като `-0.27` - което означава, че обучението на предсказателен модел има смисъл.
 
@@ -220,7 +211,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```  
 
-<img alt="Линейна регресия" src="images/linear-results.png" width="50%" />
+<img alt="Линейна регресия" src="../../../../translated_images/bg/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## Полиномиална регресия  
 
@@ -249,7 +240,7 @@ pipeline.fit(X_train,y_train)
 
 Pipeline може да се използва по същия начин като оригиналния обект `LinearRegression`, т.е. можем да използваме `fit` за обучение на pipeline и след това `predict`, за да получим резултатите от предсказанието. Ето график, показващ тестовите данни и кривата на апроксимация:
 
-<img alt="Полиномиална регресия" src="images/poly-results.png" width="50%" />
+<img alt="Полиномиална регресия" src="../../../../translated_images/bg/poly-results.ee587348f0f1f60b.webp" width="50%" />
 
 С използването на полиномиална регресия можем да постигнем малко по-ниско MSE и по-висок коефициент на детерминация, но не значително. Трябва да вземем предвид и други характеристики!
 
@@ -267,7 +258,7 @@ Pipeline може да се използва по същия начин като
 
 Тук можете да видите как средната цена зависи от разнообразието:
 
-<img alt="Средна цена по разнообразие" src="images/price-by-variety.png" width="50%" />
+<img alt="Средна цена по разнообразие" src="../../../../translated_images/bg/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 За да вземем предвид разнообразието, първо трябва да го преобразуваме в числова форма, или **да го кодираме**. Има няколко начина да го направим:
 

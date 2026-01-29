@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "68394b2102d3503882e5e914bd0ff5c1",
-  "translation_date": "2025-09-05T16:43:57+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/assignment.md",
-  "language_code": "ro"
-}
--->
 # O Lume Mai Realistă
 
 În situația noastră, Peter a putut să se deplaseze aproape fără să obosească sau să îi fie foame. Într-o lume mai realistă, el trebuie să se așeze și să se odihnească din când în când, și de asemenea să se hrănească. Hai să facem lumea noastră mai realistă, implementând următoarele reguli:

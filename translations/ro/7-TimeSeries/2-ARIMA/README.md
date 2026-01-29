@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "917dbf890db71a322f306050cb284749",
-  "translation_date": "2025-09-05T15:30:48+00:00",
-  "source_file": "7-TimeSeries/2-ARIMA/README.md",
-  "language_code": "ro"
-}
--->
 # Prognoza seriilor temporale cu ARIMA
 
 În lecția anterioară, ai învățat câte ceva despre prognoza seriilor temporale și ai încărcat un set de date care arată fluctuațiile consumului de energie electrică pe o anumită perioadă de timp.

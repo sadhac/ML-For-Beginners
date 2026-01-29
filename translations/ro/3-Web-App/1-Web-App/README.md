@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e0b75f73e4a90d45181dc5581fe2ef5c",
-  "translation_date": "2025-09-05T16:14:11+00:00",
-  "source_file": "3-Web-App/1-Web-App/README.md",
-  "language_code": "ro"
-}
--->
 # Construiește o aplicație web pentru a utiliza un model ML
 
 În această lecție, vei antrena un model ML pe un set de date care este literalmente din altă lume: _Observații de OZN-uri din ultimul secol_, preluate din baza de date a NUFORC.

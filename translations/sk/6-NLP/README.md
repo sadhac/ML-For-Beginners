@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1eb379dc2d0c9940b320732d16083778",
-  "translation_date": "2025-09-05T16:49:35+00:00",
-  "source_file": "6-NLP/README.md",
-  "language_code": "sk"
-}
--->
 # Začíname s prirodzeným spracovaním jazyka
 
 Prirodzené spracovanie jazyka (NLP) je schopnosť počítačového programu porozumieť ľudskému jazyku tak, ako je hovorený a písaný – označovaný ako prirodzený jazyk. Je to súčasť umelej inteligencie (AI). NLP existuje už viac ako 50 rokov a má korene v oblasti lingvistiky. Celá oblasť je zameraná na pomoc strojom pri porozumení a spracovaní ľudského jazyka. To sa potom môže použiť na vykonávanie úloh, ako je kontrola pravopisu alebo strojový preklad. Má množstvo praktických aplikácií v rôznych oblastiach, vrátane medicínskeho výskumu, vyhľadávačov a obchodnej inteligencie.

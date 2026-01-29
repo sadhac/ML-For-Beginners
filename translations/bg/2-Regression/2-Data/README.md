@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "7c077988328ebfe33b24d07945f16eca",
-  "translation_date": "2025-09-04T23:40:27+00:00",
-  "source_file": "2-Regression/2-Data/README.md",
-  "language_code": "bg"
-}
--->
 # Създаване на регресионен модел с помощта на Scikit-learn: подготовка и визуализация на данни
 
 ![Инфографика за визуализация на данни](../../../../2-Regression/2-Data/images/data-visualization.png)
