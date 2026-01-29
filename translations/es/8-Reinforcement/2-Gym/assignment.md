@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-09-04T00:31:37+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "es"
-}
--->
 # Entrenar Mountain Car
 
 [OpenAI Gym](http://gym.openai.com) ha sido diseñado de tal manera que todos los entornos proporcionan la misma API, es decir, los mismos métodos `reset`, `step` y `render`, y las mismas abstracciones de **espacio de acción** y **espacio de observación**. Por lo tanto, debería ser posible adaptar los mismos algoritmos de aprendizaje por refuerzo a diferentes entornos con cambios mínimos en el código.

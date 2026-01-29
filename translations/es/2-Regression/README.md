@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "508582278dbb8edd2a8a80ac96ef416c",
-  "translation_date": "2025-09-03T22:15:28+00:00",
-  "source_file": "2-Regression/README.md",
-  "language_code": "es"
-}
--->
 # Modelos de regresión para aprendizaje automático
 ## Tema regional: Modelos de regresión para precios de calabazas en América del Norte 🎃
 

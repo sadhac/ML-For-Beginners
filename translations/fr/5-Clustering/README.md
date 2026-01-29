@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-09-03T22:55:31+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "fr"
-}
--->
 # Modèles de clustering pour l'apprentissage automatique
 
 Le clustering est une tâche d'apprentissage automatique qui cherche à identifier des objets similaires et à les regrouper dans des groupes appelés clusters. Ce qui distingue le clustering des autres approches en apprentissage automatique, c'est que tout se fait automatiquement. En fait, on peut dire que c'est l'opposé de l'apprentissage supervisé.

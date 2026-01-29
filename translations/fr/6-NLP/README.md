@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1eb379dc2d0c9940b320732d16083778",
-  "translation_date": "2025-09-04T00:32:51+00:00",
-  "source_file": "6-NLP/README.md",
-  "language_code": "fr"
-}
--->
 # Introduction au traitement du langage naturel
 
 Le traitement du langage naturel (NLP) est la capacité d'un programme informatique à comprendre le langage humain tel qu'il est parlé et écrit — appelé langage naturel. C'est une composante de l'intelligence artificielle (IA). Le NLP existe depuis plus de 50 ans et trouve ses racines dans le domaine de la linguistique. Tout le domaine est orienté vers l'aide aux machines pour comprendre et traiter le langage humain. Cela peut ensuite être utilisé pour effectuer des tâches comme la vérification orthographique ou la traduction automatique. Il possède une variété d'applications concrètes dans de nombreux domaines, notamment la recherche médicale, les moteurs de recherche et l'intelligence d'affaires.

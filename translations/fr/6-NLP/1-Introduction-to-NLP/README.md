@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1c2ec40cf55c98a028a359c27ef7e45a",
-  "translation_date": "2025-09-04T23:07:49+00:00",
-  "source_file": "6-NLP/1-Introduction-to-NLP/README.md",
-  "language_code": "fr"
-}
--->
 # Introduction au traitement du langage naturel
 
 Cette leçon couvre une brève histoire et les concepts importants du *traitement du langage naturel*, un sous-domaine de la *linguistique computationnelle*.

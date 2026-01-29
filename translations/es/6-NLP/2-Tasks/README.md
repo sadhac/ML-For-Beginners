@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5f3cb462e3122e1afe7ab0050ccf2bd3",
-  "translation_date": "2025-09-04T22:27:00+00:00",
-  "source_file": "6-NLP/2-Tasks/README.md",
-  "language_code": "es"
-}
--->
 # Tareas y técnicas comunes de procesamiento de lenguaje natural
 
 Para la mayoría de las tareas de *procesamiento de lenguaje natural*, el texto que se va a procesar debe descomponerse, examinarse y los resultados almacenarse o cruzarse con reglas y conjuntos de datos. Estas tareas permiten al programador derivar el _significado_, la _intención_ o solo la _frecuencia_ de términos y palabras en un texto.

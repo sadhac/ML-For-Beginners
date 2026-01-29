@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-06T10:44:32+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "en"
-}
--->
 # Build a regression model using Scikit-learn: regression four ways
 
 ![Linear vs polynomial regression infographic](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -115,11 +106,11 @@ Now that you understand the math behind linear regression, let's create a regres
 
 From the previous lesson, you've likely observed that the average price for different months looks like this:
 
-<img alt="Average price by month" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="Average price by month" src="../../../../translated_images/en/barchart.a833ea9194346d76.webp" width="50%"/>
 
 This suggests there might be some correlation, and we can attempt to train a linear regression model to predict the relationship between `Month` and `Price`, or between `DayOfYear` and `Price`. Here's the scatterplot showing the latter relationship:
 
-<img alt="Scatter plot of Price vs. Day of Year" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="Scatter plot of Price vs. Day of Year" src="../../../../translated_images/en/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 Let's check for correlation using the `corr` function:
 
@@ -138,7 +129,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="Scatter plot of Price vs. Day of Year" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="Scatter plot of Price vs. Day of Year" src="../../../../translated_images/en/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 Our investigation suggests that variety has a greater impact on price than the actual selling date. This can be visualized with a bar graph:
 
@@ -146,7 +137,7 @@ Our investigation suggests that variety has a greater impact on price than the a
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="Bar graph of price vs variety" src="images/price-by-variety.png" width="50%" /> 
+<img alt="Bar graph of price vs variety" src="../../../../translated_images/en/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 Let's focus on one pumpkin variety, the 'pie type,' and examine the effect of the date on price:
 
@@ -154,7 +145,7 @@ Let's focus on one pumpkin variety, the 'pie type,' and examine the effect of th
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="Scatter plot of Price vs. Day of Year" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="Scatter plot of Price vs. Day of Year" src="../../../../translated_images/en/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 If we calculate the correlation between `Price` and `DayOfYear` using the `corr` function, we get approximately `-0.27`, indicating that training a predictive model is worthwhile.
 
@@ -228,7 +219,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```
 
-<img alt="Linear regression" src="images/linear-results.png" width="50%" />
+<img alt="Linear regression" src="../../../../translated_images/en/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## Polynomial Regression
 
@@ -257,7 +248,7 @@ Using `PolynomialFeatures(2)` means we will include all second-degree polynomial
 
 Pipelines can be used in the same way as the original `LinearRegression` object, meaning we can `fit` the pipeline and then use `predict` to get prediction results. Below is the graph showing test data and the approximation curve:
 
-<img alt="Polynomial regression" src="images/poly-results.png" width="50%" />
+<img alt="Polynomial regression" src="../../../../translated_images/en/poly-results.ee587348f0f1f60b.webp" width="50%" />
 
 Using Polynomial Regression, we can achieve slightly lower MSE and higher determination, but not significantly. We need to consider other features!
 
@@ -275,7 +266,7 @@ Ideally, we want to predict prices for different pumpkin varieties using the sam
 
 Here’s how the average price depends on variety:
 
-<img alt="Average price by variety" src="images/price-by-variety.png" width="50%" />
+<img alt="Average price by variety" src="../../../../translated_images/en/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 To include variety in our model, we first need to convert it to numeric form, or **encode** it. There are several ways to do this:
 

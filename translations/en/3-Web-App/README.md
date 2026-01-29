@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9836ff53cfef716ddfd70e06c5f43436",
-  "translation_date": "2025-09-06T10:55:01+00:00",
-  "source_file": "3-Web-App/README.md",
-  "language_code": "en"
-}
--->
 # Build a web app to use your ML model
 
 In this part of the curriculum, you'll explore a practical application of machine learning: how to save your Scikit-learn model as a file that can be used to make predictions in a web application. Once the model is saved, you'll learn how to integrate it into a web app built with Flask. You'll start by creating a model using data about UFO sightings! Then, you'll develop a web app that allows users to input a number of seconds along with latitude and longitude values to predict which country reported the UFO sighting.

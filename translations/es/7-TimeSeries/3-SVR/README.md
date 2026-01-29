@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-09-04T22:16:07+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "es"
-}
--->
 # Pronóstico de Series Temporales con Support Vector Regressor
 
 En la lección anterior, aprendiste a usar el modelo ARIMA para realizar predicciones de series temporales. Ahora explorarás el modelo Support Vector Regressor, que es un modelo de regresión utilizado para predecir datos continuos.

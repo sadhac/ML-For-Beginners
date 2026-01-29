@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a8e8ae10be335cbc745b75ee552317ff",
-  "translation_date": "2025-09-06T10:55:32+00:00",
-  "source_file": "3-Web-App/1-Web-App/assignment.md",
-  "language_code": "en"
-}
--->
 # Try a different model
 
 ## Instructions

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1c2ec40cf55c98a028a359c27ef7e45a",
-  "translation_date": "2025-09-04T22:28:35+00:00",
-  "source_file": "6-NLP/1-Introduction-to-NLP/README.md",
-  "language_code": "es"
-}
--->
 # Introducción al procesamiento de lenguaje natural
 
 Esta lección cubre una breve historia y conceptos importantes del *procesamiento de lenguaje natural*, un subcampo de la *lingüística computacional*.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fba3b94d88bfb9b81369b869a1e9a20f",
-  "translation_date": "2025-09-06T10:58:18+00:00",
-  "source_file": "sketchnotes/LICENSE.md",
-  "language_code": "en"
-}
--->
 Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material; and  
 
   c. You must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.  

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4485a1ed4dd1b5647365e3d87456515d",
-  "translation_date": "2025-09-03T22:40:15+00:00",
-  "source_file": "2-Regression/2-Data/assignment.md",
-  "language_code": "fr"
-}
--->
 # Explorer les visualisations
 
 Il existe plusieurs bibliothèques disponibles pour la visualisation de données. Créez des visualisations en utilisant les données de citrouille de cette leçon avec matplotlib et seaborn dans un notebook d'exemple. Quelles bibliothèques sont les plus faciles à utiliser ?

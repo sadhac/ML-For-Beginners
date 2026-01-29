@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9d91f3af3758fdd4569fb410575995ef",
-  "translation_date": "2025-09-06T10:53:40+00:00",
-  "source_file": "1-Introduction/4-techniques-of-ML/README.md",
-  "language_code": "en"
-}
--->
 # Techniques of Machine Learning
 
 The process of creating, using, and maintaining machine learning models and the data they rely on is quite different from many other development workflows. In this lesson, we will break down the process and outline the key techniques you need to understand. You will:

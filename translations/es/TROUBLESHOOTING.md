@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "134d8759f0e2ab886e9aa4f62362c201",
-  "translation_date": "2025-10-03T12:35:27+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "es"
-}
--->
 # Guía de Solución de Problemas
 
 Esta guía te ayudará a resolver problemas comunes al trabajar con el plan de estudios de Machine Learning para Principiantes. Si no encuentras una solución aquí, consulta nuestras [Discusiones en Discord](https://aka.ms/foundry/discord) o [abre un problema](https://github.com/microsoft/ML-For-Beginners/issues).

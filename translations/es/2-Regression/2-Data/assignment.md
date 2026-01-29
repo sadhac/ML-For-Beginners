@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4485a1ed4dd1b5647365e3d87456515d",
-  "translation_date": "2025-09-03T22:40:30+00:00",
-  "source_file": "2-Regression/2-Data/assignment.md",
-  "language_code": "es"
-}
--->
 # Explorando Visualizaciones
 
 Existen varias bibliotecas disponibles para la visualización de datos. Crea algunas visualizaciones utilizando los datos de Pumpkin en esta lección con matplotlib y seaborn en un cuaderno de ejemplo. ¿Qué bibliotecas son más fáciles de usar?

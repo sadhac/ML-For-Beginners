@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "730225ea274c9174fe688b21d421539d",
-  "translation_date": "2025-09-04T22:17:37+00:00",
-  "source_file": "5-Clustering/1-Visualize/README.md",
-  "language_code": "es"
-}
--->
 # Introducción a la agrupación
 
 La agrupación es un tipo de [aprendizaje no supervisado](https://wikipedia.org/wiki/Unsupervised_learning) que asume que un conjunto de datos no está etiquetado o que sus entradas no están asociadas con salidas predefinidas. Utiliza varios algoritmos para clasificar datos no etiquetados y proporcionar agrupaciones según los patrones que detecta en los datos.

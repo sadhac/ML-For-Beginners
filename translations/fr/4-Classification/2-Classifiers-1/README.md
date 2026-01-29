@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1a6e9e46b34a2e559fbbfc1f95397c7b",
-  "translation_date": "2025-09-04T23:02:16+00:00",
-  "source_file": "4-Classification/2-Classifiers-1/README.md",
-  "language_code": "fr"
-}
--->
 # Classificateurs de cuisine 1
 
 Dans cette leçon, vous utiliserez le jeu de données que vous avez sauvegardé lors de la dernière leçon, rempli de données équilibrées et nettoyées sur les cuisines.

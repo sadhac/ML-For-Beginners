@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5e069a0ac02a9606a69946c2b3c574a9",
-  "translation_date": "2025-09-03T23:14:27+00:00",
-  "source_file": "9-Real-World/README.md",
-  "language_code": "fr"
-}
--->
 # Postscript : Applications réelles de l'apprentissage automatique classique
 
 Dans cette section du programme, vous serez introduit à quelques applications réelles de l'apprentissage automatique classique. Nous avons parcouru l'internet pour trouver des articles et des publications sur des applications ayant utilisé ces stratégies, en évitant autant que possible les réseaux neuronaux, l'apprentissage profond et l'intelligence artificielle. Découvrez comment l'apprentissage automatique est utilisé dans les systèmes d'entreprise, les applications écologiques, la finance, les arts et la culture, et bien plus encore.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a88d5918c1b9da69a40d917a0840c497",
-  "translation_date": "2025-09-04T00:05:03+00:00",
-  "source_file": "sketchnotes/README.md",
-  "language_code": "es"
-}
--->
 Todas las notas visuales del currículo se pueden descargar aquí.
 
 🖨 Para imprimir en alta resolución, las versiones TIFF están disponibles en [este repositorio](https://github.com/girliemac/a-picture-is-worth-a-1000-words/tree/main/ml/tiff).

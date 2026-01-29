@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fa81d226c71d5af7a2cade31c1c92b88",
-  "translation_date": "2025-09-04T22:13:49+00:00",
-  "source_file": "2-Regression/1-Tools/README.md",
-  "language_code": "es"
-}
--->
 # Comienza con Python y Scikit-learn para modelos de regresión
 
 ![Resumen de regresiones en un sketchnote](../../../../sketchnotes/ml-regression.png)

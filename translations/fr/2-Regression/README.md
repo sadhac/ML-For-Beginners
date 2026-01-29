@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "508582278dbb8edd2a8a80ac96ef416c",
-  "translation_date": "2025-09-03T22:14:53+00:00",
-  "source_file": "2-Regression/README.md",
-  "language_code": "fr"
-}
--->
 # Modèles de régression pour l'apprentissage automatique
 ## Sujet régional : Modèles de régression pour les prix des citrouilles en Amérique du Nord 🎃
 

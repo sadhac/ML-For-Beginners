@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4485a1ed4dd1b5647365e3d87456515d",
-  "translation_date": "2025-09-06T10:47:54+00:00",
-  "source_file": "2-Regression/2-Data/assignment.md",
-  "language_code": "en"
-}
--->
 # Exploring Visualizations
 
 There are several different libraries available for data visualization. Use the Pumpkin data from this lesson to create some visualizations with matplotlib and seaborn in a sample notebook. Which libraries are easier to use?

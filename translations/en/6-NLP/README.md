@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1eb379dc2d0c9940b320732d16083778",
-  "translation_date": "2025-09-06T11:00:30+00:00",
-  "source_file": "6-NLP/README.md",
-  "language_code": "en"
-}
--->
 # Getting started with natural language processing
 
 Natural language processing (NLP) is the ability of a computer program to understand human language as it is spoken and written—commonly referred to as natural language. It is a branch of artificial intelligence (AI). NLP has been around for over 50 years and has its origins in the field of linguistics. The entire field focuses on enabling machines to comprehend and process human language. This capability can then be applied to tasks such as spell checking or machine translation. NLP has numerous practical applications across various domains, including medical research, search engines, and business intelligence.

@@ -41,7 +41,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 我們持續推出 Discord AI 學習系列，詳情並加入請見 [Learn with AI Series](https://aka.ms/learnwithai/discord)，時間為 2025 年 9 月 18 日至 30 日。你會學到使用 GitHub Copilot 進行資料科學的小撇步與技巧。
 
-![Learn with AI series](../../../../translated_images/tw/3.9b58fd8d6c373c20.webp)
+![Learn with AI series](../../../../translated_images/zh-TW/3.9b58fd8d6c373c20.webp)
 
 # 機器學習入門 - 課程綱要
 
@@ -89,7 +89,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 部分課程有短影片可觀看。可在課程內容中內嵌觀看，或到[Microsoft Developer YouTube 頻道的 ML for Beginners 播放清單](https://aka.ms/ml-beginners-videos)點擊以下圖片觀看。
 
-[![ML for beginners banner](../../../../translated_images/tw/ml-for-beginners-video-banner.63f694a100034bc6.webp)](https://aka.ms/ml-beginners-videos)
+[![ML for beginners banner](../../../../translated_images/zh-TW/ml-for-beginners-video-banner.63f694a100034bc6.webp)](https://aka.ms/ml-beginners-videos)
 
 ---
 

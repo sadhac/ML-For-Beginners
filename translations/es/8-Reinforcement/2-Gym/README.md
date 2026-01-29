@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "107d5bb29da8a562e7ae72262d251a75",
-  "translation_date": "2025-09-04T22:26:14+00:00",
-  "source_file": "8-Reinforcement/2-Gym/README.md",
-  "language_code": "es"
-}
--->
 # CartPole Patinaje
 
 El problema que resolvimos en la lección anterior puede parecer un problema de juguete, sin mucha aplicación en escenarios de la vida real. Sin embargo, este no es el caso, ya que muchos problemas del mundo real comparten características similares, como jugar al ajedrez o al Go. Son similares porque también tenemos un tablero con reglas definidas y un **estado discreto**.

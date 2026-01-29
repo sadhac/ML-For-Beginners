@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5f3cb462e3122e1afe7ab0050ccf2bd3",
-  "translation_date": "2025-09-04T23:06:17+00:00",
-  "source_file": "6-NLP/2-Tasks/README.md",
-  "language_code": "fr"
-}
--->
 # Tâches et techniques courantes en traitement du langage naturel
 
 Pour la plupart des tâches de *traitement du langage naturel*, le texte à traiter doit être décomposé, analysé, et les résultats doivent être stockés ou croisés avec des règles et des ensembles de données. Ces tâches permettent au programmeur de déduire le _sens_, l'_intention_ ou simplement la _fréquence_ des termes et des mots dans un texte.

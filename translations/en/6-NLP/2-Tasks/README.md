@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5f3cb462e3122e1afe7ab0050ccf2bd3",
-  "translation_date": "2025-09-06T11:00:38+00:00",
-  "source_file": "6-NLP/2-Tasks/README.md",
-  "language_code": "en"
-}
--->
 # Common natural language processing tasks and techniques
 
 For most *natural language processing* tasks, the text to be processed must be broken down, analyzed, and the results stored or cross-referenced with rules and datasets. These tasks allow the programmer to derive the _meaning_, _intent_, or simply the _frequency_ of terms and words in a text.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e0b75f73e4a90d45181dc5581fe2ef5c",
-  "translation_date": "2025-09-04T22:22:36+00:00",
-  "source_file": "3-Web-App/1-Web-App/README.md",
-  "language_code": "es"
-}
--->
 # Construir una aplicación web para usar un modelo de ML
 
 En esta lección, entrenarás un modelo de ML con un conjunto de datos que es de otro mundo: _avistamientos de OVNIs durante el último siglo_, obtenidos de la base de datos de NUFORC.

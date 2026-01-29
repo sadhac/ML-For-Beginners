@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "68394b2102d3503882e5e914bd0ff5c1",
-  "translation_date": "2025-09-06T10:59:31+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/assignment.md",
-  "language_code": "en"
-}
--->
 # A More Realistic World
 
 In our scenario, Peter could move around almost endlessly without feeling tired or hungry. In a more realistic world, he would need to sit down and rest occasionally, as well as eat to sustain himself. Let's make our world more realistic by implementing the following rules:

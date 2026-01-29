@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "be03c8182982b87ced155e4e9d1438e8",
-  "translation_date": "2025-09-04T23:08:15+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/README.md",
-  "language_code": "fr"
-}
--->
 # Traduction et analyse de sentiment avec ML
 
 Dans les leçons précédentes, vous avez appris à créer un bot basique en utilisant `TextBlob`, une bibliothèque qui intègre l'apprentissage automatique en arrière-plan pour effectuer des tâches de traitement du langage naturel (NLP) telles que l'extraction de syntagmes nominaux. Un autre défi important en linguistique computationnelle est la _traduction_ précise d'une phrase d'une langue parlée ou écrite à une autre.

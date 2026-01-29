@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-09-06T10:48:01+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "en"
-}
--->
 # Introduction to time series forecasting
 
 What is time series forecasting? It's the process of predicting future events by analyzing past trends.

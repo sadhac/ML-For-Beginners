@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "917dbf890db71a322f306050cb284749",
-  "translation_date": "2025-09-04T22:14:48+00:00",
-  "source_file": "7-TimeSeries/2-ARIMA/README.md",
-  "language_code": "es"
-}
--->
 # Pronóstico de series temporales con ARIMA
 
 En la lección anterior, aprendiste un poco sobre el pronóstico de series temporales y cargaste un conjunto de datos que muestra las fluctuaciones de la carga eléctrica a lo largo de un período de tiempo.

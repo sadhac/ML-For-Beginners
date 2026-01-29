@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "730225ea274c9174fe688b21d421539d",
-  "translation_date": "2025-09-04T22:56:33+00:00",
-  "source_file": "5-Clustering/1-Visualize/README.md",
-  "language_code": "fr"
-}
--->
 # Introduction à la classification par regroupement
 
 La classification par regroupement est un type d'[apprentissage non supervisé](https://wikipedia.org/wiki/Unsupervised_learning) qui suppose qu'un ensemble de données est non étiqueté ou que ses entrées ne sont pas associées à des sorties prédéfinies. Elle utilise divers algorithmes pour trier les données non étiquetées et fournir des regroupements en fonction des motifs qu'elle discerne dans les données.

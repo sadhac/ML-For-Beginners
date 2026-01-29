@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5e069a0ac02a9606a69946c2b3c574a9",
-  "translation_date": "2025-09-06T10:51:33+00:00",
-  "source_file": "9-Real-World/README.md",
-  "language_code": "en"
-}
--->
 # Postscript: Real-world applications of classical machine learning
 
 In this section of the curriculum, you'll explore some practical applications of classical machine learning. We've searched extensively to find whitepapers and articles showcasing how these techniques are applied, while deliberately minimizing the focus on neural networks, deep learning, and AI. Discover how machine learning is utilized in business systems, environmental projects, finance, arts and culture, and more.

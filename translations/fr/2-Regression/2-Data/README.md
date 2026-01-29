@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "7c077988328ebfe33b24d07945f16eca",
-  "translation_date": "2025-09-04T22:54:23+00:00",
-  "source_file": "2-Regression/2-Data/README.md",
-  "language_code": "fr"
-}
--->
 # Construire un modèle de régression avec Scikit-learn : préparer et visualiser les données
 
 ![Infographie sur la visualisation des données](../../../../2-Regression/2-Data/images/data-visualization.png)

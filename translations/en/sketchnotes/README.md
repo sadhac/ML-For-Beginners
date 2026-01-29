@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a88d5918c1b9da69a40d917a0840c497",
-  "translation_date": "2025-09-06T10:57:50+00:00",
-  "source_file": "sketchnotes/README.md",
-  "language_code": "en"
-}
--->
 All the sketchnotes for the curriculum can be downloaded here.
 
 🖨 For high-resolution printing, TIFF versions are available at [this repo](https://github.com/girliemac/a-picture-is-worth-a-1000-words/tree/main/ml/tiff).

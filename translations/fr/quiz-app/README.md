@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6d130dffca5db70d7e615f926cb1ad4c",
-  "translation_date": "2025-09-03T23:47:39+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "fr"
-}
--->
 # Quiz
 
 Ces quiz sont les quiz avant et après les cours pour le programme ML disponible sur https://aka.ms/ml-beginners

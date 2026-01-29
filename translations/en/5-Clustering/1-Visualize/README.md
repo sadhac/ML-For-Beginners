@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "730225ea274c9174fe688b21d421539d",
-  "translation_date": "2025-09-06T10:50:03+00:00",
-  "source_file": "5-Clustering/1-Visualize/README.md",
-  "language_code": "en"
-}
--->
 # Introduction to clustering
 
 Clustering is a type of [Unsupervised Learning](https://wikipedia.org/wiki/Unsupervised_learning) that assumes a dataset is unlabelled or that its inputs are not paired with predefined outputs. It uses various algorithms to analyze unlabeled data and group it based on patterns identified within the data.

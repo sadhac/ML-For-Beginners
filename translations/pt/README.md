@@ -41,7 +41,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 Temos uma série de aprendizagem com IA no Discord, saiba mais e junte-se a nós em [Learn with AI Series](https://aka.ms/learnwithai/discord) de 18 a 30 de setembro de 2025. Irá receber dicas e truques sobre como usar o GitHub Copilot para Ciência de Dados.
 
-![Série Learn with AI](../../../../translated_images/pt/3.9b58fd8d6c373c20.webp)
+![Série Learn with AI](../../../../translated_images/pt-PT/3.9b58fd8d6c373c20.webp)
 
 # Aprendizagem Automática para Iniciantes - Um Currículo
 
@@ -90,7 +90,7 @@ Siga estes passos:
 
 Algumas das lições estão disponíveis em formato de vídeo curto. Pode encontrá-los integrados nas lições, ou na [playlist ML for Beginners do canal Microsoft Developer no YouTube](https://aka.ms/ml-beginners-videos) clicando na imagem abaixo.
 
-[![Banner ML for beginners](../../../../translated_images/pt/ml-for-beginners-video-banner.63f694a100034bc6.webp)](https://aka.ms/ml-beginners-videos)
+[![Banner ML for beginners](../../../../translated_images/pt-PT/ml-for-beginners-video-banner.63f694a100034bc6.webp)](https://aka.ms/ml-beginners-videos)
 
 ---
 
