@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "589fa015a5e7d9e67bd629f7d47b53de",
-  "translation_date": "2025-09-05T12:17:35+00:00",
-  "source_file": "5-Clustering/1-Visualize/assignment.md",
-  "language_code": "my"
-}
--->
 # အုပ်စုဖွဲ့ခြင်းအတွက် အခြားဗီဇွယ်လိုက်ဇေးရှင်းများကို သုတေသနလုပ်ပါ
 
 ## လမ်းညွှန်ချက်များ

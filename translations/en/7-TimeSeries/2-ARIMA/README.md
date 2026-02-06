@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "917dbf890db71a322f306050cb284749",
-  "translation_date": "2025-09-06T10:48:08+00:00",
-  "source_file": "7-TimeSeries/2-ARIMA/README.md",
-  "language_code": "en"
-}
--->
 # Time series forecasting with ARIMA
 
 In the previous lesson, you explored time series forecasting and worked with a dataset showing variations in electrical load over time.

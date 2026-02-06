@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "7c077988328ebfe33b24d07945f16eca",
-  "translation_date": "2025-09-04T21:00:41+00:00",
-  "source_file": "2-Regression/2-Data/README.md",
-  "language_code": "bn"
-}
--->
 # Scikit-learn ব্যবহার করে একটি রিগ্রেশন মডেল তৈরি করুন: ডেটা প্রস্তুত এবং ভিজ্যুয়ালাইজ করুন
 
 ![ডেটা ভিজ্যুয়ালাইজেশন ইনফোগ্রাফিক](../../../../2-Regression/2-Data/images/data-visualization.png)

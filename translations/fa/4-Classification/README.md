@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "74e809ffd1e613a1058bbc3e9600859e",
-  "translation_date": "2025-09-03T23:49:20+00:00",
-  "source_file": "4-Classification/README.md",
-  "language_code": "fa"
-}
--->
 # شروع به کار با طبقه‌بندی
 
 ## موضوع منطقه‌ای: غذاهای خوشمزه آسیایی و هندی 🍜

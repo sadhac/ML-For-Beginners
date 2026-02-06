@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "662b509c39eee205687726636d0a8455",
-  "translation_date": "2025-12-19T16:04:38+00:00",
-  "source_file": "7-TimeSeries/1-Introduction/README.md",
-  "language_code": "ml"
-}
--->
 # ടൈം സീരീസ് ഫോറ്കാസ്റ്റിംഗിലേക്ക് പരിചയം
 
 ![ടൈം സീരീസിന്റെ സംഗ്രഹം ഒരു സ്കെച്ച്നോട്ടിൽ](../../../../translated_images/ml/ml-timeseries.fb98d25f1013fc0c.webp)

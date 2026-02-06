@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "be03c8182982b87ced155e4e9d1438e8",
-  "translation_date": "2025-09-05T17:04:46+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/README.md",
-  "language_code": "ro"
-}
--->
 # Traducere și analiză a sentimentelor cu ML
 
 În lecțiile anterioare ai învățat cum să construiești un bot de bază folosind `TextBlob`, o bibliotecă care încorporează ML în culise pentru a efectua sarcini NLP de bază, cum ar fi extragerea frazelor nominale. O altă provocare importantă în lingvistica computațională este traducerea _exactă_ a unei propoziții dintr-o limbă vorbită sau scrisă în alta.

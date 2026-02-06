@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9d91f3af3758fdd4569fb410575995ef",
-  "translation_date": "2025-09-05T19:35:41+00:00",
-  "source_file": "1-Introduction/4-techniques-of-ML/README.md",
-  "language_code": "vi"
-}
--->
 # Kỹ thuật Học Máy
 
 Quy trình xây dựng, sử dụng và duy trì các mô hình học máy cùng dữ liệu mà chúng sử dụng là một quy trình rất khác biệt so với nhiều quy trình phát triển khác. Trong bài học này, chúng ta sẽ làm rõ quy trình này và phác thảo các kỹ thuật chính mà bạn cần biết. Bạn sẽ:

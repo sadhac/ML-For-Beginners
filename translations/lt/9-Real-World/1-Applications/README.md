@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "83320d6b6994909e35d830cebf214039",
-  "translation_date": "2025-09-05T07:52:15+00:00",
-  "source_file": "9-Real-World/1-Applications/README.md",
-  "language_code": "lt"
-}
--->
 # Postscriptas: Mašininis mokymasis realiame pasaulyje
 
 ![Mašininio mokymosi realiame pasaulyje santrauka sketchnote piešinyje](../../../../sketchnotes/ml-realworld.png)  

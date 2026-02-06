@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "917dbf890db71a322f306050cb284749",
-  "translation_date": "2025-09-04T20:41:47+00:00",
-  "source_file": "7-TimeSeries/2-ARIMA/README.md",
-  "language_code": "ar"
-}
--->
 # التنبؤ بالسلاسل الزمنية باستخدام ARIMA
 
 في الدرس السابق، تعلمت قليلاً عن التنبؤ بالسلاسل الزمنية وقمت بتحميل مجموعة بيانات تُظهر تقلبات الحمل الكهربائي على مدى فترة زمنية.

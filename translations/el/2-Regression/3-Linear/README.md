@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-04T23:23:52+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "el"
-}
--->
 # Δημιουργία μοντέλου παλινδρόμησης με χρήση Scikit-learn: τέσσερις τρόποι παλινδρόμησης
 
 ![Γραμμική vs πολυωνυμική παλινδρόμηση infographic](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -114,11 +105,11 @@ day_of_year = pd.to_datetime(pumpkins['Date']).apply(lambda dt: (dt-datetime(dt.
 
 Από το προηγούμενο μάθημα πιθανότατα έχετε δει ότι η μέση τιμή για διαφορετικούς μήνες μοιάζει με αυτή:
 
-<img alt="Μέση τιμή ανά μήνα" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="Μέση τιμή ανά μήνα" src="../../../../translated_images/el/barchart.a833ea9194346d76.webp" width="50%"/>
 
 Αυτό υποδηλώνει ότι θα πρέπει να υπάρχει κάποια συσχέτιση και μπορούμε να δοκιμάσουμε να εκπαιδεύσουμε ένα μοντέλο γραμμικής παλινδρόμησης για να προβλέψουμε τη σχέση μεταξύ `Μήνα` και `Τιμής`, ή μεταξύ `ΗμέραΈτους` και `Τιμής`. Εδώ είναι το scatterplot που δείχνει τη δεύτερη σχέση:
 
-<img alt="Scatter plot Τιμής vs Ημέρα του Έτους" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="Scatter plot Τιμής vs Ημέρα του Έτους" src="../../../../translated_images/el/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 Ας δούμε αν υπάρχει συσχέτιση χρησιμοποιώντας τη συνάρτηση `corr`:
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="Scatter plot Τιμής vs Ημέρα του Έτους" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="Scatter plot Τιμής vs Ημέρα του Έτους" src="../../../../translated_images/el/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 Η έρευνά μας υποδηλώνει ότι η ποικιλία έχει μεγαλύτερη επίδραση στη συνολική τιμή από την πραγματική ημερομηνία πώλησης. Μπορούμε να το δούμε με ένα γράφημα μπαρ:
 
@@ -145,7 +136,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="Γράφημα μπαρ τιμής vs ποικιλίας" src="images/price-by-variety.png" width="50%" /> 
+<img alt="Γράφημα μπαρ τιμής vs ποικιλίας" src="../../../../translated_images/el/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 Ας επικεντρωθούμε προς το παρόν μόνο σε μία ποικιλία κολοκύθας, την 'pie type', και ας δούμε τι επίδραση έχει η ημερομηνία στην τιμή:
 
@@ -153,7 +144,7 @@ new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="Scatter plot Τιμής vs Ημέρα του Έτους" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="Scatter plot Τιμής vs Ημέρα του Έτους" src="../../../../translated_images/el/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 Αν τώρα υπολογίσουμε τη συσχέτιση μεταξύ `Τιμής` και `ΗμέραΈτους` χρησιμοποιώντας τη συνάρτηση `corr`, θα πάρουμε κάτι σαν `-0.27` - που σημαίνει ότι η εκπαίδευση ενός προβλεπτικού μοντέλου έχει νόημα.
 
@@ -196,7 +187,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```  
 
-<img alt="Γραμμική παλινδρόμηση" src="images/linear-results.png" width="50%" />
+<img alt="Γραμμική παλινδρόμηση" src="../../../../translated_images/el/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## Πολυωνυμική Παλινδρόμηση  
 
@@ -225,7 +216,7 @@ pipeline.fit(X_train,y_train)
 
 Τα pipelines μπορούν να χρησιμοποιηθούν με τον ίδιο τρόπο όπως το αρχικό αντικείμενο `LinearRegression`, δηλαδή μπορούμε να χρησιμοποιήσουμε `fit` στο pipeline και στη συνέχεια `predict` για να πάρουμε τα αποτελέσματα πρόβλεψης. Εδώ είναι το γράφημα που δείχνει τα δεδομένα δοκιμής και την καμπύλη προσέγγισης:
 
-<img alt="Πολυωνυμική παλινδρόμηση" src="images/poly-results.png" width="50%" />
+<img alt="Πολυωνυμική παλινδρόμηση" src="../../../../translated_images/el/poly-results.ee587348f0f1f60b.webp" width="50%" />
 
 Χρησιμοποιώντας την Πολυωνυμική Παλινδρόμηση, μπορούμε να πετύχουμε ελαφρώς χαμηλότερο MSE και υψηλότερο συντελεστή προσδιορισμού, αλλά όχι σημαντικά. Πρέπει να λάβουμε υπόψη και άλλα χαρακτηριστικά!
 
@@ -243,7 +234,7 @@ pipeline.fit(X_train,y_train)
 
 Εδώ μπορείτε να δείτε πώς η μέση τιμή εξαρτάται από την ποικιλία:
 
-<img alt="Μέση τιμή ανά ποικιλία" src="images/price-by-variety.png" width="50%" />
+<img alt="Μέση τιμή ανά ποικιλία" src="../../../../translated_images/el/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 Για να λάβουμε υπόψη την ποικιλία, πρέπει πρώτα να τη μετατρέψουμε σε αριθμητική μορφή ή να την **κωδικοποιήσουμε**. Υπάρχουν διάφοροι τρόποι να το κάνουμε:
 

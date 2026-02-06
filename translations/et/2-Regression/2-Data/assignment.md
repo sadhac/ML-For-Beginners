@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4485a1ed4dd1b5647365e3d87456515d",
-  "translation_date": "2025-10-11T11:48:31+00:00",
-  "source_file": "2-Regression/2-Data/assignment.md",
-  "language_code": "et"
-}
--->
 # Visualisatsioonide uurimine
 
 Andmete visualiseerimiseks on saadaval mitmeid erinevaid teeke. Looge selle õppetunni kõrvitsate andmete põhjal mõned visualisatsioonid, kasutades matplotlibi ja seaborni näidisnotebookis. Milliste teekidega on lihtsam töötada?

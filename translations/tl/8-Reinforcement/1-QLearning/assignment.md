@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "68394b2102d3503882e5e914bd0ff5c1",
-  "translation_date": "2025-08-29T14:14:33+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/assignment.md",
-  "language_code": "tl"
-}
--->
 # Isang Mas Realistikong Mundo
 
 Sa ating sitwasyon, halos hindi napapagod o nagugutom si Peter habang gumagalaw. Sa isang mas realistikong mundo, kailangan niyang umupo at magpahinga paminsan-minsan, at kailangan din niyang kumain. Gawin natin ang ating mundo na mas makatotohanan sa pamamagitan ng pagpapatupad ng mga sumusunod na patakaran:

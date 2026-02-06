@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "abf86d845c84330bce205a46b382ec88",
-  "translation_date": "2025-09-04T23:31:10+00:00",
-  "source_file": "2-Regression/4-Logistic/README.md",
-  "language_code": "el"
-}
--->
 # Λογιστική παλινδρόμηση για πρόβλεψη κατηγοριών
 
 ![Εικόνα σύγκρισης λογιστικής και γραμμικής παλινδρόμησης](../../../../2-Regression/4-Logistic/images/linear-vs-logistic.png)

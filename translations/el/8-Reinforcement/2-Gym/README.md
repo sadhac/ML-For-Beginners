@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "107d5bb29da8a562e7ae72262d251a75",
-  "translation_date": "2025-09-05T01:16:37+00:00",
-  "source_file": "8-Reinforcement/2-Gym/README.md",
-  "language_code": "el"
-}
--->
 ## Προαπαιτούμενα
 
 Σε αυτό το μάθημα, θα χρησιμοποιήσουμε μια βιβλιοθήκη που ονομάζεται **OpenAI Gym** για να προσομοιώσουμε διαφορετικά **περιβάλλοντα**. Μπορείτε να εκτελέσετε τον κώδικα αυτού του μαθήματος τοπικά (π.χ. από το Visual Studio Code), οπότε η προσομοίωση θα ανοίξει σε νέο παράθυρο. Όταν εκτελείτε τον κώδικα online, ίσως χρειαστεί να κάνετε κάποιες τροποποιήσεις, όπως περιγράφεται [εδώ](https://towardsdatascience.com/rendering-openai-gym-envs-on-binder-and-google-colab-536f99391cc7).

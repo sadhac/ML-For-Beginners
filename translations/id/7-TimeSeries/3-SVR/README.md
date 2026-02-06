@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-09-05T19:08:34+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "id"
-}
--->
 # Peramalan Deret Waktu dengan Support Vector Regressor
 
 Pada pelajaran sebelumnya, Anda telah mempelajari cara menggunakan model ARIMA untuk membuat prediksi deret waktu. Sekarang Anda akan mempelajari model Support Vector Regressor, yaitu model regresi yang digunakan untuk memprediksi data kontinu.

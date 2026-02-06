@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "be03c8182982b87ced155e4e9d1438e8",
-  "translation_date": "2025-09-05T14:14:15+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/README.md",
-  "language_code": "hr"
-}
--->
 # Prijevod i analiza sentimenta s ML-om
 
 U prethodnim lekcijama naučili ste kako izraditi osnovnog bota koristeći `TextBlob`, biblioteku koja koristi strojno učenje iza kulisa za obavljanje osnovnih NLP zadataka poput izdvajanja imenskih fraza. Još jedan važan izazov u računalnoj lingvistici je točno _prevođenje_ rečenice s jednog govornog ili pisanog jezika na drugi.

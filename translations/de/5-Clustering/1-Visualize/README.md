@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "730225ea274c9174fe688b21d421539d",
-  "translation_date": "2025-09-04T21:55:35+00:00",
-  "source_file": "5-Clustering/1-Visualize/README.md",
-  "language_code": "de"
-}
--->
 # Einführung in Clustering
 
 Clustering ist eine Art des [Unüberwachten Lernens](https://wikipedia.org/wiki/Unsupervised_learning), das davon ausgeht, dass ein Datensatz nicht beschriftet ist oder dass seine Eingaben nicht mit vordefinierten Ausgaben verknüpft sind. Es verwendet verschiedene Algorithmen, um unbeschriftete Daten zu sortieren und Gruppierungen basierend auf Mustern zu erstellen, die es in den Daten erkennt.

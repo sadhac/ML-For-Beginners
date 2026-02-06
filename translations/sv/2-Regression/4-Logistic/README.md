@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "abf86d845c84330bce205a46b382ec88",
-  "translation_date": "2025-09-05T21:10:30+00:00",
-  "source_file": "2-Regression/4-Logistic/README.md",
-  "language_code": "sv"
-}
--->
 # Logistisk regression för att förutsäga kategorier
 
 ![Infografik om logistisk vs. linjär regression](../../../../2-Regression/4-Logistic/images/linear-vs-logistic.png)

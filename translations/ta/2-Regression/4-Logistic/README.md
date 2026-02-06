@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "abf86d845c84330bce205a46b382ec88",
-  "translation_date": "2025-10-11T11:41:17+00:00",
-  "source_file": "2-Regression/4-Logistic/README.md",
-  "language_code": "ta"
-}
--->
 # வகைகளை கணிக்க Logistic Regression
 
 ![Logistic vs. linear regression infographic](../../../../translated_images/ta/linear-vs-logistic.ba180bf95e7ee667.webp)

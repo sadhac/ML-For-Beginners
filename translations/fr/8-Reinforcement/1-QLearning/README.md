@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "911efd5e595089000cb3c16fce1beab8",
-  "translation_date": "2025-09-04T23:05:02+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/README.md",
-  "language_code": "fr"
-}
--->
 # Introduction à l'apprentissage par renforcement et au Q-Learning
 
 ![Résumé du renforcement dans l'apprentissage automatique sous forme de sketchnote](../../../../sketchnotes/ml-reinforcement.png)

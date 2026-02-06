@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-09-05T20:23:30+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "ms"
-}
--->
 # Latih Mountain Car
 
 [OpenAI Gym](http://gym.openai.com) telah direka sedemikian rupa sehingga semua persekitaran menyediakan API yang sama - iaitu kaedah yang sama `reset`, `step` dan `render`, serta abstraksi yang sama untuk **ruang tindakan** dan **ruang pemerhatian**. Oleh itu, seharusnya mungkin untuk menyesuaikan algoritma pembelajaran pengukuhan yang sama kepada persekitaran yang berbeza dengan perubahan kod yang minimum.

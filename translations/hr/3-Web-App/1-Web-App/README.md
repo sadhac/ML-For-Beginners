@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e0b75f73e4a90d45181dc5581fe2ef5c",
-  "translation_date": "2025-09-05T12:58:07+00:00",
-  "source_file": "3-Web-App/1-Web-App/README.md",
-  "language_code": "hr"
-}
--->
 # Izgradnja web aplikacije za korištenje ML modela
 
 U ovoj lekciji, trenirat ćete ML model na skupu podataka koji je doslovno van ovog svijeta: _viđenja NLO-a tijekom prošlog stoljeća_, preuzetih iz NUFORC baze podataka.

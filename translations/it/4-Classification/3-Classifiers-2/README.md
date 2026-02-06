@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "49047911108adc49d605cddfb455749c",
-  "translation_date": "2025-09-06T07:36:29+00:00",
-  "source_file": "4-Classification/3-Classifiers-2/README.md",
-  "language_code": "it"
-}
--->
 # Classificatori di cucina 2
 
 In questa seconda lezione sulla classificazione, esplorerai ulteriori modi per classificare i dati numerici. Imparerai anche le implicazioni della scelta di un classificatore rispetto a un altro.

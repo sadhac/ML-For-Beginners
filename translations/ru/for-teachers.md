@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b37de02054fa6c0438ede6fabe1fdfb8",
-  "translation_date": "2025-08-29T20:11:41+00:00",
-  "source_file": "for-teachers.md",
-  "language_code": "ru"
-}
--->
 ## Для преподавателей
 
 Хотите использовать эту учебную программу в своем классе? Пожалуйста, не стесняйтесь!

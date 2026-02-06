@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "107d5bb29da8a562e7ae72262d251a75",
-  "translation_date": "2025-09-05T16:46:17+00:00",
-  "source_file": "8-Reinforcement/2-Gym/README.md",
-  "language_code": "sk"
-}
--->
 ## Predpoklady
 
 V tejto lekcii budeme používať knižnicu **OpenAI Gym** na simuláciu rôznych **prostredí**. Kód z tejto lekcie môžete spustiť lokálne (napr. vo Visual Studio Code), v takom prípade sa simulácia otvorí v novom okne. Pri spúšťaní kódu online môže byť potrebné upraviť kód, ako je popísané [tu](https://towardsdatascience.com/rendering-openai-gym-envs-on-binder-and-google-colab-536f99391cc7).

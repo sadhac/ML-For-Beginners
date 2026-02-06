@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-09-04T00:13:47+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "ja"
-}
--->
 # 強化学習の紹介
 
 強化学習（RL）は、教師あり学習や教師なし学習と並ぶ基本的な機械学習のパラダイムの一つとされています。RLは意思決定に関するものであり、正しい決定を下す、または少なくともそこから学ぶことを目指します。

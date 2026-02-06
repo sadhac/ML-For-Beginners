@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "107d5bb29da8a562e7ae72262d251a75",
-  "translation_date": "2025-11-18T18:13:07+00:00",
-  "source_file": "8-Reinforcement/2-Gym/README.md",
-  "language_code": "pcm"
-}
--->
 # CartPole Skating
 
 Di problem we dey solve for di last lesson fit look like play-play problem wey no go fit work for real life. But e no be so, because plenty real life problem dey like dis one - like to play Chess or Go. Dem be di same, because we get board wey get rules and **discrete state**.

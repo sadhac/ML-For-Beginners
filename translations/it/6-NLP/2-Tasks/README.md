@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5f3cb462e3122e1afe7ab0050ccf2bd3",
-  "translation_date": "2025-09-06T07:39:03+00:00",
-  "source_file": "6-NLP/2-Tasks/README.md",
-  "language_code": "it"
-}
--->
 # Compiti e tecniche comuni di elaborazione del linguaggio naturale
 
 Per la maggior parte dei compiti di *elaborazione del linguaggio naturale*, il testo da elaborare deve essere suddiviso, esaminato e i risultati devono essere archiviati o confrontati con regole e set di dati. Questi compiti permettono al programmatore di derivare il _significato_ o l'_intento_ o solo la _frequenza_ dei termini e delle parole in un testo.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "68394b2102d3503882e5e914bd0ff5c1",
-  "translation_date": "2025-09-05T16:43:11+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/assignment.md",
-  "language_code": "hu"
-}
--->
 # Egy Reálisabb Világ
 
 A mi helyzetünkben Péter szinte fáradtság vagy éhség nélkül tudott mozogni. Egy reálisabb világban időnként le kell ülnie pihenni, és ennie is kell. Tegyük világunkat reálisabbá az alábbi szabályok bevezetésével:

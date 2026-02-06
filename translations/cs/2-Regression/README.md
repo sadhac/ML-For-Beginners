@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "508582278dbb8edd2a8a80ac96ef416c",
-  "translation_date": "2025-09-04T23:18:31+00:00",
-  "source_file": "2-Regression/README.md",
-  "language_code": "cs"
-}
--->
 # Regresní modely pro strojové učení
 ## Regionální téma: Regresní modely pro ceny dýní v Severní Americe 🎃
 

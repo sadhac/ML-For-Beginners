@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-09-05T19:10:46+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "ms"
-}
--->
 # Model pengelompokan untuk pembelajaran mesin
 
 Pengelompokan adalah tugas pembelajaran mesin di mana ia mencari objek yang menyerupai satu sama lain dan mengelompokkannya ke dalam kumpulan yang dipanggil kluster. Apa yang membezakan pengelompokan daripada pendekatan lain dalam pembelajaran mesin ialah prosesnya berlaku secara automatik, malah boleh dikatakan ia bertentangan dengan pembelajaran terarah.

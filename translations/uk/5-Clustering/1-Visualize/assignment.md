@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "589fa015a5e7d9e67bd629f7d47b53de",
-  "translation_date": "2025-09-05T12:17:27+00:00",
-  "source_file": "5-Clustering/1-Visualize/assignment.md",
-  "language_code": "uk"
-}
--->
 # Дослідження інших візуалізацій для кластеризації
 
 ## Інструкції

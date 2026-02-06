@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "134d8759f0e2ab886e9aa4f62362c201",
-  "translation_date": "2025-10-11T11:13:28+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "et"
-}
--->
 # Tõrkeotsingu juhend
 
 See juhend aitab lahendada levinumaid probleeme, mis võivad tekkida algajatele mõeldud masinõppe õppekava kasutamisel. Kui siit lahendust ei leia, vaadake meie [Discordi arutelusid](https://aka.ms/foundry/discord) või [avage probleem](https://github.com/microsoft/ML-For-Beginners/issues).

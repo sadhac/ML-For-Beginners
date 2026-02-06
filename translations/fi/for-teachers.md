@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b37de02054fa6c0438ede6fabe1fdfb8",
-  "translation_date": "2025-09-04T23:17:42+00:00",
-  "source_file": "for-teachers.md",
-  "language_code": "fi"
-}
--->
 ## Opettajille
 
 Haluaisitko käyttää tätä opetusohjelmaa luokassasi? Ole hyvä ja käytä vapaasti!

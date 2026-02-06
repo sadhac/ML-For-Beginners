@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ee0670655c89e4719319764afb113624",
-  "translation_date": "2025-12-19T14:25:07+00:00",
-  "source_file": "6-NLP/data/README.md",
-  "language_code": "te"
-}
--->
 హోటల్ సమీక్ష డేటాను ఈ ఫోల్డర్‌లో డౌన్లోడ్ చేయండి.
 
 ---

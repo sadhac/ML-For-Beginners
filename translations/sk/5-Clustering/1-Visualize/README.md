@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "730225ea274c9174fe688b21d421539d",
-  "translation_date": "2025-09-05T15:42:19+00:00",
-  "source_file": "5-Clustering/1-Visualize/README.md",
-  "language_code": "sk"
-}
--->
 # Úvod do zhlukovania
 
 Zhlukovanie je typ [neučenej metódy](https://wikipedia.org/wiki/Unsupervised_learning), ktorá predpokladá, že dataset nie je označený alebo že jeho vstupy nie sú spojené s preddefinovanými výstupmi. Používa rôzne algoritmy na triedenie neoznačených dát a poskytuje skupiny na základe vzorov, ktoré rozpozná v dátach.

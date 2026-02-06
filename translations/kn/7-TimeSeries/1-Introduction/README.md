@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "662b509c39eee205687726636d0a8455",
-  "translation_date": "2025-12-19T16:06:38+00:00",
-  "source_file": "7-TimeSeries/1-Introduction/README.md",
-  "language_code": "kn"
-}
--->
 # ಕಾಲ ಸರಣಿಗಳ ಭವಿಷ್ಯವಾಣಿ ಪರಿಚಯ
 
 ![ಕಾಲ ಸರಣಿಗಳ ಸಾರಾಂಶವನ್ನು ಸ್ಕೆಚ್‌ನೋಟ್‌ನಲ್ಲಿ](../../../../translated_images/kn/ml-timeseries.fb98d25f1013fc0c.webp)

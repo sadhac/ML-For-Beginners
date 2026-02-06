@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-09-05T18:57:42+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "he"
-}
--->
 # מבוא לחיזוי סדרות זמן
 
 מהו חיזוי סדרות זמן? מדובר בניבוי אירועים עתידיים על ידי ניתוח מגמות מהעבר.

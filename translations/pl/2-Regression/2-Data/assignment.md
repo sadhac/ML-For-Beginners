@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4485a1ed4dd1b5647365e3d87456515d",
-  "translation_date": "2025-09-03T16:44:53+00:00",
-  "source_file": "2-Regression/2-Data/assignment.md",
-  "language_code": "pl"
-}
--->
 # Eksploracja Wizualizacji
 
 Istnieje wiele różnych bibliotek dostępnych do wizualizacji danych. Stwórz kilka wizualizacji, korzystając z danych o dyniach z tej lekcji, używając bibliotek matplotlib i seaborn w przykładowym notatniku. Które biblioteki są łatwiejsze w użyciu?

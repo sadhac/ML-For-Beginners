@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-09-05T18:13:47+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "tl"
-}
--->
 # Pagtataya ng Time Series gamit ang Support Vector Regressor
 
 Sa nakaraang aralin, natutunan mo kung paano gamitin ang ARIMA model para gumawa ng mga prediksyon sa time series. Ngayon, titingnan natin ang Support Vector Regressor model, isang regressor model na ginagamit para magpredikta ng tuloy-tuloy na data.

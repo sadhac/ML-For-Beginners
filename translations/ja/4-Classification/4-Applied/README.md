@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61bdec27ed2da8b098cd9065405d9bb0",
-  "translation_date": "2025-09-06T09:37:03+00:00",
-  "source_file": "4-Classification/4-Applied/README.md",
-  "language_code": "ja"
-}
--->
 # 料理推薦ウェブアプリを作成する
 
 このレッスンでは、これまでのレッスンで学んだ技術を活用し、美味しい料理データセットを使用して分類モデルを構築します。また、保存したモデルを使用する小さなウェブアプリを作成し、Onnxのウェブランタイムを活用します。

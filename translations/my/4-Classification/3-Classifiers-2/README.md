@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "49047911108adc49d605cddfb455749c",
-  "translation_date": "2025-09-05T13:15:21+00:00",
-  "source_file": "4-Classification/3-Classifiers-2/README.md",
-  "language_code": "my"
-}
--->
 # Cuisine classifiers 2
 
 ဒီ classification သင်ခန်းစာအပိုင်း (၂) မှာ သင် numeric data ကို classify လုပ်နိုင်တဲ့ နည်းလမ်းတွေကို ပိုမိုလေ့လာနိုင်မှာဖြစ်ပါတယ်။ အပြင်မှာ classifier တစ်ခုကို ရွေးချယ်တဲ့အခါမှာ ဖြစ်နိုင်တဲ့ အကျိုးဆက်တွေကိုလည်း သင်လေ့လာနိုင်ပါမယ်။

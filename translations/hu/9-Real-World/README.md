@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5e069a0ac02a9606a69946c2b3c574a9",
-  "translation_date": "2025-09-05T15:49:03+00:00",
-  "source_file": "9-Real-World/README.md",
-  "language_code": "hu"
-}
--->
 # Utószó: Klasszikus gépi tanulás valós alkalmazásai
 
 A tananyag ezen részében megismerkedhetsz a klasszikus gépi tanulás néhány valós alkalmazásával. Az internetet átkutatva olyan tanulmányokat és cikkeket gyűjtöttünk össze, amelyek ezekkel a stratégiákkal dolgoztak, miközben a neurális hálózatokat, mélytanulást és mesterséges intelligenciát a lehető legnagyobb mértékben elkerülték. Ismerd meg, hogyan használják a gépi tanulást üzleti rendszerekben, ökológiai alkalmazásokban, pénzügyekben, művészetekben és kultúrában, valamint sok más területen.

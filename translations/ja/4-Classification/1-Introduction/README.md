@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "aaf391d922bd6de5efba871d514c6d47",
-  "translation_date": "2025-09-06T09:37:48+00:00",
-  "source_file": "4-Classification/1-Introduction/README.md",
-  "language_code": "ja"
-}
--->
 # 分類の紹介
 
 この4つのレッスンでは、古典的な機械学習の基本的な焦点である_分類_について探求します。アジアとインドの素晴らしい料理に関するデータセットを使い、さまざまな分類アルゴリズムを実践していきます。お腹が空いてきましたか？

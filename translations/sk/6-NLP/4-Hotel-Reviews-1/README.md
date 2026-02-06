@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "8d32dadeda93c6fb5c43619854882ab1",
-  "translation_date": "2025-09-05T16:55:34+00:00",
-  "source_file": "6-NLP/4-Hotel-Reviews-1/README.md",
-  "language_code": "sk"
-}
--->
 # Analýza sentimentu pomocou recenzií hotelov - spracovanie údajov
 
 V tejto časti použijete techniky z predchádzajúcich lekcií na prieskumnú analýzu veľkého datasetu. Keď získate dobré pochopenie užitočnosti jednotlivých stĺpcov, naučíte sa:

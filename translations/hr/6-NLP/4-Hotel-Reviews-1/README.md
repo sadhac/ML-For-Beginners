@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "8d32dadeda93c6fb5c43619854882ab1",
-  "translation_date": "2025-09-05T13:59:21+00:00",
-  "source_file": "6-NLP/4-Hotel-Reviews-1/README.md",
-  "language_code": "hr"
-}
--->
 # Analiza sentimenta s recenzijama hotela - obrada podataka
 
 U ovom dijelu koristit ćete tehnike iz prethodnih lekcija za provođenje istraživačke analize velikog skupa podataka. Kada steknete dobar uvid u korisnost različitih stupaca, naučit ćete:

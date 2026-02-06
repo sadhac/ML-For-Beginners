@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "be03c8182982b87ced155e4e9d1438e8",
-  "translation_date": "2025-11-18T18:36:10+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/README.md",
-  "language_code": "pcm"
-}
--->
 # Translation and sentiment analysis with ML
 
 For di previous lessons, you don learn how to build one basic bot wey dey use `TextBlob`, one library wey get ML for di background to do basic NLP work like noun phrase extraction. Another big wahala for computational linguistics na how to translate sentence well from one language to another.

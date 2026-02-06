@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5f3cb462e3122e1afe7ab0050ccf2bd3",
-  "translation_date": "2025-09-05T13:54:13+00:00",
-  "source_file": "6-NLP/2-Tasks/README.md",
-  "language_code": "hr"
-}
--->
 # Uobičajeni zadaci i tehnike obrade prirodnog jezika
 
 Za većinu zadataka obrade prirodnog jezika (*natural language processing*), tekst koji se obrađuje mora se razložiti, analizirati i rezultati pohraniti ili usporediti s pravilima i skupovima podataka. Ovi zadaci omogućuju programeru da izvuče _značenje_, _namjeru_ ili samo _učestalost_ pojmova i riječi u tekstu.

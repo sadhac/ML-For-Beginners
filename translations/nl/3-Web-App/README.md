@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9836ff53cfef716ddfd70e06c5f43436",
-  "translation_date": "2025-09-05T19:44:05+00:00",
-  "source_file": "3-Web-App/README.md",
-  "language_code": "nl"
-}
--->
 # Bouw een webapp om je ML-model te gebruiken
 
 In dit deel van de cursus maak je kennis met een toegepast ML-onderwerp: hoe je je Scikit-learn model kunt opslaan als een bestand dat gebruikt kan worden om voorspellingen te doen binnen een webapplicatie. Zodra het model is opgeslagen, leer je hoe je het kunt gebruiken in een webapp gebouwd met Flask. Je maakt eerst een model met behulp van gegevens over UFO-waarnemingen! Vervolgens bouw je een webapp waarmee je een aantal seconden, een breedtegraad en een lengtegraad kunt invoeren om te voorspellen welk land een UFO heeft gemeld.

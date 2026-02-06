@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61bdec27ed2da8b098cd9065405d9bb0",
-  "translation_date": "2025-09-05T13:11:19+00:00",
-  "source_file": "4-Classification/4-Applied/README.md",
-  "language_code": "sl"
-}
--->
 # Zgradite spletno aplikacijo za priporočanje kulinarike
 
 V tej lekciji boste zgradili model za klasifikacijo z uporabo nekaterih tehnik, ki ste se jih naučili v prejšnjih lekcijah, ter z okusnim kulinaričnim naborom podatkov, ki smo ga uporabljali skozi celotno serijo. Poleg tega boste zgradili majhno spletno aplikacijo, ki bo uporabljala shranjen model, pri čemer boste izkoristili Onnx-ov spletni runtime.

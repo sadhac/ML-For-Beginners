@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fba3b94d88bfb9b81369b869a1e9a20f",
-  "translation_date": "2025-08-29T18:03:59+00:00",
-  "source_file": "sketchnotes/LICENSE.md",
-  "language_code": "pa"
-}
--->
 ਅਟ੍ਰਿਬਿਊਸ਼ਨ-ਸ਼ੇਅਰਅਲਾਈਕ 4.0 ਇੰਟਰਨੈਸ਼ਨਲ
 
 =======================================================================

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "8d32dadeda93c6fb5c43619854882ab1",
-  "translation_date": "2025-09-05T10:55:43+00:00",
-  "source_file": "6-NLP/4-Hotel-Reviews-1/README.md",
-  "language_code": "ko"
-}
--->
 # 호텔 리뷰를 활용한 감정 분석 - 데이터 처리
 
 이 섹션에서는 이전 강의에서 배운 기술을 활용하여 대규모 데이터셋에 대한 탐색적 데이터 분석을 수행합니다. 다양한 열의 유용성을 충분히 이해한 후, 다음을 배우게 됩니다:

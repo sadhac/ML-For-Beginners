@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9a6b702d1437c0467e3c5c28d763dac2",
-  "translation_date": "2025-09-05T21:37:46+00:00",
-  "source_file": "1-Introduction/3-fairness/README.md",
-  "language_code": "th"
-}
--->
 # การสร้างโซลูชัน Machine Learning ด้วย AI ที่มีความรับผิดชอบ
 
 ![ภาพสรุปเกี่ยวกับ AI ที่มีความรับผิดชอบใน Machine Learning](../../../../sketchnotes/ml-fairness.png)

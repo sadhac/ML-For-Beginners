@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "2c742993fe95d5bcbb2846eda3d442a1",
-  "translation_date": "2025-09-05T20:44:42+00:00",
-  "source_file": "6-NLP/5-Hotel-Reviews-2/README.md",
-  "language_code": "vi"
-}
--->
 # Phân tích cảm xúc với đánh giá khách sạn
 
 Bây giờ bạn đã khám phá chi tiết bộ dữ liệu, đã đến lúc lọc các cột và sử dụng các kỹ thuật NLP trên bộ dữ liệu để thu thập những thông tin mới về các khách sạn.

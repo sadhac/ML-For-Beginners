@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-09-06T10:49:54+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "en"
-}
--->
 # Clustering models for machine learning
 
 Clustering is a machine learning task that aims to identify objects that are similar to each other and group them into clusters. What sets clustering apart from other machine learning approaches is that it happens automatically. In fact, it’s fair to say it’s the opposite of supervised learning.

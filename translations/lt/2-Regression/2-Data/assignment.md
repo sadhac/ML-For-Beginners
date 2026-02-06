@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4485a1ed4dd1b5647365e3d87456515d",
-  "translation_date": "2025-09-03T16:44:47+00:00",
-  "source_file": "2-Regression/2-Data/assignment.md",
-  "language_code": "lt"
-}
--->
 # Vizualizacijų tyrinėjimas
 
 Yra keletas skirtingų bibliotekų, skirtų duomenų vizualizacijai. Sukurkite keletą vizualizacijų naudodami Moliūgų duomenis iš šios pamokos, pasitelkdami matplotlib ir seaborn pavyzdiniame užrašų knygelėje. Kurios bibliotekos yra lengviau naudojamos?

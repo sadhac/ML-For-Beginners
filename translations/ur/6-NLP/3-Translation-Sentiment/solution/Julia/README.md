@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a39c15d63f3b2795ee2284a82b986b93",
-  "translation_date": "2025-08-29T14:35:43+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/solution/Julia/README.md",
-  "language_code": "ur"
-}
--->
 یہ ایک عارضی جگہ دار ہے
 
 ---

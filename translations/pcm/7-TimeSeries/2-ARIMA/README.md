@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "917dbf890db71a322f306050cb284749",
-  "translation_date": "2025-11-18T18:56:41+00:00",
-  "source_file": "7-TimeSeries/2-ARIMA/README.md",
-  "language_code": "pcm"
-}
--->
 # Time series forecasting wit ARIMA
 
 For di last lesson, you don learn small about time series forecasting and you don load one dataset wey dey show how electrical load dey change for one time period.

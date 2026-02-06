@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-09-05T01:03:44+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "cs"
-}
--->
 # Úvod do posilovaného učení
 
 Posilované učení, RL, je považováno za jeden ze základních paradigmat strojového učení, vedle učení s učitelem a učení bez učitele. RL se zaměřuje na rozhodování: poskytování správných rozhodnutí nebo alespoň učení se z nich.

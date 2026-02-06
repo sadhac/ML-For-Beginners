@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-10-11T11:44:57+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "ta"
-}
--->
 # Scikit-learn பயன்படுத்தி ஒரு ரிக்ரஷன் மாடல் உருவாக்குதல்: நான்கு விதமான ரிக்ரஷன்
 
 ![நேரியல் மற்றும் பாலினோமியல் ரிக்ரஷன் தகவல் வரைபடம்](../../../../translated_images/ta/linear-polynomial.5523c7cb6576ccab.webp)

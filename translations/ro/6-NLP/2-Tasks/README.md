@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5f3cb462e3122e1afe7ab0050ccf2bd3",
-  "translation_date": "2025-09-05T16:51:49+00:00",
-  "source_file": "6-NLP/2-Tasks/README.md",
-  "language_code": "ro"
-}
--->
 # Sarcini și tehnici comune de procesare a limbajului natural
 
 Pentru majoritatea sarcinilor de *procesare a limbajului natural*, textul care trebuie procesat trebuie să fie descompus, examinat, iar rezultatele stocate sau corelate cu reguli și seturi de date. Aceste sarcini permit programatorului să derive _semnificația_ sau _intenția_ sau doar _frecvența_ termenilor și cuvintelor dintr-un text.

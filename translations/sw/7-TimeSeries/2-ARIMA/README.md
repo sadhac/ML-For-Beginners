@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "917dbf890db71a322f306050cb284749",
-  "translation_date": "2025-09-05T15:28:13+00:00",
-  "source_file": "7-TimeSeries/2-ARIMA/README.md",
-  "language_code": "sw"
-}
--->
 # Utabiri wa mfululizo wa muda kwa kutumia ARIMA
 
 Katika somo lililopita, ulijifunza kidogo kuhusu utabiri wa mfululizo wa muda na ukapakia seti ya data inayoonyesha mabadiliko ya mzigo wa umeme kwa kipindi fulani cha muda.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fa81d226c71d5af7a2cade31c1c92b88",
-  "translation_date": "2025-09-05T11:42:11+00:00",
-  "source_file": "2-Regression/1-Tools/README.md",
-  "language_code": "uk"
-}
--->
 # Початок роботи з Python та Scikit-learn для регресійних моделей
 
 ![Резюме регресій у вигляді скетчноту](../../../../sketchnotes/ml-regression.png)

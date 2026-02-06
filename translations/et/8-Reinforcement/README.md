@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-10-11T11:14:48+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "et"
-}
--->
 # Sissejuhatus tugevdusõppesse
 
 Tugevdusõpe, RL, on üks põhilisi masinõppe paradigmasid, kõrvuti juhendatud ja juhendamata õppega. RL keskendub otsustele: õigete otsuste tegemisele või vähemalt nende õppimisele.

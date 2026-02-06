@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1eb379dc2d0c9940b320732d16083778",
-  "translation_date": "2025-09-05T16:49:22+00:00",
-  "source_file": "6-NLP/README.md",
-  "language_code": "hu"
-}
--->
 # Bevezetés a természetes nyelvfeldolgozásba
 
 A természetes nyelvfeldolgozás (NLP) egy számítógépes program képessége arra, hogy megértse az emberi nyelvet, ahogyan azt beszélik és írják – ezt nevezzük természetes nyelvnek. Ez a mesterséges intelligencia (AI) egyik összetevője. Az NLP több mint 50 éve létezik, és a nyelvészet területén gyökerezik. Az egész terület célja, hogy segítse a gépeket az emberi nyelv megértésében és feldolgozásában. Ezután olyan feladatok elvégzésére használható, mint például a helyesírás-ellenőrzés vagy a gépi fordítás. Számos valós alkalmazása van különböző területeken, például orvosi kutatásban, keresőmotorokban és üzleti intelligenciában.

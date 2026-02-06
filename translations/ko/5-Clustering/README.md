@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-09-03T22:55:54+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "ko"
-}
--->
 # 머신 러닝을 위한 클러스터링 모델
 
 클러스터링은 서로 비슷한 객체를 찾아 클러스터라고 불리는 그룹으로 묶는 머신 러닝 작업입니다. 클러스터링이 머신 러닝의 다른 접근 방식과 다른 점은 모든 것이 자동으로 이루어진다는 점입니다. 사실, 이는 지도 학습(supervised learning)의 반대라고 할 수 있습니다.

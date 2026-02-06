@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "977ec5266dfd78ad1ce2bd8d46fccbda",
-  "translation_date": "2025-09-04T23:15:41+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "da"
-}
--->
 # Bidrag
 
 Dette projekt byder velkommen til bidrag og forslag. De fleste bidrag kræver, at du

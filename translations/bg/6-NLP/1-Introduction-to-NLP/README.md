@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1c2ec40cf55c98a028a359c27ef7e45a",
-  "translation_date": "2025-09-05T01:33:38+00:00",
-  "source_file": "6-NLP/1-Introduction-to-NLP/README.md",
-  "language_code": "bg"
-}
--->
 # Въведение в обработката на естествен език
 
 Този урок обхваща кратка история и важни концепции на *обработката на естествен език*, подполе на *компютърната лингвистика*.

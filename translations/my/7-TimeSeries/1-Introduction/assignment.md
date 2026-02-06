@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "d1781b0b92568ea1d119d0a198b576b4",
-  "translation_date": "2025-09-05T12:03:17+00:00",
-  "source_file": "7-TimeSeries/1-Introduction/assignment.md",
-  "language_code": "my"
-}
--->
 # အချိန်စီးရီးများကို နောက်ထပ်မြင်ကွင်းကျယ်စေပါ
 
 ## လမ်းညွှန်ချက်များ

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-08-29T14:18:07+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "ur"
-}
--->
 # پہاڑی کار کی تربیت
 
 [OpenAI Gym](http://gym.openai.com) اس طرح ڈیزائن کیا گیا ہے کہ تمام ماحول ایک ہی API فراہم کرتے ہیں - یعنی ایک جیسے طریقے `reset`, `step` اور `render`، اور **action space** اور **observation space** کی ایک جیسی تجریدات۔ اس طرح، یہ ممکن ہونا چاہیے کہ ایک ہی reinforcement learning الگورتھم کو مختلف ماحول میں کم سے کم کوڈ تبدیلیوں کے ساتھ اپنایا جا سکے۔

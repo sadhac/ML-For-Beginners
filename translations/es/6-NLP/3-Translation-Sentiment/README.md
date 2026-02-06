@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "be03c8182982b87ced155e4e9d1438e8",
-  "translation_date": "2025-09-04T22:29:03+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/README.md",
-  "language_code": "es"
-}
--->
 # Traducción y análisis de sentimientos con ML
 
 En las lecciones anteriores aprendiste cómo construir un bot básico utilizando `TextBlob`, una biblioteca que incorpora ML detrás de escena para realizar tareas básicas de PLN como la extracción de frases nominales. Otro desafío importante en la lingüística computacional es la _traducción_ precisa de una oración de un idioma hablado o escrito a otro.

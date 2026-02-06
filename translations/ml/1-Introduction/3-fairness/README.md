@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9a6b702d1437c0467e3c5c28d763dac2",
-  "translation_date": "2025-12-19T13:40:51+00:00",
-  "source_file": "1-Introduction/3-fairness/README.md",
-  "language_code": "ml"
-}
--->
 # ഉത്തരവാദിത്വമുള്ള AI ഉപയോഗിച്ച് മെഷീൻ ലേണിംഗ് പരിഹാരങ്ങൾ നിർമ്മിക്കൽ
  
 ![Summary of responsible AI in Machine Learning in a sketchnote](../../../../translated_images/ml/ml-fairness.ef296ebec6afc98a.webp)

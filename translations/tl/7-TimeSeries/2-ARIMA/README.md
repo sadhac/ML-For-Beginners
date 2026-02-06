@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "917dbf890db71a322f306050cb284749",
-  "translation_date": "2025-09-05T18:12:29+00:00",
-  "source_file": "7-TimeSeries/2-ARIMA/README.md",
-  "language_code": "tl"
-}
--->
 # Time series forecasting gamit ang ARIMA
 
 Sa nakaraang aralin, natutunan mo ang tungkol sa time series forecasting at nag-load ng dataset na nagpapakita ng pagbabago-bago ng electrical load sa loob ng isang panahon.

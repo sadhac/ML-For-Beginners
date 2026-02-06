@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9d91f3af3758fdd4569fb410575995ef",
-  "translation_date": "2025-09-04T23:00:20+00:00",
-  "source_file": "1-Introduction/4-techniques-of-ML/README.md",
-  "language_code": "fr"
-}
--->
 # Techniques de l'apprentissage automatique
 
 Le processus de création, d'utilisation et de maintenance des modèles d'apprentissage automatique ainsi que des données qu'ils utilisent est très différent de nombreux autres flux de travail de développement. Dans cette leçon, nous allons démystifier ce processus et présenter les principales techniques que vous devez connaître. Vous allez :

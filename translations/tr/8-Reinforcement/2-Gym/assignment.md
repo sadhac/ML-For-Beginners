@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-09-06T08:05:23+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "tr"
-}
--->
 # Dağ Arabası Eğitimi
 
 [OpenAI Gym](http://gym.openai.com), tüm ortamların aynı API'yi sağladığı şekilde tasarlanmıştır - yani aynı `reset`, `step` ve `render` yöntemleri ve **eylem alanı** ve **gözlem alanı** için aynı soyutlamalar. Bu nedenle, aynı pekiştirmeli öğrenme algoritmalarını farklı ortamlara minimum kod değişikliği ile uyarlamak mümkün olmalıdır.

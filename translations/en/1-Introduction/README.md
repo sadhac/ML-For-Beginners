@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cf8ecc83f28e5b98051d2179eca08e08",
-  "translation_date": "2025-09-06T10:52:57+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "en"
-}
--->
 # Introduction to machine learning
 
 In this section of the curriculum, you will be introduced to the fundamental concepts behind the field of machine learning, what it entails, and learn about its history and the techniques researchers use to work with it. Let's dive into this exciting world of ML together!

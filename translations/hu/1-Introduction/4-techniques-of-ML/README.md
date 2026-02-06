@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9d91f3af3758fdd4569fb410575995ef",
-  "translation_date": "2025-09-05T16:03:22+00:00",
-  "source_file": "1-Introduction/4-techniques-of-ML/README.md",
-  "language_code": "hu"
-}
--->
 # Gépi tanulás technikái
 
 A gépi tanulási modellek és az általuk használt adatok létrehozása, használata és karbantartása nagyon eltérő folyamat, mint sok más fejlesztési munkafolyamat. Ebben a leckében eloszlatjuk a folyamat körüli homályt, és bemutatjuk azokat a fő technikákat, amelyeket ismerned kell. A következőket fogod megtanulni:

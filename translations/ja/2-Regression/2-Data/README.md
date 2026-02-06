@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "7c077988328ebfe33b24d07945f16eca",
-  "translation_date": "2025-09-06T09:27:59+00:00",
-  "source_file": "2-Regression/2-Data/README.md",
-  "language_code": "ja"
-}
--->
 # Scikit-learnを使った回帰モデルの構築：データの準備と可視化
 
 ![データ可視化のインフォグラフィック](../../../../2-Regression/2-Data/images/data-visualization.png)

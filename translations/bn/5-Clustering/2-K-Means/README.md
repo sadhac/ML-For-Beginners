@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "7cdd17338d9bbd7e2171c2cd462eb081",
-  "translation_date": "2025-09-04T21:04:42+00:00",
-  "source_file": "5-Clustering/2-K-Means/README.md",
-  "language_code": "bn"
-}
--->
 # K-Means ক্লাস্টারিং
 
 ## [পূর্ব-লেকচার কুইজ](https://ff-quizzes.netlify.app/en/ml/)

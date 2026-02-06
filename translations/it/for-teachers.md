@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b37de02054fa6c0438ede6fabe1fdfb8",
-  "translation_date": "2025-08-29T20:12:08+00:00",
-  "source_file": "for-teachers.md",
-  "language_code": "it"
-}
--->
 ## Per gli educatori
 
 Vorresti utilizzare questo curriculum nella tua classe? Sentiti libero di farlo!

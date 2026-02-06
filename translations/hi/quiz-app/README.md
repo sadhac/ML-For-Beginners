@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6d130dffca5db70d7e615f926cb1ad4c",
-  "translation_date": "2025-09-03T23:48:35+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "hi"
-}
--->
 # क्विज़
 
 ये क्विज़ ML पाठ्यक्रम के लिए पूर्व-व्याख्यान और पश्चात-व्याख्यान क्विज़ हैं, जो https://aka.ms/ml-beginners पर उपलब्ध है।

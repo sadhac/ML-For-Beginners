@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61bdec27ed2da8b098cd9065405d9bb0",
-  "translation_date": "2025-09-04T22:02:39+00:00",
-  "source_file": "4-Classification/4-Applied/README.md",
-  "language_code": "de"
-}
--->
 # Erstellen einer Web-App zur Empfehlung von Küchen
 
 In dieser Lektion wirst du ein Klassifikationsmodell erstellen, indem du einige der Techniken anwendest, die du in den vorherigen Lektionen gelernt hast, und mit dem köstlichen Küchendatensatz arbeitest, der in dieser Serie verwendet wurde. Außerdem wirst du eine kleine Web-App entwickeln, um ein gespeichertes Modell zu nutzen, indem du die Web-Laufzeit von Onnx einsetzt.

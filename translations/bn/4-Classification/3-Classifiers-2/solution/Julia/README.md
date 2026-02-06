@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a39c15d63f3b2795ee2284a82b986b93",
-  "translation_date": "2025-08-29T21:50:41+00:00",
-  "source_file": "4-Classification/3-Classifiers-2/solution/Julia/README.md",
-  "language_code": "bn"
-}
--->
 এটি একটি অস্থায়ী প্লেসহোল্ডার
 
 ---

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "911efd5e595089000cb3c16fce1beab8",
-  "translation_date": "2025-09-05T22:02:45+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/README.md",
-  "language_code": "th"
-}
--->
 # การแนะนำเกี่ยวกับ Reinforcement Learning และ Q-Learning
 
 ![สรุปเกี่ยวกับ reinforcement ใน machine learning ในรูปแบบ sketchnote](../../../../sketchnotes/ml-reinforcement.png)

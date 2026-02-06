@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "2c742993fe95d5bcbb2846eda3d442a1",
-  "translation_date": "2025-09-06T07:41:41+00:00",
-  "source_file": "6-NLP/5-Hotel-Reviews-2/README.md",
-  "language_code": "it"
-}
--->
 # Analisi del sentiment con recensioni di hotel
 
 Ora che hai esplorato il dataset in dettaglio, è il momento di filtrare le colonne e utilizzare tecniche di elaborazione del linguaggio naturale (NLP) sul dataset per ottenere nuove informazioni sugli hotel.

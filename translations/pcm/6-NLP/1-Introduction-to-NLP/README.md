@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1c2ec40cf55c98a028a359c27ef7e45a",
-  "translation_date": "2025-11-18T18:28:07+00:00",
-  "source_file": "6-NLP/1-Introduction-to-NLP/README.md",
-  "language_code": "pcm"
-}
--->
 # Introduction to natural language processing
 
 Dis lesson go talk small about di history and di important tins wey dey for *natural language processing*, wey be one part of *computational linguistics*.

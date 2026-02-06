@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "91c6a180ef08e20cc15acfd2d6d6e164",
-  "translation_date": "2025-09-05T12:34:24+00:00",
-  "source_file": "9-Real-World/2-Debugging-ML-Models/assignment.md",
-  "language_code": "sl"
-}
--->
 # Raziskovanje nadzorne plošče za odgovorno umetno inteligenco (RAI)
 
 ## Navodila

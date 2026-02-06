@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "911efd5e595089000cb3c16fce1beab8",
-  "translation_date": "2025-09-04T22:25:29+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/README.md",
-  "language_code": "es"
-}
--->
 # Introducción al Aprendizaje por Refuerzo y Q-Learning
 
 ![Resumen del refuerzo en el aprendizaje automático en un sketchnote](../../../../sketchnotes/ml-reinforcement.png)

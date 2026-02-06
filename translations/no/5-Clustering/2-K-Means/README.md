@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "7cdd17338d9bbd7e2171c2cd462eb081",
-  "translation_date": "2025-09-05T21:29:46+00:00",
-  "source_file": "5-Clustering/2-K-Means/README.md",
-  "language_code": "no"
-}
--->
 # K-Means klynging
 
 ## [Pre-forelesningsquiz](https://ff-quizzes.netlify.app/en/ml/)

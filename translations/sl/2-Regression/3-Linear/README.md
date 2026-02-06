@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-05T11:28:40+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "sl"
-}
--->
 # Ustvarjanje regresijskega modela s Scikit-learn: štiri načini regresije
 
 ![Infografika linearne in polinomske regresije](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -114,11 +105,11 @@ Zdaj, ko razumete matematiko za linearno regresijo, ustvarimo regresijski model,
 
 Iz prejšnje lekcije ste verjetno videli, da povprečna cena za različne mesece izgleda takole:
 
-<img alt="Povprečna cena po mesecih" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="Povprečna cena po mesecih" src="../../../../translated_images/sl/barchart.a833ea9194346d76.webp" width="50%"/>
 
 To nakazuje, da bi morala obstajati neka korelacija, in lahko poskusimo trenirati linearni regresijski model za napovedovanje razmerja med `Mesec` in `Cena` ali med `DanVLeto` in `Cena`. Tukaj je raztrosni diagram, ki prikazuje slednje razmerje:
 
-<img alt="Raztrosni diagram cene glede na dan v letu" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="Raztrosni diagram cene glede na dan v letu" src="../../../../translated_images/sl/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 Preverimo, ali obstaja korelacija, z uporabo funkcije `corr`:
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="Raztrosni diagram cene glede na dan v letu" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="Raztrosni diagram cene glede na dan v letu" src="../../../../translated_images/sl/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 Naša raziskava nakazuje, da ima vrsta buče večji vpliv na skupno ceno kot dejanski datum prodaje. To lahko vidimo z barvnim grafom:
 
@@ -145,7 +136,7 @@ Naša raziskava nakazuje, da ima vrsta buče večji vpliv na skupno ceno kot dej
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="Barvni graf cene glede na vrsto" src="images/price-by-variety.png" width="50%" /> 
+<img alt="Barvni graf cene glede na vrsto" src="../../../../translated_images/sl/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 Osredotočimo se za trenutek samo na eno vrsto buč, 'pie type', in preverimo, kakšen vpliv ima datum na ceno:
 
@@ -153,7 +144,7 @@ Osredotočimo se za trenutek samo na eno vrsto buč, 'pie type', in preverimo, k
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="Raztrosni diagram cene glede na dan v letu" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="Raztrosni diagram cene glede na dan v letu" src="../../../../translated_images/sl/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 Če zdaj izračunamo korelacijo med `Cena` in `DanVLeto` z uporabo funkcije `corr`, bomo dobili nekaj okoli `-0,27` - kar pomeni, da ima smisel trenirati napovedni model.
 
@@ -227,7 +218,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```
 
-<img alt="Linearna regresija" src="images/linear-results.png" width="50%" />
+<img alt="Linearna regresija" src="../../../../translated_images/sl/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## Polinomska regresija
 
@@ -256,7 +247,7 @@ Uporaba `PolynomialFeatures(2)` pomeni, da bomo vključili vse polinome druge st
 
 Pipeline lahko uporabljamo na enak način kot originalni objekt `LinearRegression`, tj. lahko uporabimo `fit` za prilagoditev modela in nato `predict` za pridobitev rezultatov napovedi. Tukaj je graf, ki prikazuje testne podatke in aproksimacijsko krivuljo:
 
-<img alt="Polinomska regresija" src="images/poly-results.png" width="50%" />
+<img alt="Polinomska regresija" src="../../../../translated_images/sl/poly-results.ee587348f0f1f60b.webp" width="50%" />
 
 S polinomsko regresijo lahko dosežemo nekoliko nižji MSE in višji koeficient determinacije, vendar ne bistveno. Upoštevati moramo tudi druge značilnosti!
 
@@ -274,7 +265,7 @@ V idealnem svetu bi želeli napovedati cene za različne vrste buč z istim mode
 
 Tukaj lahko vidite, kako povprečna cena odvisna od vrste buče:
 
-<img alt="Povprečna cena po vrsti" src="images/price-by-variety.png" width="50%" />
+<img alt="Povprečna cena po vrsti" src="../../../../translated_images/sl/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 Da upoštevamo vrsto buče, jo moramo najprej pretvoriti v numerično obliko, ali jo **kodirati**. Obstaja več načinov, kako to storiti:
 

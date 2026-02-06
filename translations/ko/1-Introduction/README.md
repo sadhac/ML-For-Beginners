@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cf8ecc83f28e5b98051d2179eca08e08",
-  "translation_date": "2025-09-03T23:26:03+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "ko"
-}
--->
 # 머신 러닝 소개
 
 이 커리큘럼 섹션에서는 머신 러닝 분야의 기본 개념, 그것이 무엇인지, 그리고 연구자들이 이를 다루기 위해 사용하는 기술에 대해 배우게 됩니다. 함께 이 새로운 ML 세계를 탐험해 봅시다!

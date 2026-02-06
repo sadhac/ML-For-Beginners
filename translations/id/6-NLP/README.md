@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1eb379dc2d0c9940b320732d16083778",
-  "translation_date": "2025-09-05T20:24:44+00:00",
-  "source_file": "6-NLP/README.md",
-  "language_code": "id"
-}
--->
 # Memulai dengan pemrosesan bahasa alami
 
 Pemrosesan bahasa alami (NLP) adalah kemampuan program komputer untuk memahami bahasa manusia sebagaimana diucapkan dan ditulis -- yang disebut sebagai bahasa alami. Ini adalah komponen dari kecerdasan buatan (AI). NLP telah ada selama lebih dari 50 tahun dan memiliki akar dalam bidang linguistik. Seluruh bidang ini diarahkan untuk membantu mesin memahami dan memproses bahasa manusia. Hal ini kemudian dapat digunakan untuk melakukan tugas-tugas seperti pemeriksaan ejaan atau terjemahan mesin. NLP memiliki berbagai aplikasi dunia nyata di sejumlah bidang, termasuk penelitian medis, mesin pencari, dan intelijen bisnis.

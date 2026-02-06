@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "134d8759f0e2ab886e9aa4f62362c201",
-  "translation_date": "2025-10-03T12:40:53+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "hi"
-}
--->
 # समस्या निवारण गाइड
 
 यह गाइड आपको Machine Learning for Beginners पाठ्यक्रम के साथ काम करते समय आम समस्याओं को हल करने में मदद करता है। यदि आपको यहां समाधान नहीं मिलता है, तो कृपया हमारे [Discord Discussions](https://aka.ms/foundry/discord) देखें या [एक समस्या दर्ज करें](https://github.com/microsoft/ML-For-Beginners/issues)।

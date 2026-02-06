@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1eb379dc2d0c9940b320732d16083778",
-  "translation_date": "2025-09-05T20:24:54+00:00",
-  "source_file": "6-NLP/README.md",
-  "language_code": "ms"
-}
--->
 # Memulakan dengan pemprosesan bahasa semula jadi
 
 Pemprosesan bahasa semula jadi (NLP) adalah keupayaan program komputer untuk memahami bahasa manusia seperti yang dituturkan dan ditulis -- dirujuk sebagai bahasa semula jadi. Ia merupakan komponen kecerdasan buatan (AI). NLP telah wujud selama lebih daripada 50 tahun dan berakar umbi dalam bidang linguistik. Keseluruhan bidang ini bertujuan membantu mesin memahami dan memproses bahasa manusia. Ini kemudian boleh digunakan untuk melaksanakan tugas seperti semakan ejaan atau terjemahan mesin. Ia mempunyai pelbagai aplikasi dunia nyata dalam beberapa bidang, termasuk penyelidikan perubatan, enjin carian dan kecerdasan perniagaan.

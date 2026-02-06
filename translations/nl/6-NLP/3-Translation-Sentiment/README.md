@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "be03c8182982b87ced155e4e9d1438e8",
-  "translation_date": "2025-09-05T20:38:21+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/README.md",
-  "language_code": "nl"
-}
--->
 # Vertaling en sentimentanalyse met ML
 
 In de vorige lessen heb je geleerd hoe je een eenvoudige bot kunt bouwen met `TextBlob`, een bibliotheek die machine learning achter de schermen gebruikt om basis NLP-taken uit te voeren, zoals het extraheren van zelfstandige naamwoordgroepen. Een andere belangrijke uitdaging in de computationele taalkunde is het nauwkeurig _vertalen_ van een zin van de ene gesproken of geschreven taal naar de andere.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fa81d226c71d5af7a2cade31c1c92b88",
-  "translation_date": "2025-09-05T18:52:44+00:00",
-  "source_file": "2-Regression/1-Tools/README.md",
-  "language_code": "ms"
-}
--->
 # Bermula dengan Python dan Scikit-learn untuk model regresi
 
 ![Ringkasan regresi dalam sketchnote](../../../../sketchnotes/ml-regression.png)

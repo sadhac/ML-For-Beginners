@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e0b75f73e4a90d45181dc5581fe2ef5c",
-  "translation_date": "2025-09-05T12:58:49+00:00",
-  "source_file": "3-Web-App/1-Web-App/README.md",
-  "language_code": "sl"
-}
--->
 # Zgradite spletno aplikacijo za uporabo modela strojnega učenja
 
 V tej lekciji boste trenirali model strojnega učenja na podatkovnem naboru, ki je resnično izjemen: _opazovanja NLP-jev v zadnjem stoletju_, pridobljenih iz baze podatkov NUFORC.

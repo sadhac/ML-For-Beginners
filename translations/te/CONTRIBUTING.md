@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "977ec5266dfd78ad1ce2bd8d46fccbda",
-  "translation_date": "2025-12-19T12:27:46+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "te"
-}
--->
 # Contributing
 
 ఈ ప్రాజెక్ట్ సహకారాలు మరియు సూచనలను స్వాగతిస్తుంది. ఎక్కువ భాగం సహకారాలకు మీరు

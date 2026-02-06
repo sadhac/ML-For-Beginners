@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-09-05T16:48:06+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "hu"
-}
--->
 # Hegyi Autó Tanítása
 
 [OpenAI Gym](http://gym.openai.com) úgy lett kialakítva, hogy minden környezet ugyanazt az API-t biztosítsa - azaz ugyanazokat a `reset`, `step` és `render` metódusokat, valamint az **akciótér** és **megfigyelési tér** azonos absztrakcióit. Ezért lehetségesnek kell lennie, hogy ugyanazokat a megerősítéses tanulási algoritmusokat minimális kódmódosítással különböző környezetekhez igazítsuk.

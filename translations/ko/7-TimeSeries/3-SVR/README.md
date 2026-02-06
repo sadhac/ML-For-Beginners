@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-09-05T10:43:53+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "ko"
-}
--->
 # 서포트 벡터 회귀(Support Vector Regressor)를 활용한 시계열 예측
 
 이전 강의에서는 ARIMA 모델을 사용하여 시계열 예측을 수행하는 방법을 배웠습니다. 이번에는 연속 데이터를 예측하는 데 사용되는 회귀 모델인 서포트 벡터 회귀(Support Vector Regressor) 모델에 대해 알아보겠습니다.

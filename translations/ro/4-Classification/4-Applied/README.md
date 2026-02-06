@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61bdec27ed2da8b098cd9065405d9bb0",
-  "translation_date": "2025-09-05T16:22:03+00:00",
-  "source_file": "4-Classification/4-Applied/README.md",
-  "language_code": "ro"
-}
--->
 # Construiește o aplicație web pentru recomandarea bucătăriilor
 
 În această lecție, vei construi un model de clasificare folosind unele dintre tehnicile pe care le-ai învățat în lecțiile anterioare și dataset-ul delicios de bucătării utilizat pe parcursul acestei serii. În plus, vei construi o mică aplicație web pentru a utiliza un model salvat, folosind runtime-ul web al Onnx.

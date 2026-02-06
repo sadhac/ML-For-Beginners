@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-04T23:21:44+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "da"
-}
--->
 # Byg en regressionsmodel med Scikit-learn: regression på fire måder
 
 ![Infografik om lineær vs. polynomisk regression](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -114,11 +105,11 @@ Nu hvor du har en forståelse af matematikken bag lineær regression, lad os opr
 
 Fra den forrige lektion har du sandsynligvis set, at gennemsnitsprisen for forskellige måneder ser sådan ud:
 
-<img alt="Gennemsnitspris pr. måned" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="Gennemsnitspris pr. måned" src="../../../../translated_images/da/barchart.a833ea9194346d76.webp" width="50%"/>
 
 Dette antyder, at der bør være en vis korrelation, og vi kan prøve at træne en lineær regressionsmodel til at forudsige forholdet mellem `Month` og `Price`, eller mellem `DayOfYear` og `Price`. Her er scatterplottet, der viser sidstnævnte forhold:
 
-<img alt="Scatterplot af pris vs. dag i året" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="Scatterplot af pris vs. dag i året" src="../../../../translated_images/da/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 Lad os se, om der er en korrelation ved hjælp af funktionen `corr`:
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="Scatterplot af pris vs. dag i året" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="Scatterplot af pris vs. dag i året" src="../../../../translated_images/da/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 Vores undersøgelse antyder, at sorten har større effekt på den samlede pris end den faktiske salgsdato. Vi kan se dette med et søjlediagram:
 
@@ -145,7 +136,7 @@ Vores undersøgelse antyder, at sorten har større effekt på den samlede pris e
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="Søjlediagram af pris vs. sort" src="images/price-by-variety.png" width="50%" /> 
+<img alt="Søjlediagram af pris vs. sort" src="../../../../translated_images/da/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 Lad os fokusere for øjeblikket kun på én græskarsort, 'pie type', og se, hvilken effekt datoen har på prisen:
 
@@ -153,7 +144,7 @@ Lad os fokusere for øjeblikket kun på én græskarsort, 'pie type', og se, hvi
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="Scatterplot af pris vs. dag i året" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="Scatterplot af pris vs. dag i året" src="../../../../translated_images/da/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 Hvis vi nu beregner korrelationen mellem `Price` og `DayOfYear` ved hjælp af funktionen `corr`, får vi noget som `-0.27` - hvilket betyder, at det giver mening at træne en forudsigelsesmodel.
 
@@ -227,7 +218,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```
 
-<img alt="Lineær regression" src="images/linear-results.png" width="50%" />
+<img alt="Lineær regression" src="../../../../translated_images/da/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## Polynomisk Regression
 
@@ -256,7 +247,7 @@ Ved at bruge `PolynomialFeatures(2)` betyder det, at vi vil inkludere alle anden
 
 Pipelines kan bruges på samme måde som det originale `LinearRegression`-objekt, dvs. vi kan `fit` pipelinen og derefter bruge `predict` til at få forudsigelsesresultater. Her er grafen, der viser testdata og tilnærmningskurven:
 
-<img alt="Polynomisk regression" src="images/poly-results.png" width="50%" />
+<img alt="Polynomisk regression" src="../../../../translated_images/da/poly-results.ee587348f0f1f60b.webp" width="50%" />
 
 Ved at bruge polynomisk regression kan vi få en lidt lavere MSE og højere bestemmelseskoefficient, men ikke markant. Vi skal tage andre funktioner i betragtning!
 
@@ -274,7 +265,7 @@ I en ideel verden ønsker vi at kunne forudsige priser for forskellige græskars
 
 Her kan du se, hvordan gennemsnitsprisen afhænger af sorten:
 
-<img alt="Gennemsnitspris efter sort" src="images/price-by-variety.png" width="50%" />
+<img alt="Gennemsnitspris efter sort" src="../../../../translated_images/da/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 For at tage sorten i betragtning skal vi først konvertere den til numerisk form, eller **kode** den. Der er flere måder, vi kan gøre det på:
 

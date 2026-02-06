@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "911efd5e595089000cb3c16fce1beab8",
-  "translation_date": "2025-09-06T09:39:02+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/README.md",
-  "language_code": "ja"
-}
--->
 # 強化学習とQ学習の入門
 
 ![機械学習における強化学習の概要をスケッチノートで表現](../../../../sketchnotes/ml-reinforcement.png)

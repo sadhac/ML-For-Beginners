@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fa81d226c71d5af7a2cade31c1c92b88",
-  "translation_date": "2025-09-06T06:26:57+00:00",
-  "source_file": "2-Regression/1-Tools/README.md",
-  "language_code": "ne"
-}
--->
 # Python र Scikit-learn प्रयोग गरेर Regression Models सुरु गर्नुहोस्
 
 ![Regression को स्केच नोटमा सारांश](../../../../sketchnotes/ml-regression.png)

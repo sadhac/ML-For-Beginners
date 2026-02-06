@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "7c077988328ebfe33b24d07945f16eca",
-  "translation_date": "2025-10-11T11:47:18+00:00",
-  "source_file": "2-Regression/2-Data/README.md",
-  "language_code": "ta"
-}
--->
 # Scikit-learn பயன்படுத்தி ஒரு ரிக்ரஷன் மாடல் உருவாக்குதல்: தரவுகளை தயாரித்து காட்சிப்படுத்துதல்
 
 ![தரவு காட்சிப்படுத்தல் தகவல் வரைபடம்](../../../../translated_images/ta/data-visualization.54e56dded7c1a804.webp)

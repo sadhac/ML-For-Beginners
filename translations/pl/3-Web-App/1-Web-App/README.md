@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e0b75f73e4a90d45181dc5581fe2ef5c",
-  "translation_date": "2025-09-05T08:23:42+00:00",
-  "source_file": "3-Web-App/1-Web-App/README.md",
-  "language_code": "pl"
-}
--->
 # Zbuduj aplikację webową wykorzystującą model ML
 
 W tej lekcji nauczysz się trenować model ML na zestawie danych, który jest dosłownie nie z tego świata: _obserwacje UFO z ostatniego stulecia_, pochodzące z bazy danych NUFORC.

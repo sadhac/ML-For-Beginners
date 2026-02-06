@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-09-03T18:43:33+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "lt"
-}
--->
 # Treniruokite „Mountain Car“
 
 [OpenAI Gym](http://gym.openai.com) sukurta taip, kad visi aplinkos modeliai turėtų vienodą API – t. y. tuos pačius metodus `reset`, `step` ir `render`, bei tas pačias **veiksmų erdvės** ir **stebėjimo erdvės** abstrakcijas. Todėl turėtų būti įmanoma pritaikyti tuos pačius stiprinamojo mokymosi algoritmus skirtingoms aplinkoms su minimaliomis kodo pakeitimais.

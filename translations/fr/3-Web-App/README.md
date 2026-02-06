@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9836ff53cfef716ddfd70e06c5f43436",
-  "translation_date": "2025-09-03T23:42:54+00:00",
-  "source_file": "3-Web-App/README.md",
-  "language_code": "fr"
-}
--->
 # Construire une application web pour utiliser votre modèle ML
 
 Dans cette section du programme, vous serez initié à un sujet appliqué en apprentissage automatique : comment sauvegarder votre modèle Scikit-learn sous forme de fichier pouvant être utilisé pour faire des prédictions dans une application web. Une fois le modèle sauvegardé, vous apprendrez à l'utiliser dans une application web construite avec Flask. Vous commencerez par créer un modèle à partir de données sur les observations d'OVNI ! Ensuite, vous construirez une application web qui vous permettra de saisir un nombre de secondes avec une valeur de latitude et de longitude pour prédire quel pays a signalé avoir vu un OVNI.

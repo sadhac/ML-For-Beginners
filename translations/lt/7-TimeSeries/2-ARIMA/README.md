@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "917dbf890db71a322f306050cb284749",
-  "translation_date": "2025-09-05T07:48:02+00:00",
-  "source_file": "7-TimeSeries/2-ARIMA/README.md",
-  "language_code": "lt"
-}
--->
 # Laiko eilučių prognozavimas naudojant ARIMA
 
 Ankstesnėje pamokoje sužinojote apie laiko eilučių prognozavimą ir įkėlėte duomenų rinkinį, rodantį elektros apkrovos svyravimus per tam tikrą laikotarpį.

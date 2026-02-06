@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-09-05T19:07:00+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "nl"
-}
--->
 # Tijdreeksvoorspelling met Support Vector Regressor
 
 In de vorige les heb je geleerd hoe je het ARIMA-model kunt gebruiken om voorspellingen te maken voor tijdreeksen. Nu ga je kijken naar het Support Vector Regressor-model, een regressiemodel dat wordt gebruikt om continue gegevens te voorspellen.

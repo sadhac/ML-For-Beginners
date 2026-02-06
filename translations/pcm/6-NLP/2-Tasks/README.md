@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5f3cb462e3122e1afe7ab0050ccf2bd3",
-  "translation_date": "2025-11-18T18:35:15+00:00",
-  "source_file": "6-NLP/2-Tasks/README.md",
-  "language_code": "pcm"
-}
--->
 # Common natural language processing tasks and techniques
 
 For most *natural language processing* tasks, di text wey you wan process go need make you break am down, check am well, and keep di result or compare am wit rules and data sets. Dis tasks go help programmer fit understand di _meaning_ or _intent_ or even di _frequency_ of words and terms wey dey inside di text.

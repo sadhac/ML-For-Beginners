@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-09-03T17:01:47+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "pl"
-}
--->
 # Modele klastrowania w uczeniu maszynowym
 
 Klastrowanie to zadanie w uczeniu maszynowym, które polega na znajdowaniu obiektów podobnych do siebie i grupowaniu ich w grupy zwane klastrami. To, co odróżnia klastrowanie od innych podejść w uczeniu maszynowym, to fakt, że proces ten odbywa się automatycznie. W rzeczywistości można powiedzieć, że jest to przeciwieństwo uczenia nadzorowanego.

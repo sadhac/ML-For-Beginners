@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-09-03T17:01:31+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "lt"
-}
--->
 # Klasterizavimo modeliai mašininio mokymosi srityje
 
 Klasterizavimas yra mašininio mokymosi užduotis, kurios tikslas – surasti objektus, panašius vienas į kitą, ir sugrupuoti juos į grupes, vadinamas klasteriais. Kas skiria klasterizavimą nuo kitų mašininio mokymosi metodų, yra tai, kad procesas vyksta automatiškai. Iš tiesų, galima sakyti, kad tai yra priešingybė prižiūrimam mokymuisi.

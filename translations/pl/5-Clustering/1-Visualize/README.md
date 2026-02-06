@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "730225ea274c9174fe688b21d421539d",
-  "translation_date": "2025-09-05T08:16:39+00:00",
-  "source_file": "5-Clustering/1-Visualize/README.md",
-  "language_code": "pl"
-}
--->
 # Wprowadzenie do klasteryzacji
 
 Klasteryzacja to rodzaj [uczenia nienadzorowanego](https://wikipedia.org/wiki/Uczenie_nienadzorowane), który zakłada, że zbiór danych jest nieoznaczony lub że jego dane wejściowe nie są powiązane z wcześniej zdefiniowanymi wynikami. Wykorzystuje różne algorytmy do analizy nieoznaczonych danych i tworzenia grup na podstawie wzorców wykrytych w danych.

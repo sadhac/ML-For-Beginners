@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-09-05T15:39:34+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "sk"
-}
--->
 # Modely zhlukovania pre strojové učenie
 
 Zhlukovanie je úloha strojového učenia, ktorá sa snaží nájsť objekty, ktoré sa navzájom podobajú, a zoskupiť ich do skupín nazývaných zhluky. Čo odlišuje zhlukovanie od iných prístupov v strojovom učení, je to, že veci sa dejú automaticky. V skutočnosti je spravodlivé povedať, že je to opak učenia s učiteľom.

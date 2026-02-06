@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-09-05T12:06:59+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "my"
-}
--->
 # Support Vector Regressor ကို အသုံးပြု၍ အချိန်လိုက်ခန့်မှန်းခြေ
 
 ယခင်သင်ခန်းစာတွင် ARIMA မော်ဒယ်ကို အသုံးပြု၍ အချိန်လိုက်ခန့်မှန်းမှုများ ပြုလုပ်ပုံကို သင်လေ့လာခဲ့ပါသည်။ ယခု သင် Support Vector Regressor မော်ဒယ်ကို လေ့လာမည်ဖြစ်ပြီး၊ ၎င်းသည် ဆက်လက်တိုးတက်နေသော ဒေတာများကို ခန့်မှန်းရန် အသုံးပြုသော regression မော်ဒယ်တစ်ခုဖြစ်သည်။

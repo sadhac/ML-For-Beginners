@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9d91f3af3758fdd4569fb410575995ef",
-  "translation_date": "2025-09-06T07:55:34+00:00",
-  "source_file": "1-Introduction/4-techniques-of-ML/README.md",
-  "language_code": "tr"
-}
--->
 # Makine Öğrenimi Teknikleri
 
 Makine öğrenimi modellerini oluşturma, kullanma ve bu modellerin kullandığı verileri yönetme süreci, birçok diğer geliştirme iş akışından oldukça farklıdır. Bu derste, süreci açıklığa kavuşturacak ve bilmeniz gereken temel teknikleri özetleyeceğiz. Şunları yapacaksınız:

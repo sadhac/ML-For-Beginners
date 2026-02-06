@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-09-05T19:10:34+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "id"
-}
--->
 # Model Clustering untuk Pembelajaran Mesin
 
 Clustering adalah tugas pembelajaran mesin yang bertujuan untuk menemukan objek yang mirip satu sama lain dan mengelompokkannya ke dalam kelompok yang disebut cluster. Yang membedakan clustering dari pendekatan lain dalam pembelajaran mesin adalah bahwa prosesnya terjadi secara otomatis. Faktanya, bisa dikatakan bahwa ini adalah kebalikan dari pembelajaran terawasi.

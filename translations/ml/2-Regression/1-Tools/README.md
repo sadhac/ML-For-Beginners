@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fa81d226c71d5af7a2cade31c1c92b88",
-  "translation_date": "2025-12-19T13:55:07+00:00",
-  "source_file": "2-Regression/1-Tools/README.md",
-  "language_code": "ml"
-}
--->
 # Python ഉം Scikit-learn ഉം ഉപയോഗിച്ച് regression മോഡലുകൾ ആരംഭിക്കുക
 
 ![Summary of regressions in a sketchnote](../../../../translated_images/ml/ml-regression.4e4f70e3b3ed446e.webp)

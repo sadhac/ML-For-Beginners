@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-09-05T15:38:01+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "ro"
-}
--->
 # Predicția seriilor temporale cu Support Vector Regressor
 
 În lecția anterioară, ai învățat cum să folosești modelul ARIMA pentru a face predicții ale seriilor temporale. Acum vei explora modelul Support Vector Regressor, un model de regresie utilizat pentru a prezice date continue.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "70d65aeddc06170bc1aed5b27805f930",
-  "translation_date": "2025-10-11T11:29:59+00:00",
-  "source_file": "1-Introduction/4-techniques-of-ML/assignment.md",
-  "language_code": "ta"
-}
--->
 # ஒரு தரவியல் விஞ்ஞானியை நேர்காணல் செய்யவும்
 
 ## வழிமுறைகள்

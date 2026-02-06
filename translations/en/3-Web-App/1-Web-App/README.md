@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e0b75f73e4a90d45181dc5581fe2ef5c",
-  "translation_date": "2025-09-06T10:55:08+00:00",
-  "source_file": "3-Web-App/1-Web-App/README.md",
-  "language_code": "en"
-}
--->
 # Build a Web App to use a ML Model
 
 In this lesson, you will train a machine learning model using a fascinating dataset: _UFO sightings over the past century_, sourced from NUFORC's database.

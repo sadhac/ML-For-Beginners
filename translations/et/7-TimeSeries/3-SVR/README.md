@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-10-11T12:02:40+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "et"
-}
--->
 # Ajasarja prognoosimine toetavate vektorite regressori abil
 
 Eelmises õppetükis õppisite, kuidas kasutada ARIMA mudelit ajasarjade prognoosimiseks. Nüüd vaatame toetavate vektorite regressori mudelit, mis on regressioonimudel pidevate andmete ennustamiseks.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e0b75f73e4a90d45181dc5581fe2ef5c",
-  "translation_date": "2025-09-05T19:45:06+00:00",
-  "source_file": "3-Web-App/1-Web-App/README.md",
-  "language_code": "he"
-}
--->
 # בניית אפליקציית אינטרנט לשימוש במודל למידת מכונה
 
 בשיעור הזה, תאמנו מודל למידת מכונה על סט נתונים יוצא דופן: _תצפיות עב"מים במאה האחרונה_, שנאספו ממאגר הנתונים של NUFORC.

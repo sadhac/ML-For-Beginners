@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6d130dffca5db70d7e615f926cb1ad4c",
-  "translation_date": "2025-11-18T18:12:16+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "pcm"
-}
--->
 # Quizzes
 
 Dis quizzes na di pre- and post-lecture quizzes for di ML curriculum wey dey https://aka.ms/ml-beginners

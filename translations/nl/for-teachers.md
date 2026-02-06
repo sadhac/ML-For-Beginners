@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b37de02054fa6c0438ede6fabe1fdfb8",
-  "translation_date": "2025-09-05T18:35:59+00:00",
-  "source_file": "for-teachers.md",
-  "language_code": "nl"
-}
--->
 ## Voor Docenten
 
 Wilt u deze lesstof in uw klas gebruiken? Voel u vrij!

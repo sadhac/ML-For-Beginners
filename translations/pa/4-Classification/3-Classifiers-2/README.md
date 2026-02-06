@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "49047911108adc49d605cddfb455749c",
-  "translation_date": "2025-09-06T07:09:41+00:00",
-  "source_file": "4-Classification/3-Classifiers-2/README.md",
-  "language_code": "pa"
-}
--->
 # ਖਾਣੇ ਦੇ ਵਰਗੀਕਰਨ 2
 
 ਇਸ ਦੂਜੇ ਵਰਗੀਕਰਨ ਪਾਠ ਵਿੱਚ, ਤੁਸੀਂ ਗਿਣਤੀ ਡਾਟਾ ਨੂੰ ਵਰਗੀਕਰਣ ਦੇ ਹੋਰ ਤਰੀਕੇ ਖੋਜੋਗੇ। ਤੁਸੀਂ ਇਹ ਵੀ ਸਿੱਖੋਗੇ ਕਿ ਇੱਕ ਵਰਗੀਕਰਣਕਰਤਾ ਦੀ ਚੋਣ ਕਰਨ ਦੇ ਨਤੀਜੇ ਕੀ ਹੋ ਸਕਦੇ ਹਨ।

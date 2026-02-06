@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cf8ecc83f28e5b98051d2179eca08e08",
-  "translation_date": "2025-08-29T21:19:41+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "it"
-}
--->
 # Introduzione al machine learning
 
 In questa sezione del curriculum, verranno introdotti i concetti di base che stanno alla base del campo del machine learning, cos'è e la sua storia, oltre alle tecniche che i ricercatori utilizzano per lavorarci. Esploriamo insieme questo nuovo mondo del ML!

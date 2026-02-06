@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-09-05T15:39:08+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "sw"
-}
--->
 # Miundo ya Klasta kwa Kujifunza kwa Mashine
 
 Klasta ni kazi ya kujifunza kwa mashine ambapo inatafuta vitu vinavyofanana na kuviweka katika vikundi vinavyoitwa klasta. Kinachotofautisha klasta na mbinu nyingine za kujifunza kwa mashine ni kwamba mambo hufanyika kiotomatiki; kwa kweli, ni sahihi kusema ni kinyume cha kujifunza kwa usimamizi.

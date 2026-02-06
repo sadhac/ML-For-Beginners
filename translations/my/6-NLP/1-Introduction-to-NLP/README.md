@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1c2ec40cf55c98a028a359c27ef7e45a",
-  "translation_date": "2025-09-05T14:12:02+00:00",
-  "source_file": "6-NLP/1-Introduction-to-NLP/README.md",
-  "language_code": "my"
-}
--->
 # သဘာဝဘာသာစကားလုပ်ငန်းစဉ် (NLP) အကြောင်းမိတ်ဆက်
 
 ဒီသင်ခန်းစာမှာ *သဘာဝဘာသာစကားလုပ်ငန်းစဉ်* (NLP) ရဲ့ သမိုင်းအကျဉ်းချုပ်နဲ့ အရေးကြီးသောအယူအဆများကို လေ့လာသွားမှာ ဖြစ်ပါတယ်။ ဒါဟာ *ကွန်ပျူတာဘာသာဗေဒ* (computational linguistics) ရဲ့ အခန်းကဏ္ဍတစ်ခုဖြစ်ပါတယ်။

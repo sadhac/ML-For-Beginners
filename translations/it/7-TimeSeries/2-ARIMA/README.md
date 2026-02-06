@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "917dbf890db71a322f306050cb284749",
-  "translation_date": "2025-09-06T07:28:07+00:00",
-  "source_file": "7-TimeSeries/2-ARIMA/README.md",
-  "language_code": "it"
-}
--->
 # Previsione delle serie temporali con ARIMA
 
 Nella lezione precedente, hai imparato qualcosa sulla previsione delle serie temporali e hai caricato un dataset che mostra le fluttuazioni del carico elettrico nel corso di un periodo di tempo.

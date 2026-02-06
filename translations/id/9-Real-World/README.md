@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5e069a0ac02a9606a69946c2b3c574a9",
-  "translation_date": "2025-09-05T19:20:58+00:00",
-  "source_file": "9-Real-World/README.md",
-  "language_code": "id"
-}
--->
 # Postscript: Aplikasi Dunia Nyata dari Pembelajaran Mesin Klasik
 
 Dalam bagian kurikulum ini, Anda akan diperkenalkan dengan beberapa aplikasi dunia nyata dari pembelajaran mesin klasik. Kami telah menjelajahi internet untuk menemukan makalah dan artikel tentang aplikasi yang menggunakan strategi ini, dengan menghindari jaringan saraf, pembelajaran mendalam, dan AI sejauh mungkin. Pelajari bagaimana pembelajaran mesin digunakan dalam sistem bisnis, aplikasi ekologi, keuangan, seni dan budaya, serta lainnya.

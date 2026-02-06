@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-06T06:04:01+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "mr"
-}
--->
 # Scikit-learn वापरून रिग्रेशन मॉडेल तयार करा: चार प्रकारे रिग्रेशन
 
 ![रेखीय वि. बहुपद रिग्रेशन माहितीग्राफिक](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -117,11 +108,11 @@ day_of_year = pd.to_datetime(pumpkins['Date']).apply(lambda dt: (dt-datetime(dt.
 
 मागील धडामध्ये तुम्ही कदाचित पाहिले असेल की विविध महिन्यांसाठी सरासरी किंमत अशी दिसते:
 
-<img alt="महिन्यानुसार सरासरी किंमत" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="महिन्यानुसार सरासरी किंमत" src="../../../../translated_images/mr/barchart.a833ea9194346d76.webp" width="50%"/>
 
 हे सूचित करते की काही सहसंबंध असावा, आणि आपण `महिना` आणि `किंमत` यांच्यातील किंवा `वर्षाचा दिवस` आणि `किंमत` यांच्यातील संबंध भाकीत करण्यासाठी रेखीय रिग्रेशन मॉडेल प्रशिक्षण देण्याचा प्रयत्न करू शकतो. खालील स्कॅटरप्लॉट नातेसंबंध दर्शवतो:
 
-<img alt="किंमत वि. वर्षाचा दिवस याचा स्कॅटरप्लॉट" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="किंमत वि. वर्षाचा दिवस याचा स्कॅटरप्लॉट" src="../../../../translated_images/mr/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 चला `corr` फंक्शन वापरून सहसंबंध तपासूया:
 
@@ -140,7 +131,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="किंमत वि. वर्षाचा दिवस याचा स्कॅटरप्लॉट" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="किंमत वि. वर्षाचा दिवस याचा स्कॅटरप्लॉट" src="../../../../translated_images/mr/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 आपल्या तपासणीने सूचित केले की प्रकाराचा एकूण किंमतीवर विक्रीच्या तारखेपेक्षा जास्त परिणाम होतो. आपण हे बार ग्राफसह पाहू शकतो:
 
@@ -148,7 +139,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="प्रकारानुसार किंमतीचा बार ग्राफ" src="images/price-by-variety.png" width="50%" /> 
+<img alt="प्रकारानुसार किंमतीचा बार ग्राफ" src="../../../../translated_images/mr/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 आता आपण फक्त एका कद्दू प्रकारावर लक्ष केंद्रित करूया, 'पाई प्रकार', आणि पाहूया की तारखेचा किंमतीवर काय परिणाम होतो:
 
@@ -156,7 +147,7 @@ new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="किंमत वि. वर्षाचा दिवस याचा स्कॅटरप्लॉट" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="किंमत वि. वर्षाचा दिवस याचा स्कॅटरप्लॉट" src="../../../../translated_images/mr/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 जर आपण आता `corr` फंक्शन वापरून `किंमत` आणि `वर्षाचा दिवस` यांच्यातील सहसंबंधाची गणना केली, तर आपल्याला सुमारे `-0.27` मिळेल - याचा अर्थ असा की भाकीत मॉडेल प्रशिक्षण देणे योग्य आहे.
 
@@ -221,7 +212,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```
 
-<img alt="रेषीय रिग्रेशन" src="images/linear-results.png" width="50%" />
+<img alt="रेषीय रिग्रेशन" src="../../../../translated_images/mr/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## बहुपद रिग्रेशन
 
@@ -250,7 +241,7 @@ pipeline.fit(X_train,y_train)
 
 पाइपलाइन मूळ `LinearRegression` ऑब्जेक्टप्रमाणेच वापरली जाऊ शकते, म्हणजेच आम्ही पाइपलाइन `fit` करू शकतो आणि नंतर `predict` वापरून अंदाज परिणाम मिळवू शकतो. येथे चाचणी डेटा आणि अंदाज वक्र दर्शविणारा ग्राफ आहे:
 
-<img alt="बहुपद रिग्रेशन" src="images/poly-results.png" width="50%" />
+<img alt="बहुपद रिग्रेशन" src="../../../../translated_images/mr/poly-results.ee587348f0f1f60b.webp" width="50%" />
 
 बहुपद रिग्रेशन वापरून, आम्हाला किंचित कमी MSE आणि उच्च निर्धारण मिळू शकते, परंतु फारसे महत्त्वाचे नाही. आम्हाला इतर वैशिष्ट्यांचा विचार करणे आवश्यक आहे!
 
@@ -268,7 +259,7 @@ pipeline.fit(X_train,y_train)
 
 येथे तुम्ही पाहू शकता की प्रकारानुसार सरासरी किंमत कशी बदलते:
 
-<img alt="प्रकारानुसार सरासरी किंमत" src="images/price-by-variety.png" width="50%" />
+<img alt="प्रकारानुसार सरासरी किंमत" src="../../../../translated_images/mr/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 प्रकाराचा विचार करण्यासाठी, प्रथम त्याला न्यूमेरिक स्वरूपात रूपांतरित करणे आवश्यक आहे, किंवा **एन्कोड** करणे आवश्यक आहे. हे करण्याचे अनेक मार्ग आहेत:
 

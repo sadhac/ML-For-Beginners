@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-09-03T18:25:56+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "lt"
-}
--->
 # Įvadas į stiprinamąjį mokymąsi
 
 Stiprinamasis mokymasis (RL) laikomas vienu iš pagrindinių mašininio mokymosi paradigmų, greta prižiūrimo mokymosi ir neprižiūrimo mokymosi. RL yra susijęs su sprendimais: priimti tinkamus sprendimus arba bent jau mokytis iš jų.

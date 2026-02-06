@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "daf144daa552da6a7d442aff6f3e77d8",
-  "translation_date": "2025-08-29T18:42:51+00:00",
-  "source_file": "6-NLP/5-Hotel-Reviews-2/assignment.md",
-  "language_code": "ne"
-}
--->
 # फरक डाटासेट प्रयास गर्नुहोस्
 
 ## निर्देशनहरू

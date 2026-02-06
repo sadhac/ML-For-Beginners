@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fba3b94d88bfb9b81369b869a1e9a20f",
-  "translation_date": "2025-09-05T16:29:37+00:00",
-  "source_file": "sketchnotes/LICENSE.md",
-  "language_code": "sw"
-}
--->
 Hati ya Utoaji wa Haki ya Attribution-ShareAlike 4.0 Kimataifa
 
 =======================================================================

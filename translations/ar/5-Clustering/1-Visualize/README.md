@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "730225ea274c9174fe688b21d421539d",
-  "translation_date": "2025-09-04T20:43:28+00:00",
-  "source_file": "5-Clustering/1-Visualize/README.md",
-  "language_code": "ar"
-}
--->
 # مقدمة إلى التجميع
 
 التجميع هو نوع من [التعلم غير الموجه](https://wikipedia.org/wiki/Unsupervised_learning) الذي يفترض أن مجموعة البيانات غير معنونة أو أن مدخلاتها غير مرتبطة بمخرجات محددة مسبقًا. يستخدم التجميع خوارزميات مختلفة لفرز البيانات غير المعنونة وتوفير مجموعات بناءً على الأنماط التي يكتشفها في البيانات.

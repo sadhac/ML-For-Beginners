@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1eb379dc2d0c9940b320732d16083778",
-  "translation_date": "2025-09-06T08:05:39+00:00",
-  "source_file": "6-NLP/README.md",
-  "language_code": "tr"
-}
--->
 # Doğal Dil İşleme ile Başlarken
 
 Doğal dil işleme (NLP), bir bilgisayar programının insan dilini konuşulduğu ve yazıldığı haliyle anlaması yeteneğidir -- doğal dil olarak adlandırılır. Bu, yapay zekanın (AI) bir bileşenidir. NLP, 50 yıldan uzun süredir varlığını sürdürmekte ve dilbilim alanında köklere sahiptir. Tüm alan, makinelerin insan dilini anlamasına ve işlemesine yardımcı olmaya yöneliktir. Bu, yazım denetimi veya makine çevirisi gibi görevleri gerçekleştirmek için kullanılabilir. Tıp araştırmaları, arama motorları ve iş zekası gibi birçok alanda gerçek dünya uygulamalarına sahiptir.

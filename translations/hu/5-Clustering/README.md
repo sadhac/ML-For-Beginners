@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-09-05T15:39:21+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "hu"
-}
--->
 # Gépi tanulási klaszterezési modellek
 
 A klaszterezés egy gépi tanulási feladat, amelynek célja, hogy megtalálja az egymáshoz hasonló objektumokat, és ezeket csoportokba, úgynevezett klaszterekbe rendezze. Ami megkülönbözteti a klaszterezést a gépi tanulás más megközelítéseitől, az az, hogy a folyamat automatikusan történik; valójában mondhatjuk, hogy ez az ellenkezője a felügyelt tanulásnak.

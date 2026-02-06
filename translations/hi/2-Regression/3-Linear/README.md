@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-05T10:12:48+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "hi"
-}
--->
 # Scikit-learn का उपयोग करके एक रिग्रेशन मॉडल बनाएं: चार तरीकों से रिग्रेशन
 
 ![लिनियर बनाम पॉलिनोमियल रिग्रेशन इन्फोग्राफिक](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -114,11 +105,11 @@ day_of_year = pd.to_datetime(pumpkins['Date']).apply(lambda dt: (dt-datetime(dt.
 
 पिछले पाठ से आपने शायद देखा होगा कि विभिन्न महीनों के लिए औसत कीमत इस प्रकार दिखती है:
 
-<img alt="महीने के अनुसार औसत कीमत" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="महीने के अनुसार औसत कीमत" src="../../../../translated_images/hi/barchart.a833ea9194346d76.webp" width="50%"/>
 
 यह सुझाव देता है कि कुछ सहसंबंध हो सकता है, और हम `Month` और `Price` के बीच, या `DayOfYear` और `Price` के बीच संबंध की भविष्यवाणी करने के लिए एक लिनियर रिग्रेशन मॉडल को प्रशिक्षित करने का प्रयास कर सकते हैं। यहाँ एक स्कैटरप्लॉट है जो बाद के संबंध को दिखाता है:
 
-<img alt="साल के दिन बनाम कीमत का स्कैटरप्लॉट" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="साल के दिन बनाम कीमत का स्कैटरप्लॉट" src="../../../../translated_images/hi/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 आइए `corr` फ़ंक्शन का उपयोग करके देखें कि क्या कोई सहसंबंध है:
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="साल के दिन बनाम कीमत का स्कैटरप्लॉट" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="साल के दिन बनाम कीमत का स्कैटरप्लॉट" src="../../../../translated_images/hi/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 हमारी जांच से पता चलता है कि किस्म का समग्र कीमत पर तारीख की तुलना में अधिक प्रभाव है। हम इसे बार ग्राफ़ के साथ देख सकते हैं:
 
@@ -145,7 +136,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="किस्म बनाम कीमत का बार ग्राफ़" src="images/price-by-variety.png" width="50%" /> 
+<img alt="किस्म बनाम कीमत का बार ग्राफ़" src="../../../../translated_images/hi/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 आइए फिलहाल केवल एक कद्दू की किस्म, 'पाई टाइप', पर ध्यान केंद्रित करें और देखें कि तारीख का कीमत पर क्या प्रभाव पड़ता है:
 
@@ -153,7 +144,7 @@ new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="साल के दिन बनाम कीमत का स्कैटरप्लॉट" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="साल के दिन बनाम कीमत का स्कैटरप्लॉट" src="../../../../translated_images/hi/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 यदि हम अब `corr` फ़ंक्शन का उपयोग करके `Price` और `DayOfYear` के बीच सहसंबंध की गणना करते हैं, तो हमें कुछ `-0.27` जैसा मिलेगा - जिसका अर्थ है कि एक भविष्यवाणी मॉडल को प्रशिक्षित करना समझ में आता है।
 
@@ -227,7 +218,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```  
 
-<img alt="Linear regression" src="images/linear-results.png" width="50%" />
+<img alt="Linear regression" src="../../../../translated_images/hi/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## बहुपद रिग्रेशन  
 
@@ -256,7 +247,7 @@ pipeline.fit(X_train,y_train)
 
 पाइपलाइन का उपयोग उसी तरह किया जा सकता है जैसे मूल `LinearRegression` ऑब्जेक्ट का उपयोग किया जाता है, यानी हम पाइपलाइन को `fit` कर सकते हैं और फिर `predict` का उपयोग करके भविष्यवाणी परिणाम प्राप्त कर सकते हैं। यहां परीक्षण डेटा और अनुमानित वक्र दिखाने वाला ग्राफ है:  
 
-<img alt="Polynomial regression" src="images/poly-results.png" width="50%" />  
+<img alt="Polynomial regression" src="../../../../translated_images/hi/poly-results.ee587348f0f1f60b.webp" width="50%" />  
 
 बहुपद रिग्रेशन का उपयोग करके, हम थोड़ा कम MSE और थोड़ा अधिक निर्धारण प्राप्त कर सकते हैं, लेकिन यह बहुत महत्वपूर्ण नहीं है। हमें अन्य विशेषताओं को ध्यान में रखना होगा!  
 
@@ -274,7 +265,7 @@ pipeline.fit(X_train,y_train)
 
 यहां आप देख सकते हैं कि किस्म के आधार पर औसत कीमत कैसे बदलती है:  
 
-<img alt="Average price by variety" src="images/price-by-variety.png" width="50%" />  
+<img alt="Average price by variety" src="../../../../translated_images/hi/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />  
 
 किस्म को ध्यान में रखने के लिए, हमें पहले इसे संख्यात्मक रूप में बदलना होगा, या **एन्कोड** करना होगा। इसे करने के कई तरीके हैं:  
 

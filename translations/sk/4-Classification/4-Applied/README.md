@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61bdec27ed2da8b098cd9065405d9bb0",
-  "translation_date": "2025-09-05T16:21:35+00:00",
-  "source_file": "4-Classification/4-Applied/README.md",
-  "language_code": "sk"
-}
--->
 # Vytvorenie webovej aplikácie na odporúčanie kuchyne
 
 V tejto lekcii si vytvoríte klasifikačný model pomocou techník, ktoré ste sa naučili v predchádzajúcich lekciách, a s použitím datasetu chutných kuchýň, ktorý sa používal v celej tejto sérii. Okrem toho si vytvoríte malú webovú aplikáciu na použitie uloženého modelu, využívajúc webový runtime Onnx.

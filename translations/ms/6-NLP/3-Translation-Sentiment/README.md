@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "be03c8182982b87ced155e4e9d1438e8",
-  "translation_date": "2025-09-05T20:41:32+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/README.md",
-  "language_code": "ms"
-}
--->
 # Terjemahan dan analisis sentimen dengan ML
 
 Dalam pelajaran sebelumnya, anda telah belajar cara membina bot asas menggunakan `TextBlob`, sebuah perpustakaan yang menggabungkan ML di belakang tabir untuk melaksanakan tugas NLP asas seperti pengekstrakan frasa kata nama. Satu lagi cabaran penting dalam linguistik komputer ialah _terjemahan_ yang tepat bagi ayat daripada satu bahasa lisan atau tulisan kepada bahasa lain.

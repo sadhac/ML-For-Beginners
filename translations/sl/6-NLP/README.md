@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1eb379dc2d0c9940b320732d16083778",
-  "translation_date": "2025-09-05T13:52:53+00:00",
-  "source_file": "6-NLP/README.md",
-  "language_code": "sl"
-}
--->
 # Začetek z obdelavo naravnega jezika
 
 Obdelava naravnega jezika (NLP) je sposobnost računalniškega programa, da razume človeški jezik, kot je govorjen in pisan – temu pravimo naravni jezik. Gre za sestavni del umetne inteligence (AI). NLP obstaja že več kot 50 let in ima korenine na področju jezikoslovja. Celotno področje je usmerjeno v pomoč strojem pri razumevanju in obdelavi človeškega jezika. To se nato lahko uporablja za izvajanje nalog, kot so preverjanje črkovanja ali strojno prevajanje. Ima številne praktične aplikacije na različnih področjih, vključno z medicinskimi raziskavami, iskalniki in poslovno analitiko.

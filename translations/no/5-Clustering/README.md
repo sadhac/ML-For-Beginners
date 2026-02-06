@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-09-05T21:25:20+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "no"
-}
--->
 # Klusteringsmodeller for maskinlæring
 
 Klustering er en oppgave innen maskinlæring hvor man forsøker å finne objekter som ligner på hverandre og gruppere disse i grupper kalt klynger. Det som skiller klustering fra andre tilnærminger i maskinlæring, er at ting skjer automatisk. Faktisk kan man si at det er det motsatte av veiledet læring.

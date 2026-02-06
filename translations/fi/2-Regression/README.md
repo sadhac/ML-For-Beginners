@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "508582278dbb8edd2a8a80ac96ef416c",
-  "translation_date": "2025-09-04T23:19:10+00:00",
-  "source_file": "2-Regression/README.md",
-  "language_code": "fi"
-}
--->
 # Regressiomallit koneoppimisessa
 ## Alueellinen aihe: Regressiomallit kurpitsan hinnoille Pohjois-Amerikassa 🎃
 

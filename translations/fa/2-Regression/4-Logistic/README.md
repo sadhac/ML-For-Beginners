@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "abf86d845c84330bce205a46b382ec88",
-  "translation_date": "2025-09-04T22:32:20+00:00",
-  "source_file": "2-Regression/4-Logistic/README.md",
-  "language_code": "fa"
-}
--->
 # رگرسیون لجستیک برای پیش‌بینی دسته‌ها
 
 ![اینفوگرافیک رگرسیون لجستیک در مقابل رگرسیون خطی](../../../../2-Regression/4-Logistic/images/linear-vs-logistic.png)

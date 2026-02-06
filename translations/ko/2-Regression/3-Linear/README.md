@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-05T10:37:57+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "ko"
-}
--->
 # Scikit-learn을 사용하여 회귀 모델 구축: 네 가지 방법으로 회귀 분석하기
 
 ![선형 회귀와 다항 회귀 인포그래픽](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -115,11 +106,11 @@ day_of_year = pd.to_datetime(pumpkins['Date']).apply(lambda dt: (dt-datetime(dt.
 
 이전 강의에서 보았듯이, 월별 평균 가격은 다음과 같습니다:
 
-<img alt="월별 평균 가격" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="월별 평균 가격" src="../../../../translated_images/ko/barchart.a833ea9194346d76.webp" width="50%"/>
 
 이는 상관관계가 있을 가능성을 시사하며, `Month`와 `Price` 또는 `DayOfYear`와 `Price` 간의 관계를 예측하기 위해 선형 회귀 모델을 훈련시킬 수 있습니다. 아래는 후자의 관계를 보여주는 산점도입니다:
 
-<img alt="가격 vs 연도의 일수 산점도" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="가격 vs 연도의 일수 산점도" src="../../../../translated_images/ko/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 `corr` 함수를 사용하여 상관관계를 확인해 봅시다:
 
@@ -138,7 +129,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="가격 vs 연도의 일수 산점도" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="가격 vs 연도의 일수 산점도" src="../../../../translated_images/ko/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 조사 결과, 판매 날짜보다 품종이 전체 가격에 더 큰 영향을 미친다는 것을 알 수 있습니다. 이를 막대 그래프로 확인할 수 있습니다:
 
@@ -146,7 +137,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="품종별 가격 막대 그래프" src="images/price-by-variety.png" width="50%" /> 
+<img alt="품종별 가격 막대 그래프" src="../../../../translated_images/ko/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 이제 '파이 타입'이라는 특정 호박 품종에만 집중하여 날짜가 가격에 미치는 영향을 살펴봅시다:
 
@@ -154,7 +145,7 @@ new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="파이 호박 가격 vs 연도의 일수 산점도" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="파이 호박 가격 vs 연도의 일수 산점도" src="../../../../translated_images/ko/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 이제 `corr` 함수를 사용하여 `Price`와 `DayOfYear` 간의 상관관계를 계산하면 `-0.27` 정도의 값을 얻을 수 있습니다. 이는 예측 모델을 훈련시키는 것이 의미가 있음을 나타냅니다.
 
@@ -228,7 +219,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```  
 
-<img alt="선형 회귀" src="images/linear-results.png" width="50%" />
+<img alt="선형 회귀" src="../../../../translated_images/ko/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## 다항 회귀
 
@@ -257,7 +248,7 @@ pipeline.fit(X_train,y_train)
 
 파이프라인은 원래의 `LinearRegression` 객체와 동일한 방식으로 사용할 수 있습니다. 즉, 파이프라인을 `fit`하고, 그런 다음 `predict`를 사용하여 예측 결과를 얻을 수 있습니다. 아래는 테스트 데이터와 근사 곡선을 보여주는 그래프입니다:
 
-<img alt="다항 회귀" src="images/poly-results.png" width="50%" />
+<img alt="다항 회귀" src="../../../../translated_images/ko/poly-results.ee587348f0f1f60b.webp" width="50%" />
 
 다항 회귀를 사용하면 약간 낮은 MSE와 약간 높은 결정 계수를 얻을 수 있지만, 큰 차이는 없습니다. 다른 특성을 고려해야 합니다!
 
@@ -275,7 +266,7 @@ pipeline.fit(X_train,y_train)
 
 여기에서 평균 가격이 종류에 따라 어떻게 달라지는지 확인할 수 있습니다:
 
-<img alt="종류별 평균 가격" src="images/price-by-variety.png" width="50%" />
+<img alt="종류별 평균 가격" src="../../../../translated_images/ko/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 종류를 고려하려면 먼저 이를 숫자 형태로 변환하거나 **인코딩**해야 합니다. 이를 수행하는 몇 가지 방법이 있습니다:
 

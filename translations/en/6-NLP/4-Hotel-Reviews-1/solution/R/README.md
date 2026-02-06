@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "81db6ff2cf6e62fbe2340b094bb9509e",
-  "translation_date": "2025-09-06T11:01:58+00:00",
-  "source_file": "6-NLP/4-Hotel-Reviews-1/solution/R/README.md",
-  "language_code": "en"
-}
--->
 this is a temporary placeholder
 
 ---

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a88d5918c1b9da69a40d917a0840c497",
-  "translation_date": "2025-09-05T13:21:31+00:00",
-  "source_file": "sketchnotes/README.md",
-  "language_code": "sr"
-}
--->
 Све скице наставног плана могу се преузети овде.
 
 🖨 За штампање у високој резолуцији, TIFF верзије су доступне у [овом репозиторијуму](https://github.com/girliemac/a-picture-is-worth-a-1000-words/tree/main/ml/tiff).

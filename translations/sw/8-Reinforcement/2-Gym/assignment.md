@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-09-05T16:47:52+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "sw"
-}
--->
 # Kufundisha Gari la Mlima
 
 [OpenAI Gym](http://gym.openai.com) imeundwa kwa namna ambayo mazingira yote yanatoa API sawa - yaani, mbinu sawa `reset`, `step` na `render`, na dhana sawa za **action space** na **observation space**. Hivyo basi, inapaswa kuwa rahisi kubadilisha algoriti za kujifunza kwa kuimarisha ili zifanye kazi katika mazingira tofauti kwa mabadiliko madogo ya msimbo.

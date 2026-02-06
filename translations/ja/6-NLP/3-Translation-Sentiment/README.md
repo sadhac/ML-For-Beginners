@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "be03c8182982b87ced155e4e9d1438e8",
-  "translation_date": "2025-09-06T09:42:39+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/README.md",
-  "language_code": "ja"
-}
--->
 # 翻訳と感情分析をMLで行う
 
 前のレッスンでは、`TextBlob`を使用して基本的なボットを構築する方法を学びました。このライブラリは、名詞句の抽出などの基本的な自然言語処理（NLP）タスクを実行するために、裏で機械学習（ML）を組み込んでいます。計算言語学におけるもう一つの重要な課題は、ある話し言葉や書き言葉の言語から別の言語への正確な「翻訳」です。

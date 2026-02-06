@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "107d5bb29da8a562e7ae72262d251a75",
-  "translation_date": "2025-09-05T01:15:06+00:00",
-  "source_file": "8-Reinforcement/2-Gym/README.md",
-  "language_code": "cs"
-}
--->
 # CartPole Bruslení
 
 Problém, který jsme řešili v předchozí lekci, se může zdát jako hračka, která nemá skutečné využití v reálných situacích. To však není pravda, protože mnoho reálných problémů má podobný scénář – například hraní šachů nebo Go. Jsou podobné, protože také máme hrací desku s danými pravidly a **diskrétní stav**.

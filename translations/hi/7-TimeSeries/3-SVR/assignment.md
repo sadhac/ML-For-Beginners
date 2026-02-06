@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "94aa2fc6154252ae30a3f3740299707a",
-  "translation_date": "2025-09-03T22:55:24+00:00",
-  "source_file": "7-TimeSeries/3-SVR/assignment.md",
-  "language_code": "hi"
-}
--->
 # एक नया SVR मॉडल
 
 ## निर्देश [^1]

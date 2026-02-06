@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-09-06T08:02:46+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "tr"
-}
--->
 # Pekiştirmeli Öğrenmeye Giriş
 
 Pekiştirmeli öğrenme, RL, denetimli öğrenme ve denetimsiz öğrenmenin yanında temel makine öğrenimi paradigmalarından biri olarak görülür. RL tamamen kararlarla ilgilidir: doğru kararlar vermek veya en azından onlardan öğrenmek.

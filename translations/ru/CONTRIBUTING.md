@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "977ec5266dfd78ad1ce2bd8d46fccbda",
-  "translation_date": "2025-08-29T20:10:03+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "ru"
-}
--->
 # Участие в проекте
 
 Этот проект приветствует вклад и предложения. Большинство вкладов требуют, чтобы вы

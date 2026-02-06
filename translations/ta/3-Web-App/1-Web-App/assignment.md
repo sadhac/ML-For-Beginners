@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a8e8ae10be335cbc745b75ee552317ff",
-  "translation_date": "2025-10-11T12:04:37+00:00",
-  "source_file": "3-Web-App/1-Web-App/assignment.md",
-  "language_code": "ta"
-}
--->
 # வேறு மாதிரியை முயற்சிக்கவும்
 
 ## வழிமுறைகள்

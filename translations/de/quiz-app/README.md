@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6d130dffca5db70d7e615f926cb1ad4c",
-  "translation_date": "2025-09-03T21:53:28+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "de"
-}
--->
 # Quizfragen
 
 Diese Quizfragen sind die Vor- und Nachbereitungsquiz für das ML-Curriculum unter https://aka.ms/ml-beginners

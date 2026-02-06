@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "abf86d845c84330bce205a46b382ec88",
-  "translation_date": "2025-12-19T14:03:43+00:00",
-  "source_file": "2-Regression/4-Logistic/README.md",
-  "language_code": "te"
-}
--->
 # వర్గాలను అంచనా వేయడానికి లాజిస్టిక్ రిగ్రెషన్
 
 ![లాజిస్టిక్ vs. లీనియర్ రిగ్రెషన్ ఇన్ఫోగ్రాఫిక్](../../../../translated_images/te/linear-vs-logistic.ba180bf95e7ee667.webp)

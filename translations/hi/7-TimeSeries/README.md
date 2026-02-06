@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-09-03T22:41:46+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "hi"
-}
--->
 # समय श्रृंखला पूर्वानुमान का परिचय
 
 समय श्रृंखला पूर्वानुमान क्या है? यह अतीत के रुझानों का विश्लेषण करके भविष्य की घटनाओं की भविष्यवाणी करने के बारे में है।

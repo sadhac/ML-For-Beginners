@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5e069a0ac02a9606a69946c2b3c574a9",
-  "translation_date": "2025-09-05T15:49:21+00:00",
-  "source_file": "9-Real-World/README.md",
-  "language_code": "ro"
-}
--->
 # Postscript: Aplicații reale ale învățării automate clasice
 
 În această secțiune a curriculumului, vei fi introdus în câteva aplicații reale ale învățării automate clasice. Am cercetat internetul pentru a găsi articole și lucrări despre aplicații care au utilizat aceste strategii, evitând pe cât posibil rețelele neuronale, învățarea profundă și inteligența artificială. Află cum este utilizată învățarea automată în sistemele de afaceri, aplicații ecologice, finanțe, arte și cultură, și multe altele.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4485a1ed4dd1b5647365e3d87456515d",
-  "translation_date": "2025-09-03T22:40:20+00:00",
-  "source_file": "2-Regression/2-Data/assignment.md",
-  "language_code": "ja"
-}
--->
 # 可視化の探求
 
 データ可視化に利用できるさまざまなライブラリがあります。このレッスンで使用するカボチャデータを使って、matplotlibとseabornを使用してサンプルノートブックでいくつかの可視化を作成してください。どのライブラリが使いやすいですか？

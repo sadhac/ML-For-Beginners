@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5e069a0ac02a9606a69946c2b3c574a9",
-  "translation_date": "2025-09-03T21:48:04+00:00",
-  "source_file": "9-Real-World/README.md",
-  "language_code": "de"
-}
--->
 # Nachwort: Anwendungen klassischer maschineller Lernverfahren in der realen Welt
 
 In diesem Abschnitt des Lehrplans werden Sie mit einigen realen Anwendungen des klassischen maschinellen Lernens vertraut gemacht. Wir haben das Internet durchforstet, um Whitepapers und Artikel über Anwendungen zu finden, die diese Strategien genutzt haben, und dabei neuralen Netzwerken, Deep Learning und KI so weit wie möglich vermieden. Erfahren Sie, wie maschinelles Lernen in Geschäftssystemen, ökologischen Anwendungen, Finanzen, Kunst und Kultur und mehr eingesetzt wird.

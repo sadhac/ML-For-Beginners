@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6d130dffca5db70d7e615f926cb1ad4c",
-  "translation_date": "2025-12-19T13:01:04+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "ml"
-}
--->
 # ക്വിസുകൾ
 
 ഈ ക്വിസുകൾ https://aka.ms/ml-beginners ലെ ML പാഠ്യപദ്ധതിക്കുള്ള പ്രീ-ലക്ചർ, പോസ്റ്റ്-ലക്ചർ ക്വിസുകളാണ്

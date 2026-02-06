@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fa81d226c71d5af7a2cade31c1c92b88",
-  "translation_date": "2025-09-04T22:33:17+00:00",
-  "source_file": "2-Regression/1-Tools/README.md",
-  "language_code": "fa"
-}
--->
 # شروع کار با پایتون و Scikit-learn برای مدل‌های رگرسیون
 
 ![خلاصه‌ای از رگرسیون‌ها در یک اسکچ‌نوت](../../../../sketchnotes/ml-regression.png)

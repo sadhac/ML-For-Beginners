@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e0b75f73e4a90d45181dc5581fe2ef5c",
-  "translation_date": "2025-09-05T16:13:37+00:00",
-  "source_file": "3-Web-App/1-Web-App/README.md",
-  "language_code": "sk"
-}
--->
 # Vytvorte webovú aplikáciu na použitie ML modelu
 
 V tejto lekcii budete trénovať ML model na dátovej sade, ktorá je doslova mimo tohto sveta: _pozorovania UFO za posledné storočie_, získané z databázy NUFORC.

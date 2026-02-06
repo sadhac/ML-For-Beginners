@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5e069a0ac02a9606a69946c2b3c574a9",
-  "translation_date": "2025-09-03T23:14:48+00:00",
-  "source_file": "9-Real-World/README.md",
-  "language_code": "es"
-}
--->
 # Posdata: Aplicaciones reales del aprendizaje automático clásico
 
 En esta sección del currículo, se te presentarán algunas aplicaciones reales del aprendizaje automático clásico. Hemos investigado en internet para encontrar artículos y documentos técnicos sobre aplicaciones que han utilizado estas estrategias, evitando redes neuronales, aprendizaje profundo e inteligencia artificial tanto como sea posible. Aprende cómo se utiliza el aprendizaje automático en sistemas empresariales, aplicaciones ecológicas, finanzas, arte y cultura, entre otros.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "69389392fa6346e0dfa30f664b7b6fec",
-  "translation_date": "2025-09-05T10:24:35+00:00",
-  "source_file": "1-Introduction/1-intro-to-ML/README.md",
-  "language_code": "hi"
-}
--->
 # मशीन लर्निंग का परिचय
 
 ## [प्री-लेक्चर क्विज़](https://ff-quizzes.netlify.app/en/ml/)

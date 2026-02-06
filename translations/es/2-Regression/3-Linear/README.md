@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-04T22:11:11+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "es"
-}
--->
 # Construir un modelo de regresión usando Scikit-learn: cuatro formas de regresión
 
 ![Infografía de regresión lineal vs polinómica](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -114,11 +105,11 @@ Ahora que tienes una comprensión de las matemáticas detrás de la regresión l
 
 De la lección anterior probablemente hayas visto que el precio promedio para diferentes meses se ve así:
 
-<img alt="Precio promedio por mes" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="Precio promedio por mes" src="../../../../translated_images/es/barchart.a833ea9194346d76.webp" width="50%"/>
 
 Esto sugiere que debería haber alguna correlación, y podemos intentar entrenar un modelo de regresión lineal para predecir la relación entre `Mes` y `Precio`, o entre `DíaDelAño` y `Precio`. Aquí está el gráfico de dispersión que muestra esta última relación:
 
-<img alt="Gráfico de dispersión de Precio vs. Día del Año" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="Gráfico de dispersión de Precio vs. Día del Año" src="../../../../translated_images/es/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 Veamos si hay una correlación usando la función `corr`:
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="Gráfico de dispersión de Precio vs. Día del Año" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="Gráfico de dispersión de Precio vs. Día del Año" src="../../../../translated_images/es/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 Nuestra investigación sugiere que la variedad tiene más efecto en el precio general que la fecha de venta real. Podemos ver esto con un gráfico de barras:
 
@@ -145,7 +136,7 @@ Nuestra investigación sugiere que la variedad tiene más efecto en el precio ge
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="Gráfico de barras de precio vs variedad" src="images/price-by-variety.png" width="50%" /> 
+<img alt="Gráfico de barras de precio vs variedad" src="../../../../translated_images/es/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 Centrémonos por el momento solo en una variedad de calabaza, el 'tipo pie', y veamos qué efecto tiene la fecha en el precio:
 
@@ -153,7 +144,7 @@ Centrémonos por el momento solo en una variedad de calabaza, el 'tipo pie', y v
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="Gráfico de dispersión de Precio vs. Día del Año" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="Gráfico de dispersión de Precio vs. Día del Año" src="../../../../translated_images/es/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 Si ahora calculamos la correlación entre `Precio` y `DíaDelAño` usando la función `corr`, obtendremos algo como `-0.27`, lo que significa que tiene sentido entrenar un modelo predictivo.
 
@@ -227,7 +218,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```
 
-<img alt="Regresión lineal" src="images/linear-results.png" width="50%" />
+<img alt="Regresión lineal" src="../../../../translated_images/es/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## Regresión Polinómica
 
@@ -256,7 +247,7 @@ Usar `PolynomialFeatures(2)` significa que incluiremos todos los polinomios de s
 
 Los pipelines pueden usarse de la misma manera que el objeto original `LinearRegression`, es decir, podemos usar `fit` en el pipeline y luego usar `predict` para obtener los resultados de predicción. Aquí está el gráfico que muestra los datos de prueba y la curva de aproximación:
 
-<img alt="Regresión polinómica" src="images/poly-results.png" width="50%" />
+<img alt="Regresión polinómica" src="../../../../translated_images/es/poly-results.ee587348f0f1f60b.webp" width="50%" />
 
 Usando Regresión Polinómica, podemos obtener un MSE ligeramente más bajo y un coeficiente de determinación más alto, pero no significativamente. ¡Necesitamos tomar en cuenta otras características!
 
@@ -274,7 +265,7 @@ En un mundo ideal, queremos poder predecir precios para diferentes variedades de
 
 Aquí puedes ver cómo el precio promedio depende de la variedad:
 
-<img alt="Precio promedio por variedad" src="images/price-by-variety.png" width="50%" />
+<img alt="Precio promedio por variedad" src="../../../../translated_images/es/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 Para tomar en cuenta la variedad, primero necesitamos convertirla a forma numérica, o **codificarla**. Hay varias maneras de hacerlo:
 

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-09-05T20:23:06+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "vi"
-}
--->
 # Huấn luyện Mountain Car
 
 [OpenAI Gym](http://gym.openai.com) được thiết kế sao cho tất cả các môi trường đều cung cấp cùng một API - tức là các phương thức `reset`, `step` và `render`, cùng các khái niệm về **action space** và **observation space**. Do đó, có thể áp dụng cùng một thuật toán học tăng cường cho các môi trường khác nhau với ít thay đổi mã nguồn.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-09-03T22:41:21+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "ko"
-}
--->
 # 시계열 예측 소개
 
 시계열 예측이란 무엇일까요? 과거의 추세를 분석하여 미래의 사건을 예측하는 것입니다.

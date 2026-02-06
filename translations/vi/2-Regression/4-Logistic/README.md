@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "abf86d845c84330bce205a46b382ec88",
-  "translation_date": "2025-09-05T18:46:57+00:00",
-  "source_file": "2-Regression/4-Logistic/README.md",
-  "language_code": "vi"
-}
--->
 # Hồi quy Logistic để dự đoán danh mục
 
 ![Infographic về hồi quy Logistic và hồi quy tuyến tính](../../../../2-Regression/4-Logistic/images/linear-vs-logistic.png)

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-09-05T16:35:31+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "hu"
-}
--->
 # Bevezetés a megerősítéses tanulásba
 
 A megerősítéses tanulás, azaz RL, a gépi tanulás egyik alapvető paradigmájának számít, a felügyelt tanulás és a nem felügyelt tanulás mellett. Az RL a döntésekről szól: helyes döntések meghozatala vagy legalább tanulás a hibákból.

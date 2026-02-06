@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "917dbf890db71a322f306050cb284749",
-  "translation_date": "2025-09-05T18:58:20+00:00",
-  "source_file": "7-TimeSeries/2-ARIMA/README.md",
-  "language_code": "nl"
-}
--->
 # Tijdreeksvoorspelling met ARIMA
 
 In de vorige les heb je wat geleerd over tijdreeksvoorspelling en een dataset geladen die de fluctuaties van het elektriciteitsverbruik over een bepaalde periode laat zien.

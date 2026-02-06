@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "662b509c39eee205687726636d0a8455",
-  "translation_date": "2025-11-18T18:59:08+00:00",
-  "source_file": "7-TimeSeries/1-Introduction/README.md",
-  "language_code": "pcm"
-}
--->
 # Introduction to time series forecasting
 
 ![Summary of time series in a sketchnote](../../../../translated_images/pcm/ml-timeseries.fb98d25f1013fc0c.webp)

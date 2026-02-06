@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-09-03T22:41:30+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "es"
-}
--->
 # Introducción a la predicción de series temporales
 
 ¿Qué es la predicción de series temporales? Se trata de predecir eventos futuros analizando las tendencias del pasado.

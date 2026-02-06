@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9a6b702d1437c0467e3c5c28d763dac2",
-  "translation_date": "2025-09-06T07:03:15+00:00",
-  "source_file": "1-Introduction/3-fairness/README.md",
-  "language_code": "pa"
-}
--->
 # ਮਸ਼ੀਨ ਲਰਨਿੰਗ ਹੱਲਾਂ ਨੂੰ ਜ਼ਿੰਮੇਵਾਰ AI ਨਾਲ ਬਣਾਉਣਾ
 
 ![ਮਸ਼ੀਨ ਲਰਨਿੰਗ ਵਿੱਚ ਜ਼ਿੰਮੇਵਾਰ AI ਦਾ ਸੰਖੇਪ](../../../../sketchnotes/ml-fairness.png)

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1c2ec40cf55c98a028a359c27ef7e45a",
-  "translation_date": "2025-09-06T06:22:00+00:00",
-  "source_file": "6-NLP/1-Introduction-to-NLP/README.md",
-  "language_code": "mr"
-}
--->
 # नैसर्गिक भाषा प्रक्रिया परिचय
 
 ही धडा *नैसर्गिक भाषा प्रक्रिया* या *संगणकीय भाषाशास्त्र* उपक्षेत्राचा थोडक्यात इतिहास आणि महत्त्वाच्या संकल्पनांचा आढावा घेते.

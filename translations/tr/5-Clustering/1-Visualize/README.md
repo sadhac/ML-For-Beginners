@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "730225ea274c9174fe688b21d421539d",
-  "translation_date": "2025-09-06T07:50:57+00:00",
-  "source_file": "5-Clustering/1-Visualize/README.md",
-  "language_code": "tr"
-}
--->
 # Kümeleme Giriş
 
 Kümeleme, bir veri kümesinin etiketlenmediğini veya girdilerin önceden tanımlanmış çıktılarla eşleştirilmediğini varsayan bir tür [Denetimsiz Öğrenme](https://wikipedia.org/wiki/Unsupervised_learning) yöntemidir. Bu yöntem, etiketlenmemiş verileri çeşitli algoritmalarla analiz ederek, verideki desenlere göre gruplamalar sağlar.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "83320d6b6994909e35d830cebf214039",
-  "translation_date": "2025-12-19T15:07:29+00:00",
-  "source_file": "9-Real-World/1-Applications/README.md",
-  "language_code": "ml"
-}
--->
 # പോസ്റ്റ്‌സ്‌ക്രിപ്റ്റ്: യാഥാർത്ഥ്യ ലോകത്തിലെ മെഷീൻ ലേണിംഗ്
 
 

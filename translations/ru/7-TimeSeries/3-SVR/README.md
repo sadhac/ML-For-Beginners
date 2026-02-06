@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-09-06T08:28:13+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "ru"
-}
--->
 # Прогнозирование временных рядов с использованием Support Vector Regressor
 
 В предыдущем уроке вы узнали, как использовать модель ARIMA для прогнозирования временных рядов. Теперь мы рассмотрим модель Support Vector Regressor, которая используется для предсказания непрерывных данных.

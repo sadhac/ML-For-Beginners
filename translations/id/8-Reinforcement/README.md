@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-09-05T20:10:05+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "id"
-}
--->
 # Pengantar Pembelajaran Penguatan
 
 Pembelajaran penguatan, atau RL, dianggap sebagai salah satu paradigma dasar pembelajaran mesin, selain pembelajaran terawasi dan pembelajaran tak terawasi. RL berfokus pada pengambilan keputusan: membuat keputusan yang tepat atau setidaknya belajar dari keputusan tersebut.

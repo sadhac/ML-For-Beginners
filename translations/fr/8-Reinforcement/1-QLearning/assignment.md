@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "68394b2102d3503882e5e914bd0ff5c1",
-  "translation_date": "2025-09-04T00:23:10+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/assignment.md",
-  "language_code": "fr"
-}
--->
 # Un monde plus réaliste
 
 Dans notre situation, Peter pouvait se déplacer presque sans se fatiguer ni avoir faim. Dans un monde plus réaliste, il doit s'asseoir et se reposer de temps en temps, et aussi se nourrir. Rendons notre monde plus réaliste en appliquant les règles suivantes :

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1c2ec40cf55c98a028a359c27ef7e45a",
-  "translation_date": "2025-09-06T11:02:08+00:00",
-  "source_file": "6-NLP/1-Introduction-to-NLP/README.md",
-  "language_code": "en"
-}
--->
 # Introduction to natural language processing
 
 This lesson provides a brief history and key concepts of *natural language processing*, a subfield of *computational linguistics*.

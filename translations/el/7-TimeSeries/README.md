@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-09-04T23:44:32+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "el"
-}
--->
 # Εισαγωγή στην πρόβλεψη χρονοσειρών
 
 Τι είναι η πρόβλεψη χρονοσειρών; Πρόκειται για την πρόβλεψη μελλοντικών γεγονότων μέσω της ανάλυσης των τάσεων του παρελθόντος.

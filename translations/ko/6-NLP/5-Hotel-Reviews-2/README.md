@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "2c742993fe95d5bcbb2846eda3d442a1",
-  "translation_date": "2025-09-05T10:58:14+00:00",
-  "source_file": "6-NLP/5-Hotel-Reviews-2/README.md",
-  "language_code": "ko"
-}
--->
 # 호텔 리뷰를 활용한 감정 분석
 
 데이터셋을 자세히 탐색한 후, 이제 열을 필터링하고 NLP 기술을 사용하여 호텔에 대한 새로운 인사이트를 얻을 때입니다.

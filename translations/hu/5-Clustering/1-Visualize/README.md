@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "730225ea274c9174fe688b21d421539d",
-  "translation_date": "2025-09-05T15:41:05+00:00",
-  "source_file": "5-Clustering/1-Visualize/README.md",
-  "language_code": "hu"
-}
--->
 # Bevezetés a klaszterezéshez
 
 A klaszterezés a [felügyelet nélküli tanulás](https://wikipedia.org/wiki/Unsupervised_learning) egyik típusa, amely feltételezi, hogy az adathalmaz címkézetlen, vagy hogy a bemenetek nincsenek előre meghatározott kimenetekhez társítva. Különböző algoritmusokat használ a címkézetlen adatok rendezésére, és csoportosításokat hoz létre az adatokban észlelt minták alapján.

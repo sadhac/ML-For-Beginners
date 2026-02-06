@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "799ed651e2af0a7cad17c6268db11578",
-  "translation_date": "2025-10-11T11:58:20+00:00",
-  "source_file": "4-Classification/4-Applied/assignment.md",
-  "language_code": "et"
-}
--->
 # Loo soovitussüsteem
 
 ## Juhised

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4485a1ed4dd1b5647365e3d87456515d",
-  "translation_date": "2025-09-05T18:56:51+00:00",
-  "source_file": "2-Regression/2-Data/assignment.md",
-  "language_code": "nl"
-}
--->
 # Visualisaties Verkennen
 
 Er zijn verschillende bibliotheken beschikbaar voor datavisualisatie. Maak enkele visualisaties met behulp van de Pompoen-data in deze les met matplotlib en seaborn in een voorbeeldnotebook. Welke bibliotheken zijn gemakkelijker om mee te werken?

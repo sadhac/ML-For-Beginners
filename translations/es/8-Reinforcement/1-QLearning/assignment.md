@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "68394b2102d3503882e5e914bd0ff5c1",
-  "translation_date": "2025-09-04T00:24:17+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/assignment.md",
-  "language_code": "es"
-}
--->
 # Un Mundo Más Realista
 
 En nuestra situación, Peter podía moverse casi sin cansarse ni tener hambre. En un mundo más realista, tiene que sentarse y descansar de vez en cuando, y también alimentarse. Hagamos nuestro mundo más realista implementando las siguientes reglas:

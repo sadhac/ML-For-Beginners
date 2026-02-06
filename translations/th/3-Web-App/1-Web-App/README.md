@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e0b75f73e4a90d45181dc5581fe2ef5c",
-  "translation_date": "2025-09-05T21:46:29+00:00",
-  "source_file": "3-Web-App/1-Web-App/README.md",
-  "language_code": "th"
-}
--->
 # สร้างเว็บแอปเพื่อใช้งานโมเดล ML
 
 ในบทเรียนนี้ คุณจะฝึกโมเดล ML บนชุดข้อมูลที่น่าสนใจมาก: _การพบเห็น UFO ในช่วงศตวรรษที่ผ่านมา_ ซึ่งมาจากฐานข้อมูลของ NUFORC

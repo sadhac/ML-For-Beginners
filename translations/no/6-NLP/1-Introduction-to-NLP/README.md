@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1c2ec40cf55c98a028a359c27ef7e45a",
-  "translation_date": "2025-09-05T22:22:25+00:00",
-  "source_file": "6-NLP/1-Introduction-to-NLP/README.md",
-  "language_code": "no"
-}
--->
 # Introduksjon til naturlig språkbehandling
 
 Denne leksjonen dekker en kort historie og viktige konsepter innen *naturlig språkbehandling*, et underfelt av *datamaskinlingvistikk*.

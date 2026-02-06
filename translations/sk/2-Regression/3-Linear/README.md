@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-05T15:11:10+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "sk"
-}
--->
 # Vytvorenie regresného modelu pomocou Scikit-learn: štyri spôsoby regresie
 
 ![Infografika lineárna vs polynomiálna regresia](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -114,11 +105,11 @@ Teraz, keď rozumiete matematike za lineárnou regresiou, poďme vytvoriť regre
 
 Z predchádzajúcej lekcie ste pravdepodobne videli, že priemerná cena za rôzne mesiace vyzerá takto:
 
-<img alt="Priemerná cena podľa mesiaca" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="Priemerná cena podľa mesiaca" src="../../../../translated_images/sk/barchart.a833ea9194346d76.webp" width="50%"/>
 
 To naznačuje, že by mala existovať nejaká korelácia, a môžeme skúsiť trénovať model lineárnej regresie na predpovedanie vzťahu medzi `Mesiac` a `Cena`, alebo medzi `DeňVroku` a `Cena`. Tu je bodový graf, ktorý ukazuje druhý vzťah:
 
-<img alt="Bodový graf Cena vs. Deň v roku" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="Bodový graf Cena vs. Deň v roku" src="../../../../translated_images/sk/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 Pozrime sa, či existuje korelácia pomocou funkcie `corr`:
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="Bodový graf Cena vs. Deň v roku" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="Bodový graf Cena vs. Deň v roku" src="../../../../translated_images/sk/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 Naše vyšetrovanie naznačuje, že odroda má väčší vplyv na celkovú cenu ako skutočný dátum predaja. Môžeme to vidieť na stĺpcovom grafe:
 
@@ -145,7 +136,7 @@ Naše vyšetrovanie naznačuje, že odroda má väčší vplyv na celkovú cenu 
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="Stĺpcový graf cena vs odroda" src="images/price-by-variety.png" width="50%" /> 
+<img alt="Stĺpcový graf cena vs odroda" src="../../../../translated_images/sk/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 Zamerajme sa na chvíľu iba na jednu odrodu tekvíc, 'pie type', a pozrime sa, aký vplyv má dátum na cenu:
 
@@ -153,7 +144,7 @@ Zamerajme sa na chvíľu iba na jednu odrodu tekvíc, 'pie type', a pozrime sa, 
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="Bodový graf Cena vs. Deň v roku" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="Bodový graf Cena vs. Deň v roku" src="../../../../translated_images/sk/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 Ak teraz vypočítame koreláciu medzi `Cena` a `DeňVroku` pomocou funkcie `corr`, dostaneme hodnotu okolo `-0.27` - čo znamená, že trénovanie prediktívneho modelu má zmysel.
 
@@ -227,7 +218,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```  
 
-<img alt="Lineárna regresia" src="images/linear-results.png" width="50%" />
+<img alt="Lineárna regresia" src="../../../../translated_images/sk/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## Polynomická regresia
 
@@ -256,7 +247,7 @@ Použitie `PolynomialFeatures(2)` znamená, že zahrnieme všetky polynómy druh
 
 Pipeline môžeme používať rovnakým spôsobom ako pôvodný objekt `LinearRegression`, t.j. môžeme pipeline `fit` a potom použiť `predict` na získanie výsledkov predikcie. Tu je graf zobrazujúci testovacie údaje a aproximačnú krivku:
 
-<img alt="Polynomická regresia" src="images/poly-results.png" width="50%" />
+<img alt="Polynomická regresia" src="../../../../translated_images/sk/poly-results.ee587348f0f1f60b.webp" width="50%" />
 
 Použitím polynomickej regresie môžeme dosiahnuť mierne nižšie MSE a vyššiu determináciu, ale nie významne. Musíme zohľadniť ďalšie prvky!
 
@@ -274,7 +265,7 @@ V ideálnom svete chceme byť schopní predpovedať ceny pre rôzne odrody tekv�
 
 Tu môžete vidieť, ako priemerná cena závisí od odrody:
 
-<img alt="Priemerná cena podľa odrody" src="images/price-by-variety.png" width="50%" />
+<img alt="Priemerná cena podľa odrody" src="../../../../translated_images/sk/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 Aby sme zohľadnili odrodu, musíme ju najskôr previesť na numerickú formu, alebo ju **zakódovať**. Existuje niekoľko spôsobov, ako to môžeme urobiť:
 

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9836ff53cfef716ddfd70e06c5f43436",
-  "translation_date": "2025-10-11T12:03:30+00:00",
-  "source_file": "3-Web-App/README.md",
-  "language_code": "et"
-}
--->
 # Ehita veebirakendus oma ML-mudeli kasutamiseks
 
 Selles õppekava osas tutvustatakse teile rakenduslikku masinõppe teemat: kuidas salvestada oma Scikit-learn mudel failina, mida saab kasutada ennustuste tegemiseks veebirakenduses. Kui mudel on salvestatud, õpite, kuidas seda kasutada Flaskis ehitatud veebirakenduses. Kõigepealt loote mudeli, kasutades andmeid, mis käsitlevad UFO-vaatlusi! Seejärel ehitate veebirakenduse, mis võimaldab sisestada sekundite arvu koos laius- ja pikkuskraadi väärtustega, et ennustada, milline riik teatas UFO nägemisest.

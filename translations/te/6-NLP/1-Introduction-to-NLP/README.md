@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1c2ec40cf55c98a028a359c27ef7e45a",
-  "translation_date": "2025-12-19T14:26:28+00:00",
-  "source_file": "6-NLP/1-Introduction-to-NLP/README.md",
-  "language_code": "te"
-}
--->
 # సహజ భాషా ప్రాసెసింగ్ పరిచయం
 
 ఈ పాఠం *సహజ భాషా ప్రాసెసింగ్* యొక్క సంక్షిప్త చరిత్ర మరియు ముఖ్యమైన భావనలను కవర్ చేస్తుంది, ఇది *కంప్యూటేషనల్ లింగ్విస్టిక్స్* యొక్క ఉపశాఖ.

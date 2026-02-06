@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5f3cb462e3122e1afe7ab0050ccf2bd3",
-  "translation_date": "2025-09-05T16:49:56+00:00",
-  "source_file": "6-NLP/2-Tasks/README.md",
-  "language_code": "sw"
-}
--->
 # Kazi za kawaida za usindikaji wa lugha asilia na mbinu zake
 
 Kwa kazi nyingi za *usindikaji wa lugha asilia*, maandishi yanayopaswa kusindikiwa lazima yagawanywe, kuchunguzwa, na matokeo yake kuhifadhiwa au kulinganishwa na sheria na seti za data. Kazi hizi zinamruhusu mpangaji programu kupata _maana_, _nia_, au tu _mara kwa mara_ ya maneno na misemo katika maandishi.

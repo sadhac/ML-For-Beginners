@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-09-05T16:35:50+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "sk"
-}
--->
 # Úvod do posilňovacieho učenia
 
 Posilňovacie učenie, RL, je považované za jeden zo základných paradigmatov strojového učenia, vedľa učenia s učiteľom a učenia bez učiteľa. RL je o rozhodnutiach: robiť správne rozhodnutia alebo sa aspoň z nich učiť.

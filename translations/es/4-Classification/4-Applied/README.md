@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61bdec27ed2da8b098cd9065405d9bb0",
-  "translation_date": "2025-09-04T22:23:45+00:00",
-  "source_file": "4-Classification/4-Applied/README.md",
-  "language_code": "es"
-}
--->
 # Construir una Aplicación Web de Recomendación de Cocina
 
 En esta lección, construirás un modelo de clasificación utilizando algunas de las técnicas que has aprendido en lecciones anteriores y con el delicioso conjunto de datos de cocina utilizado a lo largo de esta serie. Además, crearás una pequeña aplicación web para usar un modelo guardado, aprovechando el runtime web de Onnx.

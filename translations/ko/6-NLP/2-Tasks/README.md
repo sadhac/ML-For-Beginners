@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5f3cb462e3122e1afe7ab0050ccf2bd3",
-  "translation_date": "2025-09-05T10:55:03+00:00",
-  "source_file": "6-NLP/2-Tasks/README.md",
-  "language_code": "ko"
-}
--->
 # 자연어 처리의 일반적인 작업과 기술
 
 대부분의 *자연어 처리* 작업에서는 처리할 텍스트를 분해하고, 분석하며, 결과를 저장하거나 규칙 및 데이터 세트와 교차 참조해야 합니다. 이러한 작업을 통해 프로그래머는 텍스트에서 _의미_, _의도_, 또는 단순히 _단어 빈도_를 도출할 수 있습니다.

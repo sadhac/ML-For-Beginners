@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-06T08:24:09+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "ru"
-}
--->
 # Построение модели регрессии с использованием Scikit-learn: четыре способа регрессии
 
 ![Инфографика: линейная vs полиномиальная регрессия](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -114,11 +105,11 @@ day_of_year = pd.to_datetime(pumpkins['Date']).apply(lambda dt: (dt-datetime(dt.
 
 Из предыдущего урока вы, вероятно, видели, что средняя цена за разные месяцы выглядит следующим образом:
 
-<img alt="Средняя цена по месяцам" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="Средняя цена по месяцам" src="../../../../translated_images/ru/barchart.a833ea9194346d76.webp" width="50%"/>
 
 Это предполагает, что должна быть некоторая корреляция, и мы можем попробовать обучить модель линейной регрессии, чтобы предсказать связь между `Месяцем` и `Ценой`, или между `ДнемГода` и `Ценой`. Вот диаграмма рассеяния, показывающая последнюю связь:
 
-<img alt="Диаграмма рассеяния: Цена vs День года" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="Диаграмма рассеяния: Цена vs День года" src="../../../../translated_images/ru/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 Давайте проверим наличие корреляции с помощью функции `corr`:
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="Диаграмма рассеяния: Цена vs День года" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="Диаграмма рассеяния: Цена vs День года" src="../../../../translated_images/ru/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 Наше исследование предполагает, что сорт тыкв оказывает большее влияние на общую цену, чем фактическая дата продажи. Мы можем увидеть это на столбчатом графике:
 
@@ -145,7 +136,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="Столбчатый график: цена vs сорт" src="images/price-by-variety.png" width="50%" /> 
+<img alt="Столбчатый график: цена vs сорт" src="../../../../translated_images/ru/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 Давайте сосредоточимся на одном сорте тыкв, 'pie type', и посмотрим, какое влияние дата оказывает на цену:
 
@@ -153,7 +144,7 @@ new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="Диаграмма рассеяния: Цена vs День года" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="Диаграмма рассеяния: Цена vs День года" src="../../../../translated_images/ru/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 Если теперь рассчитать корреляцию между `Ценой` и `ДнемГода` с помощью функции `corr`, мы получим что-то около `-0.27`, что означает, что обучение предсказательной модели имеет смысл.
 
@@ -227,7 +218,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```  
 
-<img alt="Линейная регрессия" src="images/linear-results.png" width="50%" />
+<img alt="Линейная регрессия" src="../../../../translated_images/ru/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## Полиномиальная регрессия  
 
@@ -256,7 +247,7 @@ pipeline.fit(X_train,y_train)
 
 Конвейеры можно использовать так же, как и оригинальный объект `LinearRegression`, то есть мы можем выполнить `fit` для конвейера, а затем использовать `predict`, чтобы получить результаты предсказания. Вот график, показывающий тестовые данные и аппроксимационную кривую:  
 
-<img alt="Полиномиальная регрессия" src="images/poly-results.png" width="50%" />  
+<img alt="Полиномиальная регрессия" src="../../../../translated_images/ru/poly-results.ee587348f0f1f60b.webp" width="50%" />  
 
 Используя полиномиальную регрессию, мы можем получить немного более низкий MSE и более высокий коэффициент детерминации, но не значительно. Нам нужно учитывать другие признаки!  
 
@@ -274,7 +265,7 @@ pipeline.fit(X_train,y_train)
 
 Здесь вы можете увидеть, как средняя цена зависит от разновидности:  
 
-<img alt="Средняя цена по разновидности" src="images/price-by-variety.png" width="50%" />  
+<img alt="Средняя цена по разновидности" src="../../../../translated_images/ru/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />  
 
 Чтобы учитывать разновидность, сначала нужно преобразовать ее в числовую форму, или **закодировать**. Существует несколько способов сделать это:  
 

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "70d65aeddc06170bc1aed5b27805f930",
-  "translation_date": "2025-09-05T12:46:33+00:00",
-  "source_file": "1-Introduction/4-techniques-of-ML/assignment.md",
-  "language_code": "my"
-}
--->
 # ဒေတာသိပ္ပံပညာရှင်တစ်ဦးကို မေးမြန်းခြင်း
 
 ## လမ်းညွှန်ချက်များ

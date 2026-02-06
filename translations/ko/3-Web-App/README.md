@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9836ff53cfef716ddfd70e06c5f43436",
-  "translation_date": "2025-09-03T23:43:15+00:00",
-  "source_file": "3-Web-App/README.md",
-  "language_code": "ko"
-}
--->
 # ML 모델을 활용한 웹 앱 만들기
 
 이 커리큘럼 섹션에서는 Scikit-learn 모델을 파일로 저장하여 웹 애플리케이션 내에서 예측에 사용할 수 있는 방법을 배우는 실용적인 머신러닝 주제를 소개합니다. 모델을 저장한 후에는 Flask로 구축된 웹 앱에서 이를 사용하는 방법을 배우게 됩니다. 먼저 UFO 목격 데이터를 사용하여 모델을 생성합니다! 그런 다음, 특정 시간(초)과 위도 및 경도 값을 입력하여 어느 국가에서 UFO를 목격했는지 예측할 수 있는 웹 앱을 구축합니다.

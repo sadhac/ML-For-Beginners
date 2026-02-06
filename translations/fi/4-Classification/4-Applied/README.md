@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61bdec27ed2da8b098cd9065405d9bb0",
-  "translation_date": "2025-09-05T00:48:18+00:00",
-  "source_file": "4-Classification/4-Applied/README.md",
-  "language_code": "fi"
-}
--->
 # Rakenna ruokasuositusverkkosovellus
 
 Tässä oppitunnissa rakennat luokittelumallin käyttäen joitakin aiemmissa oppitunneissa opittuja tekniikoita sekä herkullista ruokadatasettiä, jota on käytetty läpi tämän sarjan. Lisäksi rakennat pienen verkkosovelluksen, joka hyödyntää tallennettua mallia Onnxin verkkokäyttöliittymän avulla.

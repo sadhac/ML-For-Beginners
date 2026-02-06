@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "107d5bb29da8a562e7ae72262d251a75",
-  "translation_date": "2025-09-06T08:04:44+00:00",
-  "source_file": "8-Reinforcement/2-Gym/README.md",
-  "language_code": "tr"
-}
--->
 ## Ön Koşullar
 
 Bu derste, farklı **ortamları** simüle etmek için **OpenAI Gym** adlı bir kütüphane kullanacağız. Bu dersin kodunu yerel olarak (örneğin, Visual Studio Code'dan) çalıştırabilirsiniz; bu durumda simülasyon yeni bir pencerede açılacaktır. Kodu çevrimiçi çalıştırırken, [burada](https://towardsdatascience.com/rendering-openai-gym-envs-on-binder-and-google-colab-536f99391cc7) açıklandığı gibi kodda bazı değişiklikler yapmanız gerekebilir.

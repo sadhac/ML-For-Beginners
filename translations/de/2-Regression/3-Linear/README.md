@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-04T21:49:11+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "de"
-}
--->
 # Erstellen eines Regressionsmodells mit Scikit-learn: Regression auf vier Arten
 
 ![Infografik zu linearer vs. polynomialer Regression](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -114,11 +105,11 @@ Jetzt, da Sie die Mathematik hinter der linearen Regression verstanden haben, la
 
 Aus der vorherigen Lektion haben Sie wahrscheinlich gesehen, dass der Durchschnittspreis für verschiedene Monate wie folgt aussieht:
 
-<img alt="Durchschnittspreis nach Monat" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="Durchschnittspreis nach Monat" src="../../../../translated_images/de/barchart.a833ea9194346d76.webp" width="50%"/>
 
 Dies deutet darauf hin, dass es eine gewisse Korrelation geben sollte, und wir können versuchen, ein lineares Regressionsmodell zu trainieren, um die Beziehung zwischen `Monat` und `Preis` oder zwischen `TagDesJahres` und `Preis` vorherzusagen. Hier ist das Streudiagramm, das die letztere Beziehung zeigt:
 
-<img alt="Streudiagramm von Preis vs. Tag des Jahres" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="Streudiagramm von Preis vs. Tag des Jahres" src="../../../../translated_images/de/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 Lassen Sie uns sehen, ob es eine Korrelation gibt, indem wir die Funktion `corr` verwenden:
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="Streudiagramm von Preis vs. Tag des Jahres" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="Streudiagramm von Preis vs. Tag des Jahres" src="../../../../translated_images/de/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 Unsere Untersuchung legt nahe, dass die Sorte einen größeren Einfluss auf den Gesamtpreis hat als das tatsächliche Verkaufsdatum. Wir können dies mit einem Balkendiagramm sehen:
 
@@ -145,7 +136,7 @@ Unsere Untersuchung legt nahe, dass die Sorte einen größeren Einfluss auf den 
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="Balkendiagramm von Preis vs. Sorte" src="images/price-by-variety.png" width="50%" /> 
+<img alt="Balkendiagramm von Preis vs. Sorte" src="../../../../translated_images/de/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 Lassen Sie uns uns vorerst nur auf eine Kürbissorte, den 'Pie Type', konzentrieren und sehen, welchen Einfluss das Datum auf den Preis hat:
 
@@ -153,7 +144,7 @@ Lassen Sie uns uns vorerst nur auf eine Kürbissorte, den 'Pie Type', konzentrie
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="Streudiagramm von Preis vs. Tag des Jahres" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="Streudiagramm von Preis vs. Tag des Jahres" src="../../../../translated_images/de/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 Wenn wir jetzt die Korrelation zwischen `Preis` und `TagDesJahres` mit der Funktion `corr` berechnen, erhalten wir etwa `-0.27` - was bedeutet, dass das Trainieren eines Vorhersagemodells sinnvoll ist.
 
@@ -227,7 +218,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```  
 
-<img alt="Lineare Regression" src="images/linear-results.png" width="50%" />
+<img alt="Lineare Regression" src="../../../../translated_images/de/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## Polynomiale Regression
 
@@ -256,7 +247,7 @@ Die Verwendung von `PolynomialFeatures(2)` bedeutet, dass wir alle Polynome zwei
 
 Pipelines können genauso verwendet werden wie das ursprüngliche `LinearRegression`-Objekt, d. h. wir können die Pipeline `fit`ten und dann `predict` verwenden, um die Vorhersageergebnisse zu erhalten. Hier ist das Diagramm, das die Testdaten und die Annäherungskurve zeigt:
 
-<img alt="Polynomiale Regression" src="images/poly-results.png" width="50%" />
+<img alt="Polynomiale Regression" src="../../../../translated_images/de/poly-results.ee587348f0f1f60b.webp" width="50%" />
 
 Mit polynomialer Regression können wir einen etwas niedrigeren MSE und eine höhere Bestimmtheit erreichen, aber nicht signifikant. Wir müssen andere Merkmale berücksichtigen!
 
@@ -274,7 +265,7 @@ In der idealen Welt möchten wir in der Lage sein, Preise für verschiedene Kür
 
 Hier können Sie sehen, wie der Durchschnittspreis von der Sorte abhängt:
 
-<img alt="Durchschnittspreis nach Sorte" src="images/price-by-variety.png" width="50%" />
+<img alt="Durchschnittspreis nach Sorte" src="../../../../translated_images/de/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 Um die Sorte zu berücksichtigen, müssen wir sie zuerst in numerische Form umwandeln, also **kodieren**. Es gibt mehrere Möglichkeiten, dies zu tun:
 

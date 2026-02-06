@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6d130dffca5db70d7e615f926cb1ad4c",
-  "translation_date": "2025-12-19T13:00:27+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "te"
-}
--->
 # క్విజ్‌లు
 
 ఈ క్విజ్‌లు https://aka.ms/ml-beginners వద్ద ML పాఠ్యక్రమం కోసం ప్రీ- మరియు పోస్ట్-లెక్చర్ క్విజ్‌లు.

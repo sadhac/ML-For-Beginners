@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "49047911108adc49d605cddfb455749c",
-  "translation_date": "2025-09-05T16:23:53+00:00",
-  "source_file": "4-Classification/3-Classifiers-2/README.md",
-  "language_code": "sk"
-}
--->
 # Klasifikátory kuchýň 2
 
 V tejto druhej lekcii o klasifikácii preskúmate ďalšie spôsoby klasifikácie číselných údajov. Tiež sa dozviete o dôsledkoch výberu jedného klasifikátora oproti druhému.

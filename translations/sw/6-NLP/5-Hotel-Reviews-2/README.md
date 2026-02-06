@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "2c742993fe95d5bcbb2846eda3d442a1",
-  "translation_date": "2025-09-05T17:06:23+00:00",
-  "source_file": "6-NLP/5-Hotel-Reviews-2/README.md",
-  "language_code": "sw"
-}
--->
 # Uchambuzi wa Hisia kwa Maoni ya Hoteli
 
 Sasa kwa kuwa umechunguza seti ya data kwa undani, ni wakati wa kuchuja safu na kisha kutumia mbinu za NLP kwenye seti ya data ili kupata maarifa mapya kuhusu hoteli.

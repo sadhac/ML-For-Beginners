@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e0b75f73e4a90d45181dc5581fe2ef5c",
-  "translation_date": "2025-09-05T19:46:20+00:00",
-  "source_file": "3-Web-App/1-Web-App/README.md",
-  "language_code": "id"
-}
--->
 # Membangun Aplikasi Web untuk Menggunakan Model ML
 
 Dalam pelajaran ini, Anda akan melatih model ML pada kumpulan data yang luar biasa: _Penampakan UFO selama abad terakhir_, yang bersumber dari database NUFORC.

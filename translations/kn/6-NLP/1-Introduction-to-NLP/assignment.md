@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1d7583e8046dacbb0c056d5ba0a71b16",
-  "translation_date": "2025-12-19T14:31:08+00:00",
-  "source_file": "6-NLP/1-Introduction-to-NLP/assignment.md",
-  "language_code": "kn"
-}
--->
 # ಬಾಟ್ ಹುಡುಕಿ
 
 ## ಸೂಚನೆಗಳು

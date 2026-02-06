@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "508582278dbb8edd2a8a80ac96ef416c",
-  "translation_date": "2025-08-29T20:13:39+00:00",
-  "source_file": "2-Regression/README.md",
-  "language_code": "it"
-}
--->
 # Modelli di regressione per il machine learning
 ## Argomento regionale: Modelli di regressione per i prezzi delle zucche in Nord America 🎃
 

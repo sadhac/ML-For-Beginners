@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-10-11T11:17:31+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "ta"
-}
--->
 # மலை கார் பயிற்சி
 
 [OpenAI Gym](http://gym.openai.com) இவ்வாறு வடிவமைக்கப்பட்டுள்ளது, அனைத்து சூழல்களும் ஒரே API-ஐ வழங்குகின்றன - அதாவது, ஒரே `reset`, `step` மற்றும் `render` முறைமைகள் மற்றும் **action space** மற்றும் **observation space** ஆகியவற்றின் ஒரே சுருக்கங்கள். எனவே, reinforcement learning algorithm-களை குறைந்த அளவு குறியீட்டு மாற்றங்களுடன் வெவ்வேறு சூழல்களுக்கு ஏற்றுக்கொள்ள முடியும்.

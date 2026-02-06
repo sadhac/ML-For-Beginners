@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "589fa015a5e7d9e67bd629f7d47b53de",
-  "translation_date": "2025-08-29T17:16:30+00:00",
-  "source_file": "5-Clustering/1-Visualize/assignment.md",
-  "language_code": "pa"
-}
--->
 # ਕਲੱਸਟਰਿੰਗ ਲਈ ਹੋਰ ਵਿਜੁਅਲਾਈਜ਼ੇਸ਼ਨਜ਼ ਦੀ ਖੋਜ ਕਰੋ
 
 ## ਨਿਰਦੇਸ਼

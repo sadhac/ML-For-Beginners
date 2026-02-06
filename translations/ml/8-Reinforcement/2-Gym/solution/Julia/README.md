@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a39c15d63f3b2795ee2284a82b986b93",
-  "translation_date": "2025-12-19T15:53:46+00:00",
-  "source_file": "8-Reinforcement/2-Gym/solution/Julia/README.md",
-  "language_code": "ml"
-}
--->
 ഇത് ഒരു താൽക്കാലിക പ്ലേസ്ഹോൾഡറാണ്
 
 ---

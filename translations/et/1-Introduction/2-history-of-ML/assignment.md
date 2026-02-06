@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "eb6e4d5afd1b21a57d2b9e6d0aac3969",
-  "translation_date": "2025-10-11T11:28:46+00:00",
-  "source_file": "1-Introduction/2-history-of-ML/assignment.md",
-  "language_code": "et"
-}
--->
 # Loo ajajoon
 
 ## Juhised

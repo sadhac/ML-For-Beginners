@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "7c077988328ebfe33b24d07945f16eca",
-  "translation_date": "2025-09-06T06:07:10+00:00",
-  "source_file": "2-Regression/2-Data/README.md",
-  "language_code": "mr"
-}
--->
 # Scikit-learn वापरून एक रिग्रेशन मॉडेल तयार करा: डेटा तयार करा आणि व्हिज्युअलाइझ करा
 
 ![डेटा व्हिज्युअलायझेशन इन्फोग्राफिक](../../../../2-Regression/2-Data/images/data-visualization.png)

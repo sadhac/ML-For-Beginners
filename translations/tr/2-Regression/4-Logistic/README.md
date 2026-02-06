@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "abf86d845c84330bce205a46b382ec88",
-  "translation_date": "2025-09-06T07:45:57+00:00",
-  "source_file": "2-Regression/4-Logistic/README.md",
-  "language_code": "tr"
-}
--->
 # Kategorileri Tahmin Etmek İçin Lojistik Regresyon
 
 ![Lojistik ve doğrusal regresyon infografiği](../../../../2-Regression/4-Logistic/images/linear-vs-logistic.png)

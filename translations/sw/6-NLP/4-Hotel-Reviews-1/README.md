@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "8d32dadeda93c6fb5c43619854882ab1",
-  "translation_date": "2025-09-05T16:52:54+00:00",
-  "source_file": "6-NLP/4-Hotel-Reviews-1/README.md",
-  "language_code": "sw"
-}
--->
 # Uchambuzi wa hisia kwa maoni ya hoteli - kuchakata data
 
 Katika sehemu hii utatumia mbinu ulizojifunza katika masomo ya awali kufanya uchambuzi wa data wa awali kwenye seti kubwa ya data. Mara utakapopata uelewa mzuri wa umuhimu wa safu mbalimbali, utajifunza:

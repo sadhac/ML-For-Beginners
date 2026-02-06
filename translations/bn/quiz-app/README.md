@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6d130dffca5db70d7e615f926cb1ad4c",
-  "translation_date": "2025-08-29T21:38:22+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "bn"
-}
--->
 # কুইজ
 
 এই কুইজগুলো ML কারিকুলামের প্রাক-লেকচার এবং পোস্ট-লেকচার কুইজ, যা পাওয়া যাবে https://aka.ms/ml-beginners এ।

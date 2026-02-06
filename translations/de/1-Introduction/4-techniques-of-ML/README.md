@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9d91f3af3758fdd4569fb410575995ef",
-  "translation_date": "2025-09-04T21:59:17+00:00",
-  "source_file": "1-Introduction/4-techniques-of-ML/README.md",
-  "language_code": "de"
-}
--->
 # Techniken des maschinellen Lernens
 
 Der Prozess des Erstellens, Nutzens und Wartens von Modellen des maschinellen Lernens sowie der Daten, die sie verwenden, unterscheidet sich stark von vielen anderen Entwicklungs-Workflows. In dieser Lektion werden wir den Prozess entmystifizieren und die wichtigsten Techniken skizzieren, die Sie kennen müssen. Sie werden:

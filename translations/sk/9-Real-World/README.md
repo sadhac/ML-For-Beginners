@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5e069a0ac02a9606a69946c2b3c574a9",
-  "translation_date": "2025-09-05T15:49:14+00:00",
-  "source_file": "9-Real-World/README.md",
-  "language_code": "sk"
-}
--->
 # Postscript: Skutočné aplikácie klasického strojového učenia
 
 V tejto časti kurzu sa zoznámite s niektorými reálnymi aplikáciami klasického strojového učenia. Prehľadali sme internet, aby sme našli odborné články a štúdie o aplikáciách, ktoré využívajú tieto stratégie, pričom sme sa čo najviac vyhýbali neurónovým sieťam, hlbokému učeniu a umelej inteligencii. Zistite, ako sa strojové učenie používa v obchodných systémoch, ekologických aplikáciách, financiách, umení a kultúre a ďalších oblastiach.

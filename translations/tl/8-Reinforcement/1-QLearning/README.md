@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "911efd5e595089000cb3c16fce1beab8",
-  "translation_date": "2025-09-05T18:23:22+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/README.md",
-  "language_code": "tl"
-}
--->
 # Panimula sa Reinforcement Learning at Q-Learning
 
 ![Buod ng reinforcement sa machine learning sa isang sketchnote](../../../../sketchnotes/ml-reinforcement.png)

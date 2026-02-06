@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "662b509c39eee205687726636d0a8455",
-  "translation_date": "2025-09-05T10:43:16+00:00",
-  "source_file": "7-TimeSeries/1-Introduction/README.md",
-  "language_code": "ko"
-}
--->
 # 시계열 예측 소개
 
 ![스케치노트로 본 시계열 요약](../../../../sketchnotes/ml-timeseries.png)

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e0b75f73e4a90d45181dc5581fe2ef5c",
-  "translation_date": "2025-09-05T21:47:31+00:00",
-  "source_file": "3-Web-App/1-Web-App/README.md",
-  "language_code": "no"
-}
--->
 # Bygg en webapplikasjon for å bruke en ML-modell
 
 I denne leksjonen skal du trene en ML-modell på et datasett som er helt utenomjordisk: _UFO-observasjoner fra det siste århundret_, hentet fra NUFORCs database.

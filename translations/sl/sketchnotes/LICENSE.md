@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fba3b94d88bfb9b81369b869a1e9a20f",
-  "translation_date": "2025-09-05T13:27:14+00:00",
-  "source_file": "sketchnotes/LICENSE.md",
-  "language_code": "sl"
-}
--->
 Priznanje-Deljenje pod enakimi pogoji 4.0 Mednarodna
 
 =======================================================================

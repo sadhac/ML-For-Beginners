@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fba3b94d88bfb9b81369b869a1e9a20f",
-  "translation_date": "2025-08-29T14:03:13+00:00",
-  "source_file": "sketchnotes/LICENSE.md",
-  "language_code": "ar"
-}
--->
 نَسب-المشاركة بالمثل 4.0 الدولية
 
 =======================================================================

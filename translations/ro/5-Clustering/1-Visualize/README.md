@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "730225ea274c9174fe688b21d421539d",
-  "translation_date": "2025-09-05T15:43:36+00:00",
-  "source_file": "5-Clustering/1-Visualize/README.md",
-  "language_code": "ro"
-}
--->
 # Introducere în clustering
 
 Clustering-ul este un tip de [Învățare Nesupervizată](https://wikipedia.org/wiki/Unsupervised_learning) care presupune că un set de date nu este etichetat sau că intrările sale nu sunt asociate cu ieșiri predefinite. Folosește diverse algoritmi pentru a analiza datele neetichetate și a oferi grupări bazate pe tiparele identificate în date.

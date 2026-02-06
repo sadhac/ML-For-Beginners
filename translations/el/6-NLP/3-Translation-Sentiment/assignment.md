@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9d2a734deb904caff310d1a999c6bd7a",
-  "translation_date": "2025-09-05T01:41:12+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/assignment.md",
-  "language_code": "el"
-}
--->
 # Ποιητική άδεια
 
 ## Οδηγίες

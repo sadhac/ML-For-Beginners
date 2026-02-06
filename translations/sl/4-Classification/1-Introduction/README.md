@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "aaf391d922bd6de5efba871d514c6d47",
-  "translation_date": "2025-09-05T13:18:08+00:00",
-  "source_file": "4-Classification/1-Introduction/README.md",
-  "language_code": "sl"
-}
--->
 # Uvod v klasifikacijo
 
 V teh štirih lekcijah boste raziskovali eno temeljnih področij klasičnega strojnega učenja - _klasifikacijo_. Preučili bomo uporabo različnih algoritmov za klasifikacijo z uporabo nabora podatkov o vseh čudovitih azijskih in indijskih kuhinjah. Upam, da ste lačni!

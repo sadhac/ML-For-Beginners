@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "911efd5e595089000cb3c16fce1beab8",
-  "translation_date": "2025-12-19T15:50:39+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/README.md",
-  "language_code": "kn"
-}
--->
 # ಬಲವರ್ಧಿತ ಅಧ್ಯಯನ ಮತ್ತು ಕ್ಯೂ-ಅಧ್ಯಯನಕ್ಕೆ ಪರಿಚಯ
 
 ![ಯಂತ್ರ ಅಧ್ಯಯನದಲ್ಲಿ ಬಲವರ್ಧನೆಯ ಸಾರಾಂಶವನ್ನು ಸ್ಕೆಚ್‌ನೋಟ್‌ನಲ್ಲಿ](../../../../translated_images/kn/ml-reinforcement.94024374d63348db.webp)

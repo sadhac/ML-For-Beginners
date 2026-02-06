@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "74e809ffd1e613a1058bbc3e9600859e",
-  "translation_date": "2025-08-29T21:40:14+00:00",
-  "source_file": "4-Classification/README.md",
-  "language_code": "it"
-}
--->
 # Introduzione alla classificazione
 
 ## Argomento regionale: Deliziose cucine asiatiche e indiane 🍜

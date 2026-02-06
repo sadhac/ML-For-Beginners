@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ee0670655c89e4719319764afb113624",
-  "translation_date": "2025-09-04T00:45:35+00:00",
-  "source_file": "6-NLP/data/README.md",
-  "language_code": "es"
-}
--->
 Descarga los datos de reseñas de hoteles en esta carpeta.
 
 ---

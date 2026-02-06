@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "aaf391d922bd6de5efba871d514c6d47",
-  "translation_date": "2025-09-05T08:26:11+00:00",
-  "source_file": "4-Classification/1-Introduction/README.md",
-  "language_code": "pl"
-}
--->
 # Wprowadzenie do klasyfikacji
 
 W tych czterech lekcjach zgłębisz podstawowy aspekt klasycznego uczenia maszynowego - _klasyfikację_. Przejdziemy przez różne algorytmy klasyfikacji, korzystając z zestawu danych dotyczących wspaniałych kuchni Azji i Indii. Mam nadzieję, że jesteś głodny!

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "508582278dbb8edd2a8a80ac96ef416c",
-  "translation_date": "2025-09-05T15:08:29+00:00",
-  "source_file": "2-Regression/README.md",
-  "language_code": "ro"
-}
--->
 # Modele de regresie pentru învățarea automată
 ## Subiect regional: Modele de regresie pentru prețurile dovlecilor în America de Nord 🎃
 

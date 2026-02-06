@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-12-19T13:11:03+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "te"
-}
--->
 # టైమ్ సిరీస్ ఫోర్కాస్టింగ్ పరిచయం
 
 టైమ్ సిరీస్ ఫోర్కాస్టింగ్ అంటే ఏమిటి? ఇది గత ధోరణులను విశ్లేషించి భవిష్యత్తు సంఘటనలను అంచనా వేయడం.

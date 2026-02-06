@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "662b509c39eee205687726636d0a8455",
-  "translation_date": "2025-10-11T12:01:09+00:00",
-  "source_file": "7-TimeSeries/1-Introduction/README.md",
-  "language_code": "et"
-}
--->
 # Sissejuhatus aegridade prognoosimisse
 
 ![Aegridade kokkuvõte visandina](../../../../translated_images/et/ml-timeseries.fb98d25f1013fc0c.webp)

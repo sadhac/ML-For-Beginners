@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "508582278dbb8edd2a8a80ac96ef416c",
-  "translation_date": "2025-09-05T11:25:23+00:00",
-  "source_file": "2-Regression/README.md",
-  "language_code": "sl"
-}
--->
 # Regresijski modeli za strojno učenje
 ## Regionalna tema: Regresijski modeli za cene buč v Severni Ameriki 🎃
 

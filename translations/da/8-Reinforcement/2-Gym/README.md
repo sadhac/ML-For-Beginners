@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "107d5bb29da8a562e7ae72262d251a75",
-  "translation_date": "2025-09-05T01:15:52+00:00",
-  "source_file": "8-Reinforcement/2-Gym/README.md",
-  "language_code": "da"
-}
--->
 # CartPole Skating
 
 Problemet, vi har arbejdet med i den tidligere lektion, kan virke som et legetøjsproblem, der ikke rigtig har relevans for virkelige scenarier. Dette er dog ikke tilfældet, da mange virkelige problemer deler samme karakteristika – herunder at spille skak eller Go. De er ens, fordi vi også har et bræt med givne regler og en **diskret tilstand**.

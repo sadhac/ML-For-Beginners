@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "911efd5e595089000cb3c16fce1beab8",
-  "translation_date": "2025-09-05T20:13:42+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/README.md",
-  "language_code": "vi"
-}
--->
 # Giới thiệu về Học Tăng Cường và Q-Learning
 
 ![Tóm tắt về học tăng cường trong học máy qua sketchnote](../../../../sketchnotes/ml-reinforcement.png)

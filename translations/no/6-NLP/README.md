@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1eb379dc2d0c9940b320732d16083778",
-  "translation_date": "2025-09-05T22:12:17+00:00",
-  "source_file": "6-NLP/README.md",
-  "language_code": "no"
-}
--->
 # Komme i gang med naturlig språkbehandling
 
 Naturlig språkbehandling (NLP) er evnen til et dataprogram til å forstå menneskelig språk slik det blir snakket og skrevet – referert til som naturlig språk. Det er en komponent av kunstig intelligens (AI). NLP har eksistert i mer enn 50 år og har røtter i lingvistikkens felt. Hele feltet er rettet mot å hjelpe maskiner med å forstå og behandle menneskelig språk. Dette kan deretter brukes til å utføre oppgaver som stavekontroll eller maskinoversettelse. Det har en rekke virkelige anvendelser innen flere felt, inkludert medisinsk forskning, søkemotorer og forretningsanalyse.

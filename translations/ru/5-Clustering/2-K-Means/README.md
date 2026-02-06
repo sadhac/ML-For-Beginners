@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "7cdd17338d9bbd7e2171c2cd462eb081",
-  "translation_date": "2025-09-06T08:29:37+00:00",
-  "source_file": "5-Clustering/2-K-Means/README.md",
-  "language_code": "ru"
-}
--->
 # Кластеризация методом K-Means
 
 ## [Тест перед лекцией](https://ff-quizzes.netlify.app/en/ml/)

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a39c15d63f3b2795ee2284a82b986b93",
-  "translation_date": "2025-09-04T00:25:39+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/solution/Julia/README.md",
-  "language_code": "fa"
-}
--->
 این یک جایگزین موقت است
 
 ---

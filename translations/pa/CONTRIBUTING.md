@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "977ec5266dfd78ad1ce2bd8d46fccbda",
-  "translation_date": "2025-08-29T16:32:33+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "pa"
-}
--->
 # ਯੋਗਦਾਨ ਦੇਣਾ
 
 ਇਹ ਪ੍ਰੋਜੈਕਟ ਯੋਗਦਾਨ ਅਤੇ ਸੁਝਾਵਾਂ ਦਾ ਸਵਾਗਤ ਕਰਦਾ ਹੈ। ਜ਼ਿਆਦਾਤਰ ਯੋਗਦਾਨ ਲਈ ਤੁਹਾਨੂੰ ਇੱਕ Contributor License Agreement (CLA) ਨਾਲ ਸਹਿਮਤ ਹੋਣਾ ਪਵੇਗਾ, ਜਿਸ ਵਿੱਚ ਇਹ ਘੋਸ਼ਿਤ ਕੀਤਾ ਜਾਵੇਗਾ ਕਿ ਤੁਹਾਡੇ ਕੋਲ ਆਪਣੇ ਯੋਗਦਾਨ ਦੇ ਅਧਿਕਾਰ ਹਨ ਅਤੇ ਤੁਸੀਂ ਸਾਨੂੰ ਇਸਨੂੰ ਵਰਤਣ ਦੇ ਅਧਿਕਾਰ ਦਿੰਦੇ ਹੋ। ਵਿਸਥਾਰ ਲਈ, https://cla.microsoft.com 'ਤੇ ਜਾਓ।

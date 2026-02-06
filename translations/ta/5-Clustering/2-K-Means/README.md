@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "7cdd17338d9bbd7e2171c2cd462eb081",
-  "translation_date": "2025-10-11T12:07:34+00:00",
-  "source_file": "5-Clustering/2-K-Means/README.md",
-  "language_code": "ta"
-}
--->
 # K-Means குழுமம்
 
 ## [முன்-வகுப்பு வினாடி வினா](https://ff-quizzes.netlify.app/en/ml/)

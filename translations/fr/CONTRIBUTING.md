@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "977ec5266dfd78ad1ce2bd8d46fccbda",
-  "translation_date": "2025-09-03T22:11:37+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "fr"
-}
--->
 # Contribuer
 
 Ce projet accueille avec plaisir les contributions et suggestions. La plupart des contributions nécessitent que vous acceptiez un Accord de Licence de Contributeur (CLA) déclarant que vous avez le droit, et que vous accordez effectivement, les droits nécessaires pour que nous puissions utiliser votre contribution. Pour plus de détails, visitez https://cla.microsoft.com.

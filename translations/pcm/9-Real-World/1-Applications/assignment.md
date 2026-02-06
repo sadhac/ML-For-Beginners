@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fdebfcd0a3f12c9e2b436ded1aa79885",
-  "translation_date": "2025-11-18T18:46:49+00:00",
-  "source_file": "9-Real-World/1-Applications/assignment.md",
-  "language_code": "pcm"
-}
--->
 # ML Scavenger Hunt
 
 ## Instructions

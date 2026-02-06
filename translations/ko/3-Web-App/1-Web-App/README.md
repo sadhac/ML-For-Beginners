@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e0b75f73e4a90d45181dc5581fe2ef5c",
-  "translation_date": "2025-09-05T10:50:13+00:00",
-  "source_file": "3-Web-App/1-Web-App/README.md",
-  "language_code": "ko"
-}
--->
 # 웹 앱을 만들어 ML 모델 사용하기
 
 이 강의에서는 _지난 세기 동안의 UFO 목격_ 데이터를 사용하여 ML 모델을 훈련시킬 것입니다. 이 데이터는 NUFORC의 데이터베이스에서 가져왔습니다.

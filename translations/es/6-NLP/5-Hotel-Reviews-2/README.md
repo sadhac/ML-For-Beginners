@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "2c742993fe95d5bcbb2846eda3d442a1",
-  "translation_date": "2025-09-04T22:29:39+00:00",
-  "source_file": "6-NLP/5-Hotel-Reviews-2/README.md",
-  "language_code": "es"
-}
--->
 # Análisis de sentimientos con reseñas de hoteles
 
 Ahora que has explorado el conjunto de datos en detalle, es momento de filtrar las columnas y luego usar técnicas de procesamiento de lenguaje natural (NLP) en el conjunto de datos para obtener nuevas perspectivas sobre los hoteles.

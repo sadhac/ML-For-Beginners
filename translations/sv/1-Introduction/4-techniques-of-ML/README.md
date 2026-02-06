@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9d91f3af3758fdd4569fb410575995ef",
-  "translation_date": "2025-09-05T21:40:53+00:00",
-  "source_file": "1-Introduction/4-techniques-of-ML/README.md",
-  "language_code": "sv"
-}
--->
 # Tekniker för maskininlärning
 
 Processen att bygga, använda och underhålla modeller för maskininlärning och den data de använder skiljer sig avsevärt från många andra utvecklingsarbetsflöden. I denna lektion kommer vi att avmystifiera processen och beskriva de huvudsakliga tekniker du behöver känna till. Du kommer att:

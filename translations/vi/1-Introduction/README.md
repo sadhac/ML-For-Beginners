@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cf8ecc83f28e5b98051d2179eca08e08",
-  "translation_date": "2025-09-05T19:30:06+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "vi"
-}
--->
 # Giới thiệu về học máy
 
 Trong phần này của chương trình học, bạn sẽ được giới thiệu về các khái niệm cơ bản trong lĩnh vực học máy, học máy là gì, cũng như tìm hiểu về lịch sử và các kỹ thuật mà các nhà nghiên cứu sử dụng để làm việc với nó. Hãy cùng khám phá thế giới mới của học máy (ML) nhé!

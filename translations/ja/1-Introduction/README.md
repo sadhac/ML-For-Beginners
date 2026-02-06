@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cf8ecc83f28e5b98051d2179eca08e08",
-  "translation_date": "2025-09-03T23:25:54+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "ja"
-}
--->
 # 機械学習の入門
 
 このカリキュラムのセクションでは、機械学習の分野の基本的な概念、それが何であるか、その歴史、そして研究者がそれに取り組むために使用する技術について学びます。一緒にこの新しい機械学習の世界を探求してみましょう！

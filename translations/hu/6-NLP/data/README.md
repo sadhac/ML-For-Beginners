@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ee0670655c89e4719319764afb113624",
-  "translation_date": "2025-09-05T16:59:09+00:00",
-  "source_file": "6-NLP/data/README.md",
-  "language_code": "hu"
-}
--->
 Töltse le a szállodai értékelési adatokat ebbe a mappába.
 
 ---

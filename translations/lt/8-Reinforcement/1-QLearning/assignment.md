@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "68394b2102d3503882e5e914bd0ff5c1",
-  "translation_date": "2025-09-03T18:36:12+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/assignment.md",
-  "language_code": "lt"
-}
--->
 # Realistiškesnis pasaulis
 
 Mūsų situacijoje Peteris galėjo judėti beveik nepavargdamas ar nejausdamas alkio. Realistiškesniame pasaulyje jis turėtų kartais atsisėsti ir pailsėti, taip pat pasimaitinti. Padarykime mūsų pasaulį realistiškesnį, įgyvendindami šias taisykles:

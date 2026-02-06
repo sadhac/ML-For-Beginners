@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-12-19T13:48:41+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "ml"
-}
--->
 # Scikit-learn ഉപയോഗിച്ച് ഒരു റെഗ്രഷൻ മോഡൽ നിർമ്മിക്കുക: റെഗ്രഷൻ നാല് രീതികൾ
 
 ![Linear vs polynomial regression infographic](../../../../translated_images/ml/linear-polynomial.5523c7cb6576ccab.webp)

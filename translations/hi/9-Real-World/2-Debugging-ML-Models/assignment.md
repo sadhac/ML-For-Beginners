@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "91c6a180ef08e20cc15acfd2d6d6e164",
-  "translation_date": "2025-09-03T23:25:40+00:00",
-  "source_file": "9-Real-World/2-Debugging-ML-Models/assignment.md",
-  "language_code": "hi"
-}
--->
 # जिम्मेदार AI (RAI) डैशबोर्ड का अन्वेषण करें
 
 ## निर्देश

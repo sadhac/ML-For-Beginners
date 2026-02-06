@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "df2b538e8fbb3e91cf0419ae2f858675",
-  "translation_date": "2025-12-19T15:10:53+00:00",
-  "source_file": "9-Real-World/2-Debugging-ML-Models/README.md",
-  "language_code": "te"
-}
--->
 # పోస్ట్‌స్క్రిప్ట్: బాధ్యతాయుత AI డాష్‌బోర్డ్ భాగాలను ఉపయోగించి మెషీన్ లెర్నింగ్‌లో మోడల్ డీబగ్గింగ్
 
 ## [ప్రీ-లెక్చర్ క్విజ్](https://ff-quizzes.netlify.app/en/ml/)

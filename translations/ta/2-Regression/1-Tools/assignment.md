@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "74a5cf83e4ebc302afbcbc4f418afd0a",
-  "translation_date": "2025-10-11T11:44:36+00:00",
-  "source_file": "2-Regression/1-Tools/assignment.md",
-  "language_code": "ta"
-}
--->
 # Scikit-learn மூலம் ரிக்ரஷன்
 
 ## வழிமுறைகள்

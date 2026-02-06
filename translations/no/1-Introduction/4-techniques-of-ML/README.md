@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9d91f3af3758fdd4569fb410575995ef",
-  "translation_date": "2025-09-05T21:41:24+00:00",
-  "source_file": "1-Introduction/4-techniques-of-ML/README.md",
-  "language_code": "no"
-}
--->
 # Teknikker for maskinlæring
 
 Prosessen med å bygge, bruke og vedlikeholde maskinlæringsmodeller og dataene de bruker, er svært forskjellig fra mange andre utviklingsarbeidsflyter. I denne leksjonen vil vi avmystifisere prosessen og skissere de viktigste teknikkene du trenger å kjenne til. Du vil:

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5e069a0ac02a9606a69946c2b3c574a9",
-  "translation_date": "2025-09-03T17:21:44+00:00",
-  "source_file": "9-Real-World/README.md",
-  "language_code": "lt"
-}
--->
 # Postscriptas: Klasikinio mašininio mokymosi realaus pasaulio taikymas
 
 Šioje mokymo programos dalyje susipažinsite su kai kuriais klasikinio mašininio mokymosi realaus pasaulio taikymais. Mes peržiūrėjome internetą, ieškodami straipsnių ir mokslinių darbų apie taikymus, kurie naudoja šias strategijas, vengdami neuroninių tinklų, giluminio mokymosi ir dirbtinio intelekto, kiek įmanoma. Sužinokite, kaip mašininis mokymasis naudojamas verslo sistemose, ekologiniuose projektuose, finansuose, mene ir kultūroje bei kitose srityse.

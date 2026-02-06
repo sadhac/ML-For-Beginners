@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "49047911108adc49d605cddfb455749c",
-  "translation_date": "2025-09-05T21:53:40+00:00",
-  "source_file": "4-Classification/3-Classifiers-2/README.md",
-  "language_code": "sv"
-}
--->
 # Klassificerare för matlagning 2
 
 I den här andra lektionen om klassificering kommer du att utforska fler sätt att klassificera numerisk data. Du kommer också att lära dig om konsekvenserna av att välja en klassificerare framför en annan.

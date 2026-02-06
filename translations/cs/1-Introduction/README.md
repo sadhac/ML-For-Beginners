@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cf8ecc83f28e5b98051d2179eca08e08",
-  "translation_date": "2025-09-05T00:20:14+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "cs"
-}
--->
 # Úvod do strojového učení
 
 V této části kurzu se seznámíte se základními koncepty, které tvoří základ oboru strojového učení, zjistíte, co to vlastně je, a dozvíte se o jeho historii a technikách, které výzkumníci používají při práci s ním. Pojďme společně prozkoumat tento nový svět strojového učení!

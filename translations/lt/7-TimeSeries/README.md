@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-09-03T16:45:43+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "lt"
-}
--->
 # Įvadas į laiko eilučių prognozavimą
 
 Kas yra laiko eilučių prognozavimas? Tai ateities įvykių numatymas analizuojant praeities tendencijas.

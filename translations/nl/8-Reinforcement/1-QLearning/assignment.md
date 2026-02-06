@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "68394b2102d3503882e5e914bd0ff5c1",
-  "translation_date": "2025-09-05T20:16:52+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/assignment.md",
-  "language_code": "nl"
-}
--->
 # Een Meer Realistische Wereld
 
 In onze situatie kon Peter zich bijna zonder moe te worden of honger te krijgen verplaatsen. In een meer realistische wereld moet hij af en toe gaan zitten om uit te rusten en zichzelf voeden. Laten we onze wereld realistischer maken door de volgende regels toe te passen:

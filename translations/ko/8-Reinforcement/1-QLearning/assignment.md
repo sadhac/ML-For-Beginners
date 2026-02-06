@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "68394b2102d3503882e5e914bd0ff5c1",
-  "translation_date": "2025-09-04T00:23:54+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/assignment.md",
-  "language_code": "ko"
-}
--->
 # 더 현실적인 세계
 
 우리의 상황에서 피터는 거의 지치거나 배고프지 않은 상태로 이동할 수 있었습니다. 더 현실적인 세계에서는 피터가 가끔씩 앉아서 쉬어야 하고, 스스로 먹을 것도 챙겨야 합니다. 다음 규칙들을 구현하여 우리의 세계를 더 현실적으로 만들어 봅시다:

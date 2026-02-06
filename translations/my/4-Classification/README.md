@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "74e809ffd1e613a1058bbc3e9600859e",
-  "translation_date": "2025-09-05T13:03:43+00:00",
-  "source_file": "4-Classification/README.md",
-  "language_code": "my"
-}
--->
 # အမျိုးအစားခွဲခြားမှုနှင့် စတင်မိတ်ဆက်ခြင်း
 
 ## ဒေသဆိုင်ရာ ခေါင်းစဉ်: အာရှနှင့် အိန္ဒိယအစားအစာများ 🍜

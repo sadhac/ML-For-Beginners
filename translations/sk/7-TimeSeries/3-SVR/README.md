@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-09-05T15:37:17+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "sk"
-}
--->
 # Predpovedanie časových radov pomocou Support Vector Regressor
 
 V predchádzajúcej lekcii ste sa naučili používať model ARIMA na predpovedanie časových radov. Teraz sa pozrieme na model Support Vector Regressor, ktorý je regresný model používaný na predpovedanie spojitých údajov.

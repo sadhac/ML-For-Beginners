@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "be03c8182982b87ced155e4e9d1438e8",
-  "translation_date": "2025-09-05T18:27:19+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/README.md",
-  "language_code": "tl"
-}
--->
 # Pagsasalin at Sentiment Analysis gamit ang ML
 
 Sa mga nakaraang aralin, natutunan mo kung paano bumuo ng isang simpleng bot gamit ang `TextBlob`, isang library na gumagamit ng ML sa likod ng eksena upang magsagawa ng mga pangunahing gawain sa NLP tulad ng pagkuha ng mga parirala ng pangngalan. Isa pang mahalagang hamon sa computational linguistics ay ang tumpak na _pagsasalin_ ng isang pangungusap mula sa isang sinasalita o nakasulat na wika patungo sa isa pa.

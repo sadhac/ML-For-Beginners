@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "917dbf890db71a322f306050cb284749",
-  "translation_date": "2025-09-05T19:00:37+00:00",
-  "source_file": "7-TimeSeries/2-ARIMA/README.md",
-  "language_code": "id"
-}
--->
 # Peramalan Deret Waktu dengan ARIMA
 
 Pada pelajaran sebelumnya, Anda telah mempelajari sedikit tentang peramalan deret waktu dan memuat dataset yang menunjukkan fluktuasi beban listrik selama periode waktu tertentu.

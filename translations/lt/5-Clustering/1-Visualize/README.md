@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "730225ea274c9174fe688b21d421539d",
-  "translation_date": "2025-09-05T07:50:18+00:00",
-  "source_file": "5-Clustering/1-Visualize/README.md",
-  "language_code": "lt"
-}
--->
 # Įvadas į klasterizavimą
 
 Klasterizavimas yra [nesupervizuoto mokymosi](https://wikipedia.org/wiki/Unsupervised_learning) tipas, kuris daro prielaidą, kad duomenų rinkinys yra nepažymėtas arba jo įvestys nėra susietos su iš anksto apibrėžtais rezultatais. Jis naudoja įvairius algoritmus, kad išanalizuotų nepažymėtus duomenis ir sudarytų grupes pagal duomenyse pastebėtus modelius.

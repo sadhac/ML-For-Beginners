@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "83320d6b6994909e35d830cebf214039",
-  "translation_date": "2025-09-04T22:58:09+00:00",
-  "source_file": "9-Real-World/1-Applications/README.md",
-  "language_code": "fr"
-}
--->
 # Postscript : L'apprentissage automatique dans le monde réel
 
 ![Résumé de l'apprentissage automatique dans le monde réel sous forme de sketchnote](../../../../sketchnotes/ml-realworld.png)

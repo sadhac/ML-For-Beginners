@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6d130dffca5db70d7e615f926cb1ad4c",
-  "translation_date": "2025-09-05T19:47:13+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "nl"
-}
--->
 # Quizzen
 
 Deze quizzen zijn de pre- en post-lezing quizzen voor het ML-curriculum op https://aka.ms/ml-beginners

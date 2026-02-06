@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "be03c8182982b87ced155e4e9d1438e8",
-  "translation_date": "2025-09-06T07:41:03+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/README.md",
-  "language_code": "it"
-}
--->
 # Traduzione e analisi del sentiment con ML
 
 Nelle lezioni precedenti hai imparato a costruire un bot di base utilizzando `TextBlob`, una libreria che integra il machine learning dietro le quinte per eseguire compiti NLP di base come l'estrazione di frasi nominali. Un'altra sfida importante nella linguistica computazionale è la _traduzione_ accurata di una frase da una lingua parlata o scritta a un'altra.

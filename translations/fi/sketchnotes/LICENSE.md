@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fba3b94d88bfb9b81369b869a1e9a20f",
-  "translation_date": "2025-09-05T01:03:01+00:00",
-  "source_file": "sketchnotes/LICENSE.md",
-  "language_code": "fi"
-}
--->
 Oikeudet, tämä Public License koskee myös sitä tietokantaa; ja  
 
   c. et voi tarjota tai asettaa lisäehtoja tai -rajoituksia, tai soveltaa mitään Tehokkaita Teknologisia Toimenpiteitä, jotka rajoittavat oikeuksien käyttöä, jotka on myönnetty tämän Public License -lisenssin nojalla.  

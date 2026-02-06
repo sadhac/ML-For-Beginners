@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1a6e9e46b34a2e559fbbfc1f95397c7b",
-  "translation_date": "2025-09-06T06:36:29+00:00",
-  "source_file": "4-Classification/2-Classifiers-1/README.md",
-  "language_code": "ne"
-}
--->
 # खाना वर्गीकरणकर्ता १
 
 यस पाठमा, तपाईंले अघिल्लो पाठमा बचत गरिएको डेटा सेट प्रयोग गर्नुहुनेछ, जुन सन्तुलित, सफा डेटा हो र विभिन्न प्रकारका खानाका बारेमा जानकारी समेटिएको छ।

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-09-05T01:19:02+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "fi"
-}
--->
 # Kouluta Mountain Car
 
 [OpenAI Gym](http://gym.openai.com) on suunniteltu siten, että kaikki ympäristöt tarjoavat saman API:n - eli samat metodit `reset`, `step` ja `render`, sekä samat abstraktiot **toimintatilasta** ja **havaintotilasta**. Näin ollen pitäisi olla mahdollista soveltaa samoja vahvistusoppimisalgoritmeja eri ympäristöihin vähäisin koodimuutoksin.

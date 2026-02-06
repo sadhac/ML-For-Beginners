@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a88d5918c1b9da69a40d917a0840c497",
-  "translation_date": "2025-09-03T18:16:30+00:00",
-  "source_file": "sketchnotes/README.md",
-  "language_code": "lt"
-}
--->
 Visos mokymo programos eskizai gali būti atsisiųsti čia.
 
 🖨 Aukštos raiškos spausdinimui TIFF versijos yra pasiekiamos [šiame repozitorijoje](https://github.com/girliemac/a-picture-is-worth-a-1000-words/tree/main/ml/tiff).

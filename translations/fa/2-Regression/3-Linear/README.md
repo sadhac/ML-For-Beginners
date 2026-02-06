@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-04T22:31:20+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "fa"
-}
--->
 # ساخت مدل رگرسیون با استفاده از Scikit-learn: چهار روش رگرسیون
 
 ![اینفوگرافیک رگرسیون خطی و چندجمله‌ای](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -114,11 +105,11 @@ day_of_year = pd.to_datetime(pumpkins['Date']).apply(lambda dt: (dt-datetime(dt.
 
 از درس قبلی احتمالاً دیده‌اید که میانگین قیمت برای ماه‌های مختلف به این شکل است:
 
-<img alt="میانگین قیمت بر اساس ماه" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="میانگین قیمت بر اساس ماه" src="../../../../translated_images/fa/barchart.a833ea9194346d76.webp" width="50%"/>
 
 این نشان می‌دهد که باید مقداری همبستگی وجود داشته باشد، و می‌توانیم تلاش کنیم مدل رگرسیون خطی را آموزش دهیم تا رابطه بین `ماه` و `قیمت` یا بین `روز سال` و `قیمت` را پیش‌بینی کنیم. در اینجا نمودار پراکندگی که رابطه دوم را نشان می‌دهد آورده شده است:
 
-<img alt="نمودار پراکندگی قیمت در مقابل روز سال" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="نمودار پراکندگی قیمت در مقابل روز سال" src="../../../../translated_images/fa/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 بیایید ببینیم آیا همبستگی وجود دارد یا نه با استفاده از تابع `corr`:
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="نمودار پراکندگی قیمت در مقابل روز سال" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="نمودار پراکندگی قیمت در مقابل روز سال" src="../../../../translated_images/fa/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 تحقیقات ما نشان می‌دهد که نوع کدو تنبل تأثیر بیشتری بر قیمت کلی دارد تا تاریخ فروش واقعی. می‌توانیم این را با یک نمودار میله‌ای ببینیم:
 
@@ -145,7 +136,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="نمودار میله‌ای قیمت در مقابل نوع" src="images/price-by-variety.png" width="50%" /> 
+<img alt="نمودار میله‌ای قیمت در مقابل نوع" src="../../../../translated_images/fa/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 بیایید فعلاً فقط بر یک نوع کدو تنبل، نوع 'پای'، تمرکز کنیم و ببینیم تاریخ چه تأثیری بر قیمت دارد:
 
@@ -153,7 +144,7 @@ new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="نمودار پراکندگی قیمت در مقابل روز سال" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="نمودار پراکندگی قیمت در مقابل روز سال" src="../../../../translated_images/fa/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 اگر اکنون همبستگی بین `قیمت` و `روز سال` را با استفاده از تابع `corr` محاسبه کنیم، چیزی حدود `-0.27` به دست خواهیم آورد - که به این معناست که آموزش یک مدل پیش‌بینی منطقی است.
 
@@ -227,7 +218,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```  
 
-<img alt="رگرسیون خطی" src="images/linear-results.png" width="50%" />
+<img alt="رگرسیون خطی" src="../../../../translated_images/fa/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## رگرسیون چندجمله‌ای  
 
@@ -256,7 +247,7 @@ pipeline.fit(X_train,y_train)
 
 خط لوله‌ها را می‌توان به همان شیوه‌ای که شیء اصلی `LinearRegression` استفاده می‌شود، یعنی با `fit` کردن خط لوله و سپس استفاده از `predict` برای دریافت نتایج پیش‌بینی، استفاده کرد. اینجا نمودار داده‌های آزمایشی و منحنی تقریب آورده شده است:
 
-<img alt="رگرسیون چندجمله‌ای" src="images/poly-results.png" width="50%" />
+<img alt="رگرسیون چندجمله‌ای" src="../../../../translated_images/fa/poly-results.ee587348f0f1f60b.webp" width="50%" />
 
 با استفاده از رگرسیون چندجمله‌ای، می‌توانیم MSE کمی پایین‌تر و ضریب تعیین بالاتری داشته باشیم، اما نه به طور قابل توجهی. باید ویژگی‌های دیگر را نیز در نظر بگیریم!
 
@@ -274,7 +265,7 @@ pipeline.fit(X_train,y_train)
 
 اینجا می‌توانید ببینید که چگونه قیمت متوسط به نوع کدو تنبل بستگی دارد:
 
-<img alt="قیمت متوسط بر اساس نوع" src="images/price-by-variety.png" width="50%" />
+<img alt="قیمت متوسط بر اساس نوع" src="../../../../translated_images/fa/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 برای در نظر گرفتن نوع کدو تنبل، ابتدا باید آن را به شکل عددی تبدیل کنیم، یا **رمزگذاری** کنیم. چند روش برای انجام این کار وجود دارد:
 

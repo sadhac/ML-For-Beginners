@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6d130dffca5db70d7e615f926cb1ad4c",
-  "translation_date": "2025-08-29T21:39:21+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "it"
-}
--->
 # Quiz
 
 Questi quiz sono i quiz pre- e post-lezione per il curriculum di ML su https://aka.ms/ml-beginners

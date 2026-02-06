@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "589fa015a5e7d9e67bd629f7d47b53de",
-  "translation_date": "2025-12-19T15:04:32+00:00",
-  "source_file": "5-Clustering/1-Visualize/assignment.md",
-  "language_code": "te"
-}
--->
 # క్లస్టరింగ్ కోసం ఇతర విజువలైజేషన్లపై పరిశోధన
 
 ## సూచనలు

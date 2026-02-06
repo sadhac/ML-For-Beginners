@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e0b75f73e4a90d45181dc5581fe2ef5c",
-  "translation_date": "2025-09-05T18:19:59+00:00",
-  "source_file": "3-Web-App/1-Web-App/README.md",
-  "language_code": "tl"
-}
--->
 # Gumawa ng Web App para Gamitin ang ML Model
 
 Sa araling ito, magtetrain ka ng ML model gamit ang isang data set na kakaiba: _mga sightings ng UFO sa nakaraang siglo_, na galing sa database ng NUFORC.

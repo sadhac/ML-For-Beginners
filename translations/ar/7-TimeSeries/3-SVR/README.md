@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-09-04T20:43:01+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "ar"
-}
--->
 # التنبؤ بالسلاسل الزمنية باستخدام نموذج دعم المتجهات للتراجع
 
 في الدرس السابق، تعلمت كيفية استخدام نموذج ARIMA لإجراء توقعات السلاسل الزمنية. الآن ستتعرف على نموذج دعم المتجهات للتراجع (Support Vector Regressor)، وهو نموذج يستخدم للتنبؤ بالبيانات المستمرة.

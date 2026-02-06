@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-05T18:38:05+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "nl"
-}
--->
 # Bouw een regressiemodel met Scikit-learn: regressie op vier manieren
 
 ![Lineaire vs polynomiale regressie infographic](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -114,11 +105,11 @@ Nu je een begrip hebt van de wiskunde achter lineaire regressie, laten we een re
 
 Uit de vorige les heb je waarschijnlijk gezien dat de gemiddelde prijs voor verschillende maanden er als volgt uitziet:
 
-<img alt="Gemiddelde prijs per maand" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="Gemiddelde prijs per maand" src="../../../../translated_images/nl/barchart.a833ea9194346d76.webp" width="50%"/>
 
 Dit suggereert dat er enige correlatie zou moeten zijn, en we kunnen proberen een lineair regressiemodel te trainen om de relatie tussen `Maand` en `Prijs`, of tussen `DagVanJaar` en `Prijs` te voorspellen. Hier is het spreidingsdiagram dat de laatste relatie toont:
 
-<img alt="Spreidingsdiagram van Prijs vs. Dag van het Jaar" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="Spreidingsdiagram van Prijs vs. Dag van het Jaar" src="../../../../translated_images/nl/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 Laten we kijken of er een correlatie is met behulp van de `corr`-functie:
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="Spreidingsdiagram van Prijs vs. Dag van het Jaar" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="Spreidingsdiagram van Prijs vs. Dag van het Jaar" src="../../../../translated_images/nl/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 Ons onderzoek suggereert dat de soort meer invloed heeft op de totale prijs dan de daadwerkelijke verkoopdatum. We kunnen dit zien met een staafdiagram:
 
@@ -145,7 +136,7 @@ Ons onderzoek suggereert dat de soort meer invloed heeft op de totale prijs dan 
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="Staafdiagram van prijs vs soort" src="images/price-by-variety.png" width="50%" /> 
+<img alt="Staafdiagram van prijs vs soort" src="../../../../translated_images/nl/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 Laten we ons voorlopig alleen richten op één pompoensoort, de 'pie type', en kijken welk effect de datum heeft op de prijs:
 
@@ -153,7 +144,7 @@ Laten we ons voorlopig alleen richten op één pompoensoort, de 'pie type', en k
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="Spreidingsdiagram van Prijs vs. Dag van het Jaar" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="Spreidingsdiagram van Prijs vs. Dag van het Jaar" src="../../../../translated_images/nl/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 Als we nu de correlatie tussen `Prijs` en `DagVanJaar` berekenen met behulp van de `corr`-functie, krijgen we iets als `-0.27` - wat betekent dat het trainen van een voorspellend model zinvol is.
 
@@ -227,7 +218,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```  
 
-<img alt="Lineaire regressie" src="images/linear-results.png" width="50%" />
+<img alt="Lineaire regressie" src="../../../../translated_images/nl/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## Polynomiale Regressie  
 
@@ -256,7 +247,7 @@ Het gebruik van `PolynomialFeatures(2)` betekent dat we alle tweedegraads polyno
 
 Pipelines kunnen op dezelfde manier worden gebruikt als het oorspronkelijke `LinearRegression`-object, d.w.z. we kunnen de pipeline `fitten` en vervolgens `predict` gebruiken om de voorspelde resultaten te krijgen. Hier is de grafiek die testgegevens en de benaderingscurve toont:  
 
-<img alt="Polynomiale regressie" src="images/poly-results.png" width="50%" />  
+<img alt="Polynomiale regressie" src="../../../../translated_images/nl/poly-results.ee587348f0f1f60b.webp" width="50%" />  
 
 Met polynomiale regressie kunnen we een iets lagere MSE en hogere determinatie krijgen, maar niet significant. We moeten rekening houden met andere kenmerken!  
 
@@ -274,7 +265,7 @@ In een ideale wereld willen we prijzen voor verschillende pompoenvariëteiten ku
 
 Hier kun je zien hoe de gemiddelde prijs afhankelijk is van de variëteit:  
 
-<img alt="Gemiddelde prijs per variëteit" src="images/price-by-variety.png" width="50%" />  
+<img alt="Gemiddelde prijs per variëteit" src="../../../../translated_images/nl/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />  
 
 Om rekening te houden met variëteit, moeten we deze eerst omzetten naar numerieke vorm, of **coderen**. Er zijn verschillende manieren waarop we dit kunnen doen:  
 

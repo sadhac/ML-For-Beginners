@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61bdec27ed2da8b098cd9065405d9bb0",
-  "translation_date": "2025-09-05T21:52:12+00:00",
-  "source_file": "4-Classification/4-Applied/README.md",
-  "language_code": "sv"
-}
--->
 # Bygg en webapp för matrekommendationer
 
 I den här lektionen kommer du att bygga en klassificeringsmodell med hjälp av några av de tekniker du har lärt dig i tidigare lektioner och med det läckra datasetet om mat som används genom hela denna serie. Dessutom kommer du att bygga en liten webapp för att använda en sparad modell, med hjälp av Onnx:s web runtime.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "911efd5e595089000cb3c16fce1beab8",
-  "translation_date": "2025-09-05T13:37:15+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/README.md",
-  "language_code": "sl"
-}
--->
 # Uvod v učenje z okrepitvijo in Q-učenje
 
 ![Povzetek učenja z okrepitvijo v strojnem učenju v obliki sketchnote](../../../../sketchnotes/ml-reinforcement.png)

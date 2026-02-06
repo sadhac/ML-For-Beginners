@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b37de02054fa6c0438ede6fabe1fdfb8",
-  "translation_date": "2025-08-29T16:33:40+00:00",
-  "source_file": "for-teachers.md",
-  "language_code": "mr"
-}
--->
 ## शिक्षकांसाठी
 
 आपण आपल्या वर्गात हा अभ्यासक्रम वापरू इच्छिता? कृपया जरूर वापरा!

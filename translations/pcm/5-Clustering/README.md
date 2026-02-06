@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-11-18T19:04:58+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "pcm"
-}
--->
 # Clustering Models for Machine Learning
 
 Clustering na machine learning task wey dey try find objects wey resemble each oda and group dem into groups wey dem dey call clusters. Wetin make clustering different from oda methods for machine learning be say e dey happen automatically. In fact, you fit talk say e be opposite of supervised learning.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-09-05T20:23:20+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "id"
-}
--->
 # Melatih Mountain Car
 
 [OpenAI Gym](http://gym.openai.com) dirancang sedemikian rupa sehingga semua lingkungan menyediakan API yang sama - yaitu metode yang sama `reset`, `step`, dan `render`, serta abstraksi yang sama untuk **action space** dan **observation space**. Oleh karena itu, seharusnya memungkinkan untuk mengadaptasi algoritma pembelajaran penguatan yang sama ke berbagai lingkungan dengan perubahan kode yang minimal.

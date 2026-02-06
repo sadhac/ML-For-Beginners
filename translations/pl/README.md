@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "0a6f4476a4f3934a4aa47c1bf47158bc",
-  "translation_date": "2026-01-16T11:46:29+00:00",
-  "source_file": "README.md",
-  "language_code": "pl"
-}
--->
 [![GitHub license](https://img.shields.io/github/license/microsoft/ML-For-Beginners.svg)](https://github.com/microsoft/ML-For-Beginners/blob/master/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/microsoft/ML-For-Beginners.svg)](https://GitHub.com/microsoft/ML-For-Beginners/graphs/contributors/)
 [![GitHub issues](https://img.shields.io/github/issues/microsoft/ML-For-Beginners.svg)](https://GitHub.com/microsoft/ML-For-Beginners/issues/)
@@ -19,78 +10,78 @@ CO_OP_TRANSLATOR_METADATA:
 
 ### 🌐 Wielojęzyczne wsparcie
 
-#### Wspierane przez GitHub Action (zautomatyzowane i zawsze aktualne)
+#### Wspierane przez GitHub Action (Automatyczne i zawsze aktualne)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chiński (uproszczony)](../zh/README.md) | [Chiński (tradycyjny, Hongkong)](../hk/README.md) | [Chiński (tradycyjny, Makau)](../mo/README.md) | [Chiński (tradycyjny, Tajwan)](../tw/README.md) | [Chorwacki](../hr/README.md) | [Czeski](../cs/README.md) | [Duński](../da/README.md) | [Holenderski](../nl/README.md) | [Estoński](../et/README.md) | [Fiński](../fi/README.md) | [Francuski](../fr/README.md) | [Niemiecki](../de/README.md) | [Grecki](../el/README.md) | [Hebrajski](../he/README.md) | [Hindi](../hi/README.md) | [Węgierski](../hu/README.md) | [Indonezyjski](../id/README.md) | [Włoski](../it/README.md) | [Japoński](../ja/README.md) | [Kannada](../kn/README.md) | [Koreański](../ko/README.md) | [Litewski](../lt/README.md) | [Malajski](../ms/README.md) | [Malajalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepalski](../ne/README.md) | [Nigeryjski pidgin](../pcm/README.md) | [Norweski](../no/README.md) | [Perski (Farsi)](../fa/README.md) | [Polski](./README.md) | [Portugalski (Brazylia)](../br/README.md) | [Portugalski (Portugalia)](../pt/README.md) | [Pendżabski (Gurmukhi)](../pa/README.md) | [Rumuński](../ro/README.md) | [Rosyjski](../ru/README.md) | [Serbski (cyrylica)](../sr/README.md) | [Słowacki](../sk/README.md) | [Słoweński](../sl/README.md) | [Hiszpański](../es/README.md) | [Suahili](../sw/README.md) | [Szwedzki](../sv/README.md) | [Tagalog (Filipiński)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Tajski](../th/README.md) | [Turecki](../tr/README.md) | [Ukraiński](../uk/README.md) | [Urdu](../ur/README.md) | [Wietnamski](../vi/README.md)
+[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](../zh-TW/README.md) | [Chorwacki](../hr/README.md) | [Czeski](../cs/README.md) | [Duński](../da/README.md) | [Niderlandzki](../nl/README.md) | [Estoński](../et/README.md) | [Fiński](../fi/README.md) | [Francuski](../fr/README.md) | [Niemiecki](../de/README.md) | [Grecki](../el/README.md) | [Hebrajski](../he/README.md) | [Hindi](../hi/README.md) | [Węgierski](../hu/README.md) | [Indonezyjski](../id/README.md) | [Włoski](../it/README.md) | [Japoński](../ja/README.md) | [Kannada](../kn/README.md) | [Koreański](../ko/README.md) | [Litewski](../lt/README.md) | [Malezyjski](../ms/README.md) | [Malajalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepalski](../ne/README.md) | [Nigerski pidgin](../pcm/README.md) | [Norweski](../no/README.md) | [Perski (Farsi)](../fa/README.md) | [Polski](./README.md) | [Portugalski (Brazylia)](../pt-BR/README.md) | [Portugalski (Portugalia)](../pt-PT/README.md) | [Pendżabski (Gurmukhi)](../pa/README.md) | [Rumuński](../ro/README.md) | [Rosyjski](../ru/README.md) | [Serbski (Cyrylica)](../sr/README.md) | [Słowacki](../sk/README.md) | [Słoweński](../sl/README.md) | [Hiszpański](../es/README.md) | [Suahili](../sw/README.md) | [Szwedzki](../sv/README.md) | [Tagalog (Filipiński)](../tl/README.md) | [Tamilski](../ta/README.md) | [Telugu](../te/README.md) | [Tajski](../th/README.md) | [Turecki](../tr/README.md) | [Ukraiński](../uk/README.md) | [Urdu](../ur/README.md) | [Wietnamski](../vi/README.md)
 
-> **Wolisz klonować lokalnie?**
+> **Wolisz sklonować lokalnie?**
 
-> To repozytorium zawiera tłumaczenia na ponad 50 języków, co znacznie zwiększa rozmiar pobierania. Aby sklonować bez tłumaczeń, użyj sparse checkout:
+> To repozytorium zawiera tłumaczenia na ponad 50 języków, co znacznie zwiększa rozmiar pobieranego pliku. Aby sklonować bez tłumaczeń, użyj sparse checkout:
 > ```bash
 > git clone --filter=blob:none --sparse https://github.com/microsoft/ML-For-Beginners.git
 > cd ML-For-Beginners
 > git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
 > ```
-> To daje Ci wszystko, czego potrzebujesz, aby ukończyć kurs znacznie szybciej.
+> Dzięki temu otrzymasz wszystko, czego potrzebujesz, aby ukończyć kurs, ale z dużo szybszym pobieraniem.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 #### Dołącz do naszej społeczności
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
 
-Prowadzimy na Discordzie serię "Learn with AI", dowiedz się więcej i dołącz do nas na [Learn with AI Series](https://aka.ms/learnwithai/discord) od 18 do 30 września 2025. Otrzymasz wskazówki i porady dotyczące korzystania z GitHub Copilot dla Data Science.
+Mamy trwającą serię "Learn with AI" na Discordzie, dowiedz się więcej i dołącz do nas na [Learn with AI Series](https://aka.ms/learnwithai/discord) od 18 do 30 września 2025. Otrzymasz wskazówki i triki dotyczące używania GitHub Copilot w Data Science.
 
-![Seria Learn with AI](../../../../translated_images/pl/3.9b58fd8d6c373c20.webp)
+![Seria Learn with AI](../../translated_images/pl/3.9b58fd8d6c373c20.webp)
 
-# Machine Learning dla początkujących - program nauczania
+# Uczenie maszynowe dla początkujących - Program nauczania
 
-> 🌍 Podróżuj po świecie, badając uczenie maszynowe za pomocą kultur świata 🌍
+> 🌍 Podróżuj po świecie, eksplorując Uczenie maszynowe poprzez kultury świata 🌍
 
-Cloud Advocates w Microsoft z radością przedstawiają 12-tygodniowy, 26-lekcyjny program nauczania poświęcony **uczeniu maszynowemu**. W tym programie nauczysz się o tym, co czasami nazywa się **klasycznym uczeniem maszynowym**, korzystając głównie z biblioteki Scikit-learn i unikając uczenia głębokiego, które jest omawiane w naszym [programie AI dla początkujących](https://aka.ms/ai4beginners). Połącz te lekcje z naszym ['Data Science dla początkujących'](https://aka.ms/ds4beginners)!
+Cloud Advocates w Microsoft z przyjemnością oferują 12-tygodniowy program nauczania składający się z 26 lekcji całkowicie poświęconych **Uczeniu maszynowemu**. W tym programie nauczysz się, co czasem określa się jako **klasyczne uczenie maszynowe**, korzystając głównie z biblioteki Scikit-learn i unikając uczenia głębokiego, które jest omawiane w naszym [programie AI for Beginners](https://aka.ms/ai4beginners). Połącz te lekcje z naszym ['Data Science for Beginners'](https://aka.ms/ds4beginners)!
 
-Podróżuj z nami po świecie, stosując te klasyczne techniki do danych z wielu regionów świata. Każda lekcja zawiera quizy przed i po lekcji, pisemne instrukcje do wykonania, rozwiązanie, zadanie i więcej. Nasza projektowa metoda nauki pozwala uczyć się podczas tworzenia, co jest sprawdzonym sposobem na trwałe przyswajanie nowych umiejętności.
+Podróżuj z nami po świecie, stosując te klasyczne techniki do danych z różnych regionów. Każda lekcja zawiera quizy przed i po lekcji, pisemne instrukcje do wykonania lekcji, rozwiązanie, zadanie i więcej. Nasza pedagogika oparta na projektach pozwala uczyć się poprzez praktykę, co jest sprawdzonym sposobem na utrwalenie nowych umiejętności.
 
-**✍️ Gorące podziękowania dla naszych autorów** Jen Looper, Stephena Howella, Francesci Lazzeri, Tomomi Imury, Cassie Breviu, Dmitry Soshnikova, Chrisa Noringa, Anirbana Mukherjee, Ornelli Altunyan, Ruth Yakubu i Amy Boyd
+**✍️ Serdeczne podziękowania dla naszych autorów** Jen Looper, Stephen Howell, Francesca Lazzeri, Tomomi Imura, Cassie Breviu, Dmitry Soshnikov, Chris Noring, Anirban Mukherjee, Ornella Altunyan, Ruth Yakubu oraz Amy Boyd
 
-**🎨 Podziękowania także dla naszych ilustratorów** Tomomi Imury, Dasani Madipalli i Jen Looper
+**🎨 Podziękowania także dla naszych ilustratorów** Tomomi Imura, Dasani Madipalli oraz Jen Looper
 
-**🙏 Szczególne podziękowania 🙏 dla naszych autorów, recenzentów i współtwórców treści Microsoft Student Ambassador**, w szczególności Rishit Dagli, Muhammada Sakiba Khana Inana, Rohana Raja, Alexandru Petrescu, Abhisheka Jaiswala, Nawrin Tabassum, Ioana Samuily oraz Snigdhy Agarwal
+**🙏 Szczególne podziękowania 🙏 dla naszych autorów, recenzentów i współtwórców treści z Microsoft Student Ambassadors**, w szczególności Rishit Dagli, Muhammad Sakib Khan Inan, Rohan Raj, Alexandru Petrescu, Abhishek Jaiswal, Nawrin Tabassum, Ioan Samuila oraz Snigdha Agarwal
 
-**🤩 Dodatkowa wdzięczność dla Microsoft Student Ambassadors Erica Wanjau, Jasleen Sondhi i Vidushi Gupty za lekcje w R!**
+**🤩 Dodatkowa wdzięczność dla Microsoft Student Ambassadors Eric Wanjau, Jasleen Sondhi oraz Vidushi Gupta za nasze lekcje w R!**
 
-# Jak zacząć
+# Rozpoczęcie
 
 Wykonaj następujące kroki:
-1. **Rozgałęź (Fork) Repozytorium**: Kliknij przycisk „Fork” w prawym górnym rogu tej strony.
-2. **Sklonuj Repozytorium**:   `git clone https://github.com/microsoft/ML-For-Beginners.git`
+1. **Rozgałęź repozytorium**: Kliknij przycisk „Fork” w prawym górnym rogu tej strony.
+2. **Sklonuj repozytorium**:   `git clone https://github.com/microsoft/ML-For-Beginners.git`
 
 > [znajdź wszystkie dodatkowe zasoby do tego kursu w naszej kolekcji Microsoft Learn](https://learn.microsoft.com/en-us/collections/qrqzamz1nn2wx3?WT.mc_id=academic-77952-bethanycheum)
 
-> 🔧 **Potrzebujesz pomocy?** Sprawdź nasz [Przewodnik Rozwiązywania Problemów](TROUBLESHOOTING.md) dla rozwiązań najczęstszych problemów podczas instalacji, konfiguracji i uruchamiania lekcji.
+> 🔧 **Potrzebujesz pomocy?** Sprawdź nasz [Przewodnik rozwiązywania problemów](TROUBLESHOOTING.md) dla rozwiązań typowych problemów z instalacją, konfiguracją i uruchamianiem lekcji.
 
 
-**[Studenci](https://aka.ms/student-page)**, aby korzystać z tego programu, rozgałęź całe repozytorium na własne konto GitHub i wykonuj ćwiczenia samodzielnie lub w grupie:
+**[Uczniowie](https://aka.ms/student-page)**, aby korzystać z tego programu, rozgałęź całe repozytorium na swoje konto GitHub i wykonuj ćwiczenia samodzielnie lub w grupie:
 
 - Zacznij od quizu przed wykładem.
 - Przeczytaj wykład i wykonaj zadania, zatrzymując się i zastanawiając się przy każdym sprawdzeniu wiedzy.
-- Staraj się tworzyć projekty rozumiejąc materiał zamiast po prostu uruchamiać gotowy kod; jednak kod ten jest dostępny w folderach `/solution` każdej lekcji projektowej.
-- Przejdź quiz po wykładzie.
-- Zrealizuj wyzwanie.
-- Wykonaj zadanie domowe.
-- Po ukończeniu grupy lekcji odwiedź [Tablicę Dyskusyjną](https://github.com/microsoft/ML-For-Beginners/discussions) i „ucz się na głos”, wypełniając odpowiednią rubrykę PAT. 'PAT' to narzędzie oceny postępów, które wypełniasz, aby pogłębić swoją naukę. Możesz też reagować na inne PATy, aby uczyć się razem.
+- Staraj się tworzyć projekty, rozumiejąc lekcje, zamiast tylko uruchamiać kod rozwiązania; jednakże kod ten jest dostępny w folderach `/solution` w każdej lekcji zorientowanej na projekt.
+- Rozwiąż quiz po wykładzie.
+- Wykonaj wyzwanie.
+- Wykonaj zadanie.
+- Po ukończeniu grupy lekcji odwiedź [Tablicę dyskusyjną](https://github.com/microsoft/ML-For-Beginners/discussions) i "ucząc się na głos", wypełnij odpowiednią rubrykę PAT. 'PAT' to narzędzie oceny postępów, które wypełniasz, by lepiej się uczyć. Możesz także reagować na inne PAT, abyśmy mogli uczyć się wspólnie.
 
-> Do dalszej nauki polecamy śledzenie tych modułów i ścieżek nauki na [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/k7o7tg1gp306q4?WT.mc_id=academic-77952-leestott).
+> Dla dalszej nauki zalecamy moduły i ścieżki nauki z [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/k7o7tg1gp306q4?WT.mc_id=academic-77952-leestott).
 
-**Nauczyciele**, dołączyliśmy [kilka sugestii](for-teachers.md) dotyczących używania tego programu.
+**Nauczyciele**, [zamieściliśmy kilka sugestii](for-teachers.md) dotyczących wykorzystania tego programu.
 
 ---
 
-## Przewodniki wideo
+## Filmy instruktażowe
 
-Niektóre lekcje dostępne są jako krótkie filmy wideo. Znajdziesz je w lekcjach lub na [playliście ML for Beginners na kanale Microsoft Developer YouTube](https://aka.ms/ml-beginners-videos) klikając obrazek poniżej.
+Niektóre lekcje są dostępne w formie krótkich filmów. Możesz je znaleźć bezpośrednio w lekcjach lub na [playliście ML for Beginners na kanale Microsoft Developer na YouTube](https://aka.ms/ml-beginners-videos) klikając obraz poniżej.
 
-[![Baner ML dla początkujących](../../../../translated_images/pl/ml-for-beginners-video-banner.63f694a100034bc6.webp)](https://aka.ms/ml-beginners-videos)
+[![Baner ML for beginners](../../translated_images/pl/ml-for-beginners-video-banner.63f694a100034bc6.webp)](https://aka.ms/ml-beginners-videos)
 
 ---
 
@@ -98,76 +89,76 @@ Niektóre lekcje dostępne są jako krótkie filmy wideo. Znajdziesz je w lekcja
 
 [![Film promocyjny](../../images/ml.gif)](https://youtu.be/Tj1XWrDSYJU)
 
-**Gif autorstwa** [Mohita Jaisala](https://linkedin.com/in/mohitjaisal)
+**Gif autorstwa** [Mohit Jaisal](https://linkedin.com/in/mohitjaisal)
 
-> 🎥 Kliknij powyższy obraz, aby obejrzeć film o projekcie i osobach, które go stworzyły!
+> 🎥 Kliknij obraz powyżej, aby zobaczyć film o projekcie i osobach, które go stworzyły!
 
 ---
 
 ## Pedagogika
 
-Podczas tworzenia tego programu wybraliśmy dwa założenia pedagogiczne: zapewnienie, że jest to program **oparty na projektach** oraz zawierający **częste quizy**. Ponadto, ten program ma wspólny **motyw przewodni** dla spójności.
+Wybraliśmy dwie zasady pedagogiczne podczas tworzenia tego programu: zapewnienie, że jest on praktyczny i oparty na **projektach**, oraz że zawiera **częste quizy**. Ponadto program ma wspólny **motyw przewodni**, co nadaje mu spójność.
 
-Dzięki dopasowaniu treści do projektów proces staje się bardziej angażujący dla uczniów, a retencja konceptów zostaje zwiększona. Ponadto quiz o niskim ryzyku przed zajęciami nastawia studenta na naukę tematu, a drugi quiz po zajęciach utrwala wiedzę. Program ten jest zaprojektowany tak, aby był elastyczny i przyjemny, można go realizować w całości lub etapami. Projekty zaczynają się małe i stają się coraz bardziej złożone pod koniec 12-tygodniowego cyklu. Program zawiera też posłowie o rzeczywistych zastosowaniach ML, które można wykorzystać jako dodatkowe punkty lub bazę do dyskusji.
+Dzięki powiązaniu treści z projektami proces nauki jest bardziej angażujący dla uczniów, a zapamiętywanie koncepcji zostaje wzmocnione. Dodatkowo quiz o niskim ryzyku przed zajęciami nastawia ucznia na naukę tematu, a drugi quiz po zajęciach zapewnia dalsze utrwalenie wiedzy. Program zaprojektowano tak, aby był elastyczny i przyjemny, można go realizować w całości lub częściowo. Projekty zaczynają się od prostych i stopniowo stają się coraz bardziej skomplikowane do końca 12-tygodniowego cyklu. Program zawiera również postscriptum dotyczące zastosowań uczenia maszynowego w praktyce, które może służyć jako dodatkowy materiał lub podstawa do dyskusji.
 
-> Zapoznaj się z naszymi zasadami: [Kodeks postępowania](CODE_OF_CONDUCT.md), [Wkład](CONTRIBUTING.md), [Tłumaczenia](TRANSLATIONS.md) oraz [Rozwiązywanie problemów](TROUBLESHOOTING.md). Czekamy na Twoje konstruktywne uwagi!
+> Zapoznaj się z naszymi wytycznymi: [Kodeks postępowania](CODE_OF_CONDUCT.md), [Wkład do projektu](CONTRIBUTING.md), [Tłumaczenia](TRANSLATIONS.md) oraz [Rozwiązywanie problemów](TROUBLESHOOTING.md). Czekamy na Twoją konstruktywną opinię!
 
 ## Każda lekcja zawiera
 
-- opcjonalną notatkę wizualną
-- opcjonalne dodatkowe wideo
-- przewodnik wideo (tylko niektóre lekcje)
+- opcjonalną notatkę szkicową
+- opcjonalny film uzupełniający
+- film instruktażowy (w niektórych lekcjach)
 - [quiz rozgrzewkowy przed wykładem](https://ff-quizzes.netlify.app/en/ml/)
-- pisemną lekcję
-- w lekcjach projektowych: krok po kroku instrukcje, jak stworzyć projekt
+- lekcję pisaną
+- w lekcjach projektowych przewodniki krok po kroku, jak zbudować projekt
 - sprawdzenia wiedzy
 - wyzwanie
-- dodatkową lekturę
+- uzupełniającą lekturę
 - zadanie domowe
 - [quiz po wykładzie](https://ff-quizzes.netlify.app/en/ml/)
 
-> **Uwagi dotyczące języków**: Lekcje te są głównie napisane w Pythonie, ale wiele jest także dostępnych w R. Aby ukończyć lekcję w R, przejdź do folderu `/solution` i znajdź lekcje R. Mają one rozszerzenie .rmd, które oznacza plik **R Markdown**, będący osadzeniem `kawałków kodu` (R lub innych języków) oraz `nagłówka YAML` (który steruje formatowaniem wyjść jak PDF) w dokumencie `Markdown`. Służy to jako wzorcowe narzędzie do tworzenia materiałów naukowych, pozwalając łączyć kod, jego wynik oraz własne notatki zapisane w Markdown. Ponadto dokumenty R Markdown można renderować do formatów wyjściowych takich jak PDF, HTML czy Word.
-> **Notatka o quizach**: Wszystkie quizy znajdują się w [folderze Quiz App](../../quiz-app), łącznie 52 quizy po trzy pytania w każdym. Są one połączone wewnątrz lekcji, ale aplikacja quizowa może być uruchomiona lokalnie; postępuj zgodnie z instrukcjami w folderze `quiz-app`, aby hostować lokalnie lub wdrożyć na Azure.
+> **Uwagi dotyczące języków**: Lekcje są głównie napisane w Pythonie, ale wiele z nich jest dostępnych również w R. Aby ukończyć lekcję w R, przejdź do folderu `/solution` i znajdź lekcje w R. Mają rozszerzenie .rmd, które oznacza plik **R Markdown**, definiowany jako połączenie `kawałków kodu` (w R lub innych językach) oraz `nagłówka YAML` (który kieruje formatowaniem wyjść takich jak PDF) w dokumencie `Markdown`. Służy to jako wzorcowy framework dla nauki danych, ponieważ pozwala łączyć kod, jego wyniki i notatki poprzez zapis w Markdown. Ponadto pliki R Markdown mogą być renderowane do formatów wyjścia takich jak PDF, HTML lub Word.
+> **Notatka o quizach**: Wszystkie quizy zawarte są w [folderze Quiz App](../../quiz-app), łącznie 52 quizy po trzy pytania każdy. Są one powiązane z lekcjami, ale aplikacja quizowa może być uruchamiana lokalnie; postępuj zgodnie z instrukcjami w folderze `quiz-app`, aby uruchomić lokalnie lub wdrożyć na Azure.
 
-| Numer lekcji |                             Temat                              |                   Grupa lekcji                   | Cele nauki                                                                                                                     |                                                              Połączona lekcja                                                               |                        Autor                        |
-| :----------: | :------------------------------------------------------------: | :----------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------ | :-----------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------: |
-|      01      |                Wprowadzenie do uczenia maszynowego             |      [Wprowadzenie](1-Introduction/README.md)    | Poznaj podstawowe pojęcia stojące za uczeniem maszynowym                                                                       |                                             [Lekcja](1-Introduction/1-intro-to-ML/README.md)                                             |                       Muhammad                       |
-|      02      |                Historia uczenia maszynowego                    |      [Wprowadzenie](1-Introduction/README.md)    | Poznaj historię stojącą za tą dziedziną                                                                                        |                                            [Lekcja](1-Introduction/2-history-of-ML/README.md)                                            |                     Jen i Amy                        |
-|      03      |                 Fairness a uczenie maszynowe                  |      [Wprowadzenie](1-Introduction/README.md)    | Jakie ważne kwestie filozoficzne dotyczące sprawiedliwości powinni rozważyć uczniowie tworząc i stosując modele ML?             |                                              [Lekcja](1-Introduction/3-fairness/README.md)                                               |                        Tomomi                        |
-|      04      |                Techniki uczenia maszynowego                   |      [Wprowadzenie](1-Introduction/README.md)    | Jakich technik używają badacze ML do budowy modeli ML?                                                                          |                                          [Lekcja](1-Introduction/4-techniques-of-ML/README.md)                                           |                    Chris i Jen                       |
-|      05      |                   Wprowadzenie do regresji                    |        [Regresja](2-Regression/README.md)         | Zacznij pracę z Pythonem i Scikit-learn do modeli regresji                                                                     |         [Python](2-Regression/1-Tools/README.md) • [R](../../2-Regression/1-Tools/solution/R/lesson_1.html)          |      Jen • Eric Wanjau       |
-|      06      |                Ceny dyni w Ameryce Północnej 🎃               |        [Regresja](2-Regression/README.md)         | Wizualizuj i oczyszczaj dane w przygotowaniu do ML                                                                              |          [Python](2-Regression/2-Data/README.md) • [R](../../2-Regression/2-Data/solution/R/lesson_2.html)          |      Jen • Eric Wanjau       |
-|      07      |                Ceny dyni w Ameryce Północnej 🎃               |        [Regresja](2-Regression/README.md)         | Buduj modele regresji liniowej i wielomianowej                                                                                   |        [Python](2-Regression/3-Linear/README.md) • [R](../../2-Regression/3-Linear/solution/R/lesson_3.html)        |      Jen i Dmitry • Eric Wanjau       |
-|      08      |                Ceny dyni w Ameryce Północnej 🎃               |        [Regresja](2-Regression/README.md)         | Buduj model regresji logistycznej                                                                                              |     [Python](2-Regression/4-Logistic/README.md) • [R](../../2-Regression/4-Logistic/solution/R/lesson_4.html)      |      Jen • Eric Wanjau       |
-|      09      |                          Aplikacja webowa 🔌                  |           [Aplikacja webowa](3-Web-App/README.md) | Zbuduj aplikację internetową do używania wytrenowanego modelu                                                                   |                                                 [Python](3-Web-App/1-Web-App/README.md)                                                  |                         Jen                          |
-|      10      |                 Wprowadzenie do klasyfikacji                  |    [Klasyfikacja](4-Classification/README.md)    | Oczyść, przygotuj i wizualizuj dane; wprowadzenie do klasyfikacji                                                              | [Python](4-Classification/1-Introduction/README.md) • [R](../../4-Classification/1-Introduction/solution/R/lesson_10.html)  | Jen i Cassie • Eric Wanjau |
-|      11      |             Pyszne kuchnie azjatyckie i indyjskie 🍜          |    [Klasyfikacja](4-Classification/README.md)    | Wprowadzenie do klasyfikatorów                                                                                                 | [Python](4-Classification/2-Classifiers-1/README.md) • [R](../../4-Classification/2-Classifiers-1/solution/R/lesson_11.html) | Jen i Cassie • Eric Wanjau |
-|      12      |             Pyszne kuchnie azjatyckie i indyjskie 🍜          |    [Klasyfikacja](4-Classification/README.md)    | Więcej klasyfikatorów                                                                                                          | [Python](4-Classification/3-Classifiers-2/README.md) • [R](../../4-Classification/3-Classifiers-2/solution/R/lesson_12.html) | Jen i Cassie • Eric Wanjau |
-|      13      |             Pyszne kuchnie azjatyckie i indyjskie 🍜          |    [Klasyfikacja](4-Classification/README.md)    | Zbuduj aplikację rekomendującą używając swojego modelu                                                                          |                                              [Python](4-Classification/4-Applied/README.md)                                              |                         Jen                          |
-|      14      |                   Wprowadzenie do klasteryzacji               |        [Klasteryzacja](5-Clustering/README.md)    | Oczyść, przygotuj i wizualizuj dane; wprowadzenie do klasteryzacji                                                              |         [Python](5-Clustering/1-Visualize/README.md) • [R](../../5-Clustering/1-Visualize/solution/R/lesson_14.html)         |      Jen • Eric Wanjau       |
-|      15      |              Odkrywanie muzycznych gustów Nigerii 🎧          |        [Klasteryzacja](5-Clustering/README.md)    | Poznaj metodę klasteryzacji K-średnich                                                                                         |           [Python](5-Clustering/2-K-Means/README.md) • [R](../../5-Clustering/2-K-Means/solution/R/lesson_15.html)           |      Jen • Eric Wanjau       |
-|      16      |        Wprowadzenie do przetwarzania języka naturalnego ☕️    |   [Przetwarzanie języka naturalnego](6-NLP/README.md)    | Poznaj podstawy NLP budując prostego bota                                                                                       |                                             [Python](6-NLP/1-Introduction-to-NLP/README.md)                                              |                       Stephen                        |
-|      17      |                      Typowe zadania NLP ☕️                    |   [Przetwarzanie języka naturalnego](6-NLP/README.md)    | Pogłęb wiedzę o NLP rozumiejąc typowe zadania w pracy z językiem                                                                |                                                    [Python](6-NLP/2-Tasks/README.md)                                                     |                       Stephen                        |
-|      18      |             Tłumaczenie i analiza sentymentu ♥️               |   [Przetwarzanie języka naturalnego](6-NLP/README.md)    | Tłumaczenie i analiza sentymentu z Jane Austen                                                                                  |                                            [Python](6-NLP/3-Translation-Sentiment/README.md)                                             |                       Stephen                        |
-|      19      |                  Romantyczne hotele Europy ♥️                 |   [Przetwarzanie języka naturalnego](6-NLP/README.md)    | Analiza sentymentu w recenzjach hoteli 1                                                                                       |                                               [Python](6-NLP/4-Hotel-Reviews-1/README.md)                                                |                       Stephen                        |
-|      20      |                  Romantyczne hotele Europy ♥️                 |   [Przetwarzanie języka naturalnego](6-NLP/README.md)    | Analiza sentymentu w recenzjach hoteli 2                                                                                       |                                               [Python](6-NLP/5-Hotel-Reviews-2/README.md)                                                |                       Stephen                        |
-|      21      |            Wprowadzenie do prognozowania szeregów czasowych    |        [Szeregi czasowe](7-TimeSeries/README.md)    | Wprowadzenie do prognozowania szeregów czasowych                                                                               |                                             [Python](7-TimeSeries/1-Introduction/README.md)                                              |                      Francesca                       |
-|      22      | ⚡️ Zużycie energii na świecie ⚡️ - prognozowanie szeregów czasowych ARIMA |        [Szeregi czasowe](7-TimeSeries/README.md)    | Prognozowanie szeregów czasowych z użyciem ARIMA                                                                               |                                                 [Python](7-TimeSeries/2-ARIMA/README.md)                                                 |                      Francesca                       |
-|      23      |  ⚡️ Zużycie energii na świecie ⚡️ - prognozowanie szeregów czasowych SVR  |        [Szeregi czasowe](7-TimeSeries/README.md)    | Prognozowanie szeregów czasowych za pomocą regresji wektorów nośnych (SVR)                                                     |                                                  [Python](7-TimeSeries/3-SVR/README.md)                                                  |                       Anirban                        |
-|      24      |             Wprowadzenie do uczenia przez wzmacnianie          | [Uczenie przez wzmacnianie](8-Reinforcement/README.md) | Wprowadzenie do uczenia przez wzmacnianie z Q-Learning                                                                          |                                             [Python](8-Reinforcement/1-QLearning/README.md)                                              |                        Dmitry                        |
-|      25      |                 Pomóż Peterowi uniknąć wilka! 🐺               | [Uczenie przez wzmacnianie](8-Reinforcement/README.md) | Gimnastyka w uczeniu przez wzmacnianie                                                                                        |                                                [Python](8-Reinforcement/2-Gym/README.md)                                                 |                        Dmitry                        |
-|  Postscript  |            Scenariusze i zastosowania ML w realnym świecie      |      [ML w Praktyce](9-Real-World/README.md)       | Interesujące i odkrywcze zastosowania klasycznego ML                                                                            |                                             [Lekcja](9-Real-World/1-Applications/README.md)                                              |                         Zespół                        |
-|  Postscript  |            Debugowanie modeli ML z użyciem dashboardu RAI      |      [ML w Praktyce](9-Real-World/README.md)       | Debugowanie modeli w uczeniu maszynowym z użyciem komponentów dashboardu Responsible AI                                           |                                             [Lekcja](9-Real-World/2-Debugging-ML-Models/README.md)                                              |                         Ruth Yakubu                   |
+| Numer lekcji |                             Temat                              |                   Grupa lekcji                   | Cele nauki                                                                                                                   |                                                              Powiązana lekcja                                                               |                        Autor                        |
+| :----------: | :------------------------------------------------------------: | :-----------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------: |
+|      01      |                Wprowadzenie do uczenia maszynowego            |      [Wprowadzenie](1-Introduction/README.md)    | Poznaj podstawowe pojęcia uczenia maszynowego                                                                               |                                             [Lekcja](1-Introduction/1-intro-to-ML/README.md)                                             |                     Muhammad                       |
+|      02      |                Historia uczenia maszynowego                    |      [Wprowadzenie](1-Introduction/README.md)    | Poznaj historię tego obszaru                                                                                                 |                                            [Lekcja](1-Introduction/2-history-of-ML/README.md)                                            |                   Jen i Amy                        |
+|      03      |                 Sprawiedliwość i uczenie maszynowe            |      [Wprowadzenie](1-Introduction/README.md)    | Jakie są ważne kwestie filozoficzne dotyczące sprawiedliwości, które studenci powinni rozważyć przy budowie i stosowaniu modeli ML? |                                              [Lekcja](1-Introduction/3-fairness/README.md)                                               |                     Tomomi                         |
+|      04      |                Techniki uczenia maszynowego                    |      [Wprowadzenie](1-Introduction/README.md)    | Jakich technik używają badacze ML do tworzenia modeli ML?                                                                     |                                          [Lekcja](1-Introduction/4-techniques-of-ML/README.md)                                           |                   Chris i Jen                      |
+|      05      |                   Wprowadzenie do regresji                     |        [Regresja](2-Regression/README.md)         | Zacznij pracę z Pythonem i Scikit-learn przy modelach regresji                                                              |         [Python](2-Regression/1-Tools/README.md) • [R](../../2-Regression/1-Tools/solution/R/lesson_1.html)         |          Jen • Eric Wanjau          |
+|      06      |                Ceny dyni w Ameryce Północnej 🎃                |        [Regresja](2-Regression/README.md)         | Wizualizacja i oczyszczanie danych w przygotowaniu do ML                                                                    |          [Python](2-Regression/2-Data/README.md) • [R](../../2-Regression/2-Data/solution/R/lesson_2.html)          |          Jen • Eric Wanjau          |
+|      07      |                Ceny dyni w Ameryce Północnej 🎃                |        [Regresja](2-Regression/README.md)         | Budowa modeli regresji liniowej i wielomianowej                                                                             |        [Python](2-Regression/3-Linear/README.md) • [R](../../2-Regression/3-Linear/solution/R/lesson_3.html)        |          Jen i Dmitry • Eric Wanjau          |
+|      08      |                Ceny dyni w Ameryce Północnej 🎃                |        [Regresja](2-Regression/README.md)         | Budowa modelu regresji logistycznej                                                                                          |     [Python](2-Regression/4-Logistic/README.md) • [R](../../2-Regression/4-Logistic/solution/R/lesson_4.html)      |          Jen • Eric Wanjau          |
+|      09      |                          Aplikacja webowa 🔌                   |           [Aplikacja webowa](3-Web-App/README.md) | Stwórz aplikację webową, która użyje twojego wytrenowanego modelu                                                           |                                                 [Python](3-Web-App/1-Web-App/README.md)                                                  |                         Jen                          |
+|      10      |                 Wprowadzenie do klasyfikacji                   |    [Klasyfikacja](4-Classification/README.md)    | Oczyść, przygotuj i zwizualizuj dane; wprowadzenie do klasyfikacji                                                          | [Python](4-Classification/1-Introduction/README.md) • [R](../../4-Classification/1-Introduction/solution/R/lesson_10.html) | Jen i Cassie • Eric Wanjau |
+|      11      |             Pyszne kuchnie azjatyckie i indyjskie 🍜          |    [Klasyfikacja](4-Classification/README.md)    | Wprowadzenie do klasyfikatorów                                                                                                | [Python](4-Classification/2-Classifiers-1/README.md) • [R](../../4-Classification/2-Classifiers-1/solution/R/lesson_11.html) | Jen i Cassie • Eric Wanjau |
+|      12      |             Pyszne kuchnie azjatyckie i indyjskie 🍜          |    [Klasyfikacja](4-Classification/README.md)    | Więcej klasyfikatorów                                                                                                        | [Python](4-Classification/3-Classifiers-2/README.md) • [R](../../4-Classification/3-Classifiers-2/solution/R/lesson_12.html) | Jen i Cassie • Eric Wanjau |
+|      13      |             Pyszne kuchnie azjatyckie i indyjskie 🍜          |    [Klasyfikacja](4-Classification/README.md)    | Stwórz aplikację webową rekomendacji używając swojego modelu                                                                 |                                              [Python](4-Classification/4-Applied/README.md)                                              |                         Jen                          |
+|      14      |                   Wprowadzenie do klasteryzacji                |        [Klasteryzacja](5-Clustering/README.md)    | Oczyść, przygotuj i zwizualizuj dane; wprowadzenie do klasteryzacji                                                          |         [Python](5-Clustering/1-Visualize/README.md) • [R](../../5-Clustering/1-Visualize/solution/R/lesson_14.html)         |      Jen • Eric Wanjau       |
+|      15      |              Odkrywanie muzycznych gustów Nigerii 🎧          |        [Klasteryzacja](5-Clustering/README.md)    | Poznaj metodę klasteryzacji K-środków                                                                                        |           [Python](5-Clustering/2-K-Means/README.md) • [R](../../5-Clustering/2-K-Means/solution/R/lesson_15.html)           |      Jen • Eric Wanjau       |
+|      16      |        Wprowadzenie do przetwarzania języka naturalnego ☕️    |   [Przetwarzanie języka naturalnego](6-NLP/README.md) | Poznaj podstawy NLP tworząc prostego bota                                                                                     |                                             [Python](6-NLP/1-Introduction-to-NLP/README.md)                                              |                       Stephen                        |
+|      17      |                      Typowe zadania NLP ☕️                    |   [Przetwarzanie języka naturalnego](6-NLP/README.md) | Pogłęb swoją wiedzę o NLP poprzez zrozumienie powszechnych zadań związanych ze strukturą języka                                |                                                    [Python](6-NLP/2-Tasks/README.md)                                                     |                       Stephen                        |
+|      18      |             Tłumaczenie i analiza sentymentu ♥️                |   [Przetwarzanie języka naturalnego](6-NLP/README.md) | Tłumaczenie i analiza sentymentu z Jane Austen                                                                               |                                            [Python](6-NLP/3-Translation-Sentiment/README.md)                                             |                       Stephen                        |
+|      19      |                  Romantyczne hotele Europy ♥️                  |   [Przetwarzanie języka naturalnego](6-NLP/README.md) | Analiza sentymentu na podstawie recenzji hoteli 1                                                                             |                                               [Python](6-NLP/4-Hotel-Reviews-1/README.md)                                                |                       Stephen                        |
+|      20      |                  Romantyczne hotele Europy ♥️                  |   [Przetwarzanie języka naturalnego](6-NLP/README.md) | Analiza sentymentu na podstawie recenzji hoteli 2                                                                             |                                               [Python](6-NLP/5-Hotel-Reviews-2/README.md)                                                |                       Stephen                        |
+|      21      |            Wprowadzenie do prognozowania szeregów czasowych   |        [Szeregi czasowe](7-TimeSeries/README.md)  | Wprowadzenie do prognozowania szeregów czasowych                                                                             |                                             [Python](7-TimeSeries/1-Introduction/README.md)                                              |                      Francesca                       |
+|      22      | ⚡️ Zużycie energii na świecie ⚡️ - prognozowanie szeregów ARIMA|        [Szeregi czasowe](7-TimeSeries/README.md)  | Prognozowanie szeregów czasowych z użyciem ARIMA                                                                             |                                                 [Python](7-TimeSeries/2-ARIMA/README.md)                                                 |                      Francesca                       |
+|      23      |  ⚡️ Zużycie energii na świecie ⚡️ - prognozowanie z SVR       |        [Szeregi czasowe](7-TimeSeries/README.md)  | Prognozowanie szeregów czasowych z użyciem regresora wektorów nośnych (SVR)                                                 |                                                  [Python](7-TimeSeries/3-SVR/README.md)                                                  |                       Anirban                        |
+|      24      |             Wprowadzenie do uczenia ze wzmocnieniem            | [Uczenie ze wzmocnieniem](8-Reinforcement/README.md) | Wprowadzenie do uczenia ze wzmocnieniem z Q-Learning                                                                         |                                             [Python](8-Reinforcement/1-QLearning/README.md)                                              |                        Dmitry                        |
+|      25      |                 Pomóż Piotrowi uniknąć wilka! 🐺               | [Uczenie ze wzmocnieniem](8-Reinforcement/README.md) | Ćwiczenia z uczenia ze wzmocnieniem w środowisku Gym                                                                         |                                                [Python](8-Reinforcement/2-Gym/README.md)                                                 |                        Dmitry                        |
+|  Postscript  |            Scenariusze ML w rzeczywistym świecie               |      [ML w praktyce](9-Real-World/README.md)       | Ciekawe i znaczące zastosowania klasycznego ML w praktyce                                                                    |                                             [Lekcja](9-Real-World/1-Applications/README.md)                                              |                         Zespół                        |
+|  Postscript  |            Debugowanie modeli ML za pomocą panelu RAI          |      [ML w praktyce](9-Real-World/README.md)       | Debugowanie modeli uczenia maszynowego z wykorzystaniem komponentów panelu Responsible AI                                      |                                             [Lekcja](9-Real-World/2-Debugging-ML-Models/README.md)                                              |                         Ruth Yakubu                       |
 
 > [znajdź wszystkie dodatkowe zasoby do tego kursu w naszej kolekcji Microsoft Learn](https://learn.microsoft.com/en-us/collections/qrqzamz1nn2wx3?WT.mc_id=academic-77952-bethanycheum)
 
 ## Dostęp offline
 
-Możesz uruchomić tę dokumentację offline, używając [Docsify](https://docsify.js.org/#/). Sforkuj to repozytorium, [zainstaluj Docsify](https://docsify.js.org/#/quickstart) na swoim lokalnym komputerze, a następnie w głównym folderze tego repozytorium wpisz `docsify serve`. Strona zostanie uruchomiona na porcie 3000 na twoim localhost: `localhost:3000`.
+Możesz uruchomić tę dokumentację offline za pomocą [Docsify](https://docsify.js.org/#/). Sklonuj to repozytorium, [zainstaluj Docsify](https://docsify.js.org/#/quickstart) na swoim lokalnym komputerze, a następnie w głównym folderze repozytorium wpisz `docsify serve`. Strona będzie dostępna na porcie 3000 na twoim lokalnym hoście: `localhost:3000`.
 
-## Pliki PDF
+## PDF-y
 
-Znajdź pdf z programem nauczania z linkami [tutaj](https://microsoft.github.io/ML-For-Beginners/pdf/readme.pdf).
+Pobierz pdf programu nauczania z linkami [tutaj](https://microsoft.github.io/ML-For-Beginners/pdf/readme.pdf).
 
 
 ## 🎒 Inne kursy
@@ -188,8 +179,8 @@ Nasz zespół produkuje również inne kursy! Sprawdź:
 [![AI Agenci dla początkujących](https://img.shields.io/badge/AI%20Agents%20for%20Beginners-00C49A?style=for-the-badge&labelColor=E5E7EB&color=00C49A)](https://github.com/microsoft/ai-agents-for-beginners?WT.mc_id=academic-105485-koreyst)
 
 ---
- 
-### Seria Generatywnej AI
+
+### Seria Generative AI
 [![Generative AI for Beginners](https://img.shields.io/badge/Generative%20AI%20for%20Beginners-8B5CF6?style=for-the-badge&labelColor=E5E7EB&color=8B5CF6)](https://github.com/microsoft/generative-ai-for-beginners?WT.mc_id=academic-105485-koreyst)
 [![Generative AI (.NET)](https://img.shields.io/badge/Generative%20AI%20(.NET)-9333EA?style=for-the-badge&labelColor=E5E7EB&color=9333EA)](https://github.com/microsoft/Generative-AI-for-beginners-dotnet?WT.mc_id=academic-105485-koreyst)
 [![Generative AI (Java)](https://img.shields.io/badge/Generative%20AI%20(Java)-C084FC?style=for-the-badge&labelColor=E5E7EB&color=C084FC)](https://github.com/microsoft/generative-ai-for-beginners-java?WT.mc_id=academic-105485-koreyst)
@@ -216,11 +207,11 @@ Nasz zespół produkuje również inne kursy! Sprawdź:
 
 ## Uzyskiwanie pomocy
 
-Jeśli utkniesz lub masz pytania dotyczące tworzenia aplikacji AI. Dołącz do innych uczących się i doświadczonych programistów w dyskusjach na temat MCP. To wspierająca społeczność, gdzie pytania są mile widziane, a wiedza jest swobodnie dzielona.
+Jeśli utkniesz lub masz jakiekolwiek pytania dotyczące tworzenia aplikacji AI. Dołącz do innych uczących się i doświadczonych programistów w dyskusjach na temat MCP. To wspierająca społeczność, gdzie pytania są mile widziane, a wiedza jest swobodnie dzielona.
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
 
-Jeśli masz opinię na temat produktu lub napotkasz błędy podczas tworzenia, odwiedź:
+Jeśli masz uwagi dotyczące produktu lub napotkasz błędy podczas tworzenia, odwiedź:
 
 [![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 
@@ -228,5 +219,5 @@ Jeśli masz opinię na temat produktu lub napotkasz błędy podczas tworzenia, o
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **Zastrzeżenie**:
-Dokument ten został przetłumaczony przy użyciu usługi tłumaczeń AI [Co-op Translator](https://github.com/Azure/co-op-translator). Staramy się zapewnić dokładność, jednak prosimy mieć na uwadze, że tłumaczenia automatyczne mogą zawierać błędy lub nieścisłości. Oryginalny dokument w języku źródłowym powinien być traktowany jako źródło nadrzędne. W przypadku ważnych informacji zalecamy skorzystanie z profesjonalnego tłumaczenia wykonanego przez człowieka. Nie ponosimy odpowiedzialności za jakiekolwiek nieporozumienia lub błędne interpretacje wynikające z użycia tego tłumaczenia.
+Niniejszy dokument został przetłumaczony za pomocą usługi tłumaczenia AI [Co-op Translator](https://github.com/Azure/co-op-translator). Mimo że dążymy do dokładności, prosimy pamiętać, że tłumaczenia automatyczne mogą zawierać błędy lub niedokładności. Oryginalny dokument w języku źródłowym powinien być uznawany za oficjalne źródło. W przypadku informacji krytycznych zaleca się skorzystanie z profesjonalnego tłumaczenia wykonywanego przez człowieka. Nie ponosimy odpowiedzialności za jakiekolwiek nieporozumienia lub błędne interpretacje wynikające z korzystania z niniejszego tłumaczenia.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

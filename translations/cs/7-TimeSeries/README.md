@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-09-04T23:44:15+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "cs"
-}
--->
 # Úvod do předpovídání časových řad
 
 Co je předpovídání časových řad? Jde o předpovídání budoucích událostí na základě analýzy trendů z minulosti.

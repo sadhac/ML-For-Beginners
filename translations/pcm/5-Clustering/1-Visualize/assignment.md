@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "589fa015a5e7d9e67bd629f7d47b53de",
-  "translation_date": "2025-11-18T19:07:30+00:00",
-  "source_file": "5-Clustering/1-Visualize/assignment.md",
-  "language_code": "pcm"
-}
--->
 # Research other visualizations for clustering
 
 ## Instructions

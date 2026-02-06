@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "2efc4c2aba5ed06c780c05539c492ae3",
-  "translation_date": "2025-09-05T22:15:09+00:00",
-  "source_file": "6-NLP/2-Tasks/assignment.md",
-  "language_code": "no"
-}
--->
 # Få en bot til å svare tilbake
 
 ## Instruksjoner

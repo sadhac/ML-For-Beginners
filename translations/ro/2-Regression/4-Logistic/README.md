@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "abf86d845c84330bce205a46b382ec88",
-  "translation_date": "2025-09-05T15:18:34+00:00",
-  "source_file": "2-Regression/4-Logistic/README.md",
-  "language_code": "ro"
-}
--->
 # Regresie logistică pentru a prezice categorii
 
 ![Infografic despre regresia logistică vs. regresia liniară](../../../../2-Regression/4-Logistic/images/linear-vs-logistic.png)

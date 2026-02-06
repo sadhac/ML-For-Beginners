@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9a6b702d1437c0467e3c5c28d763dac2",
-  "translation_date": "2025-09-05T19:33:25+00:00",
-  "source_file": "1-Introduction/3-fairness/README.md",
-  "language_code": "ms"
-}
--->
 # Membina Penyelesaian Pembelajaran Mesin dengan AI yang Bertanggungjawab
 
 ![Ringkasan AI yang bertanggungjawab dalam Pembelajaran Mesin dalam bentuk sketchnote](../../../../sketchnotes/ml-fairness.png)

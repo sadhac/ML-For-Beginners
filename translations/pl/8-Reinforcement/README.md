@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-09-03T18:26:17+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "pl"
-}
--->
 # Wprowadzenie do uczenia ze wzmocnieniem
 
 Uczenie ze wzmocnieniem (RL) jest postrzegane jako jeden z podstawowych paradygmatów uczenia maszynowego, obok uczenia nadzorowanego i nienadzorowanego. RL dotyczy podejmowania decyzji: dostarczania właściwych decyzji lub przynajmniej uczenia się na ich podstawie.

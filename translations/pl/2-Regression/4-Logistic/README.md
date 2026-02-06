@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "abf86d845c84330bce205a46b382ec88",
-  "translation_date": "2025-09-05T08:11:46+00:00",
-  "source_file": "2-Regression/4-Logistic/README.md",
-  "language_code": "pl"
-}
--->
 # Regresja logistyczna do przewidywania kategorii
 
 ![Infografika: regresja logistyczna vs. regresja liniowa](../../../../2-Regression/4-Logistic/images/linear-vs-logistic.png)

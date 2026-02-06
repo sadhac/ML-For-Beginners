@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "49047911108adc49d605cddfb455749c",
-  "translation_date": "2025-09-05T18:21:44+00:00",
-  "source_file": "4-Classification/3-Classifiers-2/README.md",
-  "language_code": "tl"
-}
--->
 # Mga Classifier ng Lutuin 2
 
 Sa ikalawang aralin ng klasipikasyon na ito, mas marami kang matutuklasang paraan upang iklasipika ang numerikong datos. Malalaman mo rin ang mga epekto ng pagpili ng isang classifier kumpara sa iba.

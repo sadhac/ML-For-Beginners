@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-09-06T11:00:15+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "en"
-}
--->
 # Train Mountain Car
 
 [OpenAI Gym](http://gym.openai.com) is designed so that all environments share the same API—i.e., the same methods `reset`, `step`, and `render`, as well as the same abstractions for **action space** and **observation space**. This makes it possible to adapt the same reinforcement learning algorithms to different environments with minimal code changes.

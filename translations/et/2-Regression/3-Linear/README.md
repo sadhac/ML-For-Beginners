@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-10-11T11:46:03+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "et"
-}
--->
 # Ehita regressioonimudel Scikit-learniga: neli viisi regressiooniks
 
 ![Lineaarse ja polünoomse regressiooni infograafika](../../../../translated_images/et/linear-polynomial.5523c7cb6576ccab.webp)

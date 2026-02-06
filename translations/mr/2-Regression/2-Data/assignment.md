@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4485a1ed4dd1b5647365e3d87456515d",
-  "translation_date": "2025-08-29T16:55:50+00:00",
-  "source_file": "2-Regression/2-Data/assignment.md",
-  "language_code": "mr"
-}
--->
 # दृश्यांकनांचा अभ्यास
 
 डेटा दृश्यांकनासाठी अनेक वेगवेगळ्या लायब्ररी उपलब्ध आहेत. या धड्यातील Pumpkin डेटाचा वापर करून matplotlib आणि seaborn च्या सहाय्याने काही दृश्यांकन तयार करा एका नमुना नोटबुकमध्ये. कोणत्या लायब्ररीसह काम करणे सोपे आहे?

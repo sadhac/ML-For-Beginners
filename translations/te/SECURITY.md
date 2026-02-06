@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5e1b8da31aae9cca3d53ad243fa3365a",
-  "translation_date": "2025-12-19T12:44:27+00:00",
-  "source_file": "SECURITY.md",
-  "language_code": "te"
-}
--->
 ## భద్రత
 
 మైక్రోసాఫ్ట్ మా సాఫ్ట్‌వేర్ ఉత్పత్తులు మరియు సేవల భద్రతను గంభీరంగా తీసుకుంటుంది, దీనిలో మా GitHub సంస్థల ద్వారా నిర్వహించబడే అన్ని సోర్స్ కోడ్ రిపాజిటరీలు ఉన్నాయి, వీటిలో [Microsoft](https://github.com/Microsoft), [Azure](https://github.com/Azure), [DotNet](https://github.com/dotnet), [AspNet](https://github.com/aspnet), [Xamarin](https://github.com/xamarin), మరియు [మా GitHub సంస్థలు](https://opensource.microsoft.com/) ఉన్నాయి.

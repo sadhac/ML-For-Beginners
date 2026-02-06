@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "7cdd17338d9bbd7e2171c2cd462eb081",
-  "translation_date": "2025-09-06T08:49:43+00:00",
-  "source_file": "5-Clustering/2-K-Means/README.md",
-  "language_code": "ur"
-}
--->
 # کے-میینز کلسٹرنگ
 
 ## [پری لیکچر کوئز](https://ff-quizzes.netlify.app/en/ml/)

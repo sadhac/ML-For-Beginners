@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1c814013e10866dfd92cdb32caaae3ac",
-  "translation_date": "2025-09-05T11:57:15+00:00",
-  "source_file": "7-TimeSeries/2-ARIMA/assignment.md",
-  "language_code": "sl"
-}
--->
 # Nov ARIMA model
 
 ## Navodila

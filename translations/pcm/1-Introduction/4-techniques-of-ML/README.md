@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9d91f3af3758fdd4569fb410575995ef",
-  "translation_date": "2025-11-18T18:26:10+00:00",
-  "source_file": "1-Introduction/4-techniques-of-ML/README.md",
-  "language_code": "pcm"
-}
--->
 # Techniques of Machine Learning
 
 Di process wey dem dey use build, use, and maintain machine learning models and di data wey dem dey use no be di same as oda development workflows. For dis lesson, we go break di process down, and show di main techniques wey you need sabi. You go:

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61bdec27ed2da8b098cd9065405d9bb0",
-  "translation_date": "2025-09-05T08:25:16+00:00",
-  "source_file": "4-Classification/4-Applied/README.md",
-  "language_code": "pl"
-}
--->
 # Stwórz aplikację webową rekomendującą kuchnie
 
 W tej lekcji zbudujesz model klasyfikacyjny, korzystając z technik poznanych w poprzednich lekcjach oraz z pysznego zestawu danych o kuchniach, używanego w całej tej serii. Dodatkowo stworzysz małą aplikację webową, która wykorzysta zapisany model, korzystając z webowego środowiska uruchomieniowego Onnx.

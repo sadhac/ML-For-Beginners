@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6d130dffca5db70d7e615f926cb1ad4c",
-  "translation_date": "2025-09-05T13:02:37+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "my"
-}
--->
 # မေးခွန်းများ
 
 ဒီမေးခွန်းများက ML သင်ခန်းစာများအတွက် [https://aka.ms/ml-beginners](https://aka.ms/ml-beginners) မှာရှိတဲ့ သင်ခန်းစာမတိုင်မီနှင့် သင်ခန်းစာပြီးနောက် မေးခွန်းများဖြစ်ပါတယ်။

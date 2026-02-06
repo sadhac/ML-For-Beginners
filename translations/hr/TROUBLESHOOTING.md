@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "134d8759f0e2ab886e9aa4f62362c201",
-  "translation_date": "2025-10-03T12:55:42+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "hr"
-}
--->
 # Vodič za rješavanje problema
 
 Ovaj vodič pomaže u rješavanju uobičajenih problema pri radu s kurikulumom "Strojno učenje za početnike". Ako ovdje ne pronađete rješenje, provjerite naše [Discord rasprave](https://aka.ms/foundry/discord) ili [otvorite problem](https://github.com/microsoft/ML-For-Beginners/issues).

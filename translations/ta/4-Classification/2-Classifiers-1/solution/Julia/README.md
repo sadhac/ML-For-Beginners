@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a39c15d63f3b2795ee2284a82b986b93",
-  "translation_date": "2025-10-11T11:54:56+00:00",
-  "source_file": "4-Classification/2-Classifiers-1/solution/Julia/README.md",
-  "language_code": "ta"
-}
--->
 இது ஒரு தற்காலிக இடத்தொகுப்பு
 
 ---

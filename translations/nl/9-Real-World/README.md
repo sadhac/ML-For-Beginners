@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5e069a0ac02a9606a69946c2b3c574a9",
-  "translation_date": "2025-09-05T19:20:35+00:00",
-  "source_file": "9-Real-World/README.md",
-  "language_code": "nl"
-}
--->
 # Nawoord: Toepassingen van klassieke machine learning in de echte wereld
 
 In dit deel van de cursus maak je kennis met enkele toepassingen van klassieke ML in de echte wereld. We hebben het internet afgespeurd om whitepapers en artikelen te vinden over toepassingen die deze strategieën gebruiken, waarbij we neural networks, deep learning en AI zoveel mogelijk hebben vermeden. Ontdek hoe ML wordt gebruikt in bedrijfsprocessen, ecologische toepassingen, financiën, kunst en cultuur, en meer.

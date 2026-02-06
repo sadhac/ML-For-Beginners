@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9d91f3af3758fdd4569fb410575995ef",
-  "translation_date": "2025-09-05T00:28:39+00:00",
-  "source_file": "1-Introduction/4-techniques-of-ML/README.md",
-  "language_code": "fi"
-}
--->
 # Koneoppimisen tekniikat
 
 Koneoppimismallien ja niiden käyttämän datan rakentaminen, käyttäminen ja ylläpito eroaa merkittävästi monista muista kehitysprosesseista. Tässä oppitunnissa selvitämme prosessin ja hahmotamme tärkeimmät tekniikat, jotka sinun tulee hallita. Opit:

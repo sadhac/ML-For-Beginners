@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9836ff53cfef716ddfd70e06c5f43436",
-  "translation_date": "2025-09-03T17:53:23+00:00",
-  "source_file": "3-Web-App/README.md",
-  "language_code": "pl"
-}
--->
 # Zbuduj aplikację webową wykorzystującą Twój model ML
 
 W tej części programu nauczania zostaniesz wprowadzony w praktyczny temat związany z uczeniem maszynowym: jak zapisać model Scikit-learn jako plik, który może być używany do przewidywań w aplikacji webowej. Po zapisaniu modelu nauczysz się, jak wykorzystać go w aplikacji webowej zbudowanej w Flask. Najpierw stworzysz model, korzystając z danych dotyczących obserwacji UFO! Następnie zbudujesz aplikację webową, która pozwoli Ci wprowadzić liczbę sekund, szerokość geograficzną i długość geograficzną, aby przewidzieć, który kraj zgłosił obserwację UFO.

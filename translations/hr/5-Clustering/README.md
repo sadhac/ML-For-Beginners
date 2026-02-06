@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-09-05T12:08:35+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "hr"
-}
--->
 # Modeli grupiranja za strojno učenje
 
 Grupiranje je zadatak strojnog učenja koji nastoji pronaći objekte koji su slični jedni drugima i grupirati ih u skupine koje nazivamo klasterima. Ono što razlikuje grupiranje od drugih pristupa u strojnome učenju jest činjenica da se proces odvija automatski; zapravo, može se reći da je to suprotnost nadziranom učenju.

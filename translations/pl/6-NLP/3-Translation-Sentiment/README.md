@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "be03c8182982b87ced155e4e9d1438e8",
-  "translation_date": "2025-09-05T08:32:21+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/README.md",
-  "language_code": "pl"
-}
--->
 # Tłumaczenie i analiza sentymentu za pomocą ML
 
 W poprzednich lekcjach nauczyłeś się, jak zbudować podstawowego bota używając `TextBlob`, biblioteki, która wykorzystuje uczenie maszynowe w tle do wykonywania podstawowych zadań NLP, takich jak ekstrakcja fraz rzeczownikowych. Kolejnym ważnym wyzwaniem w lingwistyce komputerowej jest dokładne _tłumaczenie_ zdania z jednego języka mówionego lub pisanego na inny.

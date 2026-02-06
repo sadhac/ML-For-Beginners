@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61bdec27ed2da8b098cd9065405d9bb0",
-  "translation_date": "2025-09-06T07:59:41+00:00",
-  "source_file": "4-Classification/4-Applied/README.md",
-  "language_code": "tr"
-}
--->
 # Bir Mutfak Tavsiye Web Uygulaması Oluşturun
 
 Bu derste, önceki derslerde öğrendiğiniz bazı teknikleri kullanarak ve bu seride kullanılan lezzetli mutfak veri setiyle bir sınıflandırma modeli oluşturacaksınız. Ayrıca, kaydedilmiş bir modeli kullanmak için Onnx'in web çalışma zamanını kullanarak küçük bir web uygulaması geliştireceksiniz.

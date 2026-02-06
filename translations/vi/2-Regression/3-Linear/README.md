@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-05T18:40:03+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "vi"
-}
--->
 # Xây dựng mô hình hồi quy sử dụng Scikit-learn: hồi quy theo bốn cách
 
 ![Đồ họa thông tin hồi quy tuyến tính và đa thức](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -114,11 +105,11 @@ Bây giờ bạn đã hiểu toán học đằng sau hồi quy tuyến tính, h�
 
 Từ bài học trước, bạn có thể đã thấy rằng giá trung bình cho các tháng khác nhau trông như thế này:
 
-<img alt="Giá trung bình theo tháng" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="Giá trung bình theo tháng" src="../../../../translated_images/vi/barchart.a833ea9194346d76.webp" width="50%"/>
 
 Điều này gợi ý rằng có thể có một số tương quan, và chúng ta có thể thử huấn luyện mô hình hồi quy tuyến tính để dự đoán mối quan hệ giữa `Tháng` và `Giá`, hoặc giữa `NgàyTrongNăm` và `Giá`. Đây là biểu đồ phân tán cho thấy mối quan hệ sau:
 
-<img alt="Biểu đồ phân tán Giá vs. Ngày trong Năm" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="Biểu đồ phân tán Giá vs. Ngày trong Năm" src="../../../../translated_images/vi/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 Hãy xem liệu có tương quan nào không bằng cách sử dụng hàm `corr`:
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="Biểu đồ phân tán Giá vs. Ngày trong Năm" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="Biểu đồ phân tán Giá vs. Ngày trong Năm" src="../../../../translated_images/vi/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 Cuộc điều tra của chúng ta gợi ý rằng loại bí ngô có ảnh hưởng lớn hơn đến giá tổng thể so với ngày bán thực tế. Chúng ta có thể thấy điều này với biểu đồ cột:
 
@@ -145,7 +136,7 @@ Cuộc điều tra của chúng ta gợi ý rằng loại bí ngô có ảnh hư
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="Biểu đồ cột giá vs loại bí ngô" src="images/price-by-variety.png" width="50%" /> 
+<img alt="Biểu đồ cột giá vs loại bí ngô" src="../../../../translated_images/vi/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 Hãy tập trung vào một loại bí ngô, loại 'pie type', và xem ngày bán có ảnh hưởng gì đến giá:
 
@@ -153,7 +144,7 @@ Hãy tập trung vào một loại bí ngô, loại 'pie type', và xem ngày b�
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="Biểu đồ phân tán Giá vs. Ngày trong Năm" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="Biểu đồ phân tán Giá vs. Ngày trong Năm" src="../../../../translated_images/vi/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 Nếu bây giờ chúng ta tính toán tương quan giữa `Giá` và `NgàyTrongNăm` bằng cách sử dụng hàm `corr`, chúng ta sẽ nhận được giá trị khoảng `-0.27` - điều này có nghĩa là việc huấn luyện một mô hình dự đoán là hợp lý.
 
@@ -227,7 +218,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```
 
-<img alt="Hồi quy tuyến tính" src="images/linear-results.png" width="50%" />
+<img alt="Hồi quy tuyến tính" src="../../../../translated_images/vi/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## Hồi quy đa thức
 
@@ -256,7 +247,7 @@ Sử dụng `PolynomialFeatures(2)` có nghĩa là chúng ta sẽ bao gồm tấ
 
 Pipeline có thể được sử dụng theo cách tương tự như đối tượng `LinearRegression` ban đầu, tức là chúng ta có thể `fit` pipeline, sau đó sử dụng `predict` để nhận kết quả dự đoán. Đây là biểu đồ hiển thị dữ liệu kiểm tra và đường cong xấp xỉ:
 
-<img alt="Hồi quy đa thức" src="images/poly-results.png" width="50%" />
+<img alt="Hồi quy đa thức" src="../../../../translated_images/vi/poly-results.ee587348f0f1f60b.webp" width="50%" />
 
 Sử dụng hồi quy đa thức, chúng ta có thể đạt được MSE thấp hơn một chút và hệ số xác định cao hơn, nhưng không đáng kể. Chúng ta cần xem xét các đặc trưng khác!
 
@@ -274,7 +265,7 @@ Trong thế giới lý tưởng, chúng ta muốn có thể dự đoán giá cho
 
 Dưới đây là cách giá trung bình phụ thuộc vào loại bí ngô:
 
-<img alt="Giá trung bình theo loại" src="images/price-by-variety.png" width="50%" />
+<img alt="Giá trung bình theo loại" src="../../../../translated_images/vi/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 Để đưa loại bí ngô vào mô hình, trước tiên chúng ta cần chuyển đổi nó sang dạng số, hoặc **mã hóa**. Có một số cách để thực hiện:
 

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-09-04T00:13:30+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "fr"
-}
--->
 # Introduction à l'apprentissage par renforcement
 
 L'apprentissage par renforcement, ou RL, est considéré comme l'un des paradigmes fondamentaux de l'apprentissage automatique, aux côtés de l'apprentissage supervisé et non supervisé. Le RL concerne les décisions : prendre les bonnes décisions ou, à défaut, apprendre de celles-ci.

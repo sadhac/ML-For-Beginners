@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-09-03T22:56:08+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "es"
-}
--->
 # Modelos de agrupamiento para aprendizaje automático
 
 El agrupamiento es una tarea de aprendizaje automático que busca encontrar objetos que se asemejen entre sí y agruparlos en grupos llamados clústeres. Lo que diferencia el agrupamiento de otros enfoques en el aprendizaje automático es que todo sucede automáticamente; de hecho, es justo decir que es lo opuesto al aprendizaje supervisado.

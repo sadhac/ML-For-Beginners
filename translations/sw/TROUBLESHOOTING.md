@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "134d8759f0e2ab886e9aa4f62362c201",
-  "translation_date": "2025-10-03T12:52:10+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "sw"
-}
--->
 # Mwongozo wa Kutatua Shida
 
 Mwongozo huu utakusaidia kutatua matatizo ya kawaida unayoweza kukutana nayo unapofanya kazi na mtaala wa Kujifunza Mashine kwa Kompyuta za Kuanza. Ikiwa huwezi kupata suluhisho hapa, tafadhali angalia [Majadiliano ya Discord](https://aka.ms/foundry/discord) au [fungua suala](https://github.com/microsoft/ML-For-Beginners/issues).

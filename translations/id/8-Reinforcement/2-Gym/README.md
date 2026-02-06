@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "107d5bb29da8a562e7ae72262d251a75",
-  "translation_date": "2025-09-05T20:21:26+00:00",
-  "source_file": "8-Reinforcement/2-Gym/README.md",
-  "language_code": "id"
-}
--->
 ## Prasyarat
 
 Dalam pelajaran ini, kita akan menggunakan pustaka bernama **OpenAI Gym** untuk mensimulasikan berbagai **lingkungan**. Anda dapat menjalankan kode pelajaran ini secara lokal (misalnya dari Visual Studio Code), di mana simulasi akan terbuka di jendela baru. Saat menjalankan kode secara online, Anda mungkin perlu melakukan beberapa penyesuaian pada kode, seperti yang dijelaskan [di sini](https://towardsdatascience.com/rendering-openai-gym-envs-on-binder-and-google-colab-536f99391cc7).

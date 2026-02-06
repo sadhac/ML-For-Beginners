@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-12-19T15:58:16+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "ml"
-}
--->
 # Support Vector Regressor ഉപയോഗിച്ച് ടൈം സീരീസ് പ്രവചനം
 
 മുൻപത്തെ പാഠത്തിൽ, ടൈം സീരീസ് പ്രവചനങ്ങൾ നടത്താൻ ARIMA മോഡൽ എങ്ങനെ ഉപയോഗിക്കാമെന്ന് നിങ്ങൾ പഠിച്ചു. ഇപ്പോൾ നിങ്ങൾ തുടർച്ചയായ ഡാറ്റ പ്രവചിക്കാൻ ഉപയോഗിക്കുന്ന ഒരു റെഗ്രസർ മോഡലായ Support Vector Regressor മോഡലിനെക്കുറിച്ച് നോക്കാൻ പോകുന്നു.

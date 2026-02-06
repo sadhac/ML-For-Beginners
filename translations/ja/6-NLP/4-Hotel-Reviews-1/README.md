@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "8d32dadeda93c6fb5c43619854882ab1",
-  "translation_date": "2025-09-06T09:40:57+00:00",
-  "source_file": "6-NLP/4-Hotel-Reviews-1/README.md",
-  "language_code": "ja"
-}
--->
 # ホテルレビューによる感情分析 - データの処理
 
 このセクションでは、前のレッスンで学んだ技術を使って、大規模なデータセットの探索的データ分析を行います。各列の有用性を十分に理解した後、以下を学びます：

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b2a01912beb24cfb0007f83594dba801",
-  "translation_date": "2025-10-11T11:56:02+00:00",
-  "source_file": "4-Classification/1-Introduction/assignment.md",
-  "language_code": "ta"
-}
--->
 # வகைப்பாட்டுக் குறிப்புகளை ஆராயுங்கள்
 
 ## வழிமுறைகள்

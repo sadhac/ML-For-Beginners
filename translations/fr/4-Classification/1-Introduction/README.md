@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "aaf391d922bd6de5efba871d514c6d47",
-  "translation_date": "2025-09-04T23:03:45+00:00",
-  "source_file": "4-Classification/1-Introduction/README.md",
-  "language_code": "fr"
-}
--->
 # Introduction à la classification
 
 Dans ces quatre leçons, vous allez explorer un aspect fondamental de l'apprentissage automatique classique : _la classification_. Nous allons examiner l'utilisation de divers algorithmes de classification avec un ensemble de données sur les cuisines brillantes d'Asie et d'Inde. Préparez-vous à avoir l'eau à la bouche !

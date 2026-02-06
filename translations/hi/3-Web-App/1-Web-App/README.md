@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e0b75f73e4a90d45181dc5581fe2ef5c",
-  "translation_date": "2025-09-05T10:25:48+00:00",
-  "source_file": "3-Web-App/1-Web-App/README.md",
-  "language_code": "hi"
-}
--->
 # वेब ऐप बनाएं जो ML मॉडल का उपयोग करे
 
 इस पाठ में, आप एक डेटा सेट पर ML मॉडल को प्रशिक्षित करेंगे जो अद्भुत है: _पिछली सदी में UFO देखे जाने की घटनाएं_, जो NUFORC के डेटाबेस से ली गई हैं।

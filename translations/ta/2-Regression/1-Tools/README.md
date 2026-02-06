@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fa81d226c71d5af7a2cade31c1c92b88",
-  "translation_date": "2025-10-11T11:43:13+00:00",
-  "source_file": "2-Regression/1-Tools/README.md",
-  "language_code": "ta"
-}
--->
 # Python மற்றும் Scikit-learn மூலம் Regression மாடல்களை உருவாக்க தொடங்குங்கள்
 
 ![Regression மாடல்களின் சுருக்கம் sketchnote வடிவில்](../../../../translated_images/ta/ml-regression.4e4f70e3b3ed446e.webp)

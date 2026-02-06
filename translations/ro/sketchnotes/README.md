@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a88d5918c1b9da69a40d917a0840c497",
-  "translation_date": "2025-09-05T16:28:32+00:00",
-  "source_file": "sketchnotes/README.md",
-  "language_code": "ro"
-}
--->
 Toate notițele vizuale ale curriculumului pot fi descărcate de aici.
 
 🖨 Pentru imprimare la rezoluție înaltă, versiunile TIFF sunt disponibile la [acest repo](https://github.com/girliemac/a-picture-is-worth-a-1000-words/tree/main/ml/tiff).

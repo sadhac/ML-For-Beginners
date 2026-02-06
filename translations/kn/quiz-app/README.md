@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6d130dffca5db70d7e615f926cb1ad4c",
-  "translation_date": "2025-12-19T13:01:43+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "kn"
-}
--->
 # ಪ್ರಶ್ನೋತ್ತರಗಳು
 
 ಈ ಪ್ರಶ್ನೋತ್ತರಗಳು https://aka.ms/ml-beginners ನಲ್ಲಿ ML ಪಠ್ಯಕ್ರಮದ ಪೂರ್ವ ಮತ್ತು ನಂತರದ ಪ್ರಶ್ನೋತ್ತರಗಳಾಗಿವೆ

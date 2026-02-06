@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9d91f3af3758fdd4569fb410575995ef",
-  "translation_date": "2025-09-05T16:02:46+00:00",
-  "source_file": "1-Introduction/4-techniques-of-ML/README.md",
-  "language_code": "sw"
-}
--->
 # Mbinu za Kujifunza Mashine
 
 Mchakato wa kujenga, kutumia, na kudumisha mifano ya kujifunza mashine na data wanayotumia ni tofauti sana na mchakato wa maendeleo mengine. Katika somo hili, tutafafanua mchakato huo na kuelezea mbinu kuu unazohitaji kujua. Utajifunza:

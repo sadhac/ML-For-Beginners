@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "662b509c39eee205687726636d0a8455",
-  "translation_date": "2025-12-19T16:02:50+00:00",
-  "source_file": "7-TimeSeries/1-Introduction/README.md",
-  "language_code": "te"
-}
--->
 # టైమ్ సిరీస్ ఫోర్కాస్టింగ్ పరిచయం
 
 ![స్కెచ్ నోట్‌లో టైమ్ సిరీస్ సారాంశం](../../../../translated_images/te/ml-timeseries.fb98d25f1013fc0c.webp)

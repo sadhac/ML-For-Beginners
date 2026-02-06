@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-09-05T16:35:13+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "sw"
-}
--->
 # Utangulizi wa kujifunza kwa kuimarisha
 
 Kujifunza kwa kuimarisha, RL, huchukuliwa kama mojawapo ya mifumo ya msingi ya kujifunza kwa mashine, sambamba na kujifunza kwa kusimamiwa na kujifunza bila kusimamiwa. RL inahusu maamuzi: kufanya maamuzi sahihi au angalau kujifunza kutoka kwa maamuzi hayo.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "911efd5e595089000cb3c16fce1beab8",
-  "translation_date": "2025-09-04T21:13:21+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/README.md",
-  "language_code": "bn"
-}
--->
 # রিইনফোর্সমেন্ট লার্নিং এবং কিউ-লার্নিং এর পরিচিতি
 
 ![মেশিন লার্নিং-এ রিইনফোর্সমেন্টের সারাংশ একটি স্কেচনোটে](../../../../sketchnotes/ml-reinforcement.png)

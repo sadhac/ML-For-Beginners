@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "68394b2102d3503882e5e914bd0ff5c1",
-  "translation_date": "2025-09-05T16:42:48+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/assignment.md",
-  "language_code": "sw"
-}
--->
 # Dunia Halisi Zaidi
 
 Katika hali yetu, Peter aliweza kusafiri karibu bila kuchoka au kuhisi njaa. Katika dunia halisi zaidi, anapaswa kukaa chini na kupumzika mara kwa mara, na pia kujilisha. Hebu tufanye dunia yetu iwe halisi zaidi kwa kutekeleza sheria zifuatazo:

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "8d32dadeda93c6fb5c43619854882ab1",
-  "translation_date": "2025-10-11T11:35:04+00:00",
-  "source_file": "6-NLP/4-Hotel-Reviews-1/README.md",
-  "language_code": "et"
-}
--->
 # Sentimentianalüüs hotelliarvustustega - andmete töötlemine
 
 Selles osas kasutad eelmistes tundides õpitud tehnikaid, et teha suure andmestiku uurivat andmeanalüüsi. Kui oled saanud hea ülevaate erinevate veergude kasulikkusest, õpid:

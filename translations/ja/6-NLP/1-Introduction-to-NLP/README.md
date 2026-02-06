@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1c2ec40cf55c98a028a359c27ef7e45a",
-  "translation_date": "2025-09-06T09:42:06+00:00",
-  "source_file": "6-NLP/1-Introduction-to-NLP/README.md",
-  "language_code": "ja"
-}
--->
 # 自然言語処理の紹介
 
 このレッスンでは、*計算言語学*の一分野である*自然言語処理*の簡単な歴史と重要な概念について学びます。

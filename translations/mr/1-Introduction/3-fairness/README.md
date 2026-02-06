@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9a6b702d1437c0467e3c5c28d763dac2",
-  "translation_date": "2025-09-06T06:12:57+00:00",
-  "source_file": "1-Introduction/3-fairness/README.md",
-  "language_code": "mr"
-}
--->
 # मशीन लर्निंगसह जबाबदार AI उपाय तयार करणे
 
 ![मशीन लर्निंगमधील जबाबदार AI चा सारांश एका स्केच नोटमध्ये](../../../../sketchnotes/ml-fairness.png)

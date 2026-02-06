@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-09-03T16:45:57+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "pl"
-}
--->
 # Wprowadzenie do prognozowania szeregów czasowych
 
 Czym jest prognozowanie szeregów czasowych? Chodzi o przewidywanie przyszłych zdarzeń poprzez analizę trendów z przeszłości.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5f3cb462e3122e1afe7ab0050ccf2bd3",
-  "translation_date": "2025-09-05T01:21:54+00:00",
-  "source_file": "6-NLP/2-Tasks/README.md",
-  "language_code": "da"
-}
--->
 # Almindelige opgaver og teknikker inden for naturlig sprogbehandling
 
 For de fleste *naturlig sprogbehandling*-opgaver skal teksten, der skal behandles, opdeles, analyseres, og resultaterne gemmes eller krydsrefereres med regler og datasæt. Disse opgaver gør det muligt for programmøren at udlede _betydningen_ eller _intentionen_ eller blot _frekvensen_ af termer og ord i en tekst.

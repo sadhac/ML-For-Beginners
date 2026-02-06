@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "83320d6b6994909e35d830cebf214039",
-  "translation_date": "2025-09-05T00:09:28+00:00",
-  "source_file": "9-Real-World/1-Applications/README.md",
-  "language_code": "bg"
-}
--->
 # Постскриптум: Машинно обучение в реалния свят
 
 ![Обобщение на машинното обучение в реалния свят в скица](../../../../sketchnotes/ml-realworld.png)

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a39c15d63f3b2795ee2284a82b986b93",
-  "translation_date": "2025-09-03T16:41:09+00:00",
-  "source_file": "2-Regression/1-Tools/solution/Julia/README.md",
-  "language_code": "pl"
-}
--->
 
 
 ---

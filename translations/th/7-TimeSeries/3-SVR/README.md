@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-09-05T21:23:03+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "th"
-}
--->
 # การพยากรณ์ข้อมูลอนุกรมเวลาด้วย Support Vector Regressor
 
 ในบทเรียนก่อนหน้านี้ คุณได้เรียนรู้วิธีใช้โมเดล ARIMA เพื่อทำการพยากรณ์ข้อมูลอนุกรมเวลา ในบทนี้ คุณจะได้เรียนรู้เกี่ยวกับโมเดล Support Vector Regressor ซึ่งเป็นโมเดลสำหรับการพยากรณ์ข้อมูลแบบต่อเนื่อง

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-06T07:44:07+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "tr"
-}
--->
 # Scikit-learn ile regresyon modeli oluşturma: dört farklı regresyon yöntemi
 
 ![Doğrusal ve polinomial regresyon infografiği](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -114,11 +105,11 @@ Artık doğrusal regresyonun arkasındaki matematiği anladığınıza göre, bi
 
 Önceki dersten muhtemelen farklı aylar için ortalama fiyatın şu şekilde göründüğünü gördünüz:
 
-<img alt="Ay bazında ortalama fiyat" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="Ay bazında ortalama fiyat" src="../../../../translated_images/tr/barchart.a833ea9194346d76.webp" width="50%"/>
 
 Bu, bir korelasyon olması gerektiğini ve `Ay` ile `Fiyat` veya `YılınGünü` ile `Fiyat` arasındaki ilişkiyi tahmin etmek için doğrusal regresyon modeli eğitmeye çalışabileceğimizi gösteriyor. İşte ikinci ilişkiyi gösteren saçılım grafiği:
 
-<img alt="Fiyat vs. Yılın Günü saçılım grafiği" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="Fiyat vs. Yılın Günü saçılım grafiği" src="../../../../translated_images/tr/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 `corr` fonksiyonunu kullanarak bir korelasyon olup olmadığını görelim:
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="Fiyat vs. Yılın Günü saçılım grafiği" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="Fiyat vs. Yılın Günü saçılım grafiği" src="../../../../translated_images/tr/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 Araştırmamız, çeşidin genel fiyat üzerinde satış tarihinden daha fazla etkisi olduğunu öne sürüyor. Bunu bir çubuk grafikle görebiliriz:
 
@@ -145,7 +136,7 @@ Araştırmamız, çeşidin genel fiyat üzerinde satış tarihinden daha fazla e
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="Çeşide göre fiyat çubuk grafiği" src="images/price-by-variety.png" width="50%" /> 
+<img alt="Çeşide göre fiyat çubuk grafiği" src="../../../../translated_images/tr/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 Şimdi bir süreliğine yalnızca bir kabak çeşidine, 'pie type' çeşidine odaklanalım ve tarihin fiyat üzerindeki etkisini görelim:
 
@@ -153,7 +144,7 @@ new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="Fiyat vs. Yılın Günü saçılım grafiği" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="Fiyat vs. Yılın Günü saçılım grafiği" src="../../../../translated_images/tr/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 Şimdi `corr` fonksiyonunu kullanarak `Fiyat` ile `YılınGünü` arasındaki korelasyonu hesaplasak, yaklaşık `-0.27` gibi bir değer elde ederiz - bu da tahmin edici bir model eğitmenin mantıklı olduğunu gösterir.
 
@@ -227,7 +218,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```
 
-<img alt="Doğrusal regresyon" src="images/linear-results.png" width="50%" />
+<img alt="Doğrusal regresyon" src="../../../../translated_images/tr/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## Polinom Regresyon
 
@@ -256,7 +247,7 @@ pipeline.fit(X_train,y_train)
 
 Pipeline'lar, orijinal `LinearRegression` nesnesi gibi kullanılabilir, yani pipeline'ı `fit` edebilir ve ardından tahmin sonuçlarını almak için `predict` kullanabiliriz. İşte test verilerini ve yaklaşık eğriyi gösteren grafik:
 
-<img alt="Polinom regresyon" src="images/poly-results.png" width="50%" />
+<img alt="Polinom regresyon" src="../../../../translated_images/tr/poly-results.ee587348f0f1f60b.webp" width="50%" />
 
 Polinom Regresyon kullanarak biraz daha düşük MSE ve daha yüksek determinasyon elde edebiliriz, ancak fark çok büyük değil. Diğer özellikleri de dikkate almamız gerekiyor!
 
@@ -274,7 +265,7 @@ Polinom Regresyon kullanarak biraz daha düşük MSE ve daha yüksek determinasy
 
 Burada ortalama fiyatın çeşitliliğe bağlı olarak nasıl değiştiğini görebilirsiniz:
 
-<img alt="Çeşide göre ortalama fiyat" src="images/price-by-variety.png" width="50%" />
+<img alt="Çeşide göre ortalama fiyat" src="../../../../translated_images/tr/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 Çeşidi dikkate almak için önce bunu sayısal bir forma dönüştürmemiz, yani **kodlamamız** gerekir. Bunu yapmanın birkaç yolu vardır:
 

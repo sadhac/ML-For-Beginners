@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fba3b94d88bfb9b81369b869a1e9a20f",
-  "translation_date": "2025-09-05T01:00:24+00:00",
-  "source_file": "sketchnotes/LICENSE.md",
-  "language_code": "da"
-}
--->
 Rettigheder, så licenserer du den resulterende database under de samme betingelser som denne offentlige licens;
 
   c. du må ikke tilbyde eller pålægge yderligere eller forskellige vilkår eller betingelser for, eller anvende Effektive Teknologiske Foranstaltninger på, den licenserede database, der begrænser udøvelsen af de rettigheder, der er givet under denne offentlige licens; og

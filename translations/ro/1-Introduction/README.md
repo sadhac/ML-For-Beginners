@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cf8ecc83f28e5b98051d2179eca08e08",
-  "translation_date": "2025-09-05T15:58:07+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "ro"
-}
--->
 # Introducere în învățarea automată
 
 În această secțiune a curriculumului, vei fi introdus în conceptele de bază care stau la baza domeniului învățării automate, ce reprezintă acesta, și vei afla despre istoria sa și tehnicile pe care cercetătorii le folosesc pentru a lucra cu el. Hai să explorăm împreună această lume nouă a ML!

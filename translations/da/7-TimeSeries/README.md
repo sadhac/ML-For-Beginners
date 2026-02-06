@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-09-04T23:44:24+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "da"
-}
--->
 # Introduktion til tidsserieforudsigelse
 
 Hvad er tidsserieforudsigelse? Det handler om at forudsige fremtidige begivenheder ved at analysere tidligere tendenser.

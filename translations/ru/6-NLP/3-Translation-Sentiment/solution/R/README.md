@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "81db6ff2cf6e62fbe2340b094bb9509e",
-  "translation_date": "2025-08-29T22:38:45+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/solution/R/README.md",
-  "language_code": "ru"
-}
--->
 
 
 ---

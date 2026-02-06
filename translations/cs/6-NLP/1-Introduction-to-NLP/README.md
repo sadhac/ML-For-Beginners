@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1c2ec40cf55c98a028a359c27ef7e45a",
-  "translation_date": "2025-09-05T01:34:17+00:00",
-  "source_file": "6-NLP/1-Introduction-to-NLP/README.md",
-  "language_code": "cs"
-}
--->
 # Úvod do zpracování přirozeného jazyka
 
 Tato lekce se zabývá stručnou historií a důležitými koncepty *zpracování přirozeného jazyka*, což je podoblast *počítačové lingvistiky*.

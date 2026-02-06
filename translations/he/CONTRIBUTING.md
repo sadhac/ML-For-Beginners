@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "977ec5266dfd78ad1ce2bd8d46fccbda",
-  "translation_date": "2025-09-05T18:34:36+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "he"
-}
--->
 # תרומה
 
 הפרויקט הזה מקבל בברכה תרומות והצעות. רוב התרומות דורשות ממך להסכים להסכם רישיון תורם (CLA) שמצהיר שיש לך את הזכות, ואתה אכן מעניק לנו את הזכויות להשתמש בתרומתך. לפרטים נוספים, בקר בכתובת https://cla.microsoft.com.

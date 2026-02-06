@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1a6e9e46b34a2e559fbbfc1f95397c7b",
-  "translation_date": "2025-09-05T10:50:49+00:00",
-  "source_file": "4-Classification/2-Classifiers-1/README.md",
-  "language_code": "ko"
-}
--->
 # 요리 분류기 1
 
 이 강의에서는 이전 강의에서 저장한 균형 잡히고 깨끗한 요리 데이터셋을 사용합니다.

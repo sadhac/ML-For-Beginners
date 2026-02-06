@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "107d5bb29da8a562e7ae72262d251a75",
-  "translation_date": "2025-09-05T22:08:02+00:00",
-  "source_file": "8-Reinforcement/2-Gym/README.md",
-  "language_code": "th"
-}
--->
 ## ข้อกำหนดเบื้องต้น
 
 ในบทเรียนนี้ เราจะใช้ไลบรารีที่เรียกว่า **OpenAI Gym** เพื่อจำลอง **สภาพแวดล้อม** ต่างๆ คุณสามารถรันโค้ดของบทเรียนนี้ในเครื่องของคุณเอง (เช่น จาก Visual Studio Code) ซึ่งการจำลองจะเปิดในหน้าต่างใหม่ หากคุณรันโค้ดออนไลน์ คุณอาจต้องปรับแต่งโค้ดเล็กน้อยตามที่อธิบายไว้ [ที่นี่](https://towardsdatascience.com/rendering-openai-gym-envs-on-binder-and-google-colab-536f99391cc7)

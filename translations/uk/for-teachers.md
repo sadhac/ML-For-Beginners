@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b37de02054fa6c0438ede6fabe1fdfb8",
-  "translation_date": "2025-09-05T11:23:54+00:00",
-  "source_file": "for-teachers.md",
-  "language_code": "uk"
-}
--->
 ## Для викладачів
 
 Хочете використовувати цей навчальний матеріал у своєму класі? Будь ласка, не соромтеся!

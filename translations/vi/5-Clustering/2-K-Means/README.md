@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "7cdd17338d9bbd7e2171c2cd462eb081",
-  "translation_date": "2025-09-05T19:17:36+00:00",
-  "source_file": "5-Clustering/2-K-Means/README.md",
-  "language_code": "vi"
-}
--->
 # Phân cụm K-Means
 
 ## [Câu hỏi trước bài học](https://ff-quizzes.netlify.app/en/ml/)

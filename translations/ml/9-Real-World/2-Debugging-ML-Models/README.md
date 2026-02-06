@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "df2b538e8fbb3e91cf0419ae2f858675",
-  "translation_date": "2025-12-19T15:12:16+00:00",
-  "source_file": "9-Real-World/2-Debugging-ML-Models/README.md",
-  "language_code": "ml"
-}
--->
 # പോസ്റ്റ്‌സ്‌ക്രിപ്റ്റ്: ഉത്തരവാദിത്വമുള്ള AI ഡാഷ്ബോർഡ് ഘടകങ്ങൾ ഉപയോഗിച്ച് മെഷീൻ ലേണിങ്ങിൽ മോഡൽ ഡീബഗ്ഗിംഗ്
 
 ## [പ്രീ-ലെക്ചർ ക്വിസ്](https://ff-quizzes.netlify.app/en/ml/)

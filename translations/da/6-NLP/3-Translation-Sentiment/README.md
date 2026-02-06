@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "be03c8182982b87ced155e4e9d1438e8",
-  "translation_date": "2025-09-05T01:38:40+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/README.md",
-  "language_code": "da"
-}
--->
 # Oversættelse og sentimentanalyse med ML
 
 I de tidligere lektioner lærte du, hvordan man bygger en grundlæggende bot ved hjælp af `TextBlob`, et bibliotek, der integrerer ML bag kulisserne for at udføre grundlæggende NLP-opgaver som udtrækning af navneordssætninger. En anden vigtig udfordring inden for computerlingvistik er præcis _oversættelse_ af en sætning fra et talesprog eller skriftsprog til et andet.

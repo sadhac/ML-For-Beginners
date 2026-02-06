@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1eb379dc2d0c9940b320732d16083778",
-  "translation_date": "2025-08-29T14:19:24+00:00",
-  "source_file": "6-NLP/README.md",
-  "language_code": "tl"
-}
--->
 # Pagsisimula sa natural language processing
 
 Ang natural language processing (NLP) ay ang kakayahan ng isang programa sa computer na maunawaan ang wika ng tao, kung paano ito sinasalita at isinusulat -- tinatawag na natural na wika. Isa itong bahagi ng artificial intelligence (AI). Ang NLP ay umiiral na nang mahigit 50 taon at may mga ugat sa larangan ng lingguwistika. Ang buong larangan ay nakatuon sa pagtulong sa mga makina na maunawaan at maproseso ang wika ng tao. Maaari itong magamit upang maisagawa ang mga gawain tulad ng spell check o machine translation. Mayroon itong iba't ibang aplikasyon sa totoong mundo sa maraming larangan, kabilang ang pananaliksang medikal, mga search engine, at business intelligence.

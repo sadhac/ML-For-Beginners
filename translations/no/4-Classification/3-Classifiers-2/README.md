@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "49047911108adc49d605cddfb455749c",
-  "translation_date": "2025-09-05T21:54:02+00:00",
-  "source_file": "4-Classification/3-Classifiers-2/README.md",
-  "language_code": "no"
-}
--->
 # Klassifisering av matretter 2
 
 I denne andre leksjonen om klassifisering vil du utforske flere måter å klassifisere numeriske data på. Du vil også lære om konsekvensene ved å velge én klassifikator fremfor en annen.

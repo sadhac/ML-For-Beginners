@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-08-29T20:38:07+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "bn"
-}
--->
 # টাইম সিরিজ পূর্বাভাসের পরিচিতি
 
 টাইম সিরিজ পূর্বাভাস কী? এটি অতীতের প্রবণতা বিশ্লেষণ করে ভবিষ্যতের ঘটনা পূর্বাভাস দেওয়ার একটি পদ্ধতি।

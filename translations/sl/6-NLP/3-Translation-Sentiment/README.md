@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "be03c8182982b87ced155e4e9d1438e8",
-  "translation_date": "2025-09-05T14:15:00+00:00",
-  "source_file": "6-NLP/3-Translation-Sentiment/README.md",
-  "language_code": "sl"
-}
--->
 # Prevajanje in analiza sentimenta z ML
 
 V prejšnjih lekcijah ste se naučili, kako zgraditi osnovnega bota z uporabo knjižnice `TextBlob`, ki vključuje strojno učenje za izvajanje osnovnih nalog obdelave naravnega jezika, kot je ekstrakcija samostalniških fraz. Drug pomemben izziv v računalniški lingvistiki je natančno _prevajanje_ stavka iz enega govorjenega ali pisanega jezika v drugega.

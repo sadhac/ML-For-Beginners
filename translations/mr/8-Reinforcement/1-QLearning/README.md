@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "911efd5e595089000cb3c16fce1beab8",
-  "translation_date": "2025-09-06T06:18:51+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/README.md",
-  "language_code": "mr"
-}
--->
 # रिइन्फोर्समेंट लर्निंग आणि Q-लर्निंगची ओळख
 
 ![मशीन लर्निंगमधील रिइन्फोर्समेंटचा सारांश एका स्केच नोटमध्ये](../../../../sketchnotes/ml-reinforcement.png)

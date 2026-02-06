@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6d130dffca5db70d7e615f926cb1ad4c",
-  "translation_date": "2025-08-29T13:50:46+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "ar"
-}
--->
 # الاختبارات
 
 هذه الاختبارات هي اختبارات ما قبل وبعد المحاضرات لمنهج تعلم الآلة على الرابط https://aka.ms/ml-beginners

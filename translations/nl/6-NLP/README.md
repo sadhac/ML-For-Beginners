@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1eb379dc2d0c9940b320732d16083778",
-  "translation_date": "2025-09-05T20:24:15+00:00",
-  "source_file": "6-NLP/README.md",
-  "language_code": "nl"
-}
--->
 # Aan de slag met natuurlijke taalverwerking
 
 Natuurlijke taalverwerking (NLP) is het vermogen van een computerprogramma om menselijke taal te begrijpen zoals deze wordt gesproken en geschreven – aangeduid als natuurlijke taal. Het is een onderdeel van kunstmatige intelligentie (AI). NLP bestaat al meer dan 50 jaar en heeft zijn oorsprong in de taalkunde. Het hele vakgebied is gericht op het helpen van machines om de menselijke taal te begrijpen en te verwerken. Dit kan vervolgens worden gebruikt om taken uit te voeren zoals spellingscontrole of machinale vertaling. Het heeft een breed scala aan toepassingen in de echte wereld in verschillende gebieden, waaronder medisch onderzoek, zoekmachines en bedrijfsinformatie.

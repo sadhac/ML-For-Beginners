@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "eb6e4d5afd1b21a57d2b9e6d0aac3969",
-  "translation_date": "2025-09-03T23:42:32+00:00",
-  "source_file": "1-Introduction/2-history-of-ML/assignment.md",
-  "language_code": "ko"
-}
--->
 # 타임라인 만들기
 
 ## 지침

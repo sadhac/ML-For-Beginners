@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9836ff53cfef716ddfd70e06c5f43436",
-  "translation_date": "2025-09-05T16:12:10+00:00",
-  "source_file": "3-Web-App/README.md",
-  "language_code": "sk"
-}
--->
 # Vytvorte webovú aplikáciu na použitie vášho ML modelu
 
 V tejto časti kurzu sa zoznámite s praktickou témou strojového učenia: ako uložiť váš Scikit-learn model ako súbor, ktorý môže byť použitý na predikcie v rámci webovej aplikácie. Keď je model uložený, naučíte sa, ako ho použiť v webovej aplikácii postavenej vo Flasku. Najskôr vytvoríte model pomocou dát, ktoré sa týkajú pozorovaní UFO! Potom vytvoríte webovú aplikáciu, ktorá vám umožní zadať počet sekúnd spolu s hodnotami zemepisnej šírky a dĺžky na predpovedanie, ktorá krajina nahlásila pozorovanie UFO.

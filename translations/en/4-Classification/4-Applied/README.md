@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61bdec27ed2da8b098cd9065405d9bb0",
-  "translation_date": "2025-09-06T10:56:37+00:00",
-  "source_file": "4-Classification/4-Applied/README.md",
-  "language_code": "en"
-}
--->
 # Build a Cuisine Recommender Web App
 
 In this lesson, you will create a classification model using techniques learned in previous lessons and the delicious cuisine dataset used throughout this series. Additionally, you will develop a small web app to utilize a saved model, leveraging Onnx's web runtime.

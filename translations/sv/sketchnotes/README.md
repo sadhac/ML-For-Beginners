@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a88d5918c1b9da69a40d917a0840c497",
-  "translation_date": "2025-09-05T21:56:46+00:00",
-  "source_file": "sketchnotes/README.md",
-  "language_code": "sv"
-}
--->
 Alla sketchnotes för läroplanen kan laddas ner här.
 
 🖨 För utskrift i hög upplösning finns TIFF-versionerna tillgängliga på [detta repo](https://github.com/girliemac/a-picture-is-worth-a-1000-words/tree/main/ml/tiff).

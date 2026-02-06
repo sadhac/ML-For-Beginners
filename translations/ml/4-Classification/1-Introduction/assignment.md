@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b2a01912beb24cfb0007f83594dba801",
-  "translation_date": "2025-12-19T15:20:58+00:00",
-  "source_file": "4-Classification/1-Introduction/assignment.md",
-  "language_code": "ml"
-}
--->
 # വർഗ്ഗീകരണ രീതികൾ അന്വേഷിക്കുക
 
 ## നിർദ്ദേശങ്ങൾ

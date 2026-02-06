@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9a6b702d1437c0467e3c5c28d763dac2",
-  "translation_date": "2025-09-04T21:58:29+00:00",
-  "source_file": "1-Introduction/3-fairness/README.md",
-  "language_code": "de"
-}
--->
 # Aufbau von Machine-Learning-Lösungen mit verantwortungsbewusster KI
 
 ![Zusammenfassung von verantwortungsbewusster KI im Machine Learning in einer Sketchnote](../../../../sketchnotes/ml-fairness.png)

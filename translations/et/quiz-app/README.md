@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6d130dffca5db70d7e615f926cb1ad4c",
-  "translation_date": "2025-10-11T11:14:21+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "et"
-}
--->
 # Viktoriinid
 
 Need viktoriinid on masinõppe õppekava eel- ja järelloengute viktoriinid aadressil https://aka.ms/ml-beginners

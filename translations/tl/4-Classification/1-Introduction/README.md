@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "aaf391d922bd6de5efba871d514c6d47",
-  "translation_date": "2025-09-05T18:22:06+00:00",
-  "source_file": "4-Classification/1-Introduction/README.md",
-  "language_code": "tl"
-}
--->
 # Panimula sa klasipikasyon
 
 Sa apat na araling ito, iyong matutuklasan ang isang mahalagang aspeto ng klasikong machine learning - _klasipikasyon_. Tatalakayin natin ang paggamit ng iba't ibang klasipikasyon na algorithm gamit ang dataset tungkol sa mga kahanga-hangang lutuin ng Asya at India. Sana'y gutom ka na!

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b28a3a4911584062772c537b653ebbc7",
-  "translation_date": "2025-09-05T12:08:46+00:00",
-  "source_file": "5-Clustering/README.md",
-  "language_code": "sl"
-}
--->
 # Modeli za gručenje v strojnem učenju
 
 Gručenje je naloga strojnega učenja, pri kateri iščemo predmete, ki so si med seboj podobni, in jih združujemo v skupine, imenovane gruče. Kar razlikuje gručenje od drugih pristopov v strojnem učenju, je dejstvo, da se stvari dogajajo samodejno; pravzaprav lahko rečemo, da je to nasprotje nadzorovanega učenja.

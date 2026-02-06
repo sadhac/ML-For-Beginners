@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cc471fa89c293bc735dd3a9a0fb79b1b",
-  "translation_date": "2025-12-19T13:53:41+00:00",
-  "source_file": "2-Regression/3-Linear/assignment.md",
-  "language_code": "ml"
-}
--->
 # ഒരു റെഗ്രഷൻ മോഡൽ സൃഷ്ടിക്കുക
 
 ## നിർദ്ദേശങ്ങൾ

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-09-04T00:14:18+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "es"
-}
--->
 # Introducción al aprendizaje por refuerzo
 
 El aprendizaje por refuerzo, RL, se considera uno de los paradigmas básicos del aprendizaje automático, junto con el aprendizaje supervisado y el aprendizaje no supervisado. RL trata sobre decisiones: tomar las decisiones correctas o, al menos, aprender de ellas.

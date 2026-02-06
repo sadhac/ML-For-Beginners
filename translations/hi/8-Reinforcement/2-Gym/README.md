@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "107d5bb29da8a562e7ae72262d251a75",
-  "translation_date": "2025-09-05T10:30:41+00:00",
-  "source_file": "8-Reinforcement/2-Gym/README.md",
-  "language_code": "hi"
-}
--->
 ## आवश्यकताएँ
 
 इस पाठ में, हम **OpenAI Gym** नामक एक लाइब्रेरी का उपयोग करेंगे जो विभिन्न **पर्यावरणों** को सिमुलेट करती है। आप इस पाठ का कोड स्थानीय रूप से (जैसे Visual Studio Code से) चला सकते हैं, जिसमें सिमुलेशन एक नई विंडो में खुलेगा। ऑनलाइन कोड चलाते समय, आपको कोड में कुछ बदलाव करने की आवश्यकता हो सकती है, जैसा कि [यहां](https://towardsdatascience.com/rendering-openai-gym-envs-on-binder-and-google-colab-536f99391cc7) वर्णित है।

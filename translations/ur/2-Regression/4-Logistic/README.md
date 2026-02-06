@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "abf86d845c84330bce205a46b382ec88",
-  "translation_date": "2025-09-06T08:44:16+00:00",
-  "source_file": "2-Regression/4-Logistic/README.md",
-  "language_code": "ur"
-}
--->
 # لاجسٹک ریگریشن کے ذریعے کیٹیگریز کی پیش گوئی
 
 ![لاجسٹک بمقابلہ لینیئر ریگریشن انفوگرافک](../../../../2-Regression/4-Logistic/images/linear-vs-logistic.png)

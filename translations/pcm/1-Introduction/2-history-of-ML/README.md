@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6a05fec147e734c3e6bfa54505648e2b",
-  "translation_date": "2025-11-18T18:24:32+00:00",
-  "source_file": "1-Introduction/2-history-of-ML/README.md",
-  "language_code": "pcm"
-}
--->
 # History of machine learning
 
 ![Summary of History of machine learning in a sketchnote](../../../../translated_images/pcm/ml-history.a1bdfd4ce1f464d9.webp)

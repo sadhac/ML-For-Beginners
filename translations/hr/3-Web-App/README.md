@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9836ff53cfef716ddfd70e06c5f43436",
-  "translation_date": "2025-09-05T12:56:35+00:00",
-  "source_file": "3-Web-App/README.md",
-  "language_code": "hr"
-}
--->
 # Izgradite web aplikaciju za korištenje vašeg ML modela
 
 U ovom dijelu kurikuluma upoznat ćete se s primijenjenom temom strojnog učenja: kako spremiti svoj Scikit-learn model kao datoteku koja se može koristiti za predviđanja unutar web aplikacije. Kada model bude spremljen, naučit ćete kako ga koristiti u web aplikaciji izgrađenoj u Flasku. Prvo ćete kreirati model koristeći podatke koji se odnose na viđenja NLO-a! Zatim ćete izgraditi web aplikaciju koja će vam omogućiti unos broja sekundi, zajedno s vrijednostima geografske širine i dužine, kako biste predvidjeli koja je zemlja prijavila viđenje NLO-a.

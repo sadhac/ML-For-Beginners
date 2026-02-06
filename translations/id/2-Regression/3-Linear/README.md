@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-05T18:41:01+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "id"
-}
--->
 # Membangun Model Regresi Menggunakan Scikit-learn: Empat Cara Regresi
 
 ![Infografik regresi linear vs polinomial](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -114,11 +105,11 @@ Sekarang setelah Anda memahami matematika di balik regresi linear, mari kita bua
 
 Dari pelajaran sebelumnya, Anda mungkin telah melihat bahwa harga rata-rata untuk berbagai bulan terlihat seperti ini:
 
-<img alt="Harga rata-rata berdasarkan bulan" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="Harga rata-rata berdasarkan bulan" src="../../../../translated_images/id/barchart.a833ea9194346d76.webp" width="50%"/>
 
 Ini menunjukkan bahwa seharusnya ada beberapa korelasi, dan kita dapat mencoba melatih model regresi linear untuk memprediksi hubungan antara `Bulan` dan `Harga`, atau antara `HariDalamTahun` dan `Harga`. Berikut adalah plot sebar yang menunjukkan hubungan yang terakhir:
 
-<img alt="Plot sebar Harga vs. Hari dalam Tahun" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="Plot sebar Harga vs. Hari dalam Tahun" src="../../../../translated_images/id/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 Mari kita lihat apakah ada korelasi menggunakan fungsi `corr`:
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="Plot sebar Harga vs. Hari dalam Tahun" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="Plot sebar Harga vs. Hari dalam Tahun" src="../../../../translated_images/id/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 Penyelidikan kami menunjukkan bahwa jenis labu memiliki pengaruh lebih besar pada harga keseluruhan daripada tanggal penjualan sebenarnya. Kita dapat melihat ini dengan grafik batang:
 
@@ -145,7 +136,7 @@ Penyelidikan kami menunjukkan bahwa jenis labu memiliki pengaruh lebih besar pad
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="Grafik batang harga vs jenis labu" src="images/price-by-variety.png" width="50%" /> 
+<img alt="Grafik batang harga vs jenis labu" src="../../../../translated_images/id/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 Mari kita fokus untuk sementara hanya pada satu jenis labu, yaitu 'pie type', dan lihat apa pengaruh tanggal terhadap harga:
 
@@ -153,7 +144,7 @@ Mari kita fokus untuk sementara hanya pada satu jenis labu, yaitu 'pie type', da
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="Plot sebar Harga vs. Hari dalam Tahun" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="Plot sebar Harga vs. Hari dalam Tahun" src="../../../../translated_images/id/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 Jika kita sekarang menghitung korelasi antara `Harga` dan `HariDalamTahun` menggunakan fungsi `corr`, kita akan mendapatkan sesuatu seperti `-0.27` - yang berarti bahwa melatih model prediktif masuk akal.
 
@@ -228,7 +219,7 @@ plt.plot(X_test,pred)
 ```
 
 
-<img alt="Regresi linear" src="images/linear-results.png" width="50%" />
+<img alt="Regresi linear" src="../../../../translated_images/id/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## Regresi Polinomial
 
@@ -257,7 +248,7 @@ Menggunakan `PolynomialFeatures(2)` berarti kita akan menyertakan semua polinomi
 
 Pipeline dapat digunakan dengan cara yang sama seperti objek `LinearRegression` asli, yaitu kita dapat `fit` pipeline, lalu menggunakan `predict` untuk mendapatkan hasil prediksi. Berikut adalah grafik yang menunjukkan data uji dan kurva aproksimasi:
 
-<img alt="Regresi polinomial" src="images/poly-results.png" width="50%" />
+<img alt="Regresi polinomial" src="../../../../translated_images/id/poly-results.ee587348f0f1f60b.webp" width="50%" />
 
 Dengan menggunakan Regresi Polinomial, kita dapat memperoleh MSE yang sedikit lebih rendah dan determinasi yang lebih tinggi, tetapi tidak signifikan. Kita perlu mempertimbangkan fitur lainnya!
 
@@ -275,7 +266,7 @@ Dalam dunia ideal, kita ingin dapat memprediksi harga untuk berbagai jenis labu 
 
 Di sini Anda dapat melihat bagaimana harga rata-rata bergantung pada variasi:
 
-<img alt="Harga rata-rata berdasarkan variasi" src="images/price-by-variety.png" width="50%" />
+<img alt="Harga rata-rata berdasarkan variasi" src="../../../../translated_images/id/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 Untuk mempertimbangkan variasi, pertama-tama kita perlu mengonversinya ke bentuk numerik, atau **encode**. Ada beberapa cara untuk melakukannya:
 

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6a05fec147e734c3e6bfa54505648e2b",
-  "translation_date": "2025-09-05T10:49:35+00:00",
-  "source_file": "1-Introduction/2-history-of-ML/README.md",
-  "language_code": "ko"
-}
--->
 # 머신 러닝의 역사
 
 ![머신 러닝 역사의 요약 스케치노트](../../../../sketchnotes/ml-history.png)

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cf8ecc83f28e5b98051d2179eca08e08",
-  "translation_date": "2025-09-05T00:20:23+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "da"
-}
--->
 # Introduktion til maskinlæring
 
 I denne del af pensum vil du blive introduceret til de grundlæggende begreber inden for maskinlæring, hvad det er, og lære om dets historie samt de teknikker, forskere bruger til at arbejde med det. Lad os udforske denne nye verden af ML sammen!

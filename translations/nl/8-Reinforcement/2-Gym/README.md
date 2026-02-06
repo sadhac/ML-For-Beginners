@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "107d5bb29da8a562e7ae72262d251a75",
-  "translation_date": "2025-09-05T20:19:02+00:00",
-  "source_file": "8-Reinforcement/2-Gym/README.md",
-  "language_code": "nl"
-}
--->
 # CartPole Schaatsen
 
 Het probleem dat we in de vorige les hebben opgelost, lijkt misschien een speelgoedprobleem, niet echt toepasbaar in echte scenario's. Dit is echter niet het geval, omdat veel echte problemen ook dit scenario delen - zoals het spelen van schaken of Go. Ze zijn vergelijkbaar omdat we ook een bord hebben met gegeven regels en een **discrete toestand**.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e0b75f73e4a90d45181dc5581fe2ef5c",
-  "translation_date": "2025-09-06T08:33:50+00:00",
-  "source_file": "3-Web-App/1-Web-App/README.md",
-  "language_code": "ru"
-}
--->
 # Создание веб-приложения для использования ML модели
 
 В этом уроке вы обучите ML модель на уникальном наборе данных: _наблюдения НЛО за последний век_, взятые из базы данных NUFORC.

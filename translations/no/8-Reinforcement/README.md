@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-09-05T22:01:42+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "no"
-}
--->
 # Introduksjon til forsterkende læring
 
 Forsterkende læring, RL, regnes som en av de grunnleggende paradigmer innen maskinlæring, ved siden av veiledet læring og uveiledet læring. RL handler om beslutninger: å ta riktige beslutninger eller i det minste lære av dem.

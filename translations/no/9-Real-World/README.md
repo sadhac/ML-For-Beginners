@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5e069a0ac02a9606a69946c2b3c574a9",
-  "translation_date": "2025-09-05T21:31:41+00:00",
-  "source_file": "9-Real-World/README.md",
-  "language_code": "no"
-}
--->
 # Postscript: Virkelige anvendelser av klassisk maskinlæring
 
 I denne delen av læreplanen vil du bli introdusert for noen virkelige anvendelser av klassisk ML. Vi har søkt på internett for å finne forskningsartikler og artikler om applikasjoner som har brukt disse strategiene, og unngått nevrale nettverk, dyp læring og AI så mye som mulig. Lær om hvordan ML brukes i forretningssystemer, økologiske applikasjoner, finans, kunst og kultur, og mer.

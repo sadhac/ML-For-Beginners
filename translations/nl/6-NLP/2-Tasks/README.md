@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5f3cb462e3122e1afe7ab0050ccf2bd3",
-  "translation_date": "2025-09-05T20:25:03+00:00",
-  "source_file": "6-NLP/2-Tasks/README.md",
-  "language_code": "nl"
-}
--->
 # Veelvoorkomende taken en technieken in natuurlijke taalverwerking
 
 Voor de meeste *natuurlijke taalverwerking*-taken moet de te verwerken tekst worden opgesplitst, geanalyseerd en de resultaten worden opgeslagen of vergeleken met regels en datasets. Deze taken stellen de programmeur in staat om de _betekenis_ of _intentie_ of alleen de _frequentie_ van termen en woorden in een tekst af te leiden.

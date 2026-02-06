@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a39c15d63f3b2795ee2284a82b986b93",
-  "translation_date": "2025-09-06T10:51:22+00:00",
-  "source_file": "5-Clustering/2-K-Means/solution/Julia/README.md",
-  "language_code": "en"
-}
--->
 
 
 ---

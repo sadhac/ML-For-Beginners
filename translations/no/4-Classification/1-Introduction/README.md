@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "aaf391d922bd6de5efba871d514c6d47",
-  "translation_date": "2025-09-05T21:55:45+00:00",
-  "source_file": "4-Classification/1-Introduction/README.md",
-  "language_code": "no"
-}
--->
 # Introduksjon til klassifisering
 
 I disse fire leksjonene skal du utforske et grunnleggende fokusområde innen klassisk maskinlæring - _klassifisering_. Vi skal gå gjennom bruken av ulike klassifiseringsalgoritmer med et datasett om alle de fantastiske kjøkkenene i Asia og India. Håper du er sulten!

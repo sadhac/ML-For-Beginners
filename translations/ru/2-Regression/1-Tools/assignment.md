@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "74a5cf83e4ebc302afbcbc4f418afd0a",
-  "translation_date": "2025-08-29T20:33:16+00:00",
-  "source_file": "2-Regression/1-Tools/assignment.md",
-  "language_code": "ru"
-}
--->
 # Регрессия с использованием Scikit-learn
 
 ## Инструкции

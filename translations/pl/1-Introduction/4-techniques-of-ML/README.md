@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9d91f3af3758fdd4569fb410575995ef",
-  "translation_date": "2025-09-05T08:21:41+00:00",
-  "source_file": "1-Introduction/4-techniques-of-ML/README.md",
-  "language_code": "pl"
-}
--->
 # Techniki uczenia maszynowego
 
 Proces tworzenia, używania i utrzymywania modeli uczenia maszynowego oraz danych, które wykorzystują, różni się znacząco od wielu innych przepływów pracy w programowaniu. W tej lekcji rozwiejemy wątpliwości dotyczące tego procesu i przedstawimy główne techniki, które warto znać. Dowiesz się:

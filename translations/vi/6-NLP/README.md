@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1eb379dc2d0c9940b320732d16083778",
-  "translation_date": "2025-09-05T20:24:34+00:00",
-  "source_file": "6-NLP/README.md",
-  "language_code": "vi"
-}
--->
 # Bắt đầu với xử lý ngôn ngữ tự nhiên
 
 Xử lý ngôn ngữ tự nhiên (NLP) là khả năng của một chương trình máy tính để hiểu ngôn ngữ con người khi nó được nói và viết - được gọi là ngôn ngữ tự nhiên. Đây là một thành phần của trí tuệ nhân tạo (AI). NLP đã tồn tại hơn 50 năm và có nguồn gốc từ lĩnh vực ngôn ngữ học. Toàn bộ lĩnh vực này hướng đến việc giúp máy móc hiểu và xử lý ngôn ngữ con người. Điều này sau đó có thể được sử dụng để thực hiện các nhiệm vụ như kiểm tra chính tả hoặc dịch máy. NLP có nhiều ứng dụng thực tế trong nhiều lĩnh vực, bao gồm nghiên cứu y học, công cụ tìm kiếm và trí tuệ kinh doanh.

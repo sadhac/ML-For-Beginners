@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6d130dffca5db70d7e615f926cb1ad4c",
-  "translation_date": "2025-09-05T19:47:28+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "he"
-}
--->
 # חידונים
 
 החידונים האלה הם חידוני טרום ואחרי הרצאה עבור תוכנית הלימודים של למידת מכונה בכתובת https://aka.ms/ml-beginners

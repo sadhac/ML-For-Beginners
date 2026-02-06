@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9a6b702d1437c0467e3c5c28d763dac2",
-  "translation_date": "2025-09-05T19:31:55+00:00",
-  "source_file": "1-Introduction/3-fairness/README.md",
-  "language_code": "vi"
-}
--->
 # Xây dựng giải pháp Machine Learning với AI có trách nhiệm
 
 ![Tóm tắt về AI có trách nhiệm trong Machine Learning qua sketchnote](../../../../sketchnotes/ml-fairness.png)

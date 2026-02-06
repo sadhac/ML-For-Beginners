@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a88d5918c1b9da69a40d917a0840c497",
-  "translation_date": "2025-09-05T20:01:20+00:00",
-  "source_file": "sketchnotes/README.md",
-  "language_code": "vi"
-}
--->
 Tất cả các bản vẽ minh họa của chương trình học có thể được tải xuống tại đây.
 
 🖨 Để in với độ phân giải cao, các phiên bản TIFF có sẵn tại [repo này](https://github.com/girliemac/a-picture-is-worth-a-1000-words/tree/main/ml/tiff).

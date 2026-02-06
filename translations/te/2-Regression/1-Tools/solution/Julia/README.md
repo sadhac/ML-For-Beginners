@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a39c15d63f3b2795ee2284a82b986b93",
-  "translation_date": "2025-12-19T14:09:06+00:00",
-  "source_file": "2-Regression/1-Tools/solution/Julia/README.md",
-  "language_code": "te"
-}
--->
 ఇది తాత్కాలిక ప్లేస్‌హోల్డర్‌입니다
 
 ---

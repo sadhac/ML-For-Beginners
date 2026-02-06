@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b37de02054fa6c0438ede6fabe1fdfb8",
-  "translation_date": "2025-10-11T11:09:20+00:00",
-  "source_file": "for-teachers.md",
-  "language_code": "et"
-}
--->
 ## Õpetajatele
 
 Kas soovite seda õppekava oma klassis kasutada? Palun tehke seda julgelt!

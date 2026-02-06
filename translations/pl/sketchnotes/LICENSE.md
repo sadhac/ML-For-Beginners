@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fba3b94d88bfb9b81369b869a1e9a20f",
-  "translation_date": "2025-09-03T18:19:50+00:00",
-  "source_file": "sketchnotes/LICENSE.md",
-  "language_code": "pl"
-}
--->
 Prawa, to Licencja Adaptera, którą stosujesz, musi być licencją Creative Commons z tymi samymi Elementami Licencji, tą wersją lub późniejszą, lub licencją kompatybilną z BY-SA.
 
 Musisz dołączyć tekst licencji Adaptera, którą stosujesz, lub URI albo hiperłącze do niej. Możesz spełnić ten warunek w dowolny rozsądny sposób, w zależności od medium, środków i kontekstu, w którym udostępniasz Materiał Adaptowany.

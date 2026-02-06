@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "aaf391d922bd6de5efba871d514c6d47",
-  "translation_date": "2025-09-05T19:59:55+00:00",
-  "source_file": "4-Classification/1-Introduction/README.md",
-  "language_code": "ms"
-}
--->
 # Pengenalan kepada klasifikasi
 
 Dalam empat pelajaran ini, anda akan meneroka fokus asas pembelajaran mesin klasik - _klasifikasi_. Kita akan menggunakan pelbagai algoritma klasifikasi dengan dataset tentang semua masakan hebat dari Asia dan India. Semoga anda lapar!

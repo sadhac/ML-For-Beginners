@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "df2b538e8fbb3e91cf0419ae2f858675",
-  "translation_date": "2025-12-19T15:13:41+00:00",
-  "source_file": "9-Real-World/2-Debugging-ML-Models/README.md",
-  "language_code": "kn"
-}
--->
 # ಪೋಸ್ಟ್‌ಸ್ಕ್ರಿಪ್ಟ್: ಜವಾಬ್ದಾರಿಯುತ AI ಡ್ಯಾಶ್‌ಬೋರ್ಡ್ ಘಟಕಗಳನ್ನು ಬಳಸಿ ಯಂತ್ರ ಅಧ್ಯಯನದಲ್ಲಿ ಮಾದರಿ ಡಿಬಗಿಂಗ್
 
 ## [ಪೂರ್ವ-ಪಾಠ ಕ್ವಿಜ್](https://ff-quizzes.netlify.app/en/ml/)

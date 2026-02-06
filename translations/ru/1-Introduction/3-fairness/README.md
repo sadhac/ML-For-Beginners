@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9a6b702d1437c0467e3c5c28d763dac2",
-  "translation_date": "2025-09-06T08:31:33+00:00",
-  "source_file": "1-Introduction/3-fairness/README.md",
-  "language_code": "ru"
-}
--->
 # Создание решений машинного обучения с ответственным ИИ
 
 ![Сводка ответственного ИИ в машинном обучении в виде скетчноута](../../../../sketchnotes/ml-fairness.png)

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "49047911108adc49d605cddfb455749c",
-  "translation_date": "2025-09-05T08:00:00+00:00",
-  "source_file": "4-Classification/3-Classifiers-2/README.md",
-  "language_code": "lt"
-}
--->
 # Virtuvės klasifikatoriai 2
 
 Šioje antroje klasifikavimo pamokoje jūs tyrinėsite daugiau būdų, kaip klasifikuoti skaitmeninius duomenis. Taip pat sužinosite apie pasekmes, renkantis vieną klasifikatorių vietoj kito.

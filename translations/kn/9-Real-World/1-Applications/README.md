@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "83320d6b6994909e35d830cebf214039",
-  "translation_date": "2025-12-19T15:08:34+00:00",
-  "source_file": "9-Real-World/1-Applications/README.md",
-  "language_code": "kn"
-}
--->
 # ಪೋಸ್ಟ್‌ಸ್ಕ್ರಿಪ್ಟ್: ನೈಜ ಜಗತ್ತಿನಲ್ಲಿ ಯಂತ್ರ ಅಧ್ಯಯನ
 
 ![ನೈಜ ಜಗತ್ತಿನಲ್ಲಿ ಯಂತ್ರ ಅಧ್ಯಯನದ ಸಾರಾಂಶವನ್ನು ಸ್ಕೆಚ್‌ನೋಟ್‌ನಲ್ಲಿ](../../../../translated_images/kn/ml-realworld.26ee274671615577.webp)

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "134d8759f0e2ab886e9aa4f62362c201",
-  "translation_date": "2025-10-03T12:42:02+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "mr"
-}
--->
 # समस्या निराकरण मार्गदर्शक
 
 ही मार्गदर्शिका मशीन लर्निंग फॉर बिगिनर्स अभ्यासक्रमाशी संबंधित सामान्य समस्या सोडविण्यास मदत करते. जर तुम्हाला येथे उपाय सापडत नसेल, तर कृपया आमच्या [Discord Discussions](https://aka.ms/foundry/discord) किंवा [open an issue](https://github.com/microsoft/ML-For-Beginners/issues) येथे तपासा.

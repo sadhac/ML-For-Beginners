@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "aaf391d922bd6de5efba871d514c6d47",
-  "translation_date": "2025-09-05T16:26:58+00:00",
-  "source_file": "4-Classification/1-Introduction/README.md",
-  "language_code": "ro"
-}
--->
 # Introducere în clasificare
 
 În aceste patru lecții, vei explora un aspect fundamental al învățării automate clasice - _clasificarea_. Vom parcurge utilizarea diferitelor algoritmi de clasificare cu un set de date despre toate bucătăriile minunate din Asia și India. Sper că ți-e foame!

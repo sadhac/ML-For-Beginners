@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "49047911108adc49d605cddfb455749c",
-  "translation_date": "2025-09-06T09:37:28+00:00",
-  "source_file": "4-Classification/3-Classifiers-2/README.md",
-  "language_code": "ja"
-}
--->
 # 料理分類器 2
 
 この第2回目の分類レッスンでは、数値データを分類するさまざまな方法を探ります。また、どの分類器を選ぶかによる影響についても学びます。

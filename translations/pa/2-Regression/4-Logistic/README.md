@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "abf86d845c84330bce205a46b382ec88",
-  "translation_date": "2025-09-06T06:48:36+00:00",
-  "source_file": "2-Regression/4-Logistic/README.md",
-  "language_code": "pa"
-}
--->
 # ਲਾਜਿਸਟਿਕ ਰਿਗ੍ਰੈਸ਼ਨ ਨਾਲ ਸ਼੍ਰੇਣੀਆਂ ਦੀ ਪੇਸ਼ਗੂਈ
 
 ![ਲਾਜਿਸਟਿਕ ਵਿਰੁੱਧ ਰੇਖੀ ਰਿਗ੍ਰੈਸ਼ਨ ਇਨਫੋਗ੍ਰਾਫਿਕ](../../../../2-Regression/4-Logistic/images/linear-vs-logistic.png)

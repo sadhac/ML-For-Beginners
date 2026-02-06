@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-11-18T18:56:29+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "pcm"
-}
--->
 # Introduction to time series forecasting
 
 Wetin be time series forecasting? Na di way wey dem dey predict wetin go happen for future by check di trend wey don happen for past.

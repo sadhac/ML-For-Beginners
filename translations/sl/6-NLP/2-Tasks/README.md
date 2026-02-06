@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5f3cb462e3122e1afe7ab0050ccf2bd3",
-  "translation_date": "2025-09-05T13:55:03+00:00",
-  "source_file": "6-NLP/2-Tasks/README.md",
-  "language_code": "sl"
-}
--->
 # Pogoste naloge in tehnike obdelave naravnega jezika
 
 Pri večini nalog obdelave *naravnega jezika* je treba besedilo razčleniti, analizirati in rezultate shraniti ali primerjati s pravili in podatkovnimi nabori. Te naloge omogočajo programerju, da iz besedila izpelje _pomen_, _namen_ ali zgolj _pogostost_ izrazov in besed.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "49047911108adc49d605cddfb455749c",
-  "translation_date": "2025-09-04T22:24:07+00:00",
-  "source_file": "4-Classification/3-Classifiers-2/README.md",
-  "language_code": "es"
-}
--->
 # Clasificadores de cocina 2
 
 En esta segunda lección de clasificación, explorarás más formas de clasificar datos numéricos. También aprenderás sobre las implicaciones de elegir un clasificador sobre otro.

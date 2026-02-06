@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "49047911108adc49d605cddfb455749c",
-  "translation_date": "2025-09-06T10:57:01+00:00",
-  "source_file": "4-Classification/3-Classifiers-2/README.md",
-  "language_code": "en"
-}
--->
 # Cuisine classifiers 2
 
 In this second classification lesson, you will explore additional methods for classifying numeric data. You will also learn about the implications of choosing one classifier over another.

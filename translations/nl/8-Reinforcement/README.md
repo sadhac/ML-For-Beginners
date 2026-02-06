@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "20ca019012b1725de956681d036d8b18",
-  "translation_date": "2025-09-05T20:09:22+00:00",
-  "source_file": "8-Reinforcement/README.md",
-  "language_code": "nl"
-}
--->
 # Introductie tot reinforcement learning
 
 Reinforcement learning, RL, wordt gezien als een van de fundamentele machine learning paradigma's, naast supervised learning en unsupervised learning. RL draait om beslissingen: het nemen van de juiste beslissingen of er in ieder geval van leren.

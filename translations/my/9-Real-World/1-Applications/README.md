@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "83320d6b6994909e35d830cebf214039",
-  "translation_date": "2025-09-05T12:27:38+00:00",
-  "source_file": "9-Real-World/1-Applications/README.md",
-  "language_code": "my"
-}
--->
 # Postscript: အမှန်တကယ်သောကမ္ဘာတွင် Machine Learning
 
 ![အမှန်တကယ်သောကမ္ဘာတွင် Machine Learning အကျဉ်းချုပ်ကို Sketchnote အနေနဲ့](../../../../sketchnotes/ml-realworld.png)

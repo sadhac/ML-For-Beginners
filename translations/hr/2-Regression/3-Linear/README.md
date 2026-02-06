@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-05T11:27:31+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "hr"
-}
--->
 # Izgradnja regresijskog modela koristeći Scikit-learn: četiri načina regresije
 
 ![Infografika linearne i polinomne regresije](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -114,11 +105,11 @@ Sada kada razumijete matematiku iza linearne regresije, kreirajmo regresijski mo
 
 Iz prethodne lekcije vjerojatno ste vidjeli da prosječna cijena za različite mjesece izgleda ovako:
 
-<img alt="Prosječna cijena po mjesecu" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="Prosječna cijena po mjesecu" src="../../../../translated_images/hr/barchart.a833ea9194346d76.webp" width="50%"/>
 
 To sugerira da bi mogla postojati neka korelacija, i možemo pokušati trenirati model linearne regresije kako bismo predvidjeli odnos između `Mjesec` i `Cijena`, ili između `DanUGodini` i `Cijena`. Evo dijagrama raspršenja koji pokazuje potonji odnos:
 
-<img alt="Dijagram raspršenja Cijena vs. Dan u godini" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="Dijagram raspršenja Cijena vs. Dan u godini" src="../../../../translated_images/hr/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 Pogledajmo postoji li korelacija koristeći funkciju `corr`:
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="Dijagram raspršenja Cijena vs. Dan u godini" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="Dijagram raspršenja Cijena vs. Dan u godini" src="../../../../translated_images/hr/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 Naša istraga sugerira da vrsta bundeve ima veći utjecaj na ukupnu cijenu nego stvarni datum prodaje. To možemo vidjeti s dijagramom stupaca:
 
@@ -145,7 +136,7 @@ Naša istraga sugerira da vrsta bundeve ima veći utjecaj na ukupnu cijenu nego 
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="Dijagram stupaca cijena vs vrsta" src="images/price-by-variety.png" width="50%" /> 
+<img alt="Dijagram stupaca cijena vs vrsta" src="../../../../translated_images/hr/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 Usredotočimo se za trenutak samo na jednu vrstu bundeve, 'pie type', i pogledajmo kakav učinak datum ima na cijenu:
 
@@ -153,7 +144,7 @@ Usredotočimo se za trenutak samo na jednu vrstu bundeve, 'pie type', i pogledaj
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="Dijagram raspršenja Cijena vs. Dan u godini" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="Dijagram raspršenja Cijena vs. Dan u godini" src="../../../../translated_images/hr/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 Ako sada izračunamo korelaciju između `Cijena` i `DanUGodini` koristeći funkciju `corr`, dobit ćemo nešto poput `-0.27` - što znači da treniranje prediktivnog modela ima smisla.
 
@@ -227,7 +218,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```  
 
-<img alt="Linear regression" src="images/linear-results.png" width="50%" />
+<img alt="Linear regression" src="../../../../translated_images/hr/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## Polinomijalna regresija  
 
@@ -256,7 +247,7 @@ Korištenje `PolynomialFeatures(2)` znači da ćemo uključiti sve polinome drug
 
 Pipeline se može koristiti na isti način kao i originalni objekt `LinearRegression`, tj. možemo koristiti `fit` za treniranje pipelinea, a zatim `predict` za dobivanje rezultata predikcije. Evo grafikona koji prikazuje testne podatke i aproksimacijsku krivulju:  
 
-<img alt="Polynomial regression" src="images/poly-results.png" width="50%" />  
+<img alt="Polynomial regression" src="../../../../translated_images/hr/poly-results.ee587348f0f1f60b.webp" width="50%" />  
 
 Korištenjem polinomijalne regresije možemo dobiti nešto niži MSE i viši koeficijent determinacije, ali ne značajno. Moramo uzeti u obzir i druge značajke!  
 
@@ -274,7 +265,7 @@ U idealnom svijetu želimo moći predvidjeti cijene za različite vrste bundeva 
 
 Ovdje možete vidjeti kako prosječna cijena ovisi o vrsti:  
 
-<img alt="Average price by variety" src="images/price-by-variety.png" width="50%" />  
+<img alt="Average price by variety" src="../../../../translated_images/hr/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />  
 
 Kako bismo uzeli u obzir vrstu, prvo je moramo pretvoriti u numerički oblik, odnosno **kodirati**. Postoji nekoliko načina kako to možemo učiniti:  
 

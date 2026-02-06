@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5f3cb462e3122e1afe7ab0050ccf2bd3",
-  "translation_date": "2025-09-04T22:06:09+00:00",
-  "source_file": "6-NLP/2-Tasks/README.md",
-  "language_code": "de"
-}
--->
 # Häufige Aufgaben und Techniken der Verarbeitung natürlicher Sprache
 
 Für die meisten Aufgaben der *Verarbeitung natürlicher Sprache* muss der zu verarbeitende Text in kleinere Einheiten zerlegt, analysiert und die Ergebnisse gespeichert oder mit Regeln und Datensätzen abgeglichen werden. Diese Aufgaben ermöglichen es dem Programmierer, die _Bedeutung_ oder _Absicht_ oder lediglich die _Häufigkeit_ von Begriffen und Wörtern in einem Text abzuleiten.

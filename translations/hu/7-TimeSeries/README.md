@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-09-05T15:27:42+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "hu"
-}
--->
 # Bevezetés az időbeli előrejelzésbe
 
 Mi az időbeli előrejelzés? A jövőbeli események előrejelzéséről szól, a múltbeli trendek elemzése alapján.

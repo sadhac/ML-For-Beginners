@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "91c6a180ef08e20cc15acfd2d6d6e164",
-  "translation_date": "2025-08-29T17:29:44+00:00",
-  "source_file": "9-Real-World/2-Debugging-ML-Models/assignment.md",
-  "language_code": "ne"
-}
--->
 # जिम्मेवार AI (RAI) ड्यासबोर्ड अन्वेषण गर्नुहोस्
 
 ## निर्देशनहरू

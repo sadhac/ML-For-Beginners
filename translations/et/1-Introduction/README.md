@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cf8ecc83f28e5b98051d2179eca08e08",
-  "translation_date": "2025-10-11T11:24:34+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "et"
-}
--->
 # Sissejuhatus masinõppesse
 
 Selles õppekava osas tutvustatakse teile masinõppe valdkonna aluskontseptsioone, mis see on, ning saate teada selle ajaloost ja tehnikatest, mida teadlased selle valdkonnaga töötamiseks kasutavad. Uurime koos seda uut ML-i maailma!

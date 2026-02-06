@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9d91f3af3758fdd4569fb410575995ef",
-  "translation_date": "2025-09-05T07:55:51+00:00",
-  "source_file": "1-Introduction/4-techniques-of-ML/README.md",
-  "language_code": "lt"
-}
--->
 # Mašininio mokymosi technikos
 
 Mašininio mokymosi modelių kūrimo, naudojimo ir palaikymo procesas bei duomenys, kuriuos jie naudoja, labai skiriasi nuo daugelio kitų kūrimo darbo eigų. Šioje pamokoje mes išsklaidysime šį procesą ir apžvelgsime pagrindines technikas, kurias turite žinoti. Jūs:

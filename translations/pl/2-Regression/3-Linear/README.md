@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-05T08:10:32+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "pl"
-}
--->
 # Budowanie modelu regresji za pomocą Scikit-learn: regresja na cztery sposoby
 
 ![Infografika: regresja liniowa vs. wielomianowa](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -114,11 +105,11 @@ Teraz, gdy rozumiesz matematykę stojącą za regresją liniową, stwórzmy mode
 
 Z poprzedniej lekcji prawdopodobnie zauważyłeś, że średnia cena dla różnych miesięcy wygląda tak:
 
-<img alt="Średnia cena według miesiąca" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="Średnia cena według miesiąca" src="../../../../translated_images/pl/barchart.a833ea9194346d76.webp" width="50%"/>
 
 To sugeruje, że powinna istnieć jakaś korelacja, i możemy spróbować wytrenować model regresji liniowej, aby przewidzieć związek między `Miesiącem` a `Ceną`, lub między `DniemRoku` a `Ceną`. Oto wykres punktowy pokazujący tę drugą zależność:
 
-<img alt="Wykres punktowy Cena vs. Dzień Roku" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="Wykres punktowy Cena vs. Dzień Roku" src="../../../../translated_images/pl/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 Sprawdźmy, czy istnieje korelacja, używając funkcji `corr`:
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="Wykres punktowy Cena vs. Dzień Roku" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="Wykres punktowy Cena vs. Dzień Roku" src="../../../../translated_images/pl/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 Nasze badanie sugeruje, że odmiana ma większy wpływ na ogólną cenę niż rzeczywista data sprzedaży. Możemy to zobaczyć na wykresie słupkowym:
 
@@ -145,7 +136,7 @@ Nasze badanie sugeruje, że odmiana ma większy wpływ na ogólną cenę niż rz
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="Wykres słupkowy cena vs odmiana" src="images/price-by-variety.png" width="50%" /> 
+<img alt="Wykres słupkowy cena vs odmiana" src="../../../../translated_images/pl/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 Skupmy się na chwilę tylko na jednej odmianie dyni, 'pie type', i zobaczmy, jaki wpływ ma data na cenę:
 
@@ -153,7 +144,7 @@ Skupmy się na chwilę tylko na jednej odmianie dyni, 'pie type', i zobaczmy, ja
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="Wykres punktowy Cena vs. Dzień Roku" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="Wykres punktowy Cena vs. Dzień Roku" src="../../../../translated_images/pl/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 Jeśli teraz obliczymy korelację między `Ceną` a `DniemRoku` za pomocą funkcji `corr`, otrzymamy coś w rodzaju `-0.27` - co oznacza, że trenowanie modelu predykcyjnego ma sens.
 
@@ -227,7 +218,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```  
 
-<img alt="Regresja liniowa" src="images/linear-results.png" width="50%" />
+<img alt="Regresja liniowa" src="../../../../translated_images/pl/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## Regresja wielomianowa
 
@@ -256,7 +247,7 @@ Użycie `PolynomialFeatures(2)` oznacza, że uwzględnimy wszystkie wielomiany d
 
 Pipeline można używać w taki sam sposób, jak oryginalny obiekt `LinearRegression`, tj. możemy dopasować (`fit`) pipeline, a następnie użyć `predict`, aby uzyskać wyniki predykcji. Oto wykres pokazujący dane testowe i krzywą aproksymacji:
 
-<img alt="Regresja wielomianowa" src="images/poly-results.png" width="50%" />
+<img alt="Regresja wielomianowa" src="../../../../translated_images/pl/poly-results.ee587348f0f1f60b.webp" width="50%" />
 
 Korzystając z regresji wielomianowej, możemy uzyskać nieco niższy MSE i wyższy współczynnik determinacji, ale nieznacznie. Musimy uwzględnić inne cechy!
 
@@ -274,7 +265,7 @@ W idealnym świecie chcemy być w stanie przewidywać ceny dla różnych odmian 
 
 Tutaj możesz zobaczyć, jak średnia cena zależy od odmiany:
 
-<img alt="Średnia cena według odmiany" src="images/price-by-variety.png" width="50%" />
+<img alt="Średnia cena według odmiany" src="../../../../translated_images/pl/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 Aby uwzględnić odmianę, najpierw musimy przekonwertować ją na formę numeryczną, czyli **zakodować**. Istnieje kilka sposobów, aby to zrobić:
 

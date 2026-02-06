@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6d130dffca5db70d7e615f926cb1ad4c",
-  "translation_date": "2025-08-29T17:47:45+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "mr"
-}
--->
 # क्विझेस
 
 ही क्विझेस ML अभ्यासक्रमासाठीच्या व्याख्यानांपूर्वी आणि नंतर घेण्यात येणाऱ्या क्विझेस आहेत. अधिक माहितीसाठी भेट द्या: https://aka.ms/ml-beginners

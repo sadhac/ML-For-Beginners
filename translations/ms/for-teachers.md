@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b37de02054fa6c0438ede6fabe1fdfb8",
-  "translation_date": "2025-09-05T18:36:33+00:00",
-  "source_file": "for-teachers.md",
-  "language_code": "ms"
-}
--->
 ## Untuk Pendidik
 
 Adakah anda ingin menggunakan kurikulum ini di dalam kelas anda? Jangan ragu untuk mencubanya!

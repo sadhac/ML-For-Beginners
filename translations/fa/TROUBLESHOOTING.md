@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "134d8759f0e2ab886e9aa4f62362c201",
-  "translation_date": "2025-10-03T12:37:28+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "fa"
-}
--->
 # راهنمای رفع مشکلات
 
 این راهنما به شما کمک می‌کند مشکلات رایج هنگام کار با دوره آموزشی یادگیری ماشین برای مبتدیان را حل کنید. اگر راه‌حلی در اینجا پیدا نکردید، لطفاً به [بحث‌های دیسکورد](https://aka.ms/foundry/discord) مراجعه کنید یا [یک مشکل جدید باز کنید](https://github.com/microsoft/ML-For-Beginners/issues).

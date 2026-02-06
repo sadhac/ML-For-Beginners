@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "68394b2102d3503882e5e914bd0ff5c1",
-  "translation_date": "2025-09-05T01:12:16+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/assignment.md",
-  "language_code": "cs"
-}
--->
 # Realističtější svět
 
 V naší situaci se Peter mohl pohybovat téměř bez únavy nebo hladu. V realističtějším světě by si musel čas od času sednout a odpočinout si, stejně jako se najíst. Udělejme náš svět realističtější implementací následujících pravidel:

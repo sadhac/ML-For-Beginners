@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "2c742993fe95d5bcbb2846eda3d442a1",
-  "translation_date": "2025-09-04T23:08:52+00:00",
-  "source_file": "6-NLP/5-Hotel-Reviews-2/README.md",
-  "language_code": "fr"
-}
--->
 # Analyse de sentiment avec des avis d'hôtels
 
 Maintenant que vous avez exploré le jeu de données en détail, il est temps de filtrer les colonnes et d'utiliser des techniques de NLP sur le jeu de données pour obtenir de nouvelles informations sur les hôtels.

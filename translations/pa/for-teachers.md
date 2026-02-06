@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b37de02054fa6c0438ede6fabe1fdfb8",
-  "translation_date": "2025-08-29T16:34:03+00:00",
-  "source_file": "for-teachers.md",
-  "language_code": "pa"
-}
--->
 ## ਸਿੱਖਿਆ ਦੇਣ ਵਾਲਿਆਂ ਲਈ
 
 ਕੀ ਤੁਸੀਂ ਇਸ ਪਾਠਕ੍ਰਮ ਨੂੰ ਆਪਣੇ ਕਲਾਸਰੂਮ ਵਿੱਚ ਵਰਤਣਾ ਚਾਹੁੰਦੇ ਹੋ? ਬੇਝਿਜਕ ਵਰਤੋ!

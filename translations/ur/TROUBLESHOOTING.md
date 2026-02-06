@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "134d8759f0e2ab886e9aa4f62362c201",
-  "translation_date": "2025-10-03T12:37:51+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "ur"
-}
--->
 # خرابیوں کا سراغ لگانے کی گائیڈ
 
 یہ گائیڈ آپ کو مشین لرننگ فار بیگنرز نصاب کے ساتھ کام کرتے وقت عام مسائل حل کرنے میں مدد دیتی ہے۔ اگر آپ کو یہاں حل نہ ملے تو براہ کرم ہمارے [Discord Discussions](https://aka.ms/foundry/discord) کو چیک کریں یا [ایک مسئلہ درج کریں](https://github.com/microsoft/ML-For-Beginners/issues)۔

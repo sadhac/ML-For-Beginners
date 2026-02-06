@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-09-04T23:55:59+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "fi"
-}
--->
 # Aikasarjojen ennustaminen Support Vector Regressor -mallilla
 
 Edellisessä osiossa opit käyttämään ARIMA-mallia aikasarjojen ennustamiseen. Nyt tutustut Support Vector Regressor -malliin, joka on regressiomalli jatkuvien arvojen ennustamiseen.

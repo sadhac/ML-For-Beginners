@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-08-29T13:08:50+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "ur"
-}
--->
 # وقت کے سلسلے کی پیش گوئی کا تعارف
 
 وقت کے سلسلے کی پیش گوئی کیا ہے؟ یہ ماضی کے رجحانات کا تجزیہ کرکے مستقبل کے واقعات کی پیش گوئی کرنے کے بارے میں ہے۔

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "107d5bb29da8a562e7ae72262d251a75",
-  "translation_date": "2025-09-05T16:44:35+00:00",
-  "source_file": "8-Reinforcement/2-Gym/README.md",
-  "language_code": "sw"
-}
--->
 ## Mahitaji ya Awali
 
 Katika somo hili, tutatumia maktaba inayoitwa **OpenAI Gym** kuiga mazingira tofauti. Unaweza kuendesha msimbo wa somo hili kwenye kompyuta yako (mfano, kutoka Visual Studio Code), ambapo simulizi itafunguka kwenye dirisha jipya. Unapokimbia msimbo mtandaoni, huenda ukahitaji kufanya marekebisho fulani kwenye msimbo, kama ilivyoelezwa [hapa](https://towardsdatascience.com/rendering-openai-gym-envs-on-binder-and-google-colab-536f99391cc7).

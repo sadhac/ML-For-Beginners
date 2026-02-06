@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "107d5bb29da8a562e7ae72262d251a75",
-  "translation_date": "2025-10-11T11:16:15+00:00",
-  "source_file": "8-Reinforcement/2-Gym/README.md",
-  "language_code": "et"
-}
--->
 # CartPole Uisutamine
 
 Probleem, mida me eelmises tunnis lahendasime, võib tunduda mänguline ja mitte eriti elulähedane. Tegelikult see nii ei ole, sest paljud päriselulised probleemid jagavad sama stsenaariumi – näiteks malet või Go-d mängides. Need on sarnased, kuna meil on samuti mängulaud kindlate reeglitega ja **diskreetne olek**.

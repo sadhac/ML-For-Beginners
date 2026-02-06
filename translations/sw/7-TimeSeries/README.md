@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61342603bad8acadbc6b2e4e3aab3f66",
-  "translation_date": "2025-09-05T15:27:33+00:00",
-  "source_file": "7-TimeSeries/README.md",
-  "language_code": "sw"
-}
--->
 # Utangulizi wa utabiri wa mfululizo wa muda
 
 Utabiri wa mfululizo wa muda ni nini? Ni kuhusu kutabiri matukio ya baadaye kwa kuchambua mwenendo wa zamani.

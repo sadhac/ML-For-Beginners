@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1f2b7441745eb52e25745423b247016b",
-  "translation_date": "2025-09-04T00:31:20+00:00",
-  "source_file": "8-Reinforcement/2-Gym/assignment.md",
-  "language_code": "ko"
-}
--->
 # 산악 자동차 훈련하기
 
 [OpenAI Gym](http://gym.openai.com)은 모든 환경이 동일한 API를 제공하도록 설계되었습니다. 즉, `reset`, `step`, `render`와 같은 동일한 메서드와 **action space** 및 **observation space**의 동일한 추상화를 제공합니다. 따라서 동일한 강화 학습 알고리즘을 최소한의 코드 변경으로 다양한 환경에 적용할 수 있어야 합니다.

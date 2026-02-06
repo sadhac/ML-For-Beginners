@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fa81d226c71d5af7a2cade31c1c92b88",
-  "translation_date": "2025-12-19T13:54:05+00:00",
-  "source_file": "2-Regression/1-Tools/README.md",
-  "language_code": "te"
-}
--->
 # రిగ్రెషన్ మోడల్స్ కోసం Python మరియు Scikit-learn తో ప్రారంభించండి
 
 ![Summary of regressions in a sketchnote](../../../../translated_images/te/ml-regression.4e4f70e3b3ed446e.webp)

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4485a1ed4dd1b5647365e3d87456515d",
-  "translation_date": "2025-09-05T18:57:13+00:00",
-  "source_file": "2-Regression/2-Data/assignment.md",
-  "language_code": "ms"
-}
--->
 # Meneroka Visualisasi
 
 Terdapat beberapa perpustakaan yang tersedia untuk visualisasi data. Cipta beberapa visualisasi menggunakan data Labu dalam pelajaran ini dengan matplotlib dan seaborn dalam buku nota sampel. Perpustakaan mana yang lebih mudah digunakan?

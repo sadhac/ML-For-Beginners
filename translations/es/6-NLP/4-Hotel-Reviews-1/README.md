@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "8d32dadeda93c6fb5c43619854882ab1",
-  "translation_date": "2025-09-04T22:27:31+00:00",
-  "source_file": "6-NLP/4-Hotel-Reviews-1/README.md",
-  "language_code": "es"
-}
--->
 # Análisis de sentimientos con reseñas de hoteles - procesando los datos
 
 En esta sección, utilizarás las técnicas de las lecciones anteriores para realizar un análisis exploratorio de datos en un conjunto de datos grande. Una vez que tengas una buena comprensión de la utilidad de las diferentes columnas, aprenderás:

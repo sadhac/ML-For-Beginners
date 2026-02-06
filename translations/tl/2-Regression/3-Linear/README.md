@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-05T18:08:24+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "tl"
-}
--->
 # Gumawa ng regression model gamit ang Scikit-learn: regression sa apat na paraan
 
 ![Linear vs polynomial regression infographic](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -114,11 +105,11 @@ Ngayon na nauunawaan mo ang math sa likod ng linear regression, gumawa tayo ng R
 
 Mula sa nakaraang aralin, marahil nakita mo na ang average na presyo para sa iba't ibang buwan ay ganito:
 
-<img alt="Average price by month" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="Average price by month" src="../../../../translated_images/tl/barchart.a833ea9194346d76.webp" width="50%"/>
 
 Ipinapakita nito na maaaring may correlation, at maaari nating subukang sanayin ang linear regression model upang hulaan ang relasyon sa pagitan ng `Month` at `Price`, o sa pagitan ng `DayOfYear` at `Price`. Narito ang scatter plot na nagpapakita ng huling relasyon:
 
-<img alt="Scatter plot of Price vs. Day of Year" src="images/scatter-dayofyear.png" width="50%" /> 
+<img alt="Scatter plot of Price vs. Day of Year" src="../../../../translated_images/tl/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" /> 
 
 Tingnan natin kung may correlation gamit ang `corr` function:
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="Scatter plot of Price vs. Day of Year" src="images/scatter-dayofyear-color.png" width="50%" /> 
+<img alt="Scatter plot of Price vs. Day of Year" src="../../../../translated_images/tl/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" /> 
 
 Ang ating pagsisiyasat ay nagpapahiwatig na ang variety ay may mas malaking epekto sa kabuuang presyo kaysa sa aktwal na petsa ng pagbebenta. Makikita natin ito gamit ang bar graph:
 
@@ -145,7 +136,7 @@ Ang ating pagsisiyasat ay nagpapahiwatig na ang variety ay may mas malaking epek
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="Bar graph of price vs variety" src="images/price-by-variety.png" width="50%" /> 
+<img alt="Bar graph of price vs variety" src="../../../../translated_images/tl/price-by-variety.744a2f9925d9bcb4.webp" width="50%" /> 
 
 Tumutok muna tayo sa isang pumpkin variety, ang 'pie type', at tingnan kung anong epekto ang petsa sa presyo:
 
@@ -153,7 +144,7 @@ Tumutok muna tayo sa isang pumpkin variety, ang 'pie type', at tingnan kung anon
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="Scatter plot of Price vs. Day of Year" src="images/pie-pumpkins-scatter.png" width="50%" /> 
+<img alt="Scatter plot of Price vs. Day of Year" src="../../../../translated_images/tl/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" /> 
 
 Kung kalkulahin natin ngayon ang correlation sa pagitan ng `Price` at `DayOfYear` gamit ang `corr` function, makakakuha tayo ng humigit-kumulang `-0.27` - na nangangahulugang may saysay ang pagsasanay ng predictive model.
 
@@ -227,7 +218,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```  
 
-<img alt="Linear regression" src="images/linear-results.png" width="50%" />
+<img alt="Linear regression" src="../../../../translated_images/tl/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## Polynomial Regression
 
@@ -256,7 +247,7 @@ Ang paggamit ng `PolynomialFeatures(2)` ay nangangahulugan na isasama natin ang 
 
 Ang mga pipeline ay maaaring gamitin sa parehong paraan tulad ng orihinal na `LinearRegression` object, ibig sabihin maaari nating `fit` ang pipeline, at pagkatapos ay gamitin ang `predict` upang makuha ang mga resulta ng prediksyon. Narito ang graph na nagpapakita ng test data, at ang approximation curve:
 
-<img alt="Polynomial regression" src="images/poly-results.png" width="50%" />
+<img alt="Polynomial regression" src="../../../../translated_images/tl/poly-results.ee587348f0f1f60b.webp" width="50%" />
 
 Sa paggamit ng Polynomial Regression, maaari tayong makakuha ng bahagyang mas mababang MSE at mas mataas na determination, ngunit hindi gaanong malaki. Kailangan nating isaalang-alang ang iba pang mga features!
 
@@ -274,7 +265,7 @@ Sa ideal na mundo, nais nating mahulaan ang mga presyo para sa iba't ibang uri n
 
 Narito makikita mo kung paano nakadepende ang average na presyo sa variety:
 
-<img alt="Average price by variety" src="images/price-by-variety.png" width="50%" />
+<img alt="Average price by variety" src="../../../../translated_images/tl/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 Upang isama ang variety, kailangan muna nating i-convert ito sa numeric form, o **encode** ito. May ilang paraan upang gawin ito:
 

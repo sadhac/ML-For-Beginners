@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ee0670655c89e4719319764afb113624",
-  "translation_date": "2025-09-04T00:45:32+00:00",
-  "source_file": "6-NLP/data/README.md",
-  "language_code": "ko"
-}
--->
 이 폴더에 호텔 리뷰 데이터를 다운로드하세요.
 
 ---

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-09-04T22:35:42+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "fa"
-}
--->
 # پیش‌بینی سری‌های زمانی با استفاده از مدل Support Vector Regressor
 
 در درس قبلی، یاد گرفتید که چگونه از مدل ARIMA برای پیش‌بینی سری‌های زمانی استفاده کنید. اکنون به مدل Support Vector Regressor می‌پردازیم که یک مدل رگرسیون برای پیش‌بینی داده‌های پیوسته است.

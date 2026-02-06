@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cf8ecc83f28e5b98051d2179eca08e08",
-  "translation_date": "2025-09-05T21:37:30+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "sv"
-}
--->
 # Introduktion till maskininlärning
 
 I den här delen av kursplanen kommer du att introduceras till de grundläggande koncepten inom området maskininlärning, vad det är, och lära dig om dess historia och de tekniker forskare använder för att arbeta med det. Låt oss utforska denna nya värld av ML tillsammans!

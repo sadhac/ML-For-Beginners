@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cf8ecc83f28e5b98051d2179eca08e08",
-  "translation_date": "2025-09-03T23:25:46+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "fr"
-}
--->
 # Introduction au machine learning
 
 Dans cette section du programme, vous serez initié aux concepts de base qui sous-tendent le domaine du machine learning, ce qu'il est, et vous découvrirez son histoire ainsi que les techniques utilisées par les chercheurs pour travailler avec lui. Explorons ensemble ce nouvel univers du ML !

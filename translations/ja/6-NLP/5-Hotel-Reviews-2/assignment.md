@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "daf144daa552da6a7d442aff6f3e77d8",
-  "translation_date": "2025-09-04T00:59:44+00:00",
-  "source_file": "6-NLP/5-Hotel-Reviews-2/assignment.md",
-  "language_code": "ja"
-}
--->
 # 別のデータセットを試してみよう
 
 ## 手順

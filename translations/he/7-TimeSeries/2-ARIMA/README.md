@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "917dbf890db71a322f306050cb284749",
-  "translation_date": "2025-09-05T18:59:03+00:00",
-  "source_file": "7-TimeSeries/2-ARIMA/README.md",
-  "language_code": "he"
-}
--->
 # חיזוי סדרות זמן עם ARIMA
 
 בשיעור הקודם, למדתם מעט על חיזוי סדרות זמן וטעינת מערך נתונים שמציג את התנודות בעומס החשמלי לאורך תקופת זמן.

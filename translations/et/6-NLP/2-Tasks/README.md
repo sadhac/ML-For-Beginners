@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5f3cb462e3122e1afe7ab0050ccf2bd3",
-  "translation_date": "2025-10-11T11:37:14+00:00",
-  "source_file": "6-NLP/2-Tasks/README.md",
-  "language_code": "et"
-}
--->
 # Looduslike keelte töötlemise (NLP) levinud ülesanded ja tehnikad
 
 Enamiku *looduslike keelte töötlemise* ülesannete puhul tuleb töödeldav tekst jagada osadeks, analüüsida ja tulemused salvestada või reeglite ja andmekogumitega võrrelda. Need ülesanded võimaldavad programmeerijal tuletada teksti _tähendust_, _eesmärki_ või lihtsalt _sõnade ja terminite sagedust_.

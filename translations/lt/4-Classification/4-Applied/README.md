@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "61bdec27ed2da8b098cd9065405d9bb0",
-  "translation_date": "2025-09-05T07:59:28+00:00",
-  "source_file": "4-Classification/4-Applied/README.md",
-  "language_code": "lt"
-}
--->
 # Sukurkite virtuvės rekomendacijų žiniatinklio programą
 
 Šioje pamokoje sukursite klasifikavimo modelį, naudodami kai kurias technikas, kurias išmokote ankstesnėse pamokose, ir skanų virtuvės duomenų rinkinį, naudotą visoje šioje serijoje. Be to, sukursite nedidelę žiniatinklio programą, kuri naudos išsaugotą modelį, pasitelkdama Onnx žiniatinklio vykdymo aplinką.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "df2b538e8fbb3e91cf0419ae2f858675",
-  "translation_date": "2025-09-04T21:57:35+00:00",
-  "source_file": "9-Real-World/2-Debugging-ML-Models/README.md",
-  "language_code": "de"
-}
--->
 # Postskriptum: Modell-Debugging im maschinellen Lernen mit Komponenten des Responsible AI Dashboards
 
 ## [Quiz vor der Vorlesung](https://ff-quizzes.netlify.app/en/ml/)

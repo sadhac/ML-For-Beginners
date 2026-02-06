@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cf8ecc83f28e5b98051d2179eca08e08",
-  "translation_date": "2025-09-05T12:34:58+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "hr"
-}
--->
 # Uvod u strojno učenje
 
 U ovom dijelu kurikuluma upoznat ćete osnovne pojmove koji čine temelj područja strojnog učenja, što ono jest, te ćete saznati o njegovoj povijesti i tehnikama koje istraživači koriste za rad s njim. Istražimo zajedno ovaj novi svijet strojnog učenja!

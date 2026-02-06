@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dbda60e7b1fe5f18974e7858eff0004e",
-  "translation_date": "2025-09-05T00:25:49+00:00",
-  "source_file": "1-Introduction/3-fairness/assignment.md",
-  "language_code": "el"
-}
--->
 # Εξερευνήστε το Εργαλείο Υπεύθυνης Τεχνητής Νοημοσύνης
 
 ## Οδηγίες

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "911efd5e595089000cb3c16fce1beab8",
-  "translation_date": "2025-09-06T10:59:08+00:00",
-  "source_file": "8-Reinforcement/1-QLearning/README.md",
-  "language_code": "en"
-}
--->
 ## Visualizing the Learned Policy
 
 After running the learning algorithm, we can visualize the Q-Table to see the learned policy. The arrows (or circles) in each cell will indicate the preferred direction of movement based on the Q-Table values. This visualization helps us understand how the agent has learned to navigate the environment.

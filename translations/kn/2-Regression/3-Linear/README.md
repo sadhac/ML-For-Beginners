@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-12-19T13:51:46+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "kn"
-}
--->
 # Scikit-learn ಬಳಸಿ ರೆಗ್ರೆಶನ್ ಮಾದರಿಯನ್ನು ನಿರ್ಮಿಸಿ: ರೆಗ್ರೆಶನ್ ನಾಲ್ಕು ರೀತಿಗಳು
 
 ![ರೇಖೀಯ ಮತ್ತು ಬಹುಪದ ರೆಗ್ರೆಶನ್ ಇನ್ಫೋಗ್ರಾಫಿಕ್](../../../../translated_images/kn/linear-polynomial.5523c7cb6576ccab.webp)

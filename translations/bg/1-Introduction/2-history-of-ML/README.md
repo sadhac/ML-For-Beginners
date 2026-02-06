@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6a05fec147e734c3e6bfa54505648e2b",
-  "translation_date": "2025-09-05T00:32:38+00:00",
-  "source_file": "1-Introduction/2-history-of-ML/README.md",
-  "language_code": "bg"
-}
--->
 # История на машинното обучение
 
 ![Обобщение на историята на машинното обучение в скица](../../../../sketchnotes/ml-history.png)

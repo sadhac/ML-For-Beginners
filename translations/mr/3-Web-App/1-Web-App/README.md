@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e0b75f73e4a90d45181dc5581fe2ef5c",
-  "translation_date": "2025-09-06T06:15:23+00:00",
-  "source_file": "3-Web-App/1-Web-App/README.md",
-  "language_code": "mr"
-}
--->
 # वेब अ‍ॅप तयार करा ज्यामध्ये ML मॉडेल वापरता येईल
 
 या धड्यात, तुम्ही एका अनोख्या डेटासेटवर ML मॉडेल ट्रेन कराल: _गेल्या शतकातील UFO दिसण्याच्या घटना_, ज्याचे स्रोत NUFORC च्या डेटाबेसमधून घेतले आहे.

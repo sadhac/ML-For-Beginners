@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "107d5bb29da8a562e7ae72262d251a75",
-  "translation_date": "2025-09-05T16:47:06+00:00",
-  "source_file": "8-Reinforcement/2-Gym/README.md",
-  "language_code": "ro"
-}
--->
 ## Cerințe preliminare
 
 În această lecție, vom folosi o bibliotecă numită **OpenAI Gym** pentru a simula diferite **medii**. Poți rula codul lecției local (de exemplu, din Visual Studio Code), caz în care simularea se va deschide într-o fereastră nouă. Dacă rulezi codul online, poate fi necesar să faci unele ajustări, așa cum este descris [aici](https://towardsdatascience.com/rendering-openai-gym-envs-on-binder-and-google-colab-536f99391cc7).

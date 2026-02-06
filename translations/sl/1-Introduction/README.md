@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cf8ecc83f28e5b98051d2179eca08e08",
-  "translation_date": "2025-09-05T12:35:07+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "sl"
-}
--->
 # Uvod v strojno učenje
 
 V tem delu učnega načrta boste spoznali osnovne koncepte, ki so temelj področja strojnega učenja, kaj to je, ter se seznanili z njegovo zgodovino in tehnikami, ki jih raziskovalci uporabljajo pri delu z njim. Raziskujmo ta novi svet strojnega učenja skupaj!

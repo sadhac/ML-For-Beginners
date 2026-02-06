@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "49047911108adc49d605cddfb455749c",
-  "translation_date": "2025-09-05T19:55:53+00:00",
-  "source_file": "4-Classification/3-Classifiers-2/README.md",
-  "language_code": "nl"
-}
--->
 # Culinair Classificators 2
 
 In deze tweede les over classificatie ga je meer manieren verkennen om numerieke gegevens te classificeren. Je leert ook over de gevolgen van het kiezen van de ene classifier boven de andere.

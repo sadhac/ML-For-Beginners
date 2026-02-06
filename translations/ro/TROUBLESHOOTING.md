@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "134d8759f0e2ab886e9aa4f62362c201",
-  "translation_date": "2025-10-03T12:54:09+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "ro"
-}
--->
 # Ghid de depanare
 
 Acest ghid te ajută să rezolvi problemele comune întâlnite în lucrul cu curriculumul Machine Learning for Beginners. Dacă nu găsești o soluție aici, verifică [Discuțiile pe Discord](https://aka.ms/foundry/discord) sau [deschide o problemă](https://github.com/microsoft/ML-For-Beginners/issues).

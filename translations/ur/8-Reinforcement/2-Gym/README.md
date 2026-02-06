@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "107d5bb29da8a562e7ae72262d251a75",
-  "translation_date": "2025-09-06T08:58:16+00:00",
-  "source_file": "8-Reinforcement/2-Gym/README.md",
-  "language_code": "ur"
-}
--->
 ## ضروریات
 
 اس سبق میں، ہم ایک لائبریری **OpenAI Gym** استعمال کریں گے تاکہ مختلف **ماحول** کی تخلیق کی جا سکے۔ آپ اس سبق کا کوڈ مقامی طور پر (مثلاً Visual Studio Code سے) چلا سکتے ہیں، جس صورت میں سیمولیشن ایک نئی ونڈو میں کھلے گی۔ آن لائن کوڈ چلانے کی صورت میں، آپ کو کوڈ میں کچھ تبدیلیاں کرنی پڑ سکتی ہیں، جیسا کہ [یہاں](https://towardsdatascience.com/rendering-openai-gym-envs-on-binder-and-google-colab-536f99391cc7) بیان کیا گیا ہے۔

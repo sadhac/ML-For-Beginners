@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "482bccabe1df958496ea71a3667995cd",
-  "translation_date": "2025-09-05T12:04:47+00:00",
-  "source_file": "7-TimeSeries/3-SVR/README.md",
-  "language_code": "hr"
-}
--->
 # Predviđanje vremenskih serija pomoću Support Vector Regressor-a
 
 U prethodnoj lekciji naučili ste kako koristiti ARIMA model za predviđanje vremenskih serija. Sada ćemo se fokusirati na model Support Vector Regressor, koji se koristi za predviđanje kontinuiranih podataka.

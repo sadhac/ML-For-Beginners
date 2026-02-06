@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "6d130dffca5db70d7e615f926cb1ad4c",
-  "translation_date": "2025-09-05T19:47:41+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "vi"
-}
--->
 # Câu hỏi trắc nghiệm
 
 Các câu hỏi trắc nghiệm này là bài kiểm tra trước và sau bài giảng trong chương trình học ML tại https://aka.ms/ml-beginners

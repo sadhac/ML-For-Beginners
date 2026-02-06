@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e0b75f73e4a90d45181dc5581fe2ef5c",
-  "translation_date": "2025-09-06T07:07:24+00:00",
-  "source_file": "3-Web-App/1-Web-App/README.md",
-  "language_code": "pa"
-}
--->
 # ਮਸ਼ੀਨ ਲਰਨਿੰਗ ਮਾਡਲ ਵਰਤਣ ਲਈ ਵੈੱਬ ਐਪ ਬਣਾਓ
 
 ਇਸ ਪਾਠ ਵਿੱਚ, ਤੁਸੀਂ ਇੱਕ ਡਾਟਾ ਸੈੱਟ 'ਤੇ ਮਸ਼ੀਨ ਲਰਨਿੰਗ ਮਾਡਲ ਨੂੰ ਟ੍ਰੇਨ ਕਰੋਗੇ ਜੋ ਬਹੁਤ ਹੀ ਦਿਲਚਸਪ ਹੈ: _ਪਿਛਲੇ ਸਦੀ ਦੇ ਦੌਰਾਨ ਦੇਖੇ ਗਏ UFO_, ਜੋ ਕਿ NUFORC ਦੇ ਡਾਟਾਬੇਸ ਤੋਂ ਲਿਆ ਗਿਆ ਹੈ।

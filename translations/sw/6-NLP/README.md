@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1eb379dc2d0c9940b320732d16083778",
-  "translation_date": "2025-09-05T16:49:11+00:00",
-  "source_file": "6-NLP/README.md",
-  "language_code": "sw"
-}
--->
 # Kuanza na usindikaji wa lugha asilia
 
 Usindikaji wa lugha asilia (NLP) ni uwezo wa programu ya kompyuta kuelewa lugha ya binadamu kama inavyoongelewa na kuandikwa -- inayojulikana kama lugha asilia. Ni sehemu ya akili bandia (AI). NLP imekuwepo kwa zaidi ya miaka 50 na ina mizizi katika uwanja wa isimu. Uwanja mzima unalenga kusaidia mashine kuelewa na kushughulikia lugha ya binadamu. Hii inaweza kutumika kutekeleza majukumu kama ukaguzi wa tahajia au tafsiri ya mashine. Ina matumizi mbalimbali ya ulimwengu halisi katika nyanja kadhaa, ikiwa ni pamoja na utafiti wa matibabu, injini za utafutaji na ujasusi wa biashara.

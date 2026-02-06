@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "662b509c39eee205687726636d0a8455",
-  "translation_date": "2025-09-05T21:21:53+00:00",
-  "source_file": "7-TimeSeries/1-Introduction/README.md",
-  "language_code": "no"
-}
--->
 # Introduksjon til tidsserieprognoser
 
 ![Oppsummering av tidsserier i en sketchnote](../../../../sketchnotes/ml-timeseries.png)

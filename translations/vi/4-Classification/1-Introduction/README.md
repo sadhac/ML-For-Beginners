@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "aaf391d922bd6de5efba871d514c6d47",
-  "translation_date": "2025-09-05T19:58:59+00:00",
-  "source_file": "4-Classification/1-Introduction/README.md",
-  "language_code": "vi"
-}
--->
 # Giới thiệu về phân loại
 
 Trong bốn bài học này, bạn sẽ khám phá một trọng tâm cơ bản của học máy cổ điển - _phân loại_. Chúng ta sẽ cùng tìm hiểu cách sử dụng các thuật toán phân loại khác nhau với một tập dữ liệu về các món ăn tuyệt vời của châu Á và Ấn Độ. Hy vọng bạn đã sẵn sàng để thưởng thức!

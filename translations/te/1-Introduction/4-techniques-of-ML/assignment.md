@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "70d65aeddc06170bc1aed5b27805f930",
-  "translation_date": "2025-12-19T13:38:55+00:00",
-  "source_file": "1-Introduction/4-techniques-of-ML/assignment.md",
-  "language_code": "te"
-}
--->
 # డేటా సైంటిస్ట్‌ను ఇంటర్వ్యూ చేయండి
 
 ## సూచనలు

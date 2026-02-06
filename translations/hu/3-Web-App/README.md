@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9836ff53cfef716ddfd70e06c5f43436",
-  "translation_date": "2025-09-05T16:12:01+00:00",
-  "source_file": "3-Web-App/README.md",
-  "language_code": "hu"
-}
--->
 # Készíts egy webalkalmazást az ML modelled használatához
 
 A tananyag ezen részében egy alkalmazott gépi tanulási témával ismerkedhetsz meg: hogyan lehet a Scikit-learn modelledet fájlként elmenteni, amelyet egy webalkalmazásban használhatsz előrejelzések készítésére. Miután a modellt elmentetted, megtanulod, hogyan használd egy Flask-ben épített webalkalmazásban. Először létrehozol egy modellt egy olyan adathalmaz alapján, amely UFO-észlelésekről szól! Ezután építesz egy webalkalmazást, amely lehetővé teszi, hogy megadj egy másodpercértéket, valamint egy szélességi és hosszúsági koordinátát, hogy előre jelezd, melyik ország jelentett UFO-észlelést.

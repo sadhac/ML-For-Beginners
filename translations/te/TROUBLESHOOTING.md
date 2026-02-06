@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "134d8759f0e2ab886e9aa4f62362c201",
-  "translation_date": "2025-12-19T12:29:53+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "te"
-}
--->
 # సమస్య పరిష్కరణ గైడ్
 
 ఈ గైడ్ మిషీన్ లెర్నింగ్ ఫర్ బిగినర్స్ పాఠ్యాంశంతో పని చేస్తున్నప్పుడు సాధారణ సమస్యలను పరిష్కరించడంలో మీకు సహాయం చేస్తుంది. మీరు ఇక్కడ పరిష్కారం కనుగొనకపోతే, దయచేసి మా [Discord చర్చలు](https://aka.ms/foundry/discord)ను చూడండి లేదా [ఇష్యూ ఓపెన్ చేయండి](https://github.com/microsoft/ML-For-Beginners/issues).

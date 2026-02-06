@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "134d8759f0e2ab886e9aa4f62362c201",
-  "translation_date": "2025-10-03T12:36:32+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "ru"
-}
--->
 # Руководство по устранению неполадок
 
 Это руководство поможет вам решить распространенные проблемы при работе с учебной программой "Машинное обучение для начинающих". Если вы не нашли решение здесь, загляните в наши [обсуждения на Discord](https://aka.ms/foundry/discord) или [откройте новый запрос](https://github.com/microsoft/ML-For-Beginners/issues).

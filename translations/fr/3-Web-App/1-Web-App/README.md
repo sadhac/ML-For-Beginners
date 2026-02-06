@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e0b75f73e4a90d45181dc5581fe2ef5c",
-  "translation_date": "2025-09-04T23:01:48+00:00",
-  "source_file": "3-Web-App/1-Web-App/README.md",
-  "language_code": "fr"
-}
--->
 # Construire une application web pour utiliser un modèle de machine learning
 
 Dans cette leçon, vous allez entraîner un modèle de machine learning sur un ensemble de données hors du commun : _les observations d'OVNI au cours du siècle dernier_, provenant de la base de données de NUFORC.

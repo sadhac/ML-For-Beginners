@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40e64f004f3cb50aa1d8661672d3cd92",
-  "translation_date": "2025-09-05T15:12:24+00:00",
-  "source_file": "2-Regression/3-Linear/README.md",
-  "language_code": "ro"
-}
--->
 # Construirea unui model de regresie folosind Scikit-learn: patru metode de regresie
 
 ![Infografic regresie liniară vs regresie polinomială](../../../../2-Regression/3-Linear/images/linear-polynomial.png)
@@ -114,11 +105,11 @@ Acum că ai o înțelegere a matematicii din spatele regresiei liniare, să cre�
 
 Din lecția anterioară, probabil ai observat că prețul mediu pentru diferite luni arată astfel:
 
-<img alt="Preț mediu pe lună" src="../2-Data/images/barchart.png" width="50%"/>
+<img alt="Preț mediu pe lună" src="../../../../translated_images/ro/barchart.a833ea9194346d76.webp" width="50%"/>
 
 Acest lucru sugerează că ar trebui să existe o anumită corelație, iar noi putem încerca să antrenăm un model de regresie liniară pentru a prezice relația dintre `Lună` și `Preț`, sau dintre `ZiuaAnului` și `Preț`. Iată scatterplot-ul care arată ultima relație:
 
-<img alt="Scatterplot Preț vs. Ziua Anului" src="images/scatter-dayofyear.png" width="50%" />
+<img alt="Scatterplot Preț vs. Ziua Anului" src="../../../../translated_images/ro/scatter-dayofyear.bc171c189c9fd553.webp" width="50%" />
 
 Să vedem dacă există o corelație folosind funcția `corr`:
 
@@ -137,7 +128,7 @@ for i,var in enumerate(new_pumpkins['Variety'].unique()):
     ax = df.plot.scatter('DayOfYear','Price',ax=ax,c=colors[i],label=var)
 ```
 
-<img alt="Scatterplot Preț vs. Ziua Anului" src="images/scatter-dayofyear-color.png" width="50%" />
+<img alt="Scatterplot Preț vs. Ziua Anului" src="../../../../translated_images/ro/scatter-dayofyear-color.65790faefbb9d54f.webp" width="50%" />
 
 Investigația noastră sugerează că varietatea are un efect mai mare asupra prețului general decât data efectivă de vânzare. Putem vedea acest lucru cu un grafic de tip bară:
 
@@ -145,7 +136,7 @@ Investigația noastră sugerează că varietatea are un efect mai mare asupra pr
 new_pumpkins.groupby('Variety')['Price'].mean().plot(kind='bar')
 ```
 
-<img alt="Grafic de tip bară preț vs varietate" src="images/price-by-variety.png" width="50%" />
+<img alt="Grafic de tip bară preț vs varietate" src="../../../../translated_images/ro/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 Să ne concentrăm pentru moment doar pe o singură varietate de dovleci, 'tip plăcintă', și să vedem ce efect are data asupra prețului:
 
@@ -153,7 +144,7 @@ Să ne concentrăm pentru moment doar pe o singură varietate de dovleci, 'tip p
 pie_pumpkins = new_pumpkins[new_pumpkins['Variety']=='PIE TYPE']
 pie_pumpkins.plot.scatter('DayOfYear','Price') 
 ```
-<img alt="Scatterplot Preț vs. Ziua Anului" src="images/pie-pumpkins-scatter.png" width="50%" />
+<img alt="Scatterplot Preț vs. Ziua Anului" src="../../../../translated_images/ro/pie-pumpkins-scatter.d14f9804a53f927e.webp" width="50%" />
 
 Dacă acum calculăm corelația dintre `Preț` și `ZiuaAnului` folosind funcția `corr`, vom obține ceva în jur de `-0.27` - ceea ce înseamnă că antrenarea unui model predictiv are sens.
 
@@ -227,7 +218,7 @@ plt.scatter(X_test,y_test)
 plt.plot(X_test,pred)
 ```  
 
-<img alt="Regresie liniară" src="images/linear-results.png" width="50%" />
+<img alt="Regresie liniară" src="../../../../translated_images/ro/linear-results.f7c3552c85b0ed1c.webp" width="50%" />
 
 ## Regresie Polinomială
 
@@ -256,7 +247,7 @@ Utilizarea `PolynomialFeatures(2)` înseamnă că vom include toate polinoamele 
 
 Pipeline-urile pot fi utilizate în același mod ca obiectul original `LinearRegression`, adică putem aplica `fit` pipeline-ului și apoi utiliza `predict` pentru a obține rezultatele predicției. Iată graficul care arată datele de testare și curba de aproximare:
 
-<img alt="Regresie polinomială" src="images/poly-results.png" width="50%" />
+<img alt="Regresie polinomială" src="../../../../translated_images/ro/poly-results.ee587348f0f1f60b.webp" width="50%" />
 
 Folosind regresia polinomială, putem obține un MSE ușor mai mic și un coeficient de determinare mai mare, dar nu semnificativ. Trebuie să luăm în considerare alte caracteristici!
 
@@ -274,7 +265,7 @@ Folosind regresia polinomială, putem obține un MSE ușor mai mic și un coefic
 
 Aici poți vedea cum prețul mediu depinde de varietate:
 
-<img alt="Preț mediu pe varietate" src="images/price-by-variety.png" width="50%" />
+<img alt="Preț mediu pe varietate" src="../../../../translated_images/ro/price-by-variety.744a2f9925d9bcb4.webp" width="50%" />
 
 Pentru a lua în considerare varietatea, mai întâi trebuie să o convertim într-o formă numerică, sau să o **codificăm**. Există mai multe moduri în care putem face acest lucru:
 

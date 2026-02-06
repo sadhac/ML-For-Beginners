@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9a6b702d1437c0467e3c5c28d763dac2",
-  "translation_date": "2025-11-18T18:22:42+00:00",
-  "source_file": "1-Introduction/3-fairness/README.md",
-  "language_code": "pcm"
-}
--->
 # How to Build Machine Learning Solutions Wey Get Responsible AI
 
 ![Summary of responsible AI in Machine Learning in a sketchnote](../../../../translated_images/pcm/ml-fairness.ef296ebec6afc98a.webp)
