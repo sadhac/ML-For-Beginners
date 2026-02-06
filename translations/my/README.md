@@ -8,167 +8,166 @@
 [![GitHub forks](https://img.shields.io/github/forks/microsoft/ML-For-Beginners.svg?style=social&label=Fork)](https://GitHub.com/microsoft/ML-For-Beginners/network/)
 [![GitHub stars](https://img.shields.io/github/stars/microsoft/ML-For-Beginners.svg?style=social&label=Star)](https://GitHub.com/microsoft/ML-For-Beginners/stargazers/)
 
-### 🌐 ဘာသာစကားစုံကို ထောက်ပံ့မှု
+### 🌐 ဘာသာစကားအမျိုးမျိုးအတွက် ထောက်ခံမှု
 
-#### GitHub Action မှတဆင့် ထောက်ပံ့ဝန်ဆောင်မှု (အလိုအလျောက်နှင့် အမြဲတမ်း နောက်ဆုံးပေါ်)
+#### GitHub Action ဖြင့် ထောက်ခံထားသည် (အလိုအလျောက်နှင့် အမြဲအသစ်ထားသည်)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](./README.md) | [Chinese (Simplified)](../zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](../zh-TW/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../pt-BR/README.md) | [Portuguese (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 
-> **ဒေါင်းလုဒ်ကို စက်တွင် ကလုံချင်ပါသလား?**
+> **ဒေသတွင်းကလုဏ်တင်ချင်ပါသလား?**
 
-> ဒီဂစ်စတွီးတွင် ဘာသာစကား ၅၀ ကျော်ပါဝင်ပြီး ဒေါင်းလုတ်အရွယ်အစားကို တတ္တိလည်းမြင့်စေပါတယ်။ ဘာသာပြန်မပါဘဲ ကလုံချင်လျှင် sparse checkout ကိုအသုံးပြုပါ:
+> ဤ repository တွင် ဘာသာစကား ၅၀ နှင့်အထက် ဘာသာပြန်ချက်များ ပါဝင်သည်၊ ဒါက ဒေါင်းလုပ်အရွယ်အစားကို အတွက်အကျယ်ပြန့်စေသည်။ ဘာသာပြန်ချက်များ မပါရှိဘဲ clone လုပ်ချင်တယ်ဆိုရင် sparse checkout ကိုသုံးပါ:
 > ```bash
 > git clone --filter=blob:none --sparse https://github.com/microsoft/ML-For-Beginners.git
 > cd ML-For-Beginners
 > git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
 > ```
-> ဒါလျှင် သင်သင်ယူမည့် အရာအားလုံးကို ပိုမိုမြန်ဆန်စွာ ဒေါင်းလုဒ်ရနိုင်မှာ ဖြစ်ပါတယ်။
+>  ဒါက သင့်ကို အတန်းကို ပြီးမြောက်အောင်အတွက် လိုအပ်တဲ့ အရာအားလုံးကို ပေးမည်ဖြစ်ပြီး ဒေါင်းလုပ်က အလွန်လျင်မြန်သည်။
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
-#### ကျွန်ုပ်တို့၏ အသိုင်းအဝိုင်း စုပေါင်းပါဝင်ပါ
+#### ကျွန်တော်တို့အသိုင်းအဝိုင်းကို တွဲပါ
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
 
-ကျွန်ုပ်တို့တွင် AI နှင့်အတူ သင်ယူခြင်းဆက်ဖြစ်နေပြီး၊ ၂၀၂၅ ခုနှစ် စက်တင်ဘာ ၁၈ ရက်မှ ၃၀ ရက်အထိ [Learn with AI Series](https://aka.ms/learnwithai/discord) တွင် ပိုမိုသိရှိနိုင်ပြီး GitHub Copilot ကို Data Science အတွက် အသုံးပြုပုံအကြံပြုချက်များ ရရှိနိုင်သည်။
+ကျွန်ုပ်တို့မှာ Discord မှာ AI နဲ့လေ့လာကြမယ့် စီးရီးတစ်ခု ရှိပြီး၊ [Learn with AI Series](https://aka.ms/learnwithai/discord) ဝက်ဘ်ဆိုက်မှာ 2025 ခုနှစ် စက်တင်ဘာ ၁၈ ရက် မှ ၃၀ ရက် အထိ ပိုမိုသိရှိပြီး လက်တွဲပါဝင်နိုင်ပါသည်။ GitHub Copilot ကို Data Science အတွက် သုံးနည့်နည်းလမ်းများကို သင်ယူရမှာ ဖြစ်ပါတယ်။
 
 ![Learn with AI series](../../translated_images/my/3.9b58fd8d6c373c20.webp)
 
-# အခြေခံအတန်းများအတွက် ယူနစ် - သင်ရိုးညွှန်းတမ်း
+# စက်ယန္တရားသင်ယူခြင်း အစပြုသူများအတွက် - သင်ရိုး برنامه
 
-> 🌍 ကမ္ဘာကို လှည့်လည် သရုပ်ပြမည့် Machine Learning အတန်းကို ယူနစ်အနေဖြင့် သင်ကြားမည် 🌍
+> 🌍 ကမ္ဘာအနှံ့အဆက်သွားရင်း စက်ယန္တရားသင်ယူမှုကို ကမ္ဘာ့ယဉ်ကျေးမှုများမှတဆင့် ရှာဖွေကြမယ် 🌍
 
-Microsoft ရဲ့ Cloud Advocates က ၁၂ ပတ်ကြာ၊ ၂၆ အခန်းပါရှိ သင်ရိုးညွှန်းတမ်းကို မိတ်ဆက်ပေးဖို့ ဝမ်းမြောက်ပါတယ်။ ဒီသင်ရိုးမှာ ကမ္ဘာအနှံ့ရှိ ယဉ်ကျေးမှုတွေကို အသုံးပြုပြီး မာရှင်လေ့လာမှု အသုံးချနည်းတွေကို သင်ကြားပေးမှာ ဖြစ်ပြီး Scikit-learn ဆိုတဲ့ ပိုထူးခြားစွာ အသုံးပြု ခဲ့တဲ့ classic machine learning သင်ခန်းစာတွေပါဝင်ပါတယ်။ Deep learning ကိုတော့ [AI for Beginners' curriculum](https://aka.ms/ai4beginners) မှာဖော်ပြထားပြီး ဒီသင်ရိုးနဲ့တွဲ (paired) သုံးဖို့ `'Data Science for Beginners' curriculum`(https://aka.ms/ds4beginners) ကိုလည်း ထည့်သွင်းထားပါတယ်။
+Microsoft မှ Cloud Advocates များက ၁၂ ပတ်၊ ၂၆ သင်ခန်းစာ ရှိသည့် စက်ယန္တရားသင်ယူခြင်း အကြောင်း ပြည့်စုံသင်ရိုးအစီအစဉ်ကို ပေးအပ်နေပါသည်။ ဤသင်ရိုးတွင် အဓိကအားဖြင့် Scikit-learn ကို အသုံးပြု၍ ရိုးရာစက်ယန္တရားသင်ယူခြင်းကို သင်ယူမည် ဖြစ်ပြီး, အနက်ရှိုင်းသော သင်ယူမှုများကိုမှ ကျွန်တော်တို့ [AI for Beginners' curriculum](https://aka.ms/ai4beginners) တွင် လေ့လာနိုင်သည်။ ဒီသင်ရိုးအစီအစဉ်ကို ကျွန်တော်တို့ရဲ့ ['Data Science for Beginners' curriculum](https://aka.ms/ds4beginners) အတူတွဲသင်ဖြင့် အသုံးပြုနိုင်ပါသည်။
 
-ကမ္ဘာအနှံ့ရှိ ဒေတာများကို ဒီ classic နည်းပညာတွေသုံးပြီး လေ့လာကာ ခရီးဆက်ပါ။ အခြား စာသင်ခန်းတစ်ခုချင်းစီမှာ သင်ခန်းစာ ခေါင်းစဉ်မှီခို ကျွမ်းကျင်မှု စစ်ဆေးမှု၊ သင်ခန်းစာ ရေးသားချက်များ၊ ဖြေရှင်းချက်၊ တာဝန်ကျေမှု၊ အခြားများ ပါဝင်ပါတယ်။ ပရောဂျက် အခြေပြု သင်ကြားမှုသည် သင်ယူရေး ပိုမိုကောင်းမွန်စေပြီး လေ့လာခဲ့သည့် နည်းလမ်းများ စွဲမြဲစေပါသည်။
+ကမ္ဘာ့ဒေတာများကို အသုံးပြု၍ ရိုးရာနည်းကောင်းများကို ကမ္ဘာအနှံ့ သွားရင်း လေ့လာကြမယ်။ သင်ခန်းစာတစ်ခုစီတွင် သင်ခန်းစာမတိုင်မီနှင့်ပြီးနောက် ပြသနာဖြေဆိုခြင်း၊ လက်တွေ့လုပ်ဆောင်ရန် ရေးသားချက်များ၊ ဖြေရှင်းချက်၊တာဝန်ထမ်းဆောင်မှုများ ပါဝင်သည်။ စီမံကိန်းအခြေပြု သင်ကြားမှုစနစ်က သင်ယူသူများ သင်ယူရမှုအသစ်ကို ပိုမိုသေချာစေသည်။
 
-**✍️ ကျေးဇူးအထူးတင်ရပါသည် ကျွန်ုပ်တို့၏စာရေးဆရာများ** Jen Looper, Stephen Howell, Francesca Lazzeri, Tomomi Imura, Cassie Breviu, Dmitry Soshnikov, Chris Noring, Anirban Mukherjee, Ornella Altunyan, Ruth Yakubu နှင့် Amy Boyd
+**✍️ ကျေးဇူးအထူးတင်ရှိသည် ကျွန်ုပ်တို့ရေးသားသူများ** Jen Looper, Stephen Howell, Francesca Lazzeri, Tomomi Imura, Cassie Breviu, Dmitry Soshnikov, Chris Noring, Anirban Mukherjee, Ornella Altunyan, Ruth Yakubu နှင့် Amy Boyd
 
-**🎨 ပုံဖော်သူများအားလုံးကိုလည်း ကျေးဇူးတင်ရှိ ပါသည်** Tomomi Imura, Dasani Madipalli, နှင့် Jen Looper
+**🎨 ကျေးဇူးတင်ရှိသည် ၎င်းတို့ ရေးဆွဲသူများ** Tomomi Imura, Dasani Madipalli, နှင့် Jen Looper
 
-**🙏 Microsoft Student Ambassador စာရေးဆရာ၊ ပြန်လည်သုံးသပ်သူနှင့် အကြောင်းအရာ ပံ့ပိုးသူများအတွက် အထူးပင် ကျေးဇူးတင်ရှိပါတယ်**၊ Rishit Dagli, Muhammad Sakib Khan Inan, Rohan Raj, Alexandru Petrescu, Abhishek Jaiswal, Nawrin Tabassum, Ioan Samuila, နှင့် Snigdha Agarwal အပါအဝင်
+**🙏 Microsoft Student Ambassador များသာရေးသားသူများ၊ ပြန်လည်သုံးသပ်သူများနှင့် ပံ့ပိုးသူများအတွက် အထူးသန့်ကျင်မှု** Rishit Dagli, Muhammad Sakib Khan Inan, Rohan Raj, Alexandru Petrescu, Abhishek Jaiswal, Nawrin Tabassum, Ioan Samuila, နှင့် Snigdha Agarwal တို့အပါအဝင်
 
-**🤩 Microsoft Student Ambassadors Eric Wanjau, Jasleen Sondhi, နှင့် Vidushi Gupta တို့အတွက် R သင်ခန်းစာများအတွက် အပိုပြီး ကျေးဇူးတင်ရှိပါတယ်!**
+**🤩 ကျေးဇူးအထူးတင်ရှိသည် Microsoft Student Ambassadors Eric Wanjau, Jasleen Sondhi, နှင့် Vidushi Gupta များအား R သင်ခန်းစာများအတွက်!**
 
-# စတင်နည်းအသစ်များ
+# စတင်ရန်
 
 အောက်ပါအဆင့်များကို လိုက်နာပါ။
-1. **Repository ကို Fork လုပ်ပါ**: ဒီစာမျက်နှာ၏ အပေါ်ညာထောင့်ရှိ "Fork" ခလုတ်ကိုနှိပ်ပါ။
-2. **Repository ကို Clone လုပ်ပါ**:   `git clone https://github.com/microsoft/ML-For-Beginners.git`
+1. **Repository ကို Fork လုပ်ပါ**: ဒီစာမျက်နှာ၏ အပေါ်ညာဘက်ထောင့်ရှိ "Fork" ခလုတ်ကို နှိပ်ပါ။
+2. **Repository ကို Clone လုပ်ပါ**:  `git clone https://github.com/microsoft/ML-For-Beginners.git`
 
-> [ဒီသင်ရိုးအတွက် နောက်ထပ်အရင်းအမြစ်များကို Microsoft Learn စုစည်းမှုတွင် ရှာဖွေပါ](https://learn.microsoft.com/en-us/collections/qrqzamz1nn2wx3?WT.mc_id=academic-77952-bethanycheum)
+> [ဤသင်တန်းအတွက် အပိုဆောင်းအရင်းအမြစ်များအားလုံးကို Microsoft Learn ကော်လ်ချ်ရှင်းတွင် ရှာဖွေပါ](https://learn.microsoft.com/en-us/collections/qrqzamz1nn2wx3?WT.mc_id=academic-77952-bethanycheum)
 
-> 🔧 **ကူညီမှု လိုပါသလား?** သင်တန်းများ ဆောက်လုပ်နည်း၊ အဆင့်အတန်းများ နှင့် စနစ်တကျ ပြဿနာဖြေရှင်းခြင်းများအတွက် [Troubleshooting Guide](TROUBLESHOOTING.md) ကို ကြည့်ရှုပါ။
+> 🔧 **အကူအညီလိုပါသလား?** ထပ်မံဖြေရှင်းရန် အကြောင်းအမျိုးမျိုးအတွက် [Troubleshooting Guide](TROUBLESHOOTING.md) ကို ကြည့်ပါ။
 
-**[ကျောင်းသားများ](https://aka.ms/student-page)**၊ ဒီသင်ရိုးကို သုံးရန်အတွက် သင့်ကိုယ်ပိုင် GitHub အကောင့်သို့ repo အားလုံးကို fork ပြုလုပ်ပြီး ကိုယ်တိုင် သို့မဟုတ် အဖွဲ့နှင့်အတူ လေ့ကျင့်ခန်းများ ပြီးမြောက်အောင်လုပ်ပါ။
+**[ကျောင်းသားများ](https://aka.ms/student-page)**, ဤသင်ရိုးအစီအစဉ်ကို သုံးရန်အတွက် သင့် GitHub အကောင့်သို့ repository အားလုံးကို fork လုပ်ပြီး သင်တန်းအတွက် သင့်အလိုအလျောက်ဖြင့် သို့မဟုတ် အဖွဲ့နှင့်အတူ လေ့ကျင့်ခွင့်များကို ပြီးမြောက်စွာ ဆောင်ရွက်ပါ။
 
-- စာသင်ခန်း မတိုင်ခင် စစ်ဆေးမှုမှစပါ။
-- စာသင်ခန်းကို ဖတ်ပြီး လေ့လာရှု၊ knowledge check အတွက် ရပ်နားစဉ်းစားပါ။
-- ဖြေရှင်းချက်ကုဒ် မသွားဘဲ သင်ခန်းစာများကို နားလည်ကာ ပရောဂျက်များဖန်တီးကြည့်ပါ။ သို့သော် အဲဒီကုဒ်ကို project-based သင်ခန်းစာတိုင်းရှိ `/solution` ဖိုင်ထဲတွင် ရနိုင်ပါသည်။
-- စာတန်းပြီးတဲ့နောက် စစ်ဆေးမှု မေးခွန်းများဖြေပါ။
-- စိန်ခေါ်မှု တစ်ခု ပြီးမြောက်ပါ။
-- တာဝန်ကျေမှု ပြီးမြောက်ပါ။
-- သင်ခန်းစာအုပ်စုတစ်ခု ပြီးမြောက်ပြီးလျှင် [Discussion Board](https://github.com/microsoft/ML-For-Beginners/discussions) ကို သွား၍ နားလည်မှုကို တုံ့ပြန်ဖော်ပြ၍ PAT rubric ကို ဖြည့်စွက်ပါ။ PAT သည် သင်ယူမှုတိုးမြှင့်ရေးအတွက် ပြည့်စုံစစ်တမ်းတစ်ခု ဖြစ်သည်။ လူအခြားများ၏ PAT များကိုလည်း တုံ့ပြန်နိုင်ပြီး အတူတကွ သင်တွေ့မြင်နိုင်ပါသည်။
+- သင်ခန်းစာမတိုင်မီ စမ်းသပ်မှုကို စတင်ပါ။
+- သင်တန်းစာဖတ်ပြီး လေ့ကျင့်ခန်းများကို ပြီးမြောက်ပါ၊ အသိပညာစစ်ဆေးခြင်းနှင့်အတူ ရပ်ပြီး သြႆတင်ဆင်ပါ။
+- ဖြေရှင်းချက် ကုဒ်ကို မပြေး run ချသေးဘဲ သင်ခန်းစာကို နားလည်ပြီး စီမံကိန်းများကို ဖန်တီးကြည့်ပါ။ ဒါပေမဲ့ ဖြေရှင်းချက် သည် project များဆိုင်ရာသင်ခန်းစာနှင့် အတူ /solution ဖိုလ်ဒါအတွင်း တွင် ရရှိနိုင်သည်။
+- သင်ခန်းစာပြီးနောက် စမ်းသပ်ချက်ကို လုပ်ပါ။
+- စိန်ခေါ်မှုကို ပြီးမြောက်ပါ။
+- တာဝန်ထမ်းဆောင်မှုကို ပြီးမြောက်ပါ။
+- သင်ခန်းစာအုပ်စုတစ်ခု ပြီးမြောက်ပြီးနောက် [Discussion Board](https://github.com/microsoft/ML-For-Beginners/discussions) သို့ သွားရောက်ပြီး အတွက် PAT rubric ကို ဖြည့်၍ "အသံထွက်သော သင်ယူမှု" ပြုလုပ်ပါ။ 'PAT' ဆိုသည်မှာ သင်ယူမှုတိုးတက်ရေး ကိရိယာ (Progress Assessment Tool) ဖြစ်ပြီး လူတစ်ဦးချင်းစီ သင်ယူမှုအဆင့်မြှင့်တင်ရန် ဖြည့်စွက်ဖို့ ဖြစ်သည်။ သင်သည် အခြား PAT များတွင် တုံ့ပြန်နိုင်ပြီး အတူတူ သင်ယူနိုင်ပါသည်။
 
-> ပိုမိုလေ့လာရန်၊ ကျွန်ုပ်တို့သည် ဒီ [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/k7o7tg1gp306q4?WT.mc_id=academic-77952-leestott) module များနှင့် သင်ယူမှုလမ်းကြောင်းများကို အကြံပြုပါသည်။
+> ပိုမိုလေ့လာလိုပါက ကျွန်ုပ်တို့အကြံပြုလိုသော [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/k7o7tg1gp306q4?WT.mc_id=academic-77952-leestott) module များနှင့် သင်ယူရေးလမ်းညွှန်များကို လိုက်နာသင်ယူပါ။
 
-**ဆရာ/မများ**, ဒီသင်ရိုးကို အသုံးပြုနည်း အကြံပေးချက် အချို့ကို [ပြောပြပေးထားပါသည်](for-teachers.md)။
+**ဆရာ/ဆရာမများ**, ဤသင်ရိုးအစီအစဉ်ကို အသုံးပြုနိုင်ရန်အတွက် အကြံပြုချက်အချို့ကို [here](for-teachers.md) တွင် ထည့်သွင်းထားသည်။
 
 ---
 
-## ဗီဒီယို လမ်းညွှန်ချက်များ
+## ဗီဒီယို လမ်းပြများ
 
-သင်ခန်းစာ အချို့ကို အတိုချုပ် ဗီဒီယိုဖြင့် ကြည့်ရှုနိုင်ပါတယ်။ ဒီဗီဒီယိုများအားလုံးကို သင်ခန်းစာအတွင်းမှာ သို့မဟုတ် [Microsoft Developer YouTube channel တွင် ML for Beginners playlist](https://aka.ms/ml-beginners-videos) ဖြင့် ရနိုင်သည်။ အောက်က ပုံကြီးကိုနှိပ်ပါ။
+သင်ခန်းစာတချို့ကို အတိုချုပ် ဗီဒီယိုဖြင့် ရနိုင်ပါသည်။ ဤဗီဒီယိုများအားလုံးကို သင်ခန်းစာတွင်း၊ ဒါမှမဟုတ် Microsoft Developer YouTube ချန်နယ်မှ [ML for Beginners playlist](https://aka.ms/ml-beginners-videos) တွင် အောက်ပါဓာတ်ပုံကိုနှိပ်၍ ကြည့်ရှုနိုင်ပါသည်။
 
 [![ML for beginners banner](../../translated_images/my/ml-for-beginners-video-banner.63f694a100034bc6.webp)](https://aka.ms/ml-beginners-videos)
 
 ---
 
-## အဖွဲ့ဝင်များကို တွေ့ဆုံခြင်း
+## အသင်းအဖွဲ့နှင့် တွေ့ဆုံခြင်း
 
 [![Promo video](../../images/ml.gif)](https://youtu.be/Tj1XWrDSYJU)
 
-**Gif ဖန်တီးသူ** [Mohit Jaisal](https://linkedin.com/in/mohitjaisal)
+**Gif မှာ** [Mohit Jaisal](https://linkedin.com/in/mohitjaisal)
 
-> 🎥 ဗီဒီယိုအား Project နှင့် ဖန်တီးသူများအကြောင်း ကြည့်ရန် ဤပုံအား နှိပ်ပါ!
+> 🎥 ဓာတ်ပုံကိုနှိပ်ပါ၊ စီမံကိန်းနှင့် ဖန်တီးသူများအကြောင်း ဗီဒီယိုတစ်ခုလှည့်ပတ်ငြင်းကြည့်ရန်!
 
 ---
 
-## သင်ကြားပညာနည်းဗျူဟာ
+## သင်ပညာပုံစံ
 
-ဒီသင်ရိုးကို တည်ဆောက်သည့်အခါတွင် ကျွန်တော်တို့ သင့်စိတ်ဝင်စားစေပြီး ပိုမိုသိရှိစေမည့် နည်းလမ်း နှစ်ချက်ကို ရွေးချယ်ထားပါသည်- လက်တွေ့လုပ်ရ လုပ်ငန်းအခြေပြု **project-based** ဖြစ်ရန်နှင့် **အကြိမ်ကြိမ် စစ်ဆေးမှုများ** ပါဝင်ရန်။ ထို့အပြင် သင်ရိုးတွင် ညီညွတ်မှုရှိစေရန် **အဓိကအတွေးအခေါ်** တစ်ခုပါရှိသည်။
+ဤသင်ရိုးအစီအစဉ်ကို တည်ဆောက်ရာတွင် နှစ်ခုသော သင်ပညာပုံစံများကို ရွေးချယ်ထားပါသည်။ ထိုသင်ပညာပုံစံများမှာ လက်တွေ့နည်းအခြေပြု စီမံကိန်းများနှင့် အချိန်မရွေး ထပ်တလဲလဲ စစ်ဆေးမှုများ ပါဝင်ခြင်း ဖြစ်ပါသည်။ ထို့အပြင် ထိုသင်ရိုးတွင် သာမန္သော ယေဘုယျ theme တစ်ခု ပါဝင်သည်။
 
-အကြောင်းအရာ၊ ပရောဂျက်နှင့် ကိုက်ညီမှုရှိခြင်းဖြင့် ကျောင်းသားများ အပုံသဏ္ဍာန်အရိုင်းကြောင်းနှင့် သင်ယူမှု ဖြစ်နိုင်ခြေများတိုးတက်စေသည်။ သင်တန်းမတိုင်ခင် ဆီးပွားကောင်းက ဆီးပွားခန့်မှန်းချက်က ကျောင်းသား၏ သင်ယူရန်စိတ်အားတက်ကြွမှုကို ပို့ဆောင်သည်။ပြီးလျှင် ရှေ့ဆောင် ဆီးပွားကောင်းက Second quiz က သင်ယူမှုတိုးတက်စေသည်။ သင်ရိုးကို အကြိမ်ကြိမ်နှင့် အပေါင်းအဖွဲ့နှင့် သေချာကျပုံ ဖွင့်လှစ်နိုင်သည်။ ပရောဂျက်များသည် စတင်မှာ အသေးစားကစ၍ ၁၂ ပတ်တာအတိုင်း လွန်စွာ အဆင့်မြင့်သွားသည်။ ဒီသင်ရိုးတွင် ML ၏ တကယ့်လောကအသုံးချမှုများအကြောင်းအပိုင်း Postscript တစ်ခု ပါရှိပြီး၊ အပိုဆုအဖြစ် သို့မဟုတ် ဆွေးနွေးပွဲအခြေခံအနေဖြင့် အသုံးပြုနိုင်သည်။
+အကြောင်းအရာများကို စီမံကိန်းနှင့် ကိုက်ညီစေရန် သေချာမှုကြောင့် သင်ကြားသူများအတွက် ပိုမိုဆွဲဆောင်မှုရှိပြီး၊ အကြောင်းအရာများသိမြင်မှုကို တိုးတက်စေပါသည်။ သင်တန်းမတိုင်မီ အနည်းငယ်သော စမ်းသပ်မှုသည် သင်ယူသူ၏ သင်ယူလိုစိတ်ကို အဓိကထားပေးပြီး၊ သင်တန်းပြီးနောက် စမ်းသပ်မှုဖြင့် ဒါကိုတစ်ဖန်တိုးတက်စေပါတယ်။ ဤသင်ရိုးအစီအစဉ်သည် အချိန်ခွဲ၍သင်ယူနိုင်ရန် နှင့် ပျော်ရွှင်စရာဖန်တီးထားသည်။ စီမံကိန်းများမှာ အသေးစားသောနေရာမှ စတင်ပြီး ၁၂ ပတ်ကြာ စိတ်ဝင်စားဖွယ် မြင့်မားပြီးရှုပ်ထွေးလာသည်။ ထို့အပြင် ML ၏ အမှန်တကယ်အသုံးချမှုများအကြောင်း ပိုပြီး အသေးစိတ် ဆွေးနွေးနိုင်ရန်အတွက် စာလုံးချုပ်တစ်ခု ပါဝင်သည်။ ၎င်းဟာ အပိုအမှတ်အတွက် သုံးနိုင်သလို ဆွေးနွေးရန် အခြေခံအဖြစ်လည်း အသုံးပြုနိုင်သည်။
 
-> ကျွန်ုပ်တို့၏ [Code of Conduct](CODE_OF_CONDUCT.md), [Contributing](CONTRIBUTING.md), [Translation](TRANSLATIONS.md), နှင့် [Troubleshooting](TROUBLESHOOTING.md) လမ်းညွှန်များကို ရှာဖွေနိုင်ပါသည်။ သင့်အား သဘောဆောင် ပြုပြင်မွမ်းမံချက်များ မျှဝေလိုပါက ကြိုဆိုပါသည်!
+> ကျွန်ုပ်တို့၏ [Code of Conduct](CODE_OF_CONDUCT.md), [Contributing](CONTRIBUTING.md), [Translation](TRANSLATIONS.md), နှင့် [Troubleshooting](TROUBLESHOOTING.md) မှတ်တမ်းများကို ရှာဖွေပါ။ သင့်တည်ဆောက်တိုးတက်မှုဆိုင်ရာ အကြံပြုချက်များကို ကြိုဆိုပါသည်!
 
-## သင်ခန်းစာတိုင်းတွင် ပါဝင်သောအကြောင်းအရာများ
+## သင်ခန်းစာတိုင်းတွင် ပါဝင်သည်
 
-- အလိုလျှောက် sketchnote (optional)
-- အပို ရသ ဗီဒီယို (optional)
-- ဗီဒီယို လမ်းညွှန်ချက် (တချို့သင်ခန်းစာများအတွက်သာ)
-- [စာသင်ခန်း မတိုင်ခင် ပြင်ဆင်ခြေ စစ်ဆေးမှု](https://ff-quizzes.netlify.app/en/ml/)
-- လက်ရေးထားသည့် သင်ခန်းစာ
-- ပရောဂျက်အခြေပြုသင်ခန်းစာများအတွက် တစ်ဆင့်ချင်းစီ လမ်းညွှန်ချက်များ
-- သိမြင်သဘောရ စစ်ဆေးချက်များ
-- စိန်ခေါ်မှုတစ်ခု
-- အပိုဖတ်ရန်စာပေ
-- တာဝန်ကျေမှု
-- [စာသင်ခန်း ပြီးလျှင် စစ်ဆေးမှု](https://ff-quizzes.netlify.app/en/ml/)
+- မဖြစ်မနေ sketchnote (optional)
+- အပိုဆောင်း ဗီဒီယို (optional)
+- ဗီဒီယို လမ်းညွှန်ချက် (သင်ခန်းစာတချို့သာ)
+- [သင်ခန်းစာမတိုင်မီ နိဒါန်းစမ်းသပ်မှု](https://ff-quizzes.netlify.app/en/ml/)
+- ရေးသားထားသော သင်ခန်းစာ
+- စီမံကိန်းအခြေပြု သင်ခန်းစာများအတွက် စီမံကိန်းတည်ဆောက်ရန် အဆင့်အဆင့် လမ်းညွှန်ချက်များ
+- အသိပညာစစ်ဆေးမှုများ
+- စိန်ခေါ်မှု
+- ထပ်ဆောင်းဖတ်ရှုရန်
+- တာဝန်ထမ်းဆောင်မှု
+- [သင်ခန်းစာပြီးနောက် စမ်းသပ်မှု](https://ff-quizzes.netlify.app/en/ml/)
 
-> **ဘာသာစကားများ အကြောင်းမှတ်ချက်**: ဒီသင်ခန်းစာများမှာ Python ဖြင့် တင်ရေးသားထားပေမယ့် R ဖြင့်လည်း ရနိုင်ပါသည်။ R သင်ခန်းစာ ပြီးမြောက်ရန် `/solution` ဖိုလ်ဒါထဲရှိ R သင်ခန်းစာတွေကိုရှာနိုင်ပါသည်။ ဒီឯកសារ .rmd ဆက်စပ်ထားပြီး ၎င်းသည် `code chunks` (R သို့မဟုတ် အခြားဘာသာစကားများ) နှင့် `YAML header` (PDF များ တို့ကို မည်သို့ ပုံစံဖော်မည်ဆိုတာ ညွှန်ပြသော) ကို ထည့်သွင်းထားသော `Markdown document` ဖြစ်သည်။ ထိုကြောင့်၊ သင်၏ကုဒ်၊ ၎င်း၏ ရလဒ်နှင့် အတွေးများကို Markdown တွင် ရေးသားခိုင်းခြင်းဖြင့် တစ်သားတည်းပေါင်းစပ်နိုင်သော ဖန်တီးသူများအတွက် အကောင်းဆုံး authoring framework တစ်ခုအဖြစ် သုံးနိုင်သည်။ ထို့ပြင် R Markdown မှာ PDF, HTML သို့မဟုတ် Word တို့လို အပြန်အလှန် ပုံစံများသို့ ပြောင်းလဲပေးနိုင်ပါသည်။
-> **စမ်းသပ်မေးခွန်းများအကြောင်းမှတ်ချက်**။ စမ်းသပ်မေးခွန်းများအားလုံးကို [Quiz App folder](../../quiz-app) တွင် ထည့်သွင်းထားပြီး မေးခွန်းသုံးခုစီပါသော စုစုပေါင်း ၅၂ ခုရှိသည်။ ၎င်းတို့ကို သင်ခန်းစာများထဲမှ လင့်ခ်ပေးထားသော်လည်း Quiz App ကို မိမိတိုင်းဒေသတွင် အသုံးပြုနိုင်သည်။ `quiz-app` ဖိုလ်ဒါထဲရှိ အတန်းအလုပ်သင်ဉပဒေများအား လိုက်နာ၍ ဒေသတွင်းတွင် host သို့မဟုတ် Azure တွင် တင်သွင်းနိုင်သည်။
+> **ဘာသာစကားအကြောင်း မှတ်ချက်**: ဤသင်ခန်းစာများသည် Python ဖြင့် အဓိကရေးသားထားသော်လည်း R ဖြင့်လည်း ရနိုင်သည်။ R သင်ခန်းစာတစ်ခု ပြီးမြောက်ရန်အတွက် /solution ဖိုလ်ဒါသို့ သွားပြီး R သင်ခန်းစာများကို ရှာပါ။ ၎င်းတို့တွင် .rmd extension ပါရှိပြီး၊ ဤသည်မှာ **R Markdown** ဖိုင်တစ်ခုဖြစ်သည်။ R Markdown သည် `code chunks` (R သို့မဟုတ် တခြားဘာသာစကားများ) နှင့် `YAML header` (PDF အဖြစ် output ပုံစံချမှတ်ရန် လမ်းညွှန်ချက်) ကို Markdown စာရွက်တစ်ရွက်ထဲတွင် ပေါင်းစပ်ထားသော ဖော်မတ်ဖြစ်သည်။ ဒါကြောင့် သင်၏ကုဒ်၊ ထွက်ရှိမှုများနှင့် စိတ်ကူးများကို Markdown ဖြင့်ရေးသားရန် ခွင့်ပြုသည်။ ထို့အပြင် R Markdown စာရွက်များကို PDF, HTML သို့မဟုတ် Word အဖြစ် output ထုတ်ရန် render လုပ်နိုင်သည်။
+> **မေးစရာများအကြောင်းမှတ်ချက်** - မေးစရာအားလုံးကို [Quiz App ဖိုလ်ဒါတွင်](../../quiz-app) သိမ်းဆည်းထားပြီး မေးခွန်းသုံးခုစီပါဝင်သည့် စုစုပေါင်း မေးစရာ ၅၂ ခုရှိသည်။ တန်းသင်ခန်းစာများအတွင်းမှ ချိတ်ဆက်ထားပေမယ့် quiz app ကိုဒေသခံတွင်လည်း လည်ပတ်နိုင်သည်။ ဒေသခံတွင် host လုပ်မှု သို့မဟုတ် Azure သို့ deploy လုပ်နိုင်ရန် `quiz-app` ဖိုလ်ဒါအတွင်း ညွှန်ကြားချက်ကိုလိုက်နာပါ။
 
 | Lesson Number |                             Topic                              |                   Lesson Grouping                   | Learning Objectives                                                                                                             |                                                              Linked Lesson                                                               |                        Author                        |
 | :-----------: | :------------------------------------------------------------: | :-------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------: |
-|      01       |                စက်မှုလေ့လာမှုမိတ်ဆက်ခြင်း                |      [Introduction](1-Introduction/README.md)       | စက်မှုလေ့လာမှု၏ အခြေခံအယူအဆများကို သင်ယူပါ                                                                                |                                             [Lesson](1-Introduction/1-intro-to-ML/README.md)                                             |                       Muhammad                       |
-|      02       |                စက်မှုလေ့လာခြင်း သမိုင်းကြောင်း                 |      [Introduction](1-Introduction/README.md)       | ဤနယ်ပယ်နောက်ခံ သမိုင်းကို သင်ယူပါ                                                                                         |                                            [Lesson](1-Introduction/2-history-of-ML/README.md)                                            |                     Jen and Amy                      |
-|      03       |                 တရားမျှတမှုနှင့် စက်မှုလေ့လာမှု                  |      [Introduction](1-Introduction/README.md)       | စက်မှုလေ့လာမှုပုံစံများ ဖန်တီးနှင့် အသုံးပြုမှုအတွက် ကျောင်းသားများ စဉ်းစားသင့်သည့် တရားမျှတမှုဆိုင်ရာ အကြောင်းအရာများ ဘာတွေလဲ? |                                              [Lesson](1-Introduction/3-fairness/README.md)                                               |                        Tomomi                        |
-|      04       |                စက်မှုလေ့လာမှုနည်းဗျူဟာများ                 |      [Introduction](1-Introduction/README.md)       | ML သုတေသနသမားများ ဘယ်နည်းဗျူဟာများအသုံးပြုပြီး ML ပုံစံများ ဖန်တီးသလဲ?                                                                       |                                          [Lesson](1-Introduction/4-techniques-of-ML/README.md)                                           |                    Chris and Jen                     |
-|      05       |                   သင်္ချာပြန်ဆင်းခြင်းမိတ်ဆက်                   |        [Regression](2-Regression/README.md)         | Python နှင့် Scikit-learn အသုံးပြု၍ သင်္ချာပြန်ဆင်းပုံစံများ စတင်သင်ယူပါ                                                                  |         [Python](2-Regression/1-Tools/README.md) • [R](../../2-Regression/1-Tools/solution/R/lesson_1.html)         |      Jen • Eric Wanjau       |
-|      06       |                မြောက်အမေရိကန် ပန်းသီးစျေးကွက် 🎃                |        [Regression](2-Regression/README.md)         | ML အတွက် ဒေတာတွေ ကို ရုပ်ပိုင်းဆိုင်ရာမြင်ကွင်းနှင့် သန့်ရှင်းရေးလုပ်ဆောင်ခြင်း                                                                                  |          [Python](2-Regression/2-Data/README.md) • [R](../../2-Regression/2-Data/solution/R/lesson_2.html)          |      Jen • Eric Wanjau       |
-|      07       |                မြောက်အမေရိကန် ပန်းသီးစျေးကွက် 🎃                |        [Regression](2-Regression/README.md)         | လိုင်းနီယာနှင့် ပေါလီနိုမီယယ် သင်္ချာပြန်ဆင်းပုံစံများ ဖန်တီးခြင်း                                                                                   |        [Python](2-Regression/3-Linear/README.md) • [R](../../2-Regression/3-Linear/solution/R/lesson_3.html)        |      Jen and Dmitry • Eric Wanjau       |
-|      08       |                မြောက်အမေရိကန် ပန်းသီးစျေးကွက် 🎃                |        [Regression](2-Regression/README.md)         | လော့ဂျစ်စတစ် သင်္ချာပြန်ဆင်းပုံစံတစ်ခု ဖန်တီးခြင်း                                                                                               |     [Python](2-Regression/4-Logistic/README.md) • [R](../../2-Regression/4-Logistic/solution/R/lesson_4.html)      |      Jen • Eric Wanjau       |
-|      09       |                          ဝက်ဘ် အက်ပ် 🔌                          |           [Web App](3-Web-App/README.md)            | သင်လေ့လာပြီးသော ပုံစံ အသုံးပြုသည့် ဝက်ဘ် အက်ပ်တစ်ခု ဖန်တီးခြင်း                                                                                       |                                                 [Python](3-Web-App/1-Web-App/README.md)                                                  |                         Jen                          |
-|      10       |                 သတ်မှတ်ခြင်းမိတ်ဆက်                 |    [Classification](4-Classification/README.md)     | သင့်ဒေတာကို သန့်ရိုးသန့်ရှင်း၊ ပြင်ဆင်၊ နှင့် ရုပ်ပိုင်းဆိုင်ရာမြင်ကွင်းဖော်ခြင်း; သတ်မှတ်ခြင်းမိတ်ဆက်                                                            | [Python](4-Classification/1-Introduction/README.md) • [R](../../4-Classification/1-Introduction/solution/R/lesson_10.html)  | Jen and Cassie • Eric Wanjau |
-|      11       |             အာရှနှင့် အိန္ဒိယ အရသာကြီးများ 🍜             |    [Classification](4-Classification/README.md)     | သတ်မှတ်ပေးသူများမိတ်ဆက်ခြင်း                                                                                                     | [Python](4-Classification/2-Classifiers-1/README.md) • [R](../../4-Classification/2-Classifiers-1/solution/R/lesson_11.html) | Jen and Cassie • Eric Wanjau |
-|      12       |             အာရှနှင့် အိန္ဒိယ အရသာကြီးများ 🍜             |    [Classification](4-Classification/README.md)     | သတ်မှတ်ပေးသူများ ပိုမိုကျယ်ပြန့်စွာ                                                                                                                | [Python](4-Classification/3-Classifiers-2/README.md) • [R](../../4-Classification/3-Classifiers-2/solution/R/lesson_12.html) | Jen and Cassie • Eric Wanjau |
-|      13       |             အာရှနှင့် အိန္ဒိယ အရသာကြီးများ 🍜             |    [Classification](4-Classification/README.md)     | သင့်ပုံစံကို အသုံးပြု၍ အကြံပြုသော ဝက်ဘ် အက်ပ် တစ်ခု ဖန်တီးခြင်း                                                                                    |                                              [Python](4-Classification/4-Applied/README.md)                                              |                         Jen                          |
-|      14       |                   သတ်မှတ်ခြင်းမိတ်ဆက်                   |        [Clustering](5-Clustering/README.md)         | သင့်ဒေတာကို သန့်ရှင်း၊ ပြင်ဆင်၊ နှင့် ရုပ်ပိုင်းဆိုင်ရာမြင်ကွင်းဖော်ခြင်း; သွဲကြောင်းခြားခြင်းနှင့် မိတ်ဆက်ပါ                                                                |         [Python](5-Clustering/1-Visualize/README.md) • [R](../../5-Clustering/1-Visualize/solution/R/lesson_14.html)         |      Jen • Eric Wanjau       |
-|      15       |              နိုင်ဂျီးရီးယား ဂီတအရသာ လေ့လာခြင်း 🎧              |        [Clustering](5-Clustering/README.md)         | K-Means သွဲကြောင်းခြားနည်းကို အကြမ်းဖျဥ်း လေ့လာပါ                                                                                           |           [Python](5-Clustering/2-K-Means/README.md) • [R](../../5-Clustering/2-K-Means/solution/R/lesson_15.html)           |      Jen • Eric Wanjau       |
-|      16       |        သဘာဝဘာသာစကားကောက်ယူခြင်း မိတ်ဆက် ☕️         |   [Natural language processing](6-NLP/README.md)    | ရိုးရှင်းသော ဘော့တစ်ခု ဖန်တီး၍ NLP အခြေခံများကို သင်ယူပါ                                                                             |                                             [Python](6-NLP/1-Introduction-to-NLP/README.md)                                              |                       Stephen                        |
-|      17       |                      ပုံမှန် NLP အလုပ်များ ☕️                      |   [Natural language processing](6-NLP/README.md)    | ဘာသာစကားဖွဲ့စည်းမှုများကို စီမံရာတွင် လိုအပ်သော ပုံမှန်လုပ်ငန်းများအား နက်ရှိုင်းစွာနားလည်စေပါ                          |                                                    [Python](6-NLP/2-Tasks/README.md)                                                     |                       Stephen                        |
-|      18       |             ဘာသာပြန်ခြင်းနှင့် စိတ်ခံစားမှုခွဲခြားခြင်း ♥️              |   [Natural language processing](6-NLP/README.md)    | Jane Austen စကားများနှင့် ဘာသာပြန်ခြင်း နှင့် စိတ်ခံစားမှုခွဲခြားခြင်း                                                                             |                                            [Python](6-NLP/3-Translation-Sentiment/README.md)                                             |                       Stephen                        |
-|      19       |                  ဥရောပရဲ့ ရည်းစားဆုတောင်း ဟိုတယ်များ ♥️                  |   [Natural language processing](6-NLP/README.md)    | ဟိုတယ်မှတ်ချက်များဖြင့် စိတ်ခံစားမှုခွဲခြားခြင်း 1                                                                                         |                                               [Python](6-NLP/4-Hotel-Reviews-1/README.md)                                                |                       Stephen                        |
-|      20       |                  ဥရောပရဲ့ ရည်းစားဆုတောင်း ဟိုတယ်များ ♥️                  |   [Natural language processing](6-NLP/README.md)    | ဟိုတယ်မှတ်ချက်များဖြင့် စိတ်ခံစားမှုခွဲခြားခြင်း 2                                                                                         |                                               [Python](6-NLP/5-Hotel-Reviews-2/README.md)                                                |                       Stephen                        |
-|      21       |            အချိန်စီးရီး မျှော်မှန်းခြင်းမိတ်ဆက်             |        [Time series](7-TimeSeries/README.md)        | အချိန်စီးရီး မျှော်မှန်းခြင်းမိတ်ဆက်                                                                                         |                                             [Python](7-TimeSeries/1-Introduction/README.md)                                              |                      Francesca                       |
-|      22       | ⚡️ ကမ္ဘာလုံးဆိုင်ရာ လျှပ်စစ်သုံးစွဲမှု ⚡️ - ARIMA ဖြင့် အချိန်စီးရီး မျှော်မှန်းခြင်း |        [Time series](7-TimeSeries/README.md)        | ARIMA ဖြင့် အချိန်စီးရီး မျှော်မှန်းခြင်း                                                                                              |                                                 [Python](7-TimeSeries/2-ARIMA/README.md)                                                 |                      Francesca                       |
-|      23       |  ⚡️ ကမ္ဘာလုံးဆိုင်ရာ လျှပ်စစ်သုံးစွဲမှု ⚡️ - SVR ဖြင့် အချိန်စီးရီး မျှော်မှန်းခြင်း  |        [Time series](7-TimeSeries/README.md)        | Support Vector Regressor ဖြင့် အချိန်စီးရီး မျှော်မှန်းခြင်း                                                                           |                                                  [Python](7-TimeSeries/3-SVR/README.md)                                                  |                       Anirban                        |
-|      24       |             အားပေးသင်ယူမှု မိတ်ဆက်             | [Reinforcement learning](8-Reinforcement/README.md) | Q-Learning ဖြင့် အားပေးသင်ယူမှု မိတ်ဆက်                                                                          |                                             [Python](8-Reinforcement/1-QLearning/README.md)                                              |                        Dmitry                        |
-|      25       |                 ပီတာအား အမ increasing Wolf ကိုရှောင်ရန်! 🐺                  | [Reinforcement learning](8-Reinforcement/README.md) | Reinforcement learning Gym                                                                                                      |                                                [Python](8-Reinforcement/2-Gym/README.md)                                                 |                        Dmitry                        |
-|  Postscript   |            အမှန်တကယ်သော စက်မှုလေ့လာမှု အခြေအနေများနှင့် လျှပ်စစ်သုံးစွဲမှုများ            |      [ML in the Wild](9-Real-World/README.md)       | ဒဒီမှာကော်ဆီကွယ်၍ ရိုးရိုးသောစက်မှုလေ့လာမှု ထိတွေ့မှု ရှိသောလျှပ်စစ်သုံးစွဲမှု အက်ပလီကေးရှင်းများ                                                               |                                             [Lesson](9-Real-World/1-Applications/README.md)                                              |                         Team                         |
-|  Postscript   |            RAI dashboard အသုံးပြု၍ ML ပုံစံ အမှားရှာဖွေရေး          |      [ML in the Wild](9-Real-World/README.md)       | Responsible AI dashboard အသုံးပြု၍ သက်ဆိုင်ရာ စက်မှုလေ့လာမှု ပုံစံ အမှားရှာဖွေရေး                                                              |                                             [Lesson](9-Real-World/2-Debugging-ML-Models/README.md)                                              |                         Ruth Yakubu                       |
+|      01       |                စက်မှုလေ့လာမှုနဲ့အနာဂတ်သင်ခန်းစာ                 |      [Introduction](1-Introduction/README.md)       | စက်မှုလေ့လာမှု၏ မူလအကြောင်းအရာများကို သင်ယူပါ။                                                                                |                                             [Lesson](1-Introduction/1-intro-to-ML/README.md)                                             |                       Muhammad                       |
+|      02       |                စက်မှုလေ့လာမှု၏ သမိုင်းကြောင်း                 |      [Introduction](1-Introduction/README.md)       | ဤနယ်ပယ်၏ သမိုင်းကို လေ့လာပါ။                                                                                         |                                            [Lesson](1-Introduction/2-history-of-ML/README.md)                                            |                     Jen and Amy                      |
+|      03       |                 တရားမျှတမှုနှင့်စက်မှုလေ့လာမှု                  |      [Introduction](1-Introduction/README.md)       | စက်မှုလေ့လာမှု မော်ဒယ်များကို တည်ဆောက်ရာတွင် ကျောင်းသားများ သတိပြုသင့်သော တရားမျှတမှုနှင့် ပတ်သက်သော ဘာသာရပ်အချက်အလက်များသည် အရေးကြီးကြောင်း။ |                                              [Lesson](1-Introduction/3-fairness/README.md)                                               |                        Tomomi                        |
+|      04       |                စက်မှုလေ့လာမှုနည်းပညာများ                   |      [Introduction](1-Introduction/README.md)       | စက်မှုလေ့လာမှုပညာရှင်များသည် စက်မှုလေ့လာမှု မော်ဒယ်များတည်ဆောက်ရာတွင် မည်သည့်နည်းပညာများကို အသုံးပြုကြသည်။                                                                       |                                          [Lesson](1-Introduction/4-techniques-of-ML/README.md)                                           |                    Chris and Jen                     |
+|      05       |                   Regression အတွက် အကြွင်းအကျန် မိတ်ဆက်                   |        [Regression](2-Regression/README.md)         | Regression မော်ဒယ်များအတွက် Python နှင့် Scikit-learn ဖြင့် စတင်လေ့လာပါ။                                                                  |         [Python](2-Regression/1-Tools/README.md) • [R](../../2-Regression/1-Tools/solution/R/lesson_1.html)         |      Jen • Eric Wanjau       |
+|      06       |                မြောက်အမေရိက ခရမ်းလ်ည်ဈေးနှုန်း 🎃                |        [Regression](2-Regression/README.md)         | ML ပြင်ဆင်မှုအတွက် ဒေတာများအား မြင်ကွင်းဖော်ခြင်းနှင့် သန့်ရှင်းမှုလုပ်ခြင်း။                                                                                  |          [Python](2-Regression/2-Data/README.md) • [R](../../2-Regression/2-Data/solution/R/lesson_2.html)          |      Jen • Eric Wanjau       |
+|      07       |                မြောက်အမေရိက ခရမ်းလ်ည်ဈေးနှုန်း 🎃                |        [Regression](2-Regression/README.md)         | ဂဏန်းဆက်အဆင့်နှင့် ပုံစံဆက်အစီအစဉ် Regression မော်ဒယ်များ တည်ဆောက်ခြင်း။                                                                                   |        [Python](2-Regression/3-Linear/README.md) • [R](../../2-Regression/3-Linear/solution/R/lesson_3.html)        |      Jen and Dmitry • Eric Wanjau       |
+|      08       |                မြောက်အမေရိက ခရမ်းလ်ည်ဈေးနှုန်း 🎃                |        [Regression](2-Regression/README.md)         | Logistic regression မော်ဒယ်တည်ဆောက်ခြင်း                                                                                               |     [Python](2-Regression/4-Logistic/README.md) • [R](../../2-Regression/4-Logistic/solution/R/lesson_4.html)      |      Jen • Eric Wanjau       |
+|      09       |                          အင်တာနက် App 🔌                          |           [Web App](3-Web-App/README.md)            | သင်၏ ကောင်းမွန်သော မော်ဒယ်ကို အသုံးပြုရန် ဝက်ဘ်အက်ပ်တည်ဆောက်ခြင်း                                                                                       |                                                 [Python](3-Web-App/1-Web-App/README.md)                                                  |                         Jen                          |
+|      10       |                 အမျိုးအစားခွဲခြားမှုအား မိတ်ဆက်ခြင်း                |    [Classification](4-Classification/README.md)     | သင်၏ဒေတာကို သန့်ရှင်းခြင်း၊ ဆောင်ရွက်ပြီး မြင်ကွင်းဖော်ခြင်းနှင့် အမျိုးအစားခွဲခြားမှုမိတ်ဆက်ခြင်း                                                            | [Python](4-Classification/1-Introduction/README.md) • [R](../../4-Classification/1-Introduction/solution/R/lesson_10.html)  | Jen and Cassie • Eric Wanjau |
+|      11       |             အာရှနဲ့ အိန္ဒိယစားသောက်ကုန်များ အရသာ 🍜             |    [Classification](4-Classification/README.md)     | အမျိုးအစားခွဲစနစ်များကို မိတ်ဆက်ခြင်း                                                                                                     | [Python](4-Classification/2-Classifiers-1/README.md) • [R](../../4-Classification/2-Classifiers-1/solution/R/lesson_11.html) | Jen and Cassie • Eric Wanjau |
+|      12       |             အာရှနဲ့ အိန္ဒိယစားသောက်ကုန်များအရသာ 🍜             |    [Classification](4-Classification/README.md)     | ပိုမိုမြင့်မားသော အမျိုးအစားခွဲစနစ်များ                                                                                                                | [Python](4-Classification/3-Classifiers-2/README.md) • [R](../../4-Classification/3-Classifiers-2/solution/R/lesson_12.html) | Jen and Cassie • Eric Wanjau |
+|      13       |             အာရှနဲ့ အိန္ဒိယစားသောက်ကုန်များအရသာ 🍜             |    [Classification](4-Classification/README.md)     | သင့်မော်ဒယ်ကို အသုံးပြု၍ အကြံပြုရန်ဝက်ဘ်အက်ပ် တည်ဆောက်ခြင်း                                                                                    |                                              [Python](4-Classification/4-Applied/README.md)                                              |                         Jen                          |
+|      14       |                   Clustering အတွက် မိတ်ဆက်ခြင်း                   |        [Clustering](5-Clustering/README.md)         | သင်၏ဒေတာကို သန့်ရှင်းခြင်း၊ ဆောင်ရွက်ပြီး မြင်ကွင်းဖော်ခြင်းနှင့် Clustering မိတ်ဆက်ခြင်း                                                                |         [Python](5-Clustering/1-Visualize/README.md) • [R](../../5-Clustering/1-Visualize/solution/R/lesson_14.html)         |      Jen • Eric Wanjau       |
+|      15       |              နိုင်ဂျီးရီးယား ဂီတအရသာများစူးစမ်းခြင်း 🎧              |        [Clustering](5-Clustering/README.md)         | K-Means clustering နည်းစနစ်ကို ရှာဖွေ့စူးစမ်းခြင်း                                                                                           |           [Python](5-Clustering/2-K-Means/README.md) • [R](../../5-Clustering/2-K-Means/solution/R/lesson_15.html)           |      Jen • Eric Wanjau       |
+|      16       |        သဘာဝဘာသာစကား သုံးနည်း (NLP) မိတ်ဆက်ခြင်း ☕️         |   [Natural language processing](6-NLP/README.md)    | စိတ်ရှည်စွာ အခြေခံ NLP ကို လေ့လာရန် ရိုးရှင်းသော bot တစ်ခု ဖန်တီးခြင်း                                                                             |                                             [Python](6-NLP/1-Introduction-to-NLP/README.md)                                              |                       Stephen                        |
+|      17       |                      ယေဘုယျ NLP လုပ်ဆောင်ချက်များ ☕️                      |   [Natural language processing](6-NLP/README.md)    | ဘာသာစကားဖွဲ့စည်းမှုနှင့် ဆက်စပ်နေသော အလုပ်များကို နားလည်ခြင်းဖြင့် NLP အတတ်ပညာတွေကို အနက်ရှိုင်းဆုံး သင်ယူရန်                           |                                                    [Python](6-NLP/2-Tasks/README.md)                                                     |                       Stephen                        |
+|      18       |             ဘာသာပြန်ခြင်းနှင့်ခံစားချက် ဆန်းစစ်ခြင်း ♥️              |   [Natural language processing](6-NLP/README.md)    | Jane Austen ၏ စာရေးစနစ်ဖြင့် ဘာသာပြန်ခြင်းနှင့် ခံစားချက်ဆန်းစစ်ခြင်း                                                                             |                                            [Python](6-NLP/3-Translation-Sentiment/README.md)                                             |                       Stephen                        |
+|      19       |                  ရောမန်ဆွဲဆောင်မှုရှိသော ဥရောပလက်ကွက် ♥️                  |   [Natural language processing](6-NLP/README.md)    | ဟိုတယ်ဆက်သွယ်ချက်များနှင့်အတူ ခံစားချက် ဆန်းစစ်ခြင်း ၁                                                                                         |                                               [Python](6-NLP/4-Hotel-Reviews-1/README.md)                                                |                       Stephen                        |
+|      20       |                  ရောမန်ဆွဲဆောင်မှုရှိတဲ့ ဥရောပလက်ကွက် ♥️                  |   [Natural language processing](6-NLP/README.md)    | ဟိုတယ်ဆက်သွယ်ချက်များနှင့်အတူ ခံစားချက် ဆန်းစစ်ခြင်း ၂                                                                                         |                                               [Python](6-NLP/5-Hotel-Reviews-2/README.md)                                                |                       Stephen                        |
+|      21       |            အချိန်စီးရီး ခန့်မှန်းချက်အတွက် မိတ်ဆက်ခြင်း             |        [Time series](7-TimeSeries/README.md)        | အချိန်စီးရီး ခန့်မှန်းခြင်း မိတ်ဆက်ခြင်း                                                                                         |                                             [Python](7-TimeSeries/1-Introduction/README.md)                                              |                      Francesca                       |
+|      22       | ⚡️ ကမ္ဘာ့လျှပ်စစ်စွမ်းအင်အသုံးပြုမှု ⚡️ - ARIMA ဖြင့် အချိန်စီးရီး ခန့်မှန်းခြင်း |        [Time series](7-TimeSeries/README.md)        | ARIMA ဖြင့် အချိန်စီးရီး ခန့်မှန်းခြင်း                                                                                              |                                                 [Python](7-TimeSeries/2-ARIMA/README.md)                                                 |                      Francesca                       |
+|      23       |  ⚡️ ကမ္ဘာ့လျှပ်စစ် စွမ်းအင်အသုံးပြုမှု ⚡️ - SVR ဖြင့် အချိန်စီးရီး ခန့်မှန်းခြင်း  |        [Time series](7-TimeSeries/README.md)        | Support Vector Regressor ဖြင့် အချိန်စီးရီး ခန့်မှန်းခြင်း                                                                           |                                                  [Python](7-TimeSeries/3-SVR/README.md)                                                  |                       Anirban                        |
+|      24       |             Reinforcement Learning မိတ်ဆက်ခြင်း             | [Reinforcement learning](8-Reinforcement/README.md) | Q-Learning ဖြင့် Reinforcement Learning မိတ်ဆက်ခြင်း                                                                          |                                             [Python](8-Reinforcement/1-QLearning/README.md)                                              |                        Dmitry                        |
+|      25       |                 Peter ကို ကျောက်တော့်မှကာကွယ်ပါ! 🐺                  | [Reinforcement learning](8-Reinforcement/README.md) | Reinforcement Learning Gym                                                                                                      |                                                [Python](8-Reinforcement/2-Gym/README.md)                                                 |                        Dmitry                        |
+|  Postscript   |            ML ၏ လက်တွေ့နယ်ပယ်သုံး အခြေအနေများနှင့် လျှောက်ပတ်မှုများ            |      [ML in the Wild](9-Real-World/README.md)       | စိတ်ဝင်စားဖွယ်နှင့် ရိုက်ခတ်ဖွယ်ရှိသည့် စက်မှုလေ့လာမှုရဲ့ လက်တွေ့လျှောက်ပတ်မှုများ                                                               |                                             [Lesson](9-Real-World/1-Applications/README.md)                                              |                         Team                         |
+|  Postscript   |            RAI dashboard ဖြင့် ML မော်ဒယ် debugging          |      [ML in the Wild](9-Real-World/README.md)       | Responsible AI dashboard ပါဝင်ပစ္စည်းများအား အသုံးပြု၍ Machine Learning မော်ဒယ် debugging                                                             |                                             [Lesson](9-Real-World/2-Debugging-ML-Models/README.md)                                              |                         Ruth Yakubu                       |
 
-> [ဤသင်တန်းအတွက် အပိုဆောင်း အရင်းအမြစ်များအားလုံးကို ကျွန်ုပ်တို့၏ Microsoft Learn စုစည်းမှုတွင် ရှာဖွေကြည့်ပါ](https://learn.microsoft.com/en-us/collections/qrqzamz1nn2wx3?WT.mc_id=academic-77952-bethanycheum)
+> [ဤသင်တန်း၏ အပိုဆောင်းအရင်းအမြစ်များကို Microsoft Learn တွင် ရှာဖွေပါ](https://learn.microsoft.com/en-us/collections/qrqzamz1nn2wx3?WT.mc_id=academic-77952-bethanycheum)
 
-## အော့ဖ်လိုင်း အသုံးပြုခြင်း
+## အော့ဖ်လိုင်း လျှောက်ထားမှု
 
-ဤစာတမ်းဖြင့် အော့ဖ်လိုင်းတွင် အသုံးပြုနိုင်ရန် [Docsify](https://docsify.js.org/#/) ကို အသုံးပြုနိုင်သည်။ ဤ repository ကို fork ပြုလုပ်၍ [Docsify ကို သင့် ဒေသတွင်းစက်တွင် တပ်ဆင်ပါ](https://docsify.js.org/#/quickstart)၊ ထိုအခါ ဤ repo ၏ root ဖိုလ်ဒါတွင် `docsify serve` ဟူ၍ ရိုက်ထည့်ပါ။ သင့် localhost ၌ ပေါ့(Port) ၃၀၀၀ တွင် ဝက်ဘ်ဆိုက်ကို ဆားဗ်ပြုလုပ်မည်ဖြစ်သည် - `localhost:3000`။
+သင်ဒီစာရွက်ကို အော့ဖ်လိုင်းမှ အသုံးပြုနိုင်ရန် [Docsify](https://docsify.js.org/#/) ကို အသုံးပြုပါ။ ဤ repo ကို fork ချပြီး သင့်ဒေသခံစက်တွင် [Docsify ကို install လုပ်ပါ](https://docsify.js.org/#/quickstart)။ ထို့နောက်ဤ repo ၏ root ဖိုလ်ဒါတွင် `docsify serve` ဟု ရိုက်ထည့်ပါ။ ဝက်ဘ်ဆိုက်သည် သင့် localhost ၏ ဆိပ်ကမ်း 3000 သို့ ဆက်သွယ်မည်ဖြစ်သည် - `localhost:3000`။
 
-## PDFs
+## PDF များ
 
-သင်တန်းအစီအစဉ် PDF ကို ဒီမှာ [ရှာဖွေပါ](https://microsoft.github.io/ML-For-Beginners/pdf/readme.pdf)။
+သင်တန်းချက်တမ်းနှင့် လင့်ခ်များပါ pdf ကို [ဤနေရာတွင်](https://microsoft.github.io/ML-For-Beginners/pdf/readme.pdf) ရှာဖွေပါ။
 
+## 🎒 အခြား သင်တန်းများ 
 
-## 🎒 အခြားသင်တန်းများ
-
-ကျွန်ုပ်တို့အသင်းသည် အခြားသင်တန်းများထုတ်လုပ်လျက်ရှိသည်! ကြည့်ရှုရန်:
+ကျွန်ုပ်တို့အဖွဲ့သည် အခြား သင်တန်းများကို ပြုလုပ်သည်! ကြည့်ရှုပါ -
 
 <!-- CO-OP TRANSLATOR OTHER COURSES START -->
 ### LangChain
 [![LangChain4j for Beginners](https://img.shields.io/badge/LangChain4j%20for%20Beginners-22C55E?style=for-the-badge&&labelColor=E5E7EB&color=0553D6)](https://aka.ms/langchain4j-for-beginners)
 [![LangChain.js for Beginners](https://img.shields.io/badge/LangChain.js%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=0553D6)](https://aka.ms/langchainjs-for-beginners?WT.mc_id=m365-94501-dwahlin)
-
+[![LangChain for Beginners](https://img.shields.io/badge/LangChain%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=0553D6)](https://github.com/microsoft/langchain-for-beginners?WT.mc_id=m365-94501-dwahlin)
 ---
 
 ### Azure / Edge / MCP / Agents
@@ -187,7 +186,7 @@ Microsoft ရဲ့ Cloud Advocates က ၁၂ ပတ်ကြာ၊ ၂၆ အ�
 
 ---
  
-### အခြေခံ သင်ယူမှု
+### အခြေခံသင်ယူမှု
 [![ML for Beginners](https://img.shields.io/badge/ML%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=22C55E)](https://aka.ms/ml-beginners?WT.mc_id=academic-105485-koreyst)
 [![Data Science for Beginners](https://img.shields.io/badge/Data%20Science%20for%20Beginners-84CC16?style=for-the-badge&labelColor=E5E7EB&color=84CC16)](https://aka.ms/datascience-beginners?WT.mc_id=academic-105485-koreyst)
 [![AI for Beginners](https://img.shields.io/badge/AI%20for%20Beginners-A3E635?style=for-the-badge&labelColor=E5E7EB&color=A3E635)](https://aka.ms/ai-beginners?WT.mc_id=academic-105485-koreyst)
@@ -198,25 +197,25 @@ Microsoft ရဲ့ Cloud Advocates က ၁၂ ပတ်ကြာ၊ ၂၆ အ�
 
 ---
  
-### Copilot စီးရီးများ
+### Copilot စီးရီး
 [![Copilot for AI Paired Programming](https://img.shields.io/badge/Copilot%20for%20AI%20Paired%20Programming-FACC15?style=for-the-badge&labelColor=E5E7EB&color=FACC15)](https://aka.ms/GitHubCopilotAI?WT.mc_id=academic-105485-koreyst)
 [![Copilot for C#/.NET](https://img.shields.io/badge/Copilot%20for%20C%23/.NET-FBBF24?style=for-the-badge&labelColor=E5E7EB&color=FBBF24)](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers?WT.mc_id=academic-105485-koreyst)
 [![Copilot Adventure](https://img.shields.io/badge/Copilot%20Adventure-FDE68A?style=for-the-badge&labelColor=E5E7EB&color=FDE68A)](https://github.com/microsoft/CopilotAdventures?WT.mc_id=academic-105485-koreyst)
 <!-- CO-OP TRANSLATOR OTHER COURSES END -->
 
-## အကူအညီ ရရှိရန်
+## အကူအညီရယူခြင်း
 
-AI အက်ပ်များ တည်ဆောက်ရာတွင် ပိတ်ဆို့မှုရှိပါက သို့မဟုတ် မေးမြန်းလိုသည်များရှိပါက MCP ကိုဆွေးနွေးရာတွင် သင်ယူသူများနှင့် အတွေ့အကြုံရှိသူ တိုးတက်ပြောဆိုသူများနှင့် ပါဝင်ဆွေးနွေးပါ။ မေးခွန်းများကို လက်ခံပေးပြီး အသိပညာကို လွတ်လပ်စွာမျှဝေကြသည့် ထောက်ခံပံ့ပိုးစေသော အသိုင်းအဝိုင်း ဖြစ်ပါသည်။
+AI အက်ပ်တွေ ဖန်တီးရာမှာ ရပ်တန့်သွားခဲ့ပါက သို့မဟုတ် မေးခွန်းများရှိပါက MCP အကြောင်း သင်ယူနေကြသူများနှင့် အတွေ့အကြုံရှိ ဖန်တီးသူများအနက်တွင် ဆွေးနွေးနိုင်ပါသည်။ ၎င်းသည် မေးခွန်းများကို ကြိုဆိုပြီး သိမြင်မှုများကို အခမဲ့ မွေးဖွားသော အထောက်အပံ့ပေးမှု အဖွဲ့အစည်းတစ်ခုဖြစ်ပါသည်။
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
 
-ထုတ်ကုန် ထောက်ပြချက်များ သို့မဟုတ် တည်ဆောက်စဉ် အမှားများ ရှိပါက အောက်ပါသို့ ဝင်ရောက်ကြည့်ရှုနိုင်ပါသည်-
+ထုတ်ကုန်တုံ့ပြန်ချက်များ သို့မဟုတ် အမှားများ ရှိပါက ဆောက်လုပ်စဉ် တွက်ကြည့်ရန်:
 
 [![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 
 ---
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
-**အတည်မပြုချက်**  
-ဤစာရွက်စာတမ်းကို AI ဘာသာပြန်ခြင်းဝန်ဆောင်မှုဖြစ်သော [Co-op Translator](https://github.com/Azure/co-op-translator) ဖြင့် ဘာသာပြန်ထားပါသည်။ တိကျမှန်ကန်မှုအတွက်ကြိုးစားထားသော်လည်း ကိရိယာအလိုအလျောက် ဘာသာပြန်ချက်များတွင် အမှားများ သို့မဟုတ် တိကျမှုလျော့နည်းမှုများ ပါဝင်နိုင်ကြောင်း သတိပြုပါရန် လိုအပ်ပါသည်။ မူလစာရွက်စာတမ်းကို နိုင်ငံဘာသာဖြင့် ထုတ်ဝေထားသော အရင်းအမြစ်အဖြစ် အထောက်အထားယူသင့်ပါသည်။ အရေးကြီးသော အချက်အလက်များအတွက် မိမိနက်နဲသော လူသားဘာသာပြန်သူ၏ ဘာသာပြန်ချက်ကို အကြံပြုပါသည်။ ဤဘာသာပြန်ချက် အသုံးပြုမှုကြောင့် ဖြစ်ပေါ်နိုင်သည့် မှားဖော်ပြခြင်းများ သို့မဟုတ် မှားယွင်းချက်များအတွက် ကျွန်ုပ်တို့၏ တာဝန်ယူမှု မရှိပါ။
+**ဝန်ချက်ပေးချက်**  
+ဤစာတမ္းကို AI ဘာသာပြန်ဝန်ဆောင်မှုဖြစ်သော [Co-op Translator](https://github.com/Azure/co-op-translator) ဖြင့် ဘာသာပြန်ထားပါသည်။ ကျွန်ုပ်တို့သည် မှန်ကန်မှုအတွက် ကြိုးစားကြပေမယ့် အလိုအလျောက် ဘာသာပြန်မှုများတွင် အမှား သို့မဟုတ် မှားယွင်းမှုများပါဝင်နိုင်ကြောင်း ကျေးဇူးပြု၍ သတိပြုပါ။ မူရင်းစာတမ်းသည် မူလဘာသာဖြင့်သာ အတည်ပြုရမည့် အရင်းအမြစ်ဖြစ်သည်။ အရေးကြီးသော အချက်အလက်များအတွက်တော့ ပရော်ဖက်ရှင်နယ် လူ့ဘာသာပြန်မှုကို ညွှန်ကြားအပ်ပါသည်။ ဤဘာသာပြန်မှုကို အသုံးပြုရာမှဖြစ်ပေါ်နိုင်သည့် နားမလည်မှု သို့မဟုတ် မှားယွင်းဖတ်မိမှုများအတွက် ကျွန်ုပ်တို့ မလိုလားပါ။
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->
